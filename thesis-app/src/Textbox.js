@@ -12,7 +12,7 @@ const TextBox = () => {
       <link href="./output.css" rel="stylesheet"></link>
       <label
         htmlFor="textbox"
-        className="mb-2 text-lg font-medium text-gray-700"
+        className="mb-2 text-lg font-large text-gray-700"
       >
         Enter your text:
       </label>
@@ -25,7 +25,7 @@ const TextBox = () => {
         placeholder="Type something here..."
       />
       <p className="mt-4 text-gray-600">
-        You entered: <span className="font-semibold">{text}</span>
+        You entered: <span className="font-italics">{text}</span>
       </p>
     </div>
   );
