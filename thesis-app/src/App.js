@@ -3,6 +3,7 @@ import Textbox from "./Textbox.js";
 import MenuButton from "./MenuButton.js";
 import "./styles.css";
 import { Helmet } from "react-helmet";
+import AgentsButton from "./AgentsButton.js";
 
 function App() {
   return (
@@ -16,8 +17,11 @@ function App() {
         <div className="flex items-center  w-full">
           <Textbox />
           <img src={table} className="table w-1/3 p-5 ml-[100px]" alt="logo" />
-          <div id="tlButtonHolder" class="flex flex-col min-h-[80%]">
-            <MenuButton />
+          <div
+            id="tlButtonHolder"
+            class="flex flex-col pt-5 h-screen min-h-[80%]"
+          >
+            <AgentsButton />
             <MenuButton />
           </div>
         </div>

@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import menu_img from "./assets/hamburger_menu.png";
+import profile_img from "./assets/person.png";
 
-const MenuButton = () => {
+const AgentsButton = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   const toggleMenu = () => {
@@ -15,7 +15,7 @@ const MenuButton = () => {
         onClick={toggleMenu}
         className="inline-flex justify-center w-full rounded-md border border-gray-300 shadow-sm px-4 py-2 bg-white text-sm font-medium text-gray-700 hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
       >
-        <img src={menu_img} width="20px"></img>
+        <img src={profile_img} width="20px"></img>
       </button>
 
       {/* Dropdown Menu */}
@@ -55,4 +55,4 @@ const MenuButton = () => {
   );
 };
 
-export default MenuButton;
+export default AgentsButton;

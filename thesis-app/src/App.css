@@ -22,8 +22,8 @@
 }
 
 #tlButtonHolder {
-  height: 500px;
-  background-color: blue;
+  display: flex;
+  height: 100vh; /* Full height of the viewport */
 }
 
 img.table {
