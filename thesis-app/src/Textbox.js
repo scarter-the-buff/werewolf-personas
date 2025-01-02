@@ -8,25 +8,30 @@ const TextBox = () => {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center p-6 bg-gray-100 min-h-screen">
-      <link href="./output.css" rel="stylesheet"></link>
+    <div className="flex flex-col w-[40%] items-center justify-center p-3 bg-gray-100 min-h-[80%]">
+      {/* Non-editable display box */}
+      <label>Speech Record:</label>
+      <div
+        id="textDisplay"
+        className="w-full h-[60vh] p-2 border border-gray-300 shadow-sm bg-white overflow-auto text-left"
+      >
+        {text || "No content available..."}
+      </div>
+
+      {/* Editable textbox */}
       <label
         htmlFor="textbox"
-        className="mb-2 text-lg font-large text-gray-700"
+        className="mt-4 mb-2 w-full text-lg font-large text-gray-700"
       >
-        Enter your text:
+        Enter Text:
       </label>
-      <input
+      <textarea
         id="textbox"
-        type="text"
         value={text}
         onChange={handleChange}
-        className="w-64 p-2 border border-gray-300 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+        className="w-full h-[80px] p-2 border border-gray-300 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 text-left"
         placeholder="Type something here..."
       />
-      <p className="mt-4 text-gray-600">
-        You entered: <span className="font-italics">{text}</span>
-      </p>
     </div>
   );
 };
