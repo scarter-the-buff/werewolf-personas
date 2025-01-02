@@ -12,9 +12,9 @@ function App() {
       <div className="App">
         <div className={`bg-blue-500 text-white p-4`}>Werewolf with AIs</div>
 
-        <div className="flex items-center justify-between w-full">
+        <div className="flex items-center  w-full">
           <Textbox />
-          <img src={table} className="table w-1/3" alt="logo" />
+          <img src={table} className="table w-1/3 p-5 ml-[100px]" alt="logo" />
         </div>
       </div>
     </>
