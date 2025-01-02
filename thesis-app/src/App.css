@@ -21,6 +21,11 @@
   width: 1000px;
 }
 
+#tlButtonHolder {
+  height: 500px;
+  background-color: blue;
+}
+
 img.table {
   height: auto;
   max-width: 50%;
