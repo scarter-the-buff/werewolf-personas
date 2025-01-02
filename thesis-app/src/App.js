@@ -12,14 +12,22 @@ function App() {
         <link href="./styles.css" rel="stylesheet"></link>
       </Helmet>
       <div className="App">
-        <div className={`bg-blue-500 text-white p-4`}>Werewolf with AIs</div>
+        <div className={`bg-blue-500 text-white p-4 text-center`}>
+          <h1 className="text-3xl font-bold">Werewolf With AIs</h1>
+        </div>
 
-        <div className="flex items-center  w-full">
+        <div className="flex w-full">
           <Textbox />
-          <img src={table} className="table w-1/3 p-5 ml-[100px]" alt="logo" />
+
+          <img
+            src={table}
+            className="scale-100 table p-5 object-contain"
+            alt="logo"
+          />
+
           <div
             id="tlButtonHolder"
-            class="flex flex-col pt-5 h-screen min-h-[80%]"
+            className="flex flex-col pt-5 h-screen min-h-[80%]"
           >
             <AgentsButton />
             <MenuButton />
