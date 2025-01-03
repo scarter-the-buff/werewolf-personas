@@ -15,7 +15,7 @@ const MenuButton = () => {
         onClick={toggleMenu}
         className="inline-flex justify-center w-full rounded-md border border-gray-300 shadow-sm px-4 py-2 bg-white text-sm font-medium text-gray-700 hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
       >
-        <img src={menu_img} width="20px"></img>
+        <img src={menu_img} width="30px"></img>
       </button>
 
       {/* Dropdown Menu */}

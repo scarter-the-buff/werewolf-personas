@@ -27,7 +27,8 @@ function App() {
 
           <div
             id="tlButtonHolder"
-            className="flex flex-col pt-5 h-screen min-h-[80%]"
+            className="flex flex-col pt-5 h-screen min-h-[80%] ml-auto"
+            style={{ alignSelf: "flex-end" }}
           >
             <AgentsButton />
             <MenuButton />
