@@ -1,13 +1,14 @@
 import "./styles.css";
 import { Link } from "react-router-dom";
-import Button from "react-button";
 
 function Menu() {
   return (
     <>
+      <div>Hello, it's a menu!</div>
       <div>
-        <Button>Export</Button>
-        <Button activeStyle={{ position: "relative", top: 1 }}>Save as</Button>
+        <Link to="/" className="text-white mx-2">
+          Home
+        </Link>
       </div>
     </>
   );
