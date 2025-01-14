@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { BrowserRouter } from "react-router-dom";
 import { Link } from "react-router-dom";
 
-import Home from "./Home";
+import Game from "./Game";
 import Menu from "./Menu";
 
 const App = () => {
@@ -11,12 +11,12 @@ const App = () => {
     <>
       <BrowserRouter>
         <div>
-          <Link to="/">Home </Link>
-          <Link to="/menu">Menu </Link>
+          <Link to="/">Menu </Link>
+          <Link to="/game">Game </Link>
         </div>
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/menu" element={<Menu />} />
+          <Route path="/" element={<Menu />} />
+          <Route path="/game" element={<Game />} />
         </Routes>
       </BrowserRouter>
     </>

@@ -5,7 +5,7 @@ import "./styles.css";
 import { Helmet } from "react-helmet";
 import AgentsButton from "./AgentsButton.js";
 
-function Home() {
+function Game() {
   return (
     <>
       <Helmet>
@@ -41,4 +41,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default Game;
