@@ -1,0 +1,23 @@
+[project]
+name = "werewolf_crew"
+version = "0.1.0"
+description = "werewolf-crew using crewAI"
+authors = [{ name = "Sean Carter", email = "seca6364@colorado.edu" }]
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "crewai[tools]>=0.98.0,<1.0.0"
+]
+
+[project.scripts]
+werewolf_crew = "werewolf_crew.main:run"
+run_crew = "werewolf_crew.main:run"
+train = "werewolf_crew.main:train"
+replay = "werewolf_crew.main:replay"
+test = "werewolf_crew.main:test"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.crewai]
+type = "crew"

@@ -1,0 +1,36 @@
+werewolf_round:
+  description: >
+    Play a single round of werewolf. A round consists of a day phase and a night phase.
+    Start with the night phase, in which the two werewolf players choose a villager to eliminate. They do so using only gestures and facial expressions (simulate these), and they must agree on a single villager to eliminate.
+    None of the villagers can hear what the werewolves are saying during the night phase.
+    After a villager is eliminated, the day phase begins.
+    During the day phase, all players discuss among themselves which player they should eliminate. The werewolves pretend to be villagers during this discussion.
+    At the end of the day phase, the player with the most votes is eliminated.
+
+  expected_output: >
+    Creat a round transcript in which all player utterances and communicative gestures are recorded along with the player who makes them. 
+    The night phase and the day phase should be clearly marked, as should who votes to eliminate which players.
+    There are seven agents in total, two werewolves and five villagers.
+
+    An example of the correct output format is below:
+
+    NIGHT PHASE
+
+    Werewolf 1: *gestures to Werewolf 2*
+    Werewolf 2: *nods*
+    Werewolf 1: *gestures to Villager 3*
+    Werewolf 2: *shakes head*
+    Werewolf 1: *gestures to Villager 4*
+    Werewolf 2: *nods*
+    Werewolf 1: *taps Villager 4 on the shoulder*
+
+    *Villager 4 is eliminated*
+
+    DAY PHASE
+
+    Villager 1: "Looks like Villager 4 was eliminated last night."
+    Villager 3: "So we start with six."
+    Villager 5: "Hey villager 6, you've been quiet. What do you think?"
+    ... *Continues from here.*
+
+  agent: [werewolf_1, villager_1]
