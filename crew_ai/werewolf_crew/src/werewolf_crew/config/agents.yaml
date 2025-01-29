@@ -1,3 +1,10 @@
+manager:
+  role: >
+    {topic}  Manages the game of werewolf, including keeping track of which players have died and determining when the game will be over
+  goal: >
+    Successfully call werewolf and villager agents to respond to each other's speech.
+  backstory: >
+
 werewolf:
   role: >
     {topic} Werewolf Player

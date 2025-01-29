@@ -33,7 +33,7 @@ werewolf_round:
     Villager 5: "Hey villager 6, you've been quiet. What do you think?"
     ... *Continues from here.*
 
-  agent: werewolf_1
+  agent: manager
 
 villager_day_response:
   description: >

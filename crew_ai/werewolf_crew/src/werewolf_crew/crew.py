@@ -1,5 +1,7 @@
 from crewai import Agent, Crew, Process, Task
 from crewai.project import CrewBase, agent, crew, task
+from crewai import LLM
+
 
 # If you want to run a snippet of code before or after the crew starts, 
 # you can use the @before_kickoff and @after_kickoff decorators
@@ -17,6 +19,14 @@ class WerewolfCrew():
 
 	# If you would like to add tools to your agents, you can learn more about it here:
 	# https://docs.crewai.com/concepts/agents#agent-tools
+	def manager(self) -> Agent:
+		return Agent(
+			config=self.agents_config['manager_agent'],
+			verbose=True,
+			llm='gpt-4o',
+			allow_delegation=True,
+		)
+	
 	@agent
 	def werewolf_1(self) -> Agent:
 		return Agent(
@@ -87,13 +97,12 @@ class WerewolfCrew():
 	@crew
 	def crew(self) -> Crew:
 		"""Creates the WerewolfCrew crew"""
-		# To learn how to add knowledge sources to your crew, check out the documentation:
-		# https://docs.crewai.com/concepts/knowledge#what-is-knowledge
+
 
 		return Crew(
 			agents=self.agents, # Automatically created by the @agent decorator
 			tasks=self.tasks, # Automatically created by the @task decorator
-			process=Process.sequential,
+			process=Process.hierarchical,
+			manager_llm =  LLM(model="gpt-4o"),
 			verbose=True,
-			# process=Process.hierarchical, # In case you wanna use that instead https://docs.crewai.com/how-to/Hierarchical/
 		)
