@@ -21,7 +21,13 @@ def run():
     }
     
     try:
-        WerewolfCrew().crew().kickoff(inputs=inputs)
+        result = WerewolfCrew().crew().kickoff(inputs=inputs)
+
+
+        
+        # Write result to a new markdown file with a name based on the date and time of the running
+        with open(f"logs/{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.md", "x") as f:
+            f.write(result.raw)
     except Exception as e:
         raise Exception(f"An error occurred while running the crew: {e}")
 
@@ -48,16 +54,3 @@ def replay():
 
     except Exception as e:
         raise Exception(f"An error occurred while replaying the crew: {e}")
-
-def test():
-    """
-    Test the crew execution and returns the results.
-    """
-    inputs = {
-        "topic": "AI LLMs"
-    }
-    try:
-        WerewolfCrew().crew().test(n_iterations=int(sys.argv[1]), openai_model_name=sys.argv[2], inputs=inputs)
-
-    except Exception as e:
-        raise Exception(f"An error occurred while testing the crew: {e}")

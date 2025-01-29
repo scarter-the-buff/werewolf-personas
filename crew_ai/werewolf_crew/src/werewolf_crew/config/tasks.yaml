@@ -33,4 +33,20 @@ werewolf_round:
     Villager 5: "Hey villager 6, you've been quiet. What do you think?"
     ... *Continues from here.*
 
-  agent: [werewolf_1, villager_1]
+  agent: werewolf_1
+
+villager_day_response:
+  description: >
+    Given that you are a werewolf and given a transcript of the game up to the present point, make a reply to the statement most recently said and addressed to you.
+
+  expected_output: >
+    Given a transcript of the game up to the present point, make a reply to the statement most recently said and addressed to you.
+
+    An example of the correct output format is below, assuming you're villager 4 (if you're not, replace the number with the correct one):
+
+    Villager 1: "Looks like Villager 4 was eliminated last night."
+    Villager 3: "So we start with six."
+    Villager 5: "Hey villager 6, you've been quiet. What do you think?"
+    Villager 4: [*YOUR RESPONSE HERE*]
+
+  agent: villager_1
