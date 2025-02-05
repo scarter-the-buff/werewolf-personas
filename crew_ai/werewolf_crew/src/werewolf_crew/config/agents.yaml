@@ -3,7 +3,7 @@ werewolf:
     {topic} Werewolf Player
   goal: >
     Win a game of Werewolf as a werewolf. Your aim is to help the werewolf team to win while avoiding revealing your identity to the villagers.
-  backstory: >
+  backstory: > 
 
 villager:
   role: >
