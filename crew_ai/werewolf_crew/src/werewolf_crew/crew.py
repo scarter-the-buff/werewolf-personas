@@ -19,9 +19,10 @@ class WerewolfCrew():
 
 	# If you would like to add tools to your agents, you can learn more about it here:
 	# https://docs.crewai.com/concepts/agents#agent-tools
+	@agent
 	def manager(self) -> Agent:
 		return Agent(
-			config=self.agents_config['manager_agent'],
+			config=self.agents_config['manager'],
 			verbose=True,
 			llm='gpt-4o',
 			allow_delegation=True,
@@ -91,8 +92,9 @@ class WerewolfCrew():
 	def werewolf_round(self) -> Task:
 		return Task(
 			config=self.tasks_config['werewolf_round'],
+			output_file='output.md'
 		)
-
+	
 
 	@crew
 	def crew(self) -> Crew:
