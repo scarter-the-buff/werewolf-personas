@@ -1,5 +1,7 @@
 from crewai import Agent, Crew, Process, Task
 from crewai.project import CrewBase, agent, crew, task
+from crewai import LLM
+
 
 # If you want to run a snippet of code before or after the crew starts, 
 # you can use the @before_kickoff and @after_kickoff decorators
@@ -18,57 +20,66 @@ class WerewolfCrew():
 	# If you would like to add tools to your agents, you can learn more about it here:
 	# https://docs.crewai.com/concepts/agents#agent-tools
 	@agent
-	def werewolf_1(self) -> Agent:
+	def manager(self) -> Agent:
 		return Agent(
-			config=self.agents_config['werewolf'],
+			config=self.agents_config['manager'],
+			verbose=True,
+			llm='gpt-4o',
+			allow_delegation=True,
+		)
+	
+	@agent
+	def werewolf_a(self) -> Agent:
+		return Agent(
+			config=self.agents_config['werewolf_a'],
 			verbose=True,
 			llm='gpt-4o'
 		)
 	
 	@agent
-	def werewolf_2(self) -> Agent:
+	def werewolf_b(self) -> Agent:
 		return Agent(
-			config=self.agents_config['werewolf'],
+			config=self.agents_config['werewolf_b'],
 			verbose=True,
 			llm='gpt-4o'
 		)
 	
 	@agent
-	def villager_1(self) -> Agent:
+	def villager_a(self) -> Agent:
 		return Agent(
-			config=self.agents_config['villager'],
+			config=self.agents_config['villager_a'],
 			verbose=True,
 			llm='gpt-4o'
 		)
 
 	@agent
-	def villager_2(self) -> Agent:
+	def villager_b(self) -> Agent:
 		return Agent(
-			config=self.agents_config['villager'],
+			config=self.agents_config['villager_b'],
 			verbose=True,
 			llm='gpt-4o'
 		)
 
 	@agent
-	def villager_3(self) -> Agent:
+	def villager_c(self) -> Agent:
 		return Agent(
-			config=self.agents_config['villager'],
+			config=self.agents_config['villager_c'],
 			verbose=True,
 			llm='gpt-4o'
 		)
 	
 	@agent
-	def villager_4(self) -> Agent:
+	def villager_d(self) -> Agent:
 		return Agent(
-			config=self.agents_config['villager'],
+			config=self.agents_config['villager_d'],
 			verbose=True,
 			llm='gpt-4o'
 		)
 	
 	@agent
-	def villager_5(self) -> Agent:
+	def villager_e(self) -> Agent:
 		return Agent(
-			config=self.agents_config['villager'],
+			config=self.agents_config['villager_e'],
 			verbose=True,
 			llm='gpt-4o'
 		)
@@ -81,19 +92,19 @@ class WerewolfCrew():
 	def werewolf_round(self) -> Task:
 		return Task(
 			config=self.tasks_config['werewolf_round'],
+			output_file='output.md'
 		)
-
+	
 
 	@crew
 	def crew(self) -> Crew:
 		"""Creates the WerewolfCrew crew"""
-		# To learn how to add knowledge sources to your crew, check out the documentation:
-		# https://docs.crewai.com/concepts/knowledge#what-is-knowledge
+
 
 		return Crew(
 			agents=self.agents, # Automatically created by the @agent decorator
 			tasks=self.tasks, # Automatically created by the @task decorator
-			process=Process.sequential,
+			process=Process.hierarchical,
+			manager_llm =  LLM(model="gpt-4o"),
 			verbose=True,
-			# process=Process.hierarchical, # In case you wanna use that instead https://docs.crewai.com/how-to/Hierarchical/
 		)
