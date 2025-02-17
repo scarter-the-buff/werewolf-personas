@@ -29,57 +29,57 @@ class WerewolfCrew():
 		)
 	
 	@agent
-	def werewolf_1(self) -> Agent:
+	def werewolf_a(self) -> Agent:
 		return Agent(
-			config=self.agents_config['werewolf'],
+			config=self.agents_config['werewolf_a'],
 			verbose=True,
 			llm='gpt-4o'
 		)
 	
 	@agent
-	def werewolf_2(self) -> Agent:
+	def werewolf_b(self) -> Agent:
 		return Agent(
-			config=self.agents_config['werewolf'],
+			config=self.agents_config['werewolf_b'],
 			verbose=True,
 			llm='gpt-4o'
 		)
 	
 	@agent
-	def villager_1(self) -> Agent:
+	def villager_a(self) -> Agent:
 		return Agent(
-			config=self.agents_config['villager'],
+			config=self.agents_config['villager_a'],
 			verbose=True,
 			llm='gpt-4o'
 		)
 
 	@agent
-	def villager_2(self) -> Agent:
+	def villager_b(self) -> Agent:
 		return Agent(
-			config=self.agents_config['villager'],
+			config=self.agents_config['villager_b'],
 			verbose=True,
 			llm='gpt-4o'
 		)
 
 	@agent
-	def villager_3(self) -> Agent:
+	def villager_c(self) -> Agent:
 		return Agent(
-			config=self.agents_config['villager'],
+			config=self.agents_config['villager_c'],
 			verbose=True,
 			llm='gpt-4o'
 		)
 	
 	@agent
-	def villager_4(self) -> Agent:
+	def villager_d(self) -> Agent:
 		return Agent(
-			config=self.agents_config['villager'],
+			config=self.agents_config['villager_d'],
 			verbose=True,
 			llm='gpt-4o'
 		)
 	
 	@agent
-	def villager_5(self) -> Agent:
+	def villager_e(self) -> Agent:
 		return Agent(
-			config=self.agents_config['villager'],
+			config=self.agents_config['villager_e'],
 			verbose=True,
 			llm='gpt-4o'
 		)
