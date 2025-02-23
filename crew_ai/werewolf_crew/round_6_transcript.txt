@@ -1,0 +1,8 @@
+```json
+{
+  "transcript": "NIGHT PHASE\nBob: *gestures to Carol*\nDavid: *nods*\nBob: *gestures to Emily*\nDavid: *shakes head*\nBob: *gestures to Frank*\nDavid: *nods*\nBob & David: *tap Frank on the shoulder*\n\n*Frank is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Frank was eliminated last night.\"\nCarol: \"So we start with six.\"\nEmily: \"Hey Gina, you've been quiet. What do you think?\"\nGina: \"I'm not sure, but Bob and David seem suspicious.\"\nBob: \"I swear I'm not the werewolf!\"\nDavid: \"We need to make a choice, and fast. Maybe it's Alice?\"\nCarol: \"I vote for Bob.\"\nEmily: \"I vote for Bob too.\"\nGina: \"I'll also vote for Bob.\"\nBob: \"Wait, I'm innocent!\"\nDavid: \"I vote for Alice.\"\n\n*Bob is eliminated*",
+  "night_elim": "Frank",
+  "day_elim": "Bob",
+  "remaining": ["Alice", "Carol", "David", "Emily", "Gina"]
+}
+```

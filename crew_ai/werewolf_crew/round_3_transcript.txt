@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *gestures to Alice* Carol: *frowns* Achille: *gestures to Bethany* Carol: *smiles and nods* Achille: *nods* Carol: *gestures to Bethany* Achille: *nods*\n*Bethany is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Bethany was eliminated last night.\" Ellie: \"So we start with four.\" Achille (acting innocent): \"Hey Ellie, you're unusually quiet. Who do you suspect?\" Carol (acting as a villager): \"I think it might be Alice, I noticed they hesitated last round.\" Ellie: \"I'm not so sure, Carol seems too eager to point fingers.\" Alice: \"Let's not rush, but I'm leaning towards Carol.\" Voting: Achille: \"I vote for Ellie.\" Carol: \"I vote for Alice.\" Ellie: \"I vote for Carol.\" Alice: \"I vote for Carol.\"\n*Carol is eliminated*",
+  "night_elim": "Bethany",
+  "day_elim": "Carol",
+  "remaining": ["Alice", "Achille", "Ellie"]
+}
+```

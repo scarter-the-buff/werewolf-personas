@@ -85,16 +85,13 @@ class WerewolfCrew():
 		)
 	
 
-	# To learn more about structured task outputs, 
-	# task dependencies, and task callbacks, check out the documentation:
-	# https://docs.crewai.com/concepts/tasks#overview-of-a-task
 	@task
 	def werewolf_round(self) -> Task:
 		return Task(
 			config=self.tasks_config['werewolf_round'],
 			output_file='output.md'
 		)
-	
+
 
 	@crew
 	def crew(self) -> Crew:

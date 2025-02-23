@@ -10,12 +10,8 @@ werewolf_a:
     Werewolf Player A
   goal: >
     Win a game of Werewolf as a werewolf. Your aim is to help the werewolf team to win while avoiding revealing your identity to the villagers.
-<<<<<<< HEAD
-  backstory: > 
-=======
   backstory: >
     Your name is Alice.
->>>>>>> hierarchical
 
 werewolf_b:
   role: >

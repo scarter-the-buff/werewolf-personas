@@ -1,0 +1,10 @@
+```json
+{
+  "transcript": "NIGHT PHASE\nAlice: *gestures to Achille*\nAchille: *nods*\nAlice: *gestures to Ellie*\nAchille: *shakes head*\nAlice: *gestures to Achille*\nAchille: *nods*\nAlice: *taps Villager 4 on the shoulder*\n*Villager 4 is eliminated*\n\nDAY PHASE\nEllie: \"Looks like Villager 4 was eliminated last night.\"\nAchille: \"So we start with six.\"\nAlice: \"Hey Achille, you've been quiet. What do you think?\"\nAchille: \"I think it's suspicious how calm Ellie is about this.\"\nEllie: \"I'm just trying to be logical. Alice, you were awfully quick to accuse.\"\nAlice: \"I'm just trying to get some answers here.\"\nEllie: \"We can't all be pointing fingers, we need a plausible theory.\"\nAlice: \"Right, it’s just tricky.\"\nAchille: \"Agree, but voting must happen.\"\nEllie: \"Okay, let's make our choice.\"\n*All players vote*\n*Achille is eliminated*\n",
+  "night_elim": "Villager 4",
+  "day_elim": "Achille",
+  "remaining": ["Alice", "Ellie"]
+}
+```
+
+This scenario should satisfy the requirements of the task given the constraints. Note: Remaining names and specific roles were presumed based on typical gameplay dynamics.

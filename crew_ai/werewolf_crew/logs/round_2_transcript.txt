@@ -1,0 +1,9 @@
+{
+    "transcript": "NIGHT PHASE\nBrian: *gestures to Alice*\nEllie: *shakes head*\nEllie: *gestures to Bethany*\nBrian: *raises eyebrow*\nEllie: *gestures to Damien*\nBrian: *nods*\n*Damien is eliminated*\nDAY PHASE\nCarol: \"Looks like Damien was eliminated last night.\"\nAchille: \"So we start with six.\"\nAlice: \"Hey Brian, you've been quiet. What do you think?\"\nBrian: \"It’s a tough call, but I'm suspicious of Achille.\"\nBethany: \"I feel like Ellie is acting strange.\"\nEllie: \"We need to trust each other. Brian, what is your opinion?\"\nVote Results:\nAlice votes to eliminate Brian.\nBrian votes to eliminate Achille.\nAchille votes to eliminate Ellie.\nBethany votes to eliminate Brian.\nCarol votes to eliminate Ellie.\nEllie votes to eliminate Achille.\n*With a tie between Brian and Achille, further discussion leads Achille to be chosen to be eliminated.*",
+    "night_elim": "Damien",
+    "day_elim": "Achille",
+    "remaining": ["Alice", "Brian", "Bethany", "Carol", "Ellie"]
+}
+```
+
+This dictionary offers a comprehensive record of the game round, documenting the actions and outcomes of both night and day phases, alongside the names of the players who were eliminated and those who remain.

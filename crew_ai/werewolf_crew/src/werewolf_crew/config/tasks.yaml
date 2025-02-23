@@ -9,13 +9,7 @@ werewolf_round:
 
     The players for the first round are as follows. Each of these is an agent that the manager in this task can call upon:
 
-    Werewolf A = Alice
-    Werewolf B = Brian
-    Villager A = Achille
-    Villager B = Bethany
-    Villager C = Carol
-    Villager D = Damien
-    Villager E = Ellie
+    {players}
 
   expected_output: >
 
@@ -48,12 +42,10 @@ werewolf_round:
 
 
 
-    night_elim: The name of the villager who was eliminated in the night phase, as a string. This should be, for example, "villager_c" or "werewolf_a"
+    night_elim: The name of the villager who was eliminated in the night phase, as a string. 
     day_elim: 
 
     day_elim: The name of the villager or werewolf who was eliminated in the day phase, as a string. This should be,  for example, "villager_c" or "werewolf_b"
-
-    remaining: The list of remaining players as a string, for example ["werewolf_b", "villager_a", ...]
 
   agents:
     - manager

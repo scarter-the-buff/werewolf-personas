@@ -1,0 +1,6 @@
+{
+    "transcript": "NIGHT PHASE\nAlice: *gestures to Villager Player A* Alice: *nods* Alice: *gestures to Villager Player C* Alice: *shakes head* Alice: *gestures to Villager Player B* Alice: *nods*\nBrian: *nods* Brian: *gestures to Villager Player B* Brian: *nods*\n*Villager Player B is eliminated*\n\nDAY PHASE\nVillager Player A: 'Looks like Villager Player B was eliminated last night.'\nVillager Player C: 'Based on last night, I'm suspicious of Jean, who seemed defensive.'\nVillager Player D: 'Player C has been deflecting, quick to accuse others.'\nVillager Player E: 'I suspect James as his responses were vague and he pushed for an innocent vote last time.'\n*Players vote*\n*Villager Player C receives the majority votes and is eliminated*",
+    "night_elim": "Villager Player B",
+    "day_elim": "Villager Player C"
+}
+```
