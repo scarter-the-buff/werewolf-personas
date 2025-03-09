@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *gestures to Damien*\nAlice: *nods*\nDamien: *is eliminated*\n\nDAY PHASE\nEllie: \"Looks like Damien was eliminated last night.\"\nAlice: \"So we start with the three of us.\"\nEllie: \"Hey Alice, do you have any thoughts on who might be the werewolf?\"\nAlice: \"I’m not sure, but we need to be careful with our choice.\"\nEllie: \"I wonder if the threat is closer than we think.\"\nAlice: \"Could it be Ellie herself, trying to frame someone else?\"\nEllie: \"Just voting honestly to find the werewolf!\"\n\nAlice: *votes to eliminate Ellie*\nEllie: *votes to eliminate Alice*\n\nIn this scenario, Ellie is eliminated, assuming a hypothetical tie-breaking decision results in her elimination.",
+  "night_elim": "Damien",
+  "day_elim": "Ellie"
+}
+```

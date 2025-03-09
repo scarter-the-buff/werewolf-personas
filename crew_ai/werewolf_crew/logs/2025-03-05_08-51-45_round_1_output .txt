@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *gestures to Achille*\nBrian: *nods*\nAlice: *taps Achille on the shoulder*\n*Achille is eliminated*\n\nDAY PHASE\nVillage Discussion: \"Looks like Achille was eliminated last night.\"\nVillager A: \"Alice has been pretty deflective today.\"\nVillager B: \"Player C has been unusually quiet.\"\nVillager C: \"I noticed Player E agreeing quickly without solid reasons.\"\nWerewolf A (Alice): \"I vote for Player C.\"\nWerewolf B (Brian): \"I also vote for Player C.\"\nVillager D: \"Player F seemed to be deflecting today.\"\nVillager E: \"I agree Player C was inconsistent.\"\n\nVotes:\nAlice votes for Player C\nBrian votes for Player C\nVillager A votes for Player C\nVillager B votes for Player C\nVillager C votes for Player D\nVillager D votes for Player F\nVillager E votes for Player C\n\n*Player C is eliminated*",
+  "night_elim": "Achille",
+  "day_elim": "Carol"
+}
+```

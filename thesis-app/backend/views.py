@@ -1,6 +1,11 @@
 from django.http import JsonResponse
 from django.views.decorators.csrf import csrf_exempt
 import json
+from .game_logic.GameManager import GameManager
+
+# Instantiate the GameManager
+game_manager = GameManager()
+
 
 @csrf_exempt
 def button_click(request):
@@ -14,3 +19,8 @@ def button_click(request):
         except json.JSONDecodeError:
             return JsonResponse({"error": "Invalid JSON"}, status=400)
     return JsonResponse({"error": "Invalid request method"}, status=405)
+
+@csrf_exempt
+def start_game_req(request):
+    print("New game made!")
+    game_manager.makeGame()

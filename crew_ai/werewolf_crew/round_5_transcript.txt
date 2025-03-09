@@ -1,7 +1,0 @@
-{
-    "transcript": "NIGHT PHASE\nPlayer A: *gestures to Villager C* Player B: *nods*\nPlayer A: *gestures to Villager C* Player B: *nods*\nVillager C is eliminated\nDAY PHASE\nPlayer D: \"Looks like Villager C was eliminated last night.\"\nPlayer E: \"So we start with six.\"\nPlayer F: \"Hey Player G, you've been quiet. What do you think?\"\nPlayer G: \"I think Player D is kind of suspicious.\"\nPlayer A and Player B (as villagers) nod in agreement.\nAll players vote to eliminate Player D.\nPlayer D is eliminated.",
-    "night_elim": "Villager C",
-    "day_elim": "Player D",
-    "remaining": ["Player A", "Player B", "Player E", "Player F", "Player G"]
-}
-```

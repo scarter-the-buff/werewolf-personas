@@ -7,7 +7,7 @@ werewolf_round:
     During the day phase, all players discuss among themselves which player they should eliminate. The werewolves pretend to be villagers during this discussion.
     At the end of the day phase, the player with the most votes is eliminated.
 
-    The players for the first round are as follows. Each of these is an agent that the manager in this task can call upon:
+    The players for this round are as follows. Each of these is an agent that the manager in this task can call upon:
 
     {players}
 
@@ -16,7 +16,7 @@ werewolf_round:
     Output a Python dictionary that can easily be formatted into a JSON file. The dictionary should have the following keys:
 
     transcript: Create a round transcript as a string in which all player utterances and communicative gestures are recorded along with the player who makes them. 
-    The night phase and the day phase should be clearly marked, as should who votes to eliminate which players.
+    The night phase and the day phase should be clearly marked, as should who votes to eliminate which players. Players NEVER vote to eliminate themselves.
     There are seven agents in total, two werewolves and five villagers.
 
     An example of the correct output format is below. Wherever you see [name] or [Player Name Here] in this example, replace that with the correct player's name:
@@ -31,7 +31,7 @@ werewolf_round:
     [Player Name Here]: *nods*
     [Player Name Here]: *taps Villager 4 on the shoulder*
 
-    *Villager 4 is eliminated*
+    *[Player Name Here] ]is eliminated*
 
     DAY PHASE
 
@@ -42,10 +42,10 @@ werewolf_round:
 
 
 
-    night_elim: The name of the villager who was eliminated in the night phase, as a string. 
-    day_elim: 
+    night_elim: The name of the villager who was eliminated in the night phase, as a string. This should be, for example, "Albert" or "David"
 
-    day_elim: The name of the villager or werewolf who was eliminated in the day phase, as a string. This should be,  for example, "villager_c" or "werewolf_b"
+
+    day_elim: The name of the villager or werewolf who was eliminated in the day phase, as a string. This should be,  for example, "Albert" or "David"
 
   agents:
     - manager

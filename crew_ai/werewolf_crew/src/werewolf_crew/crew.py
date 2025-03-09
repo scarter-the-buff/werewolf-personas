@@ -24,7 +24,7 @@ class WerewolfCrew():
 		return Agent(
 			config=self.agents_config['manager'],
 			verbose=True,
-			llm='gpt-4o',
+			llm='openai/o3-mini',
 			allow_delegation=True,
 		)
 	
@@ -33,7 +33,7 @@ class WerewolfCrew():
 		return Agent(
 			config=self.agents_config['werewolf_a'],
 			verbose=True,
-			llm='gpt-4o'
+			llm='openai/o3-mini'
 		)
 	
 	@agent
@@ -41,7 +41,7 @@ class WerewolfCrew():
 		return Agent(
 			config=self.agents_config['werewolf_b'],
 			verbose=True,
-			llm='gpt-4o'
+			llm='openai/o3-mini'
 		)
 	
 	@agent
@@ -49,7 +49,7 @@ class WerewolfCrew():
 		return Agent(
 			config=self.agents_config['villager_a'],
 			verbose=True,
-			llm='gpt-4o'
+			llm='openai/o3-mini'
 		)
 
 	@agent
@@ -57,7 +57,7 @@ class WerewolfCrew():
 		return Agent(
 			config=self.agents_config['villager_b'],
 			verbose=True,
-			llm='gpt-4o'
+			llm='openai/o3-mini'
 		)
 
 	@agent
@@ -65,7 +65,7 @@ class WerewolfCrew():
 		return Agent(
 			config=self.agents_config['villager_c'],
 			verbose=True,
-			llm='gpt-4o'
+			llm='openai/o3-mini'
 		)
 	
 	@agent
@@ -73,7 +73,7 @@ class WerewolfCrew():
 		return Agent(
 			config=self.agents_config['villager_d'],
 			verbose=True,
-			llm='gpt-4o'
+			llm='openai/o3-mini'
 		)
 	
 	@agent
@@ -81,7 +81,7 @@ class WerewolfCrew():
 		return Agent(
 			config=self.agents_config['villager_e'],
 			verbose=True,
-			llm='gpt-4o'
+			llm='openai/o3-mini'
 		)
 	
 
@@ -102,6 +102,6 @@ class WerewolfCrew():
 			agents=self.agents, # Automatically created by the @agent decorator
 			tasks=self.tasks, # Automatically created by the @task decorator
 			process=Process.hierarchical,
-			manager_llm =  LLM(model="gpt-4o"),
+			manager_llm =  LLM(model="openai/o3-mini"),
 			verbose=True,
 		)

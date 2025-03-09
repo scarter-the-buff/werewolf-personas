@@ -6,4 +6,4 @@ eg_transcript = """{"transcript": "NIGHT PHASE Werewolf Player A: *gestures to V
 
 wg = WerewolfGame()
 
-wg.parse_elimination(eg_transcript)
+eliminated_player = wg.parse_elimination(eg_transcript)

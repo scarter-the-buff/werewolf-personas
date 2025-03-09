@@ -19,5 +19,6 @@ from . import views
 
 urlpatterns = [
     path('button_click/', views.button_click, name='button_click'),
+    path('makegame/', views.start_game_req, name='start_game_req'),
 ]
 

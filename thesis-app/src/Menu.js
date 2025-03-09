@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function Menu() {
   const handleButtonClick = async (title) => {
     try {
-      const response = await fetch("http://127.0.0.1:8000/button_click/", {
+      const response = await fetch("http://127.0.0.1:8000/start_game_req/", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

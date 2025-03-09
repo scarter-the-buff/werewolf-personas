@@ -24,9 +24,31 @@ def run():
     }
     
     try:
+
+        print("Line 27!")
         result = WerewolfCrew().crew().kickoff(inputs=inputs)
 
+        print("Line 31!")
 
+        # Generate filename based on timestamp
+        timestamp = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
+        log_filename = f"logs/thoughtlog_{timestamp}.md"
+
+        with open(log_filename, "w") as f:
+            f.write("# Werewolf Crew Execution Log\n\n")
+            f.write(f"## Timestamp: {timestamp}\n\n")
+
+            # Iterate over execution steps and log agent thoughts
+            for step in result.execution_steps:
+                f.write(f"### Agent: {step.agent_name}\n")
+                f.write(f"**Thoughts:**\n\n{step.thoughts}\n\n")
+                f.write(f"**Action Taken:**\n\n{step.action}\n\n")
+                f.write("---\n\n")
+
+        print(f"Execution log saved to {log_filename}")
+
+    except Exception as e:
+        raise Exception(f"An error occurred while running the crew: {e}")
         
         # Write result to a new markdown file with a name based on the date and time of the running
         with open(f"logs/{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.md", "x") as f:

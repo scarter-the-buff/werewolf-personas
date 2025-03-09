@@ -1,0 +1,6 @@
+{
+    "transcript": "NIGHT PHASE\nAlice: *points to her eyes, then gestures to Charlie's corner* Brian: *furrows brow, nods* Alice: *nods* Brian: *gestures to Charlie* Alice: *nods, taps Charlie on the shoulder*\n*Charlie is eliminated*\n\nDAY PHASE\nAchille: \"Looks like Charlie was eliminated last night.\" Bailey: \"That's true; Charlie did suspect Player F, remember?\" Devon: \"What about Player D? They've been quite silent lately.\" Ellie: \"I've been observant. Player B seems suspicious.\" Frankie: \"Bailey, your thoughts about Ellie’s accusation?\" Bailey: \"It was a strategic error, which I acknowledge.\" Gale: \"Devon is quick to shift blame. That's suspicious as well.\"\n\nVotes:\nBailey votes for Devon\nDevon votes for Ellie\nEllie votes for Bailey\nGale votes for Devon\nAchille initially votes for Gale, then switches to Devon.\n\n*Devon is eliminated*",
+    "night_elim": "Charlie",
+    "day_elim": "Devon"
+}
+```

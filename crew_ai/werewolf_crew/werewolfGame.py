@@ -2,6 +2,8 @@ from src.werewolf_crew.crew import WerewolfCrew  # import your CrewAI crew
 from dotenv import load_dotenv
 import json
 from datetime import datetime
+import sys
+import os
 
 
 class WerewolfGame:
@@ -26,7 +28,8 @@ class WerewolfGame:
 
     def current_players(self):
         # Return the list of players still alive
-        return {p for p in self.players if p not in self.eliminated}
+        return {p: role for p, role in self.players.items() if p not in self.eliminated}
+
 
     def prepare_round_input(self):
         players = self.current_players()
@@ -38,20 +41,27 @@ class WerewolfGame:
 
 
     def update_state_from_transcript(self, transcript):
-        # Stub: Parse the transcript to determine which player was eliminated.
         day_eliminated_player = self.parse_elimination(transcript)["day_elim"]
         night_eliminated_player = self.parse_elimination(transcript)["night_elim"]
 
-        
 
-        if day_eliminated_player:
-            self.eliminated[day_eliminated_player] = True
-        if night_eliminated_player:
-            self.eliminated[night_eliminated_player] = True
+        print("PARSING TRANSCRIPT: ")
+
+        print("Day Eliminated Player: ", day_eliminated_player)
+        print("Night Eliminated Player: ", night_eliminated_player)
+
+
+        self.eliminated[day_eliminated_player] = True
+        self.eliminated[night_eliminated_player] = True
 
         # Remove eliminated players from playerlist
-        self.players = {p for p in self.players if p not in self.eliminated}
+        print("Self.players before elimination calculation: ", self.players)
+        print("Players eliminated: ", self.eliminated)
+        self.players = {p: role for p, role in self.players.items() if p not in self.eliminated}
 
+
+        print("self.players after elimination calculation:", self.players)
+ 
 
     def parse_elimination(self, transcript):
         """
@@ -87,28 +97,45 @@ class WerewolfGame:
             raise ValueError(f"Error parsing transcript JSON: {e}") from e
 
     
-    def play_round(self):
 
+    def play_round(self):
         print("Players in this Round: ", self.players)
 
-        # Funnel input to CrewAI: build and pass context.
-        round_input = self.prepare_round_input()
-        transcript = self.crew.kickoff(inputs=round_input)
-
-        
-        # Append transcript to stored transcripts
-        self.transcripts.append(transcript)
-        self.update_state_from_transcript(transcript)
-        self.round_number += 1
-
-        # Write transcript to file
-
+        # Prepare log file
         timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-        with open(f"logs/{timestamp}_round_{self.round_number}_transcript.txt", "w", encoding="utf-8") as f:
-            f.write(transcript.raw)
+        log_filename = f"logs/{timestamp}_round_{self.round_number}_full_log.md"
+        os.makedirs("logs", exist_ok=True)  # Ensure logs directory exists
 
+        # Redirect stdout to log file
+        original_stdout = sys.stdout
+        with open(log_filename, "w", encoding="utf-8") as log_file:
+            sys.stdout = log_file  # Redirect stdout
+
+            try:
+                # Funnel input to CrewAI: build and pass context.
+                round_input = self.prepare_round_input()
+
+                # Run the CrewAI process
+                transcript = self.crew.kickoff(inputs=round_input)
+
+                # Append transcript to stored transcripts
+                self.transcripts.append(transcript)
+                self.update_state_from_transcript(transcript)
+                self.round_number += 1
+
+                # Write full transcript to a separate file
+                transcript_filename = f"logs/{timestamp}_round_{self.round_number}_output .txt"
+                with open(transcript_filename, "w", encoding="utf-8") as f:
+                    f.write(transcript.raw)
+
+
+
+            finally:
+                # Restore stdout
+                sys.stdout = original_stdout
 
         return transcript
+
 
 
     def game_over(self):

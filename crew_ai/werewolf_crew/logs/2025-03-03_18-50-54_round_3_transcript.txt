@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *gestures to Achille*\nAlice's partner werewolf: *nods*\nAlice: *nods*\n*Achille is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Achille was eliminated last night.\"\nBethany: \"So we start with fewer people. Alice, you seem unusually active today.\"\nCarol: \"Bethany, you've been too quiet. What do you think?\"\nBethany: \"I've seen Carol glance around suspiciously.\"\nAlice: \"Bethany might be trying to deflect.\"\nEllie: \"I need to decide which is the more suspicious.\"\n*Vote results: Bethany is eliminated by votes from Alice, Carol, and Ellie. Bethany votes for Carol.*",
+  "night_elim": "Achille",
+  "day_elim": "Bethany"
+}
+```

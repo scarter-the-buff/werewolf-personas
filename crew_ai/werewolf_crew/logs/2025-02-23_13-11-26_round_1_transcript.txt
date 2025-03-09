@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *gestures to Carol* Alice: *nods* Brian: *gestures to Damien* Brian: *shakes head* Alice: *gestures to Achille* Brian: *nods* Brian: *taps Achille on the shoulder*\n*Achille is eliminated*\nDAY PHASE\nEllie: \"Looks like Achille was eliminated last night.\" Carol: \"So we start with six.\" Bethany: \"Hey Damien, you've been quiet. What do you think?\" Ellie: \"I suspect it might be Brian; he's quiet.\" Carol: \"Maybe, but Alice seemed suspicious too.\" Damien: \"I don't know, but I'll vote Brian.\" Everyone votes, and Brian ends up with the most votes.\n*Brian is eliminated*",
+  "night_elim": "Achille",
+  "day_elim": "werewolf_b"
+}
+```

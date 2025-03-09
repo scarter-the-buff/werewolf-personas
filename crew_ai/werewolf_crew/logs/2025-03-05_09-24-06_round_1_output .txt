@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nWerewolf Player A: *gestures to Bethany* Werewolf Player B: *nods* Werewolf Player A: *taps Bethany on the shoulder*\n*Bethany is eliminated*\nDAY PHASE\nVillager Player A: \"Looks like Bethany was eliminated last night.\" Villager Player B: \"We need to decide carefully who we eliminate today.\" Villager Player C: \"I think Alex is acting suspicious.\" Villager Player D: \"We should observe everyone's behavior closely.\" Villager Player E: \"I noticed some inconsistencies too.\" Werewolf Player A: \"Yeah, suspicious behavior needs addressing.\" Werewolf Player B: \"Agreed, let's fix this before another villager is lost.\" Votes - Werewolf Player A votes to eliminate Bob reasoning suspicious behavior. Werewolf Player B votes to eliminate Player D based on erratic behavior. Villager Player A votes to eliminate Bob. Villager Player B votes to eliminate Player C for suspicious behavior. Villager Player C votes to eliminate Alex. Villager Player D votes to eliminate Player C. Villager Player E votes to eliminate Player C.\n*Player C is eliminated*",
+  "night_elim": "Bethany",
+  "day_elim": "Player C"
+}
+```

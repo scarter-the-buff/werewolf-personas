@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nWerewolf Player A: *gestures to Villager X*\nWerewolf Player B: *nods*\n*Villager X is eliminated*\nDAY PHASE\nVillager Player A: \"Looks like Villager X was eliminated last night.\"\nVillager Player A: \"So we start with six.\nVillager Player A: \"Hey Villager Player C, you've been quiet. What do you think?\"\nVillager Player B: \"I noticed Werewolf Player A acting suspicious yesterday.\"\nVillager Player C: \"We should consider voting for someone who hasn't contributed much.\"\nVillager Player D leads the discussion and asks each person to state whom they suspect \nVillager Player E shares they observed something strange about the behavior of Villager Player D\nDiscussion continues from there, leading to voting.",
-  "night_elim": "Villager X",
-  "day_elim": "Player Y",
-  "remaining": ["Werewolf Player A", "Werewolf Player B", "Villager Player A", "Villager Player B", "Villager Player C", "Villager Player D"]
-}
-```

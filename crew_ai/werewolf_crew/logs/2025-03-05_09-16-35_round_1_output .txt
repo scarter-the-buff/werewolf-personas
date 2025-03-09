@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *gestures to Damien*\nBrian: *nods*\n*Damien is eliminated*\nDAY PHASE\nVillager Player A: \"Looks like Damien was eliminated last night.\"\nVillager Player B: \"I've noticed Alex has been acting very quietly.\"\nVillager Player C: \"Yeah, and Jamie is pointing fingers very quickly.\"\nVillager Player D: \"Let's keep an open mind but focus on Alex or Jamie.\"\nVillager Player E: \"It's important to collaborate and share our observations.\"\n*Votes are cast and tallied*\n*Alex receives the most votes and is eliminated*",
+  "night_elim": "Damien",
+  "day_elim": "Alex"
+}
+```
