@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE:\nAlice: *exchanges a determined look with Brian and gestures subtly, pointing silently towards Bethany*\nBrian: *nods in agreement, using a series of quick head tilts and a focused stare toward Bethany*\n*Bethany is quietly eliminated from the game*\n\nDAY PHASE:\nAchille: \"I noticed last night something was off. I’m worried about the silence we all kept.\" \nCarol: \"It’s unsettling. Whatever happened last night, we need to figure out who isn’t being honest with us.\"\nDamien: \"I think my gut tells me it might be Brian—I didn’t see him as engaged in our earlier discussions.\" \nEllie: \"I agree with Damien. Brian’s subtle behavior raises some red flags.\"\nAlice: \"I’m conflicted, but I lean towards protecting the group—so I vote for Carol.\" \nBrian: \"I’ll vote for Damien, trying to steer us away from someone who seems too vocal.\"\n*Votes are tallied and Brian receives the majority of votes*\n*Brian is eliminated from the game*",
+  "night_elim": "Bethany",
+  "day_elim": "Brian"
+}
+```

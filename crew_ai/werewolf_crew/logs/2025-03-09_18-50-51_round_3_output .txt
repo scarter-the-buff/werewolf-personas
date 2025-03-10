@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE:\nAlice: *makes a sharp, decisive gesture towards Ellie while maintaining silent eye contact with Damien*\nDamien: *nods and uses a subtle hand signal to confirm the plan, glancing at Ellie*\n(Without alerting the villager, both werewolves silently decide on their target.)\nEllie: *murmuring softly, oblivious to the covert planning around her*\n--- Ellie is eliminated ---\n\nDAY PHASE:\nAlice: \"I can’t shake off the feeling something is off... I think Damien might be involved in some secretive behavior.\"\nDamien: \"Are you serious, Alice? I was just as surprised as you. Maybe it’s you who was acting strangely last night.\"\nAlice: \"Really? From where I was sitting, you seemed too confident about our actions!\"\nDamien: \"Oh come on, Alice. You were the one who was too quiet about discussing who to target during the day.\"\n(After a brief heated debate, both players cast their votes.)\nAlice votes to eliminate Damien.\nDamien votes to eliminate Alice.\n(However, after further heated discussion and pressure to unmask the true culprit, the consensus sways.)\nCollectively, the decision is made: Damien is eliminated in the day phase.\n",
+  "night_elim": "Ellie",
+  "day_elim": "Damien"
+}
+```
