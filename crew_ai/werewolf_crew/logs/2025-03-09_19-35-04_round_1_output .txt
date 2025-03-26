@@ -1,0 +1,6 @@
+{
+    "transcript": "NIGHT PHASE\nAchille: *nods subtly and points toward Bethany*\nDamien: *mimics a silent agreement by tilting his head and pointing at Bethany*\n*Bethany is silently eliminated from the game*\n\nDAY PHASE\nAlice: \"I felt something was off about last night, especially watching Achille's behavior.\"\nBrian: \"Yes, his glances and hesitations were suspicious.\"\nCarol: \"I think we should consider that behavior as a red flag.\"\nEllie: \"I agree; it really makes me wonder about his intentions.\"\nAchille: \"Maybe it’s a misunderstanding; why not look at Brian, who stayed unusually quiet?\"\nDamien: \"I still think Achille has been off, despite any claims otherwise.\"\n*After a round of voting where Alice, Brian, Carol, and Ellie vote to eliminate Achille, and with Achille and Damien casting their votes for others, the majority targets Achille, resulting in his elimination.*",
+    "night_elim": "Bethany",
+    "day_elim": "Achille"
+}
+```

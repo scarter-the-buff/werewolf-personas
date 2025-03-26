@@ -1,0 +1,6 @@
+{
+    "transcript": "NIGHT PHASE:\nCarol (whispering silently): ‘Brian seems isolated tonight. Let’s take him out.’\nDamien (nodding subtly and gesturing): ‘Yes, he’s our target. We agree silently.’\n*The werewolves exchange secret gestures, and Brian is quietly eliminated*\n>>> Brian has been eliminated.\n\nDAY PHASE:\nAlice (firmly): ‘I can’t believe what happened last night. We need to figure out who among us is not who they seem.’\nEllie (curiously): ‘I noticed Carol was unusually quiet during the night. Something feels off.’\nCarol (defensively): ‘I’m surprised too! I didn’t even realize something was happening. Don’t look at me!’\nDamien (with a conflicted tone): ‘Let’s think logically—Carol’s reaction appears a bit too rehearsed. I lean towards her being involved.’\nAlice (decisively): ‘Based on the gestures and the way events unfolded, I vote for Carol. We must hold someone accountable.’\nEllie (nodding in agreement): ‘I second that vote. Carol, you’re our prime suspect.’\nCarol (pleading): ‘Please, I’m on your side. Accusing me now won’t mend anything. I truly am innocent.’\nDamien (resolutely): ‘My vote goes to Carol as well. The majority speaks, and it’s time for accountability.’\nAfter a heated discussion and clear majority in the vote,\n>>> Carol has been eliminated.",
+    "night_elim": "Brian",
+    "day_elim": "Carol"
+}
+```

@@ -12,7 +12,7 @@ werewolf_a:
     Win a game of Werewolf as a werewolf. Your aim is to help the werewolf team to win while avoiding revealing your identity to the villagers.
   backstory: >
     Your name is Alice.
-
+   
 werewolf_b:
   role: >
     Werewolf Player B

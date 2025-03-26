@@ -1,0 +1,6 @@
+{
+    "transcript": "NIGHT PHASE\nAchille: *glances at Ellie*\\nEllie: *nods silently*\\nAchille: *points subtly towards Alice*\\nEllie: *raises an eyebrow and gestures to Alice*\\nAchille: *gives an approving nod*\\nEllie: *mimics a secret agreement with a hand gesture*\\n*Alice is eliminated by the werewolves*\\n\\nDAY PHASE\nAchille: \"I can't believe one of us is missing. Who do you think was targeted?\"\nEllie: \"It must have been a strategic move. I don\\'t see why we would eliminate one of our own, unless someone is playing too safe.\"\nAchille: \"Perhaps it was the one who was too obvious? I suspect you, Ellie.\"\nEllie: \"That\\'s rich coming from you, Achille. I have my suspicions too.\"\nAchille: \"Well, then we have to vote. I vote for you, Ellie.\"\nEllie: \"And I vote for you, Achille.\"\n*After a tie-break, the decision falls and Ellie is eliminated*",
+    "night_elim": "Alice",
+    "day_elim": "Ellie"
+}
+```

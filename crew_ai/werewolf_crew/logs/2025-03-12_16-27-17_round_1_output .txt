@@ -1,0 +1,5 @@
+{
+    "transcript": "NIGHT PHASE\nAchille: *gives a subtle nod towards Bethany*\nBrian: *makes a quick, confirming gesture towards Bethany*\n*Through a series of silent, exchanged glances and gestures, both werewolves agree on targeting Bethany as the elimination victim.*\n*[Bethany is eliminated by the werewolves]*\n\nDAY PHASE\nAlice: \"I can't shake the feeling that someone's hiding something.\"\nBrian: \"I'm just trying to keep everyone on their toes, but I think Damien's acting strange.\"\nAchille: \"I believe our suspicions point to Brian. I'm voting for him.\"\nCarol: \"Alice, you might be onto something. I suspect Achille, so I'm casting my vote for him.\"\nDamien: \"I agree with Achille's concern. I vote for Brian.\"\nEllie: \"The evidence seems to lean towards Brian. My vote is for Brian.\"\n*After tallying the votes: Alice voted for Achille, Brian voted for Damien, Achille voted for Brian, Carol voted for Achille, Damien voted for Brian, and Ellie voted for Brian. With three votes for Brian, he is the one eliminated during the day phase.*",
+    "night_elim": "Bethany",
+    "day_elim": "Brian"
+}

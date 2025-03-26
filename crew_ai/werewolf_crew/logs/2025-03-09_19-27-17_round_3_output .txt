@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nDamien: *exchanges a secretive nod with Ellie*\nEllie: *glances intently at Damien, then gestures towards Alice silently*\nDamien: *subtly points at Alice with a slow, deliberate gesture*\nEllie: *mirrors the gesture with a solemn head tilt*\n*Alice, unaware and deep in sleep, is silently eliminated by the unanimous agreement of the werewolves*\n\nDAY PHASE\nDamien: \"I can’t shake the feeling something was off last night.\"\nEllie: \"Really? I saw you watching everyone a little too closely.\"\nDamien: \"I think it’s obvious that suspicion falls on you.\"\nEllie: \"Maybe, but I’d be surprised if you weren’t involved considering your silence.\"\n*After a tense exchange, both players cast their votes. Damien votes for Ellie while Ellie votes for Damien.*\n*Since players cannot vote for themselves and the votes end in a tie, the elimination falls on Damien by the agreed tie-breaking rule*\n",
+  "night_elim": "Alice",
+  "day_elim": "Damien"
+}
+```

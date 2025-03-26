@@ -1,0 +1,6 @@
+{
+  "transcript": "------------------ NIGHT PHASE ------------------\nBrian (werewolf): *glances around furtively and uses a hand gesture, indicating Carol*\nAchille (werewolf): *returns the gesture with a subtle nod and a craned head tilt toward Carol*\nNarrator: Without uttering a word, the two werewolves decide on Carol as their target and silently eliminate her during the night.\n\n------------------ DAY PHASE ------------------\nDavid (villager): \"I feel something’s off about Achille lately. I vote for Achille.\"\nEmma (villager): \"I agree with David. Achille's behavior seems suspicious; my vote goes to Achille.\"\nFiona (villager): \"Yes, enough hints have been dropped about him. I'm voting for Achille.\"\nGeorge (villager): \"I second that. My vote goes to Achille.\"\nBrian (werewolf): \"I think David has been overly cautious; I'll vote for David.\"\nAchille (werewolf): \"Following Brian's lead, I vote for David.\"\nNarrator: With four votes for Achille and two votes for David, the council of the village decides to eliminate Achille during the day.",
+  "night_elim": "Carol",
+  "day_elim": "Achille"
+}
+```

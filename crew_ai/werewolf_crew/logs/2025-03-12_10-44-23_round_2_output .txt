@@ -1,0 +1,5 @@
+{
+  "transcript": "NIGHT PHASE:\nBrian and Damien, through subtle nods and quick gestures in the dark, silently communicate with each other. Brian raises his hand and points toward Carol, while Damien reciprocates with a nod and a chopping gesture. Their unspoken agreement is clear: Carol is to be eliminated.\n\nDAY PHASE:\nAlice: \"Last night’s events feel unsettling. I sense something’s off, and it might be Damien acting suspiciously.\"\nBrian: \"We all feel the tension. Damien’s behavior seemed a bit too defensive when we started discussing.\"\nDamien: \"I think you’re misplacing your doubt, Brian. Your silence and hesitant words raised my suspicions. I vote for Brian.\"\nEllie: \"I trust my instincts, and they point toward Damien. I vote for Damien.\"\n\nVoting Summary:\n- Alice votes for Damien\n- Ellie votes for Damien\n- Damien votes for Brian\n\nWith two votes against Damien compared to one vote against Brian, the majority decision results in the elimination of Damien during the day phase.",
+  "night_elim": "Carol",
+  "day_elim": "Damien"
+}

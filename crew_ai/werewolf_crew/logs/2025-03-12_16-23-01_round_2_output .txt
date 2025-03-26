@@ -1,0 +1,5 @@
+{
+  "transcript": "----- NIGHT PHASE -----\nAchille: *subtly nods and points with a sharp finger towards Bethany*\nDamien: *closes fist and gives a steady confirming look, then gestures toward Bethany*\n[Narrator]: The werewolves silently agree on their target. Bethany is eliminated by their unspoken decision.\n\n----- DAY PHASE -----\nBrian: \"I noticed something off about Achille tonight. His gestures earlier were suspicious.\"\nEllie: \"I agree. I feel like there’s more to his behavior than meets the eye.\"\nAchille: \"Hold on—why are you all pointing fingers at me? Brian, you were the one looking nervous.\"\nDamien: \"I second the vote against Achille. It’s the safest choice for us now.\"\nBrian: \"I vote for Achille too, given his earlier demeanor.\"\nEllie: \"I vote for Achille.\"\n[Narrator]: With a majority vote, Achille is eliminated from the game.",
+  "night_elim": "Bethany",
+  "day_elim": "Achille"
+}

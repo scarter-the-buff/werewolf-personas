@@ -1,0 +1,6 @@
+{
+    "transcript": "NIGHT PHASE\\nBrian (whispering, with a slight nod and a discreet point): *indicates David as his target*\\nCarol (responding silently with an approving gesture): *nods and mimics the point toward David*\\nNarrator: Brian and Carol silently coordinate and agree to eliminate David from the game.\\n\\nDAY PHASE\\nAlice (speaking firmly, with a concerned look): \"I suspect someone is hiding something. I'm voting for Eve.\" [Vote: Eve]\\nFrank (pointing gently toward Eve, with a nod): \"I agree with Alice. My vote goes for Eve.\" [Vote: Eve]\\nGrace (with a quivering voice): \"I think there’s enough reason to suspect Eve. I vote for Eve.\" [Vote: Eve]\\nBrian (calm yet assertive): \"Trust your instincts – my vote is for Eve.\" [Vote: Eve]\\nCarol (hesitantly, looking at Frank): \"I feel a bit uncertain and think Frank might be suspicious. I vote for Frank.\" [Vote: Frank]\\nEve (defensively, with crossed arms): \"No, it must be Frank. I'm voting for Frank.\" [Vote: Frank]\\nNarrator: With the votes counted, Eve receives 4 votes while Frank receives 2 votes. Therefore, Eve is eliminated from the game.",
+    "night_elim": "David",
+    "day_elim": "Eve"
+}
+```

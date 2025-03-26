@@ -215,13 +215,16 @@ class WerewolfGame:
 
         return False
 
-
-
-def main():
+def play_game():
     game = WerewolfGame()
     while not game.game_over():
-        transcript = game.play_round()
-        print(f"Round {game.round_number} transcript:\n{transcript}\n")
+        game.play_round()
+
+def main():
+    for i in range(15): 
+        print(f'Game {i+1}')
+        print('====================')
+        play_game()
 
 if __name__ == "__main__":
     main()

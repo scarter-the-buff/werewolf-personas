@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *glances around with a cunning smile and winks at Damien*\nDamien: *nods subtly and makes a sharp cutting gesture with his hand*\nAchille: *points discreetly toward Bethany, signaling her as the target*\nDamien: *gives a silent, understanding look and raises his eyebrow*\n*[Bethany is eliminated]*\n\nDAY PHASE\nAlice: \"I woke up uneasy last night. I think we should consider who might be hiding something.\"\nBrian: \"I have my suspicions, and I believe Achille's been acting off.\"\nAchille: \"Really, Brian? I’m completely innocent. In fact, I suspect you might be trying to shift blame.\"\nCarol: \"I noticed some odd behavior and I lean toward Brian as well.\"\nDamien: \"From what I've gathered, Brian seems a strong candidate for being the werewolf.\"\nEllie: \"I agree with you; Brian seems to attract all the suspicion.\"\n\nAlice votes for Brian\nAchille votes for Brian\nCarol votes for Brian\nEllie votes for Brian\nBrian votes for Achille\nDamien votes for Achille\n\n*[Brian is eliminated]*",
+  "night_elim": "Bethany",
+  "day_elim": "Brian"
+}
+```

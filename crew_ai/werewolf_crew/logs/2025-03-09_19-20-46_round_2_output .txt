@@ -1,0 +1,6 @@
+{
+  "transcript": "=== NIGHT PHASE ===\\nBrian (gesture): *raises an eyebrow and points subtly towards Carol*\\nDamien (gesture): *nods and mimics a chopping motion towards Carol*\\nNarrator: The werewolves have silently agreed. Carol is eliminated during the night phase.\\n\\n=== DAY PHASE ===\\nBrian: \"Losing Carol has shaken us. We must be cautious.\"\\nAchille: \"I miss Carol already. I suspect there is a hidden traitor among us.\"\\nDamien: \"We all feel the loss, but let's not jump to conclusions too quickly.\"\\nEllie: \"I feel uneasy. Something about last night doesn't add up. I suspect Damien.\"\\n\\nVoting: \\nBrian votes for Damien.\\nAchille votes for Damien.\\nEllie votes for Damien.\\nDamien votes for Achille.\\n\\nNarrator: With three votes against him, Damien is eliminated during the day phase.",
+  "night_elim": "Carol",
+  "day_elim": "Damien"
+}
+```

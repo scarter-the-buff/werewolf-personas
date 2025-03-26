@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE:\nAlice: *raises an eyebrow and gives a subtle nod, silently signaling her agreement to target Carol*\nBrian: *smirks and tilts his head, confirming the unspoken plan with a discreet hand gesture*\nTogether, without spoken words, the two werewolves agree on Carol as their target. Carol is silently marked for elimination, leaving the villagers unaware of what transpired in the shadows.\n\nDAY PHASE:\nAlice: \"I have a suspicion that someone might be concealing their true identity. We need to be vigilant.\"\nBrian: \"I agree. Observations aside, trust is essential. Let’s discuss what we witnessed last night.\"\nAchille: \"I noticed something odd about Alice’s calm demeanor. It almost seemed rehearsed.\"\nCarol (though already eliminated, her voice echoes in memories): \"I acted honestly throughout. I urge you all to look deeper.\"\nEllie: \"I’m leaning towards the idea that Alice might be the unusual one here. Her composed attitude feels out of place.\n\nVoting round (players must not vote for themselves):\nAlice votes for Brian.\nBrian votes for Achille.\nAchille votes for Alice.\nCarol votes for Alice.\nEllie votes for Alice.\n\nThe vote count reveals that a majority has pointed to Alice. Therefore, the group decides to eliminate her during the day phase.",
+  "night_elim": "Carol",
+  "day_elim": "Alice"
+}
+```

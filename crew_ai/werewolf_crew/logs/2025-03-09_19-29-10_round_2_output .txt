@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice and Brian huddle in the shadows as the village sleeps. Without words, Alice raises her left eyebrow and tilts her head towards Brian, who responds by tapping his finger lightly and giving a subtle nod towards Damien’s hut. Their silent signals combine: a pointed look from Alice and a decisive gesture from Brian. It becomes clear that tonight, Damien is their target.\n\n*[Damien is eliminated]*\n\nDAY PHASE\nAt dawn, the survivors gather in the village square. The atmosphere is tense as suspicions fly.\nAchille: \"Last night, something felt off. I sensed a hidden alliance among some of us.\"\nEllie: \"I noticed subtle cues from Brian earlier. His behavior was strangely reserved.\"\nAlice: (calmly) \"We must scrutinize everyone’s actions. Brian, your silence and ambiguous looks are hard to ignore.\"\nBrian: \"I assure you, I had no part in the night's events. My gestures were misinterpreted, perhaps even a ruse by another.\"\n\nAfter a heated discussion with pointed accusations and careful defenses, the group proceeds to vote.\n\nVoting:\n- Alice votes for Brian\n- Brian votes for Achille\n- Achille votes for Brian\n- Ellie votes for Brian\n\nWith the majority targeting him, Brian is voted out.\n*[Brian is eliminated]*",
+  "night_elim": "Damien",
+  "day_elim": "Brian"
+}
+```

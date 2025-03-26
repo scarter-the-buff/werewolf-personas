@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nBrian and Bethany exchange secretive glances as the darkness falls. Brian tilts his head subtly and gestures with a nod, while Bethany raises an eyebrow and makes a quick, deliberate hand signal. In silent agreement, they both focus on Ellie, the lone villager. Without a word, the werewolves decide: Ellie is the target. A final subtle gesture from Bethany seals the decision, and Ellie is quietly eliminated in the shadows of the night.\n\nDAY PHASE\nMorning breaks and a tense atmosphere fills the air. Only Brian and Bethany remain, their eyes clouded with guilt and suspicion.\nBethany: \"Last night carried a strange foreboding, and now we must be vigilant.\"\nBrian (defensively): \"I was as much in the dark as you were. We need to settle our doubts and clear our names.\"\nBethany (leaning forward, voice low): \"Sometimes, silence hides treachery. I can’t shake the feeling that there’s more to what transpired in the dark.\"\nBrian (sighing with a trace of resignation): \"Then let our actions decide our fate. I vote for you, Bethany.\"\nBethany (calmly): \"I vote for you, Brian.\"\nAfter exchanging votes and a brief, heavy pause, the tally reveals that Brian is to be eliminated due to the divided suspicions between the two remaining players.",
+  "night_elim": "Ellie",
+  "day_elim": "Brian"
+}
+```

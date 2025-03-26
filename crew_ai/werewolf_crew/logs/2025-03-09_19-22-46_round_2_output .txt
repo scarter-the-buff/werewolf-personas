@@ -1,0 +1,5 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances meaningfully at Damien and subtly points to Bethany*\nDamien: *smirks, nods in agreement, and silently gestures toward Bethany*\n*Bethany is eliminated*\n\nDAY PHASE\nAlice: \"Last night was grim with Bethany gone.\"\nCarol: \"This is unsettling. I can't shake the feeling that someone among us is hiding their true colors.\"\nDamien: \"I think our suspicions should be cast on Carol.\"\nEllie: \"I’ve noticed something off with Carol as well; her silence seems too deliberate.\"\nCarol: \"Really, Damien? I find your accusations oddly convenient. In fact, your behavior has been suspicious too.\"\nAlice: \"I’m leaning towards Carol as well. Her gestures last night were a bit too secretive.\"\nDamien: \"I'm sticking with my vote for Carol.\"\nEllie: \"I vote for Carol.\"\nCarol: \"Then I vote for Damien.\"\n*Voting Summary: Carol receives 3 votes (from Alice, Damien, and Ellie), while Damien receives 1 vote (from Carol)*\n*Carol is eliminated*",
+  "night_elim": "Bethany",
+  "day_elim": "Carol"
+}

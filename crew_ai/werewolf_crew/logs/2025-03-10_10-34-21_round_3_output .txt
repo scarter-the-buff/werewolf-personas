@@ -1,0 +1,6 @@
+{
+  "transcript": "----- NIGHT PHASE -----\nAlice: *smirks and gestures towards Eve*\nBrian: *nods affirmatively and points to Eve*\nNarrator: Eve is eliminated.\n\n----- DAY PHASE -----\nCarol: \"I can’t believe we lost someone last night; we must be very cautious.\"\nDavid: \"I noticed something odd about Alice’s behavior—she seemed unusually quiet.\"\nFrank: \"Alice, you were very evasive. That raises suspicion.\"\nGrace: \"I agree. Alice, your silence speaks louder than words.\"\n\nAlice: \"I’m innocent! I have nothing to hide!\"\nBrian: \"Perhaps we should look at David; his calmness seems forced.\"\nDavid: \"Accusing me while ignoring the facts about you is deflection, Brian.\"\nCarol: \"The majority of us are leaning towards eliminating someone who appears off.\"\nFrank: \"I vote for Alice.\"\nGrace: \"I vote for Alice.\"\nBrian: \"I’m voting for Alice as well.\"\nAlice: \"I protest, but the vote is clear.\"\nNarrator: With the majority of votes, Alice is eliminated.",
+  "night_elim": "Eve",
+  "day_elim": "Alice"
+}
+```

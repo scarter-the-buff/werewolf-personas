@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *glances around furtively and raises an eyebrow at Carol*\nCarol: *returns the look, nods subtly, then points towards Bethany*\nAchille: *tilts his head, makes a small hand gesture indicating agreement, then points at Bethany*\nCarol: *smiles slightly and makes a hand gesture emphasizing the choice*\n*Bethany is eliminated*\n\nDAY PHASE\nBrian: \"I can't believe what happened last night. It seems like Bethany was taken while we were all asleep.\"\nEllie: \"Yes, it's really unsettling. We need to watch each other closely.\"\nAchille: \"I think we should consider who among us might be hiding secrets. I haven't seen Brian speak much, though.\"\nCarol: \"Really? I feel Brian has been quiet but that might just be his nature.\"\nBrian: \"Hold on, I think I'm getting a sense that Carol has been overly eager in her gestures. What do you think, Ellie?\"\nEllie: \"Now that you mention it, Carol's body language did seem a bit too calculated.\"\nAchille: \"I vote for Carol, as she was very insistent in the night phase.\"\nBrian: \"I agree, Carol seems the most suspicious right now.\"\nEllie: \"Carol, I'm voting for you too.\"\nCarol: \"This is absurd! But if that's how it goes...\"\n*Carol is eliminated*",
+  "night_elim": "Bethany",
+  "day_elim": "Carol"
+}
+```

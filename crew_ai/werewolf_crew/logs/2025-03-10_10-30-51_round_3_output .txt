@@ -1,0 +1,6 @@
+{
+  "transcript": "=== NIGHT PHASE ===\nBrian: (Glances towards Bethany with a subtle nod, indicating his intent.)\nBethany: (Returns the nod and points discreetly at Ellie across the room.)\nBrian: (Tilts his head, softly signaling with a hand gesture to confirm the target.)\nBethany: (Echoes the gesture, then gives a brief, assuring smile, finalizing their non-verbal communication.)\n-- Ellie is eliminated --\n\n=== DAY PHASE ===\nBrian: \"I believe it's best for our survival if we pinpoint where the distrust lies.\"\nBethany: \"I agree, and it seems obvious. Perhaps we need to take decisive action.\"\nBrian: \"If we vote, perhaps we can settle our differences.\"\nBethany: \"Then let’s cast our votes and decide our fate.\"\nBrian: (Votes against Bethany.)\nBethany: (Votes against Brian.)\n-- Brian is eliminated --",
+  "night_elim": "Ellie",
+  "day_elim": "Brian"
+}
+```

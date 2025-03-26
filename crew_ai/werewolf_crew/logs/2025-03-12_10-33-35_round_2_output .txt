@@ -1,0 +1,6 @@
+{
+  "transcript": "=== Night Phase ===\nDamien (werewolf): [Glances at Ellie and subtly points towards Carol’s resting spot.]\nEllie (werewolf): [Nods in agreement and mimics a chopping gesture with her hand.]\n[Both werewolves exchange a silent confirmation through facial expressions and body language, choosing Carol as the target.]\nSystem Announcement: 'Carol has been eliminated.'\n\n=== Day Phase ===\nBrian: \"I can't shake the feeling something was amiss last night. Who among us might be hiding a secret?\"\nBethany: \"I agree, Brian. We need to scrutinize our interactions. Damien, you seemed rather reserved – any thoughts?\"\nDamien: \"I was listening carefully. My intuition points to someone trying too hard to blend in.\"\nEllie: \"True, Damien. Considering the subtle hints and the flow of conversation, I suspect Bethany might be diverting attention.\"\nBrian: \"Interesting perspective. Let’s open the floor for a vote to clarify our suspicions.\"\nBethany: \"I'm troubled by these accusations, but if we're voting, I’ll abide by the collective decision.\"\nDamien: \"My vote is with Bethany.\"\nEllie: \"I concur – vote for Bethany.\"\nBrian: \"I’m leaning towards Bethany as well.\"\nSystem Announcement: 'Bethany has been eliminated by majority vote.'",
+  "night_elim": "Carol",
+  "day_elim": "Bethany"
+}
+```

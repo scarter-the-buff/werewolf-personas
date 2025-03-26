@@ -1,0 +1,5 @@
+{
+  "transcript": "NIGHT PHASE\nAlice (werewolf): *leans in with a subtle nod and raises her hand in a secretive gesture toward Achille*\nAchille (werewolf): *nods back and discreetly points toward Ellie, agreeing on the plan*\nEllie (villager): *unaware, quietly goes about her business*\n*Ellie is eliminated*\n\nDAY PHASE\nAlice: \"Last night’s events look mysterious. I feel we need to reexamine what happened, especially after that elimination.\"\nAchille: \"I agree, the circumstances weren’t clear. I think we need to decide who among us should stay and who should go.\"\nAlice: \"I lean towards eliminating you since your silence raised more questions for me.\"\nAchille: \"That’s quite contradictory coming from you, but I also feel you’ve been too cryptic.\"\nAlice: \"We’re both under suspicion now. To resolve this deadlock, let’s agree that one of us must be eliminated. I cast my vote for you.\"\nAchille: \"Since neither of us can claim complete innocence and to break the tie, I accept that my elimination is the fairest choice.\"\n*Achille is eliminated*",
+  "night_elim": "Ellie",
+  "day_elim": "Achille"
+}

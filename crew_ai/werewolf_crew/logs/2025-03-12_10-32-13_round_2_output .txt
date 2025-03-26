@@ -1,0 +1,6 @@
+{
+  "transcript": "----- Night Phase -----\\n[Achille, Werewolf]: *glances furtively and points subtly towards Carol*\\n[Damien, Werewolf]: *nods in agreement and makes a small hand gesture towards Carol*\\n(Without uttering a word, Achille and Damien silently agree on their target.)\\n[System]: Carol has been eliminated during the night phase.\\n\\n----- Day Phase -----\\n[Achille, Werewolf]: \"Good morning everyone, although I feel something is amiss after last night...\"\\n[Damien, Werewolf]: \"Yes, Carol is gone. We must be cautious and pick the right person tonight.\"\\n[Alice, Villager]: \"This is so unsettling. We have to work together to figure out who among us can be trusted.\"\\n[Ellie, Villager]: \"I agree. Let’s share our suspicions and then vote fairly.\"\\n\\n(Discussion continues as the surviving players deliberate.)\\n\\n[Voting Phase Initiated]\\n[Achille, Werewolf]: \"I vote to eliminate Alice.\"\\n[Damien, Werewolf]: \"My vote goes for Alice as well.\"\\n[Alice, Villager]: \"I vote to eliminate Damien.\"\\n[Ellie, Villager]: \"I vote to eliminate Achille.\"\\n\\n[Vote Tallies]\\n- Alice: 2 votes (Achille, Damien)\\n- Damien: 1 vote (Alice)\\n- Achille: 1 vote (Ellie)\\n\\n[System]: With the vote tally 2-1-1, Alice has been eliminated during the day phase.",
+  "night_elim": "Carol",
+  "day_elim": "Alice"
+}
+```

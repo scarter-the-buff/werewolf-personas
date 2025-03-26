@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice, with a furtive glance, subtly signals to Damien that she agrees with his silent plan. In a shared moment of understanding, Alice lightly taps her wrist while Damien, returning the gesture, lightly scratches his cheek—both clear, unspoken cues. Together, they use gestures: Alice points with a slow, deliberate motion toward Ellie, and Damien mimics a chopping gesture to solidify their agreement that Ellie will be eliminated. Meanwhile, Ellie sleeps unaware of their silent pact.\n\nDAY PHASE\nAs morning dawns, the surviving players, Alice and Damien, gather as if they are ordinary villagers. Alice breaks the uneasy silence: \"I woke up feeling unsettled last night. Did anyone else sense something unusual?\" Damien cautiously responds, \"Now that you mention it, I noticed some odd hesitancy. Perhaps we should consider our options carefully.\" Their conversation circles around vague suspicions with both trying to cast subtle doubt on the other. After a short but tense discussion, a vote is called. The final consensus results in Damien being voted out by an unspoken agreement between the two parties, leaving him as the day's elimination.",
+  "night_elim": "Ellie",
+  "day_elim": "Damien"
+}
+```

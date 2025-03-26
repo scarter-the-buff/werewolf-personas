@@ -1,0 +1,6 @@
+{
+  "transcript": "----- Night Phase -----\nAchille (gesture): *Glances around the room, gives a subtle nod and points discreetly at Carol, indicating suspicion*\nDamien (gesture): *Returns the gesture with a firm nod and a slight smile, then points decisively at Carol to signal agreement*\nSystem: The werewolves silently confer through gestures. Carol has been chosen for elimination by the werewolves.\n\n----- Day Phase -----\nBrian: \"I’m troubled by the recent events. There’s a strange silence around someone’s actions.\"\nAchille: \"I noticed something off about Brian's behavior; his silence might be hiding more than just worry.\"\nDamien: \"I agree that Brian's demeanor has been peculiar. It might be best we consider him suspicious.\"\nEllie: \"I’m with the sentiment. Brian's hesitance to speak up raises concerns.\"\n\n--- Voting ---\nBrian votes for Ellie.\nAchille votes for Brian.\nDamien votes for Brian.\nEllie votes for Brian.\nSystem: Votes have been tallied. Brian receives the highest number of votes and is eliminated.\n",
+  "night_elim": "Carol",
+  "day_elim": "Brian"
+}
+```
