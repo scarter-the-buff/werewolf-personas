@@ -35,7 +35,12 @@ class WerewolfGame:
 
     def prepare_round_input(self):
         players = self.current_players()
-        print("This is players.keys(): ", list(players.keys()))
+        # print("This is players.keys(): ", list(players.keys()))
+
+        # Have Player A print their personality so we confirm that it loaded correctly
+        print("Player A's personality: ", self.crew.agents[1].backstory, "End of personality.")
+
+
         return {
             "players": list(players.keys()),
             "round": self.round_number,

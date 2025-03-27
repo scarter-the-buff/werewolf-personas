@@ -1,0 +1,6 @@
+{
+  "transcript": "=== Night Phase ===\nBrian and Achille, both werewolves, exchange silent signals. Brian glances at Achille and deliberately points towards Ellie. Achille catches the hint, nods firmly, and points his finger towards Ellie in return. The unspoken agreement is clear — Ellie is marked for elimination. Ellie, unaware of the silent conspiracy, is eliminated during the night phase.\n\n=== Day Phase ===\nIn the morning, with Ellie gone, Brian and Achille join the day phase pretending to be villagers. Though they speak with a villager's candor, their true intentions leak through their words.\nBrian states, \"I vote for Achille,\" his tone steady and accusatory.\nAchille replies, \"I vote for Brian,\" his voice betraying a hint of nervousness.\nThe votes result in a tie, forcing the implementation of the tie-breaker rule. By this rule, Achille is eliminated from the game.",
+  "night_elim": "Ellie",
+  "day_elim": "Achille"
+}
+```
