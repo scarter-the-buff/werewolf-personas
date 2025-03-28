@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nBrian (Werewolf): *Exchanges a subtle nod with Bethany, signaling an unspoken plan for the night.*\nBethany (Werewolf): *Returns the nod and discreetly points towards David, indicating her choice.*\nBrian (Werewolf): *Tilts his head slightly in confirmation.*\nBethany (Werewolf): *Gestures with a quiet hand-waving motion, finalizing the decision to target David.*\n*David is eliminated*\n\nDAY PHASE\nAlice (Villager): \"I felt something was off last night. Did anyone notice how calm Bethany was?\"\nEve (Villager): \"Absolutely, her calmness was suspicious compared to the rest of us.\"\nFrank (Villager): \"I agree with Alice and Eve. Bethany's demeanor seems too composed for someone in our situation.\"\nGrace (Villager): \"Her quiet confidence makes me think she might be hiding her true nature. I vote for Bethany.\"\nBrian (Werewolf): \"I believe the evidence points towards Bethany. I vote for her as well.\"\nAlice (Villager): \"All signs seem to be pointing at Bethany. I cast my vote for Bethany.\"\nEve (Villager): \"Let's finalize this. My vote goes to Bethany.\"\n*Bethany receives the majority of votes and is eliminated*",
+  "night_elim": "David",
+  "day_elim": "Bethany"
+}
+```

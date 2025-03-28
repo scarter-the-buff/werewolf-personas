@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAchille and Damien huddle in the dark, exchanging quick looks and subtle gestures. Achille points discreetly toward Alice while Damien tilts his head in agreement and gives a slight nod. Their silent, coordinated signals leave no room for doubt: Alice is the chosen victim. A final glance seals their decision.\n\nAlice is eliminated\n\nDAY PHASE\nAs dawn breaks, the survivors gather with a mix of caution and determination. Achille remarks, 'I sense something off from last night, though I can't pinpoint it.' Carol adds, 'The night was strange, and we must uncover the truth together.' Damien speaks calmly, 'We need to vote now, for our safety and for clarity.' Ellie, looking resolute, states, 'I believe it's time to hold accountable whoever seems suspicious.'\n\nAchille: 'I vote for Carol.'\nCarol: 'I vote for Damien.'\nDamien: 'I vote for Carol.'\nEllie: 'I vote for Carol.'\n\nWith the majority of votes pointing clearly, Carol is eliminated.",
+  "night_elim": "Alice",
+  "day_elim": "Carol"
+}
+```

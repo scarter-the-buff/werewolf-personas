@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: *glances around furtively, then gives a subtle wink to Damien*\nDamien: *nods and points discreetly at Carol, his expression unreadable*\nBrian: *raises an eyebrow and makes a small approving gesture*\n*Carol is eliminated*\n\nDAY PHASE\nAlice: \"I can’t believe Carol was taken out last night. Something fishy is going on.\"\nEllie: \"It seems like the werewolves are among us. I noticed some odd looks last night.\"\nBrian: \"I’m as shocked as you all are, but maybe we should consider who stood too quiet.\"\nDamien: \"I think we should look at those whose behavior seems off. Perhaps someone is too eager to point fingers.\"\nAlice: \"I’m inclined to trust my instincts – Damien’s behavior has been suspiciously evasive.\"\nEllie: \"I agree. Damien’s silence and subtle deflections are concerning.\"\nBrian: \"For the good of the village, I vote to eliminate Damien.\"\nAlice: \"I vote for Damien as well.\"\nDamien: \"I must object, but I vote for Alice, though my vote is outnumbered.\"\n*Damien is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "Damien"
+}
+```

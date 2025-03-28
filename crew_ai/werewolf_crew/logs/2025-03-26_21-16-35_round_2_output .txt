@@ -1,0 +1,5 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: *raises his eyebrow and silently points at Carol*\nAchille: *nods in agreement and mimics the pointing gesture at Carol*\nBethany: (sleeps unaware)\nEllie: (sleeps unaware)\n*Carol is eliminated*\n\nDAY PHASE\nBethany: \"I can\u2019t believe Carol is gone. Does anyone have an idea what might have happened?\"\nEllie: \"I\u2019m really scared... but I think we need to figure out who among us is not being honest.\"\nBrian: \"I feel a bit uneasy about Bethany. She seems too calm given the circumstances.\"\nAchille: \"I agree with Brian, something seems off with Bethany.\"\nBethany: \"Really? I was just shocked by what happened. I have my doubts about Ellie, though.\"\nEllie: \"After hearing everyone, I\u2019m going to vote for Bethany.\"\nBrian: \"I vote for Bethany as well.\"\nAchille: \"I vote for Bethany too.\"\n*Bethany is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "Bethany"
+}

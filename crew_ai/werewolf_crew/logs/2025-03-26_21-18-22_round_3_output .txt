@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: *nods subtly and points towards Ellie*\nBethany: *smiles conspiratorially while gesturing towards Ellie*\nBrian: *gives a confirming nod, indicating agreement*\nBethany: *returns the nod and points emphatically at Ellie*\n*Ellie is eliminated*\n\nDAY PHASE\nBrian: \"It looks like one of us is already gone. We lost Ellie last night.\"\nBethany: \"Yes, and something feels off. I think we need to act before any more are lost.\"\nCarol: \"I agree. I believe we should vote someone out. For me, I suspect Brian might be hiding secrets.\"\nBrian: \"I understand your concern, Carol, but I believe that eliminating Carol might restore safety among us. My vote goes to Carol.\"\nBethany: \"I concur with Brian. I vote to eliminate Carol.\"\nCarol: \"I, however, vote for Brian.\"\n*With two votes against Carol and one against Brian, Carol is eliminated*",
+  "night_elim": "Ellie",
+  "day_elim": "Carol"
+}
+```

@@ -1,0 +1,5 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances subtly at Achille, narrowing her eyes at the sleeping figure of Ellie*\nAchille: *nods silently and points discreetly toward Ellie*\nAlice: *raises her hand in a slow, deliberate gesture, then tilts her head to confirm the decision*\nAchille: *returns a firm nod, and together they exchange brief but clear facial expressions that seal their decision*\n*Ellie is silently eliminated as the villagers remain unaware of the grim pact*\n\nDAY PHASE\nAlice: \"Last night was... unexpected. We lost a villager, and I feel the pressure is mounting.\"\nAchille: \"Indeed. But now, to secure our survival, we must decide who might be a threat.\"\nAlice: \"I think it’s time we act. I vote for you, Achille, to be eliminated—if that spares us from later suspicions.\"\nAchille: \"I can’t vote myself, so I must vote for you, Alice. However, our votes have crossed paths in this cursed game.\"\nAlice: \"Our conflicting votes have sealed a twist of fate. The vote stands.\n*Achille is eliminated*\"",
+  "night_elim": "Ellie",
+  "day_elim": "Achille"
+}

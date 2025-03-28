@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Brian with a secretive smile and subtly gestures to Carol*\nBrian: *nods and points discreetly toward Carol, trying to catch Alice's eye*\nAlice: *raises an eyebrow and repeats the gesture toward Carol*\nBrian: *smirks and gives a slight thumbs-up, sealing the silent agreement*\n*[Carol is eliminated]*\n\nDAY PHASE\nAlice: \"It seems we lost someone last night. I have a feeling it might have been Carol.\"\nBrian: \"Yes, Carol’s been on my mind as well. It's odd how she acted before disappearing.\"\nAchille: \"I can’t believe Carol is gone. But that makes me wonder if someone else might be hiding something.\"\nEllie: \"I’m not sure, but I feel that Achille’s been unusually quiet and observant. Maybe we should consider him?\"\nAlice: \"Now that you mention it, Achille does seem a bit too reserved.\"\nBrian: \"I lean towards Achille as well.\"\nAchille: \"I’m surprised by this. I’m just trying to stay out of trouble here, but if you think I’m suspicious, I can’t argue with that.\"\nEllie: \"My vote goes with Achille. He’s the common thread in the doubts that have been raised.\"\n*[Achille is eliminated]*",
+  "night_elim": "Carol",
+  "day_elim": "Achille"
+}
+```

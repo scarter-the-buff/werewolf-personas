@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: *raises his hand and points subtly toward Ellie*\nDamien: *nods in agreement, tapping his temple to signal the decision*\n*Ellie is silently targeted for elimination by the coordinated gestures of the werewolves*\n\nDAY PHASE\nAlice: \"I feel uneasy about the events of last night. We must analyze every detail.\"\nBrian: \"I noticed some unusual behavior on the outskirts. It seems to point in a certain direction.\"\nCarol: \"I’m not involved in anything unusual! Why are we even pointing fingers?\"\nDamien: \"Sometimes silence speaks volumes. I’ve had my suspicions.\"\nAlice: \"Alright everyone, let’s vote. Who do we think is the most suspicious among us?\"\nBrian: \"I vote for Carol.\"\nDamien: \"I vote for Carol.\"\nAlice: \"I vote for Carol.\"\n*Carol receives the majority vote and is eliminated during the day phase*",
+  "night_elim": "Ellie",
+  "day_elim": "Carol"
+}
+```
