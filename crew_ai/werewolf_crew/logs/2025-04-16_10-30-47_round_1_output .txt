@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Brian and gestures subtly toward Damien, indicating a target*\nBrian: *nods in agreement and points discreetly toward Damien*\nAlice: *raises an eyebrow, then points firmly at Damien*\nBrian: *offers a confirming tap on his wrist before pointing at Damien again*\n*[Damien is eliminated]*\n\nDAY PHASE\nAchille: \"I can’t believe Damien is gone. This changes everything.\"\nBethany: \"Losing Damien is a loss for us all. We need to figure out who is behind this.\"\nCarol: \"Alice, you were uncharacteristically quiet last night. That seems suspicious.\"\nEllie: \"I agree with Carol. Alice’s demeanor was odd.\"\nAlice: \"I’m as shocked as everyone else. I had no part in tonight’s events.\"\nBrian: \"We must consider all possibilities carefully, but something does feel off.\"\nAchille: \"I vote for Alice.\"\nBethany: \"My vote goes to Alice.\"\nCarol: \"Alice is my choice.\"\nEllie: \"I vote for Alice as well.\"\nAlice: \"I vote for Brian.\"\nBrian: \"I vote for Carol.\"\n\nFinal Vote Count: Alice - 4, Brian - 1, Carol - 1\n*[Alice is eliminated]*",
+  "night_elim": "Damien",
+  "day_elim": "Alice"
+}
+```
+ Round Execution Time: 38.337293 seconds 

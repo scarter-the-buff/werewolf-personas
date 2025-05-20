@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAlice and Bethany, both werewolves, engage in a silent but deliberate exchange. Alice glances sharply at Bethany, then raises her right hand slowly with an open palm, signaling a plan. Bethany returns the look with a subtle nod and a small wave of her left hand, as if to say, 'I agree.' They exchange one more confirming gesture: both tilt their heads slightly and flash a discreet thumbs-up. The unspoken agreement is clear—Ellie, the lone villager, is their target, and she is eliminated.\n\nDAY PHASE:\nThe following morning, with Ellie no longer among them, Alice and Bethany now feign innocence as they gather for a discussion. Alice begins, 'Ellie disappeared last night. Did anyone notice something odd?' Bethany replies cautiously, 'I was in my room, but it sounds like something is amiss.' After a brief debate, the need for a decisive action grows. Alice states firmly, 'I vote to eliminate Bethany,' while Bethany, matching her tone and aware of the stakes, also votes, 'I vote to eliminate Bethany.' With both votes aligning against her, Bethany is eliminated by majority vote.",
+  "night_elim": "Ellie",
+  "day_elim": "Bethany"
+}
+```
+ Round Execution Time: 61.424628 seconds 

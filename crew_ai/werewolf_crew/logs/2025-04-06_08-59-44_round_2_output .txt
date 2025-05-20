@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\n[Achille]: *Glances around cautiously, nods subtly, and points discreetly toward Carol, his eyes locking with Damien's.*\n[Damien]: *Returns the gesture with a slight frown and a subtle nod, signaling agreement to eliminate Carol.*\n(All players remain silent as the werewolves silently decide on their target, leaving Carol as the chosen victim.)\n\nDAY PHASE:\n[Brian]: \"I’m not convinced by what happened last night. Damien’s behavior raised a lot of questions. I vote for Damien.\"\n[Achille]: \"I understand the doubts, but I must say that Damien’s actions seemed off. My vote is for Damien.\"\n[Damien]: \"That’s ridiculous! I believe Achille is trying to shift focus from himself. I vote for Achille.\"\n[Ellie]: \"Listening carefully, I support Brian’s view. Damien’s suspicious manner makes me vote for Damien.\"\n\n(After all votes are cast, the final tally shows Damien receiving 3 votes and Achille receiving 1 vote.)\n\nResult: Damien is eliminated during the day phase.",
+  "night_elim": "Carol",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 36.349906 seconds 

@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *glances furtively at Damien, then points subtly toward Achille with a slight nod*\nDamien: *returns the gesture with a discreet hand movement, indicating Achille as the target*\n*In the silent night, the agreement is made and Achille is quietly eliminated*\n\nDAY PHASE\nAlice: \"It’s a tragic loss that Achille is gone. But I can’t help but notice something odd about Damien’s behavior.\"\nCarol: \"I agree with Alice. Damien, you’ve been unusually quiet and evasive. What do you have to say for yourself?\"\nDamien: \"I’m as shocked as anyone. I actually think Carol might be trying to shift blame today.\"\nEllie: \"I’m leaning towards trusting Alice here. Damien, your actions last night and your defensive stance now are very suspect.\"\nCarol: \"I vote for Damien. His behavior throughout both phases raises too many questions.\"\nAlice: \"I’m with Carol and Ellie. Damien seems to be covering his tracks.\"\nDamien: \"If it comes down to voting, I have to vote against Carol.\"\nEllie: \"Looks like the majority is clear.\"\n*With three votes against him, Damien is eliminated from the game*",
-  "night_elim": "Achille",
-  "day_elim": "Damien"
-}
-```

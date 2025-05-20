@@ -1,3 +1,0 @@
-{"transcript": "NIGHT PHASE\nAlice: *glances sharply towards Ellie and nods subtly, signaling her choice*\nBrian: *meets Alice's gaze, tilts his head and points discreetly at Ellie*\nEllie: *sleeps soundly, unaware of the silent conspiracy*\n*Ellie is eliminated*\n\nDAY PHASE\nAlice: \"The night has taken its toll. We must now decide who among us poses the next risk.\"\nBrian: \"I agree. For our secret to remain intact, we have to act decisively.\"\nAlice: \"I cannot vote for myself, and it seems dangerous to have lingering suspicions.\"\nBrian: \"Indeed. To secure our position, we both vote accordingly.\"\n*Both cast their votes, leading to Brian receiving the majority*\n*Brian is eliminated*",
-"night_elim": "Ellie",
-"day_elim": "Brian"}

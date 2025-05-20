@@ -1,0 +1,7 @@
+{
+  "transcript": "=== Night Phase ===\nDamien: *exchanges a secretive glance with Ellie, nodding and tilting his head to signal his intent to eliminate a villager*\nEllie: *raises an eyebrow and gives a subtle thumbs-up in response, her smile betraying nothing of her inner thoughts*\n[Through a series of discreet gestures and facial expressions, both werewolves silently agree to target Bethany]\n\n[Moments later, word spreads through the silence of the night - Bethany has been eliminated.]\n\n=== Day Phase ===\nModerator: \"Bethany was eliminated during the night phase.\"\nAlice: \"I can hardly believe Bethany is gone. Something doesn't add up here!\"\nCarol: \"Yes, one of us must be hiding a secret. Damien's behavior seemed suspicious last night.\"\nDamien: \"This is absurd. I’m just as shocked as you are. I think Carol is trying to distract us from the real culprits.\"\nEllie: \"I understand your concerns, but I lean towards voting for Damien; his actions last night raised some red flags for me.\"\n\n[Vote Casting:]\nAlice votes Damien\nCarol votes Damien\nDamien votes Carol\nEllie votes Damien\n\n[Vote Tally: Damien - 3 votes, Carol - 1 vote]\nModerator: \"The votes are in. Damien is eliminated from the round.\"",
+  "night_elim": "Bethany",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 28.909575 seconds 

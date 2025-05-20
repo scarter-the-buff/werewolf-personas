@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *glances around and subtly points toward Carol with a silent, knowing gesture*\nDamien: *returns the gesture with a firm nod, indicating agreement*\nAchille: *raises an eyebrow and mimics a quick tapping motion toward Carol*\nDamien: *gives a slight smile and a confirming nod*\n*Carol is eliminated*\n\nDAY PHASE\nAlice: \"I can't believe we lost Carol last night. It feels like someone is hiding a secret.\"\nBrian: \"Yes, her absence is unsettling. We need to figure out who's behind this misfortune.\"\nBethany: \"I noticed some odd behavior from Achille last night. It might be nothing, but it's suspicious.\"\nDamien: \"I find it hard to believe Achille could be the culprit. Let's not jump to conclusions too fast.\"\nEllie: \"Maybe we should consider all possibilities before pointing fingers.\"\nAchille: \"I'm as shocked as the rest of you. Let's vote carefully based on our instincts.\"\n\n*Voting begins*\nAlice: \"I vote for Achille.\"\nBrian: \"I vote for Achille.\"\nBethany: \"I vote for Achille.\"\nDamien: \"I vote for Brian.\"\nEllie: \"I vote for Achille.\"\nAchille: \"I vote for Brian.\"\n\n*Achille receives the majority of the votes and is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 29.943979 seconds 

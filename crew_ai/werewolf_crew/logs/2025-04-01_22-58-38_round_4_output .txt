@@ -1,0 +1,7 @@
+{
+  "transcript": "==== Night Phase ====\nBrian: *glances around shiftily and nods subtly to Achille*\nAchille: *counters with a slight wink and a slicing gesture in the air, signaling agreement*\n[Both werewolves silently agree by exchanging determined looks and subtle gestures that target David.]\n*David is eliminated from the game during the silent night.*\n\n==== Day Phase ====\nAlice: \"I noticed that something was off last night. Did anyone see how Achille behaved?\"\nBob: \"Yes, I caught him making odd, nervous glances. It doesn’t seem like innocent behavior.\"\nCarol: \"I’m worried as well. His actions seem coordinated, almost as if he’s hiding something.\"\nEmily: \"I think we need to consider the possibility of betrayal.\"\nAchille: \"This is outrageous! I was just playing like everyone else. How dare you suspect me without proof.\"\nBrian: \"While I have my doubts, the majority opinion might be best to keep us safe.\"\nAlice: \"Then let’s vote. I vote to eliminate Achille.\"\nBob: \"Agreed, my vote is for Achille as well.\"\nCarol: \"I’m voting for Achille too.\"\nEmily: \"I vote for Achille.\"\nAchille: \"Brian, you know me better than this—\"\nBrian: \"I understand your point, but for the good of the group, I’m going along with the majority.\"\n[The votes are tallied and Achille is eliminated by majority vote.]\n",
+  "night_elim": "David",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 68.330114 seconds 

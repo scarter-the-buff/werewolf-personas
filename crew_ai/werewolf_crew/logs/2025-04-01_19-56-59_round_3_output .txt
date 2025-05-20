@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice (whispering, with a slight nod and an intentional finger signal): *gestures subtly toward Ellie*\nBrian (responding with a knowing raised eyebrow and a decisive tilt of his head): *returns the nod and makes a confirming hand gesture*\nNarrator: In the darkened hush of night, the werewolves communicate solely through gestures—an unspoken pact is sealed. Ellie, the only villager, is silently marked for elimination.\n\n----- Transition to Day Phase -----\nDAY PHASE\nNarrator: The sun rises over the village as suspicion and tension fill the air. The players gather to discuss the disturbing events of the night.\nAlice (firmly, with an accusing tone): \"I noticed a secretive nod and a signal from you last night, Brian. It felt like we agreed on something sinister.\"\nBrian (defensively, with a slight shake of his head): \"I merely confirmed what needed to be done. Our silent exchange was clear—but now it’s time to clarify our positions in the light of day.\"\nAlice (leaning forward, resolute): \"I can’t ignore that moment. That gesture pointed directly to Ellie’s fate.\"\nBrian (voice rising, determined): \"Your insistence on blaming the night’s gestures forces our hand. If we must choose, let the vote decide who among us should pay for the deceit.\"\nNarrator: After a brief but intense discussion, the vote is called. With the majority of voices pointing at him, Brian is eliminated by vote.\n",
+  "night_elim": "Ellie",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 64.998661 seconds 

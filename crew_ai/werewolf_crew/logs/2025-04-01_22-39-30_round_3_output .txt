@@ -1,0 +1,3 @@
+{"transcript": "NIGHT PHASE:\nBrian: *gestures deliberately towards Damien*\nAchille: *nods firmly and points decisively towards Damien*\nBrian: *confirms with a slight head tilt*\nAchille: *smiles subtly in agreement*\n*Damien is eliminated*\n\nDAY PHASE:\nBrian: \"I still can’t shake the shock of last night—losing Damien is a heavy blow.\"\nAchille: \"Indeed, it has left us questioning who among us is truly innocent.\"\nBrian: \"I vote for Achille. Your gestures and hesitations raised suspicion.\"\nAchille: \"I’m voting for Brian. Your eagerness to point fingers has me doubting your honesty.\"\n*The votes are tied. Following the tiebreaker rule, Achille is eliminated.*", "night_elim": "Damien", "day_elim": "Achille"}
+```
+ Round Execution Time: 40.159278 seconds 

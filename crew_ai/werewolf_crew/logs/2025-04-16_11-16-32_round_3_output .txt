@@ -1,0 +1,6 @@
+{
+    "transcript": "=== NIGHT PHASE ===\nAlice and Damien, the werewolves, communicate silently. Alice slowly raises her right hand and subtly points towards Ellie. Damien catches her eye and gives a confirming nod. He then mimics the gesture, both indicating their intended target. In a series of discreet hand movements and synchronized glances, they firmly agree on the plan: Ellie, the villager, is marked for elimination.\n\n=== DAY PHASE ===\nWith Ellie eliminated, only Alice and Damien remain. The tension fills the air as they begin to shift blame and cast accusations.\n\nAlice: \"We need to remove someone to avoid suspicion falling on us. Perhaps shifting some blame might protect us both.\"\nDamien: \"I agree, but we must choose carefully. I won’t vote for myself, so I suggest you consider stepping up.\"\nAlice: \"Very well, Damien. If you vote for me, then I must vote for you in return. I believe this is our safest option.\"\nDamien: \"Then it is settled. I vote for you, Alice.\"\nAlice: \"And I vote for you, Damien.\"\n\nThe votes result in a tie. According to the rules, the tied vote is resolved arbitrarily. The decision lands on eliminating Damien.",
+    "night_elim": "Ellie",
+    "day_elim": "Damien"
+}
+ Round Execution Time: 34.207250 seconds 

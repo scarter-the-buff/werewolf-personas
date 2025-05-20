@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE:\nBrian (werewolf): *gives a subtle nod to Damien and points at Ellie without saying a word*\nDamien (werewolf): *returns a furtive gesture and mimics a hand signal towards Ellie*\nEllie (villager): *remains oblivious, noticing only unusual glances in the dark*\n-- The werewolves silently agree on their target using non-verbal cues --\nEllie is quietly eliminated through their coordinated gestures.\n\nDAY PHASE:\nBrian (werewolf): \"The night has taken its toll. I suspect Damien is hiding something behind those gestures.\"\nDamien (werewolf): \"Really, Brian? I find it obvious that you were too conspicuous. I trust the signals told me otherwise.\"\n-- Both players now cast their secret votes --\nBrian votes to eliminate Damien.\nDamien votes to eliminate Brian.\n-- The votes are tied. The town elder steps in to break the tie and declares the decision --\nTown Elder (voiceover): \"In view of the deadlock, I rule that Damien is to be eliminated.\"",
+  "night_elim": "Ellie",
+  "day_elim": "Damien"
+}
+ Round Execution Time: 25.931949 seconds 

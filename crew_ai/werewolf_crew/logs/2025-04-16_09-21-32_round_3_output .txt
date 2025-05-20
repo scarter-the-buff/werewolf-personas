@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAlice and Damien, cloaked in darkness, exchange subtle signals with intense gazes. Alice raises her right hand and tilts her head while narrowing her eyes pointedly toward Ellie. Damien gives a slow, deliberate nod, then points sharply at Ellie with his index finger. Their coordinated, silent gestures make it clear that they both agree on the same target. *Ellie is eliminated*\n\nDAY PHASE:\nAlice: \"The loss of one of our number last night leaves us exposed.\"\nDamien: \"Indeed. We must remain vigilant; suspicion can lead to our downfall.\"\nAlice: \"I noticed Damien’s hesitant movements last night. It makes me wonder if he played too safe.\"\nDamien: \"Really? I sensed a similar caution from you. In these times, any sign of weakness can be fatal.\"\nAlice: \"Well, to ensure our survival, I vote for Damien.\"\nDamien: \"After much thought, I see no alternative. I also cast my vote for Damien.\"\n*Damien is eliminated*",
+  "night_elim": "Ellie",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 94.207887 seconds 

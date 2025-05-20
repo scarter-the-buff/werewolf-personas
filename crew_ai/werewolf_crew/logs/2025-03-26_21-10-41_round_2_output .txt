@@ -1,5 +1,0 @@
-{
-  "transcript": "----- Night Phase -----\nBrian (werewolf): *nods subtly and taps his temple with a gentle gesture*\nCarol (werewolf): *raises an eyebrow and tilts her head in silent agreement*\n*Through their unspoken signals, Brian and Carol agree to eliminate Alice*\nNote: Alice is eliminated from the game.\n\n----- Day Phase -----\nBrian: \"Last night was eerie. I suspect there’s more to Bethany’s behavior than meets the eye.\"\nCarol: \"I felt a strange vibe as well; my intuition points toward Bethany.\"\nBethany: \"I’m being accused unfairly! I see hints of deceit in Carol’s actions. I vote for Carol.\"\nEllie: \"I’m not convinced by Bethany's protest, and I feel Brian and Carol might be concealing secrets. I vote for Bethany.\"\n\nVotes:\nBrian votes for Bethany.\nCarol votes for Bethany.\nBethany votes for Carol.\nEllie votes for Bethany.\n\nResult: Bethany receives 3 votes and Carol receives 1 vote.\nNote: Bethany is eliminated from the game.",
-  "night_elim": "Alice",
-  "day_elim": "Bethany"
-}

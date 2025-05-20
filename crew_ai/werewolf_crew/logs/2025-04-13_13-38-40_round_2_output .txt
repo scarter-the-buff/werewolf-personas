@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Brian and then subtly points toward Achille*\nBrian: *nods quietly and raises his eyebrows in agreement*\nAlice: *motions with a slight smile toward Achille, indicating the target*\nBrian: *gives a thumbs up, sealing the decision*\n*Achille is eliminated*\n\nDAY PHASE\nBethany: \"I still can’t believe Achille was taken last night. Who do you think could be behind this?\"\nEllie: \"I’m really confused. We need to make sure we’re not letting the culprits hide among us.\"\nAlice: \"I was asleep most of the night. It might have been a coordinated, but random, act by whoever was watching.\"\nBrian: \"I honestly don’t remember much either. It could be anyone.\"\nBethany: \"Something feels off about Brian’s silence. I think we should consider him seriously.\"\nEllie: \"I agree. Brian, you’ve been unusually quiet. I vote for you.\"\nAlice: \"It might be best if we eliminate Brian and see if that brings clarity.\"\n*Brian is eliminated*",
+  "night_elim": "Achille",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 38.082229 seconds 

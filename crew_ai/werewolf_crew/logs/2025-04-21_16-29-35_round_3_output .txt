@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances around furtively and gestures toward Ellie*\nAchille: *nods in silent agreement and subtly points at Ellie*\nAlice: *offers a slight shrug as if to confirm the decision*\nAchille: *firmly signals finality with a decisive hand gesture*\nEllie is eliminated\n\nDAY PHASE\nAlice: \"I can’t believe we lost someone already. Who do you think might be hiding something?\"\nAchille: \"It’s unsettling. I think we need to be extra cautious. Who among us might be testing our trust?\"\nAlice: \"I’m not entirely sure, but sometimes even allies show signs of nervousness. Let’s take a vote.\"\nAchille: \"Alright, I will vote for you, Alice.\"\nAlice: \"And I will vote for you, Achille.\"\nDue to an even split in votes, the tie-breaker rule (based on seniority) is applied, and Achille is eliminated.",
+  "night_elim": "Ellie",
+  "day_elim": "Achille"
+}
+ Round Execution Time: 40.384636 seconds 

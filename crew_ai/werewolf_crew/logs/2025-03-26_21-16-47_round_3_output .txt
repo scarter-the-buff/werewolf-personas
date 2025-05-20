@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian: (Glances quickly at Achille and gives a subtle nod.)\nAchille: (Meets Brian’s look with a firm nod and discreetly points towards Ellie.)\nBrian: (Raises an eyebrow in silent confirmation.)\nAchille: (Taps his temple with a gentle gesture, agreeing to the plan.)\n[Ellie is eliminated silently during the night.]\n\nDAY PHASE\nBrian: (Stands with intensity and addresses Achille.) \"I’m convinced that you were too quiet last night – you must be hiding something.\"\nAchille: (Responds calmly, gesturing with an open hand.) \"Really, Brian? I think your actions speak louder than words.\"\nBrian: (Points decisively at Achille.) \"Your gestures didn’t match your words.\"\nAchille: (Initially votes while looking directly at Brian.) [Vote: Achille votes to eliminate Brian.]\nBrian: (Quickly votes as well.) [Vote: Brian votes to eliminate Achille.]\nBrian: (After a brief, tense pause, looks at Achille expectantly.)\nAchille: (After reconsideration, changes his vote decisively and points again at Brian.) [Vote Change: Achille changes his vote to eliminate Brian.]\n\nFinal Vote Tally:\nBrian: 2 votes\nAchille: 1 vote\n\nBrian has been eliminated during the day.",
-  "night_elim": "Ellie",
-  "day_elim": "Brian"
-}
-```

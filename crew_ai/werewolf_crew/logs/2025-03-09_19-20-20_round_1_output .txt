@@ -1,6 +1,0 @@
-{
-    "transcript": "NIGHT PHASE\n[Alice]: *nods subtly at Brian, signaling a plan*\n[Brian]: *raises an eyebrow and gestures quietly towards Bethany*\n[Achille]: *sleeps restlessly, unaware of the secret exchange*\n[Bethany]: *sleeps peacefully, unaware of the looming danger*\n[Carol]: *lies quietly, her eyes half-open in the dark*\n[Damien]: *dozes on, oblivious to the whispers of night*\n[Ellie]: *remains silent, lost in her dreams*\n*[Bethany is eliminated]*\n\nDAY PHASE\n[Alice]: \"I woke up shocked; something must have happened during the night.\"\n[Brian]: \"I have no idea how this happened, but we need to find out who among us is responsible.\"\n[Achille]: \"The silence of the night was eerie. It wouldn't surprise me if someone among us had dark secrets.\"\n[Carol]: \"I noticed a strange tension last night. We need to carefully consider any odd behavior.\"\n[Damien]: \"We must vote carefully; our decision could avert further risks.\"\n[Ellie]: \"Let's discuss calmly and choose someone who seems suspicious.\"\n*[Alice is eliminated]*",
-    "night_elim": "Bethany",
-    "day_elim": "Alice"
-}
-```

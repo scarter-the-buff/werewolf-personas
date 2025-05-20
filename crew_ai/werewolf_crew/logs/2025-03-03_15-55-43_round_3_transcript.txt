@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *gestures to Damien* \nBrian: *nods* \nAlice: *gestures to Damien* \nBrian: *nods* \nAlice: *taps Villager 1 on the shoulder*\n*Villager 1 is eliminated*\n\nDAY PHASE\nBrian: \"Looks like Damien was eliminated last night.\"\nAlice: \"So we start with six.\"\nVillager 2: \"Hey Villager 3, you've been quiet. What do you think?\"\nVillager 3: \"I think Alice has been acting strange.\"\nVillager 4: \"I agree. Alice, any thoughts?\"\nAlice: \"I'm just as surprised as you are!\"\nBrian: \"Let's focus on finding the real werewolf.\"\nVillager 2: \"I still suspect Alice.\"\nVillager 3: \"Yeah, I vote Alice.\"\nVillager 4: \"Alice gets my vote too.\"\nAlice: \"Well, I vote Villager 3.\"\nBrian: \"I'll vote Villager 3 as well.\"\n\n*Alice is eliminated by majority vote*",
-  "night_elim": "Damien",
-  "day_elim": "werewolf_Alice"
-}
-```

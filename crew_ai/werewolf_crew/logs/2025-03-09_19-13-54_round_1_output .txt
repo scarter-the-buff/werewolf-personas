@@ -1,5 +1,0 @@
-{
-  "transcript": "----- NIGHT PHASE -----\nBrian (werewolf): *gestures subtly towards Bethany*\nDamien (werewolf): *nods to Brian and points at Bethany*\n\n*Bethany is quietly removed from the village as the werewolves consummate their secret pact.*\n\n----- DAY PHASE -----\nAlice (villager): \"I can’t believe Bethany is gone... who could have done this?\"\nAchille (villager): \"I noticed Damien seemed unusually quiet last night...\"\nCarol (villager): \"I’m suspicious of Damien. His behavior was odd when everyone else was anxious.\"\nEllie (villager): \"I think we should take a close look at Damien’s actions.\"\nBrian (werewolf pretending to be villager): \"I’m not saying it’s him, but we need to consider every possibility.\"\nDamien (werewolf): \"I assure you, I had nothing to do with this, but if you all believe there’s something off, I understand the vote.\"\n\nEach player casts their vote (note: no one votes for themselves).\nThe majority of the votes are directed against Damien.\n\n*The votes are tallied, and the decision is made: Damien is eliminated from the game.*",
-  "night_elim": "Bethany",
-  "day_elim": "Damien"
-}

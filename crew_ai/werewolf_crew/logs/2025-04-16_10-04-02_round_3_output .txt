@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Achille with a knowing smile, slowly nods toward Ellie*\nAchille: *raises his eyebrow, points subtly at Ellie, then nods at Alice to confirm the silent plan*\nAlice: *gives a slight hand gesture emphasizing the decision*\nAchille: *mimics a sealing motion with his fingers in the air*\n*Ellie is quietly surrounded and eliminated during the silent agreement*\n\nDAY PHASE\nAlice: \"I can’t shake the feeling that last night’s move was calculated. We need to be extra cautious now.\"\nAchille: \"Caution, yes, but it seems some of us might be deflecting attention. Who truly benefits from this?\"\nAlice: \"I’m simply observing the details. But if we are to move forward, our strategy should be clear.\"\nAchille: \"Clear indeed. Perhaps an honest vote might show where our loyalties lie.\"\nAlice: \"Very well. I vote for you, Achille.\"\nAchille: \"And I vote for you, Alice.\"\n*With both players voting for each other, a tie-breaker is invoked, resulting in the decision to eliminate Achille*",
+  "night_elim": "Ellie",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 100.085389 seconds 

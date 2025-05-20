@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian: *glances at Achille with a subtle nod, signaling a plan in hushed silence*\nAchille: *raises an eyebrow and discreetly points toward Alice with a knowing smile*\nBrian: *returns the nod, confirming the silent agreement*\nAchille: *offers one final subtle gesture toward Alice to seal the decision*\n*Alice is silently eliminated by the werewolves during the night phase*\n\nDAY PHASE\nBethany: \"I can’t believe one of our own was taken last night. We really need to figure out who we can trust.\"\nEllie: \"I noticed Brian was oddly calm throughout. That behavior seems a bit off to me.\"\nBrian: \"I was just observing the discussion, but maybe we should also consider others’ behavior—I mean, some seem too quiet.\"\nAchille: \"If you ask me, Brian’s vague statements and unwillingness to fully contribute make him more suspicious.\"\nBethany: \"I agree. For the safety of the village, I’m voting to eliminate Brian.\"\nEllie: \"Count me in. Brian... just doesn’t add up.\"\n\nVoting:\nBethany votes for Brian\nEllie votes for Brian\nAchille votes for Brian\nBrian votes for Ellie\n\n*Brian receives the majority of votes and is eliminated during the day phase.*",
-  "night_elim": "Alice",
-  "day_elim": "Brian"
-}
-```

@@ -1,0 +1,7 @@
+{
+    "transcript": "NIGHT PHASE\nBrian: *points decisively toward Bethany*\nDamien: *nods in silent agreement and tilts his head slightly toward Bethany*\n*Bethany is silently eliminated from the game by the coordinated gestures of Brian and Damien*\n\nDAY PHASE\nAlice: \"I can’t believe Bethany is gone! This is devastating.\"\nAchille: \"Something feels off about how this happened... we must scrutinize everyone’s behavior.\"\nCarol: \"I noticed Brian acting strangely last night. His lingering glances and gestures were suspicious.\"\nEllie: \"Exactly, Brian! Your actions don’t add up.\"\nBrian: \"I’m innocent! It was Damien who was throwing suspicious looks.\"\nDamien: \"No, no! Brian was the one deflecting blame. Look at him, trying to shift focus!\"\n\nVoting Round:\nAlice votes to eliminate Brian.\nAchille votes to eliminate Brian.\nCarol votes to eliminate Brian.\nEllie votes to eliminate Brian.\nBrian votes to eliminate Damien.\nDamien votes to eliminate Alice.\n*With a majority of four votes, Brian is eliminated from the game.*",
+    "night_elim": "Bethany",
+    "day_elim": "Brian"
+}
+```
+ Round Execution Time: 75.589416 seconds 

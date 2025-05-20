@@ -1,0 +1,6 @@
+{
+  "transcript": "----- Night Phase -----\nAlice: *raises eyebrow, nods subtly towards Brian*\nBrian: *gives a discreet thumbs-up and points towards Bethany*\nAlice: *gestures towards Bethany while maintaining eye contact with Brian*\nBrian: *nods in agreement*\nBethany: *silently exits the circle as her fate is sealed*\n\n----- Day Phase -----\nAchille: \"I have a gut feeling that something's off tonight. Who do you all suspect?\"\nCarol: \"We need to be careful. Let's analyze everyone’s moves before deciding.\"\nDamien: \"Brian, I've noticed you’ve been a bit too quiet. I think something is up.\"\nEllie: \"I agree with Damien. My vote goes to Brian.\"\nAlice (smiling innocently): \"I'm not entirely sure yet, but I'm leaning towards Carol. My vote is for Carol.\"\nBrian (calmly): \"I also suspect Carol. I vote for Carol.\"\nAchille: \"Final vote from me – I vote for Brian.\"\nCarol: \"I believe Brian has been acting strangely. I vote for Brian.\"\nDamien: \"Brian is my pick too.\"\nEllie: \"I’m with Damien – Brian gets my vote.\"\n\nVote Tally:\n- Votes for Carol: Alice, Brian\n- Votes for Brian: Achille, Carol, Damien, Ellie\n\nWith the majority of votes against him, Brian is eliminated from the game.",
+  "night_elim": "Bethany",
+  "day_elim": "Brian"
+}
+ Round Execution Time: 51.582361 seconds 

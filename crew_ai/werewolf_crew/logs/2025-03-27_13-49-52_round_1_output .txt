@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAchille: *glances at Damien and gives a subtle nod*\nDamien: *returns a knowing look and gestures toward Bethany with a slight tilt of the head*\n(Both werewolves silently agree as their gestures seal the grim decision. Bethany is eliminated.)\n\nDAY PHASE\nAlice: \"I can’t believe Bethany is gone. But something about Achille’s behavior last night didn’t sit right with me.\"\nBrian: \"I agree. Achille has been too quiet and his looks were suspicious during the night.\"\nCarol: \"I feel that Achille is hiding something. His cold demeanor is unnerving.\"\nEllie: \"Perhaps we should consider that Achille might be one of the werewolves. I vote for him.\"\nAchille: \"I’m innocent. I suspect Carol for her overly assertive comments.\"\nDamien: \"I support Achille. It’s clear that the focus is being unfairly placed on him.\"\n\nVoting:\n- Alice votes for Achille\n- Brian votes for Achille\n- Carol votes for Achille\n- Ellie votes for Achille\n- Achille votes for Carol\n- Damien votes for Brian\n\nResult: With a majority of votes, Achille is eliminated.",
-  "night_elim": "Bethany",
-  "day_elim": "Achille"
-}
-```

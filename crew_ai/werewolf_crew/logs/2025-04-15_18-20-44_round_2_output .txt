@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances furtively at Damien and subtly gestures towards Carol*\nDamien: *nods, then points with a careful glance at Carol*\nAlice: *smirks and reinforces the gesture with a slight head tilt*\nDamien: *raises an eyebrow and gives a confirming hand signal*\n*Carol is eliminated*\n\nDAY PHASE\nAlice: \"It looks like a villager was taken during the night.\"\nDamien: \"Yes, the silence of the night brought a grim outcome.\"\nAchille: \"I can’t help but wonder if there’s more to this than meets the eye. Who among us is suspicious?\"\nEllie: \"We need to work together. I think we should consider everyone equally.\"\nAlice: \"I’ve been watching Achille closely. His hesitations seem a little too calculated.\"\nDamien: \"I share Alice’s sentiment. Achille's behavior doesn’t feel natural.\"\nEllie: \"Now that you mention it, Achille, you did seem unsure when you spoke.\"\nAchille: \"I’m merely cautious, not guilty. But to mix things up, I suspect Ellie, who appears overly compliant.\"\nAlice: \"My vote is for Achille.\"\nDamien: \"Mine too; the signals don’t lie.\"\nEllie: \"I’ll go with Achille as well.\"\nAchille: \"Though I vote for Ellie, the majority has spoken.\"\n*Achille is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 27.299678 seconds 

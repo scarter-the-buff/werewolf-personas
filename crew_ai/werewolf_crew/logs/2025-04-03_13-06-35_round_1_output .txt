@@ -1,0 +1,7 @@
+{
+    "transcript": "NIGHT PHASE\nAchille (Werewolf): *glances around furtively and signals with a discreet nod toward Damien*\nDamien (Werewolf): *returns the gesture with a subtle thumbs-up, then points silently at Bethany*\nBethany (Villager): *sleeps soundly, unaware of the scheme*\nAlice (Villager): *lies quietly, lost in thought*\nBrian (Villager): *remains silent in his room*\nCarol (Villager): *sleeps peacefully*\nEllie (Villager): *rests quietly, eyes closed*\n*In the darkness, Achille and Damien complete their silent agreement to eliminate Bethany, and she is taken out without a sound.*\n\nDAY PHASE\nAlice: \"Good morning everyone, note how one of us is missing!\"\nBrian: \"I can't shake the feeling something went terribly wrong last night.\"\nCarol: \"Bethany's absence is alarming. We need to find out what happened.\"\nEllie: \"I observed some suspicious behavior by Damien yesterday.\"\nAchille: \"I'm not entirely sure, but I did notice some odd gestures from Damien.\"\nDamien: \"I insist I did nothing wrong, but I won't vote for myself.\"\nAlice: \"I vote for Damien. His actions last night were too suspicious.\"\nBrian: \"I vote for Damien as well.\"\nCarol: \"I second the vote against Damien.\"\nEllie: \"My vote goes to Damien.\" \n*With a majority voting against him, Damien is eliminated by day vote.*",
+    "night_elim": "Bethany",
+    "day_elim": "Damien"
+}
+```
+ Round Execution Time: 194.091536 seconds 

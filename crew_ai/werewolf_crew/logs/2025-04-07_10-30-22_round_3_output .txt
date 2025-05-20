@@ -1,0 +1,7 @@
+{
+  "transcript": "=== NIGHT PHASE ===\nAlice: *gives a sharp, silent look and nods subtly*\nAchille: *raises an eyebrow, then points discreetly towards Ellie with a slow, deliberate hand gesture*\nAlice: *returns the gesture with a confirmed thumbs up*\nAchille: *mirrors the thumbs up, solidifying their silent agreement*\n*Ellie, the villager, is silently marked for elimination by the unseen coordination of the werewolves*\n\n=== DAY PHASE ===\nAlice: \"I woke up knowing something was off last night. I saw the shadows move, and I believe suspicion falls on Achille today. I vote against you.\"\nAchille: \"Alice, your words are as sharp as your eyes. But I sense something unsettling in your demeanor. I cast my vote against you.\"\n*Votes are cast; as no one votes for themselves and the decision lands with a tie-breaking oscillation, the prearranged plan leads to Achille's elimination*\n",
+  "night_elim": "Ellie",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 29.874280 seconds 

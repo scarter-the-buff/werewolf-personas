@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: *nods subtly to Damien, silently agreeing on the plan*\nDamien: *gestures firmly towards Alice, indicating her as the target*\n*Alice is quietly approached and eliminated by the werewolves, with a swift, conspiratorial gesture from both Brian and Damien*\n\nDAY PHASE\nBethany: \"I can’t shake the feeling that one of us isn’t who they appear to be. Who could have betrayed us last night?\"\nEllie: \"The silence of the night speaks louder than words—it felt like someone had already set their plan in motion.\"\nBrian: \"I’m shocked by what happened to Alice, but accusing anyone without proof won’t bring her back.\"\nDamien: \"Sometimes, it’s the calmest among us who hide the darkest secrets. I’m noticing something off about Brian.\"\nBethany: \"I think we should vote. My gut tells me Brian might be involved.\nEllie: \"I agree with Bethany. I’m voting for Brian to safeguard our village.\"\nBrian: \"I wouldn’t do that to any of you, but it seems the suspicion falls on me…\"\n*With the majority of voices calling out for him, Brian is eliminated by vote*",
+  "night_elim": "Alice",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 72.199238 seconds 

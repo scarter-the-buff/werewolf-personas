@@ -1,0 +1,6 @@
+{
+  "transcript": "----- NIGHT PHASE -----\nBethany: (Glances subtly at Damien, then makes a covert gesture towards Brian.)\nDamien: (Recognizes the signal with a slight nod and mirrors the gesture towards Brian.)\nBethany: (Confirms with a brief, silent head tilt.)\nDamien: (Agrees with a quiet smile.)\nNarrator: The werewolves have silently agreed to eliminate Brian during the night.\n\n----- DAY PHASE -----\nAlice: \"Good morning everyone. It seems Brian was eliminated during the night.\"\nEllie: \"I noticed some unusual behavior last night. We might need to consider who acted strangely.\"\nCharlie: \"We need to discuss this calmly. Bethany, you were quite animated last night. Any thoughts?\"\nBethany: \"I did observe that Damien was behaving oddly. His size and movement caught my attention.\"\nDerek: \"I lean towards Damien as well.\"\nAlice: \"I agree with the suspicions. Let's vote responsibly. Remember, no one can vote for themselves.\"\nDamien: (Defensively) \"I wasn't involved in any odd behavior. My vote goes to Charlie.\"\nEllie: \"I vote for Damien.\"\nCharlie: \"I vote for Damien.\"\nDerek: \"My vote is for Damien as well.\"\nBethany: \"I also vote for Damien.\"\nNarrator: The votes are in. With the majority voting against him, Damien is eliminated during the day.",
+  "night_elim": "Brian",
+  "day_elim": "Damien"
+}
+```

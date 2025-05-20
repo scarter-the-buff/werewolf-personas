@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAlice: *raises her hand and nods towards Charlie in a silent, conspiratorial gesture*\nBrian: *points subtly at Charlie and gives a slight nod, confirming the plan*\n*Based on their silent agreement, Charlie is chosen as the target and is quietly eliminated from the game*\n\nDAY PHASE:\nEllie: \"I woke up to find that someone is missing. We need to be very careful tonight.\"\nBrian: \"Let’s take a moment before accusing anyone. It’s too early to decide.\"\nDiana: \"I noticed Alice was acting strangely last night. I’m starting to suspect her.\"\nEdward: \"I agree with Diana. The way she behaved makes me think she might not be what she seems.\"\nFiona: \"From what I observed, my vote goes to Alice.\"\nGeorge: \"I too have my doubts about Alice and I’m voting against her.\"\nAlice: \"I’m not the one acting suspiciously here—maybe we should look at Brian instead.\"\nEllie: \"I don’t see any reason for Brian’s behavior, so my vote remains for Alice.\"\n*Vote Tally: Diana, Edward, Fiona, George, and Ellie vote for Alice*\n*With the majority vote, Alice is eliminated from the game*",
+  "night_elim": "Charlie",
+  "day_elim": "Alice"
+}
+```
+ Round Execution Time: 88.375384 seconds 

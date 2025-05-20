@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nCarol and Damien, the designated werewolves, exchange subtle glances and use discreet gestures to silently select their target. In a series of covert actions, Carol points at Brian, and Damien nods in agreement while mimicking the gesture. The unspoken consensus is reached: Brian is chosen for elimination.\nResult: Brian has been eliminated at night.\n\nDAY PHASE:\nAs dawn breaks, the surviving villagers (Alice, Carol, Damien, and Ellie) gather in the village square to discuss the unsettling events of the night. \nAlice: \"I couldn’t shake off the feeling that something didn’t add up last night. The signals we got were too deliberate.\"\nEllie: \"I agree, Alice. It seemed like someone was very measured in their movements, almost too calculated for just a villager.\"\nDamien: \"I have my suspicions too. Observing Carol closely, her subtle gestures and evasive look have raised red flags for me.\"\nCarol: \"This is absurd! I was merely trying to keep a low profile, not planning anything. In fact, I find Damian’s quietness quite suspicious.\"\nAlice: \"Based on what we all observed, I vote to eliminate Carol.\"\nEllie: \"I vote for Carol as well.\"\nDamien: \"I’ll vote for Carol too.\"\nCarol: \"I’m forced to cast my vote for Damien.\"\nWith a clear majority, the villagers decide to eliminate Carol during the day.\nResult: Carol has been eliminated at day.",
+  "night_elim": "Brian",
+  "day_elim": "Carol"
+}
+```
+ Round Execution Time: 42.281941 seconds 

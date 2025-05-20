@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances around then subtly gestures towards Carol while locking eyes with Bethany*\nBethany: *nods and points at Carol with a decisive gesture*\nAlice: *makes a sign of agreement with Bethany, indicating Carol as the target*\n*Carol is quietly eliminated during the night phase*\n\nDAY PHASE\nAlice: \"It seems we lost someone last night. I’m still shaken, but we must decide our next move.\"\nBethany: \"Yes, it was unsettling. I wonder if our instincts are aligned with the truth. Who do you suspect?\"\nAlice: \"I’m not sure anyone here appears overtly suspicious, but we must be cautious.\"\nBethany: \"I sense something off—perhaps one of us isn’t as genuine as we appear.\"\nAlice: \"Really, Bethany? I felt we were both grieving. However, if you think so, then...\"\nBethany: \"Based on our quiet deliberations, I feel compelled to vote for you, Alice.\"\nAlice: \"That’s surprising, as I was inclined to vote for you as well, Bethany.\"\nBethany: \"After further discussion and realizing we have to break this deadlock, we both agree that the decision must be final. With the tie-breaker discussion, it seems the consensus is to eliminate Alice.\"\n*Alice is eliminated during the day phase*",
+  "night_elim": "Carol",
+  "day_elim": "Alice"
+}
+ Round Execution Time: 15.415593 seconds 

@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances subtly at Damien, using a soft nod and a slight tilt of her head to convey her message*\nDamien: *responds with a discreet raise of his eyebrow and a quick, pointed gesture toward Ellie*\nAlice: *offers a confirming smile and a small, covert hand movement—an unspoken agreement has been established*\n*Ellie is quietly eliminated by the coordinated silent actions of the werewolves*\n\nDAY PHASE\nAlice: \"Last night, something felt very off. I couldn’t ignore the signs that pointed to a secret alliance.\"\nDamien: \"I sensed suspicion in the air too, though it's hard to tell who is really behind the masks. Still, I have my doubts.\"\nAlice: \"Given the circumstances, I’m going to cast my vote against Damien.\"\nDamien: \"I follow suit. My vote also goes to Damien.\"\n*After a brief discussion, the group unanimously votes Damien out*",
+  "night_elim": "Ellie",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 43.799707 seconds 

@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Brian and gives a subtle nod*\nBrian: *raises his eyebrow and points discreetly at Carol*\nAlice: *throws in a sideways smile and nods affirmatively*\nBrian: *mimics a thumbs-up and taps his wrist as if marking time*\nCarol: *remains unaware in sleep*\n*Carol is eliminated silently by the werewolves' decision*\n\nDAY PHASE\nAchille: \"I can’t believe Carol was taken last night. Who could have done this?\"\nEllie: \"The way Alice and Brian exchanged glances... it feels off.\"\nBrian: \"Maybe it was just an unfortunate accident. We need to be logical about this.\"\nAlice: \"I agree with Brian. We must keep calm and assess all evidence.\"\nAchille: \"I’m leaning towards suspecting someone among you. I vote for Alice.\"\nEllie: \"I’m with Achille. My vote goes to Alice.\"\nBrian: \"I vote for Achille.\"\nAlice: \"I vote for Ellie.\"\n*After tallying the votes, Alice receives the most votes*\n*Alice is eliminated in the day phase*",
+  "night_elim": "Carol",
+  "day_elim": "Alice"
+}
+```
+ Round Execution Time: 45.825446 seconds 

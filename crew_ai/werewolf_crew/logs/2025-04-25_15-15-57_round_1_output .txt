@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances around furtively, then subtly gestures toward Carol by a slight nod and a pointed look*\nBrian: *mirrors Alice's gesture with a slight head tilt, exchanging a secretive look as they both agree silently*\n*Through their discreet and synchronized gestures, it is clear that Carol has been chosen as the target*\n*Carol is quietly eliminated from the game*\n\nDAY PHASE\nAlice: \"I woke up with a bad feeling about last night. The silence seemed hiding more than it showed.\"\nBrian: \"I think we need to carefully scrutinize every behavior. Sometimes, the obvious is not what it seems.\"\nAchille: \"I noticed Brian's overly calm expression—it might be a ruse to mask his intentions.\"\nBethany: \"I agree. His calmness during a crisis is suspicious. We should consider that as a red flag.\"\nDamien: \"I also cast doubt on Brian; his demeanor last night didn’t fit with genuine concern.\"\nEllie: \"After reflecting on everyone's actions, I lean toward Brian being involved in something off.\"\n\n*Voting commences with each player casting their vote (players do not vote for themselves):*\nAlice votes for Brian.\nBrian votes for Achille.\nAchille votes for Brian.\nBethany votes for Brian.\nDamien votes for Brian.\nEllie votes for Alice.\n\n*Result: With the majority vote targeting Brian, he is eliminated during the day phase.*",
+  "night_elim": "Carol",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 38.323364 seconds 

@@ -1,6 +1,0 @@
-{
-    "transcript": "NIGHT PHASE\nBrian: *raises his hand sharply and gives a subtle nod*\nEllie: *mirrors the gesture with an approving smile and a sweeping motion of her hand*\nBrian: *points quietly at Carol*\nEllie: *paces her finger towards Carol*\n*Carol is implicitly targeted as the werewolves silently agree on her elimination*\n\nDAY PHASE\nBrian: \"It seems someone was not with us last night.\" \nEllie: \"Indeed, but we all must be vigilant. Who among us could be turning against our community?\"\nBrian: \"I suspect there might be hidden intentions here.\"\nEllie: \"I beg to differ, I think someone is trying to deceive us.\" \n(After a brief discussion, both vote on each other in a tie.)\nBrian (second vote): \"I cannot ignore the doubts now; the evidence seems to weigh against you.\"\nEllie (second vote): \"I must do the same, despite my reservations.\"\n*Brian receives the majority of votes and is eliminated*",
-    "night_elim": "Carol",
-    "day_elim": "Brian"
-}
-```

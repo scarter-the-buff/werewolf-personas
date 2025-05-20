@@ -1,0 +1,7 @@
+{
+  "transcript": "=== Night Phase ===\nAlice (werewolf) and Damien (werewolf) exchange silent gestures in the darkness. Alice tilts her head and points firmly toward Carol, while Damien nods in silent agreement. Their eyes meet and, with a final synchronized nod, they decide on their target. As the night deepens, Carol is quietly marked for elimination by the werewolves' subtle signals.\n\n=== Day Phase ===\nThe village gathers at dawn. Achille starts the discussion: \"I felt a strange silence from Alice during the night. Something seems off.\" Ellie echoes, \"Yes, I agree. Alice has been unusually calm, almost too composed,\" urging suspicion.\nDamien, attempting to deflect attention, remarks cautiously, \"Maybe we should consider that Achille might be misinterpreting the signs?\" \nAmid growing tension, votes are cast. Achille votes for Alice, Ellie casts her vote for Alice, while Damien, aiming to divert blame, votes for Achille. With the majority siding against her, the community votes to eliminate Alice.\nFinal tally: Alice receives the most votes and is eliminated.",
+  "night_elim": "Carol",
+  "day_elim": "Alice"
+}
+```
+ Round Execution Time: 51.819270 seconds 

@@ -1,0 +1,6 @@
+{
+  "transcript": "=== NIGHT PHASE ===\nBrian and Damien, the werewolves, exchange subtle gestures in the dark. Brian raises an eyebrow and gives a slight nod, while Damien mirrors the gesture with a soft smile. Their wordless agreement is clear: Carol is the chosen target. With a discreet point and a shared look, they signal Carol, who sits apart from the others. Without a sound, Carol is marked as eliminated by the werewolves.\n\n=== DAY PHASE ===\nAs dawn breaks, the remaining players gather in a circle. Brian starts, \"Last night, our actions have changed the game. Carol has been eliminated.\" Damien adds softly, \"Now we must decide who among us can be trusted.\"\nEllie chimes in, \"I believe we need to vote carefully. We all remain under suspicion.\" Achille, with a hint of worry, says, \"I’m uncertain, but we must choose someone to eliminate to secure our safety.\"\nThe conversation turns into the voting round. The votes are cast as follows:\n- Brian votes for Achille.\n- Damien votes for Achille.\n- Ellie votes for Achille.\n- Achille votes for Damien.\nWith three votes against him, Achille is eliminated by majority decision.",
+  "night_elim": "Carol",
+  "day_elim": "Achille"
+}
+ Round Execution Time: 35.385815 seconds 

@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: *whispers with a grave expression and gestures subtly toward Alice*\nDamien: *nods slowly, raising an eyebrow and pointing decisively at Alice*\nBrian: *smirks and continues to signal at Alice with a subtle hand movement*\nDamien: *makes a confirming gesture and maintains eye contact with Brian*\n*Alice is eliminated*\n\nDAY PHASE\nBethany: \"I can't believe Alice is gone. This really shakes things up.\"\nEllie: \"Yes, her absence leaves us vulnerable. We need to figure out who among us is dangerous.\"\nDamien: \"We must tread carefully; suspicions can run high on all sides.\"\nBrian: \"Let's not rush to conclusions. Everyone, please share your thoughts.\"\nBethany: \"I suspect someone might not be who they appear to be. I'm leaning towards Brian.\"\nEllie: \"I agree, Brian's behavior has been a bit off to me.\"\nDamien: \"I think we should consider voting for Brian as a precaution.\"\nBrian: \"I vote for Damien today.\"\n*After all votes are tallied, Brian receives the majority of votes and is eliminated*",
+  "night_elim": "Alice",
+  "day_elim": "Brian"
+}
+ Round Execution Time: 16.294923 seconds 

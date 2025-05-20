@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *glances at Damien and then subtly points toward Bethany with a raised eyebrow*\nDamien: *nods vigorously and uses a discreet thumb-up gesture toward Bethany*\nAchille: *makes a silent hand signal indicating agreement*\nDamien: *repeats the gesture, confirming the target*\n*Bethany is eliminated during the night phase*\n\nDAY PHASE\nAlice: \"I can't believe Bethany is gone. Who could have done this?\"\nBrian: \"It seems like we have a werewolf among us. We must be careful with our votes.\"\nCarol: \"I noticed some suspicious behavior from Damien last night. What about you all?\"\nEllie: \"I agree with Carol. Damien's actions were too subtle for comfort.\"\nAchille: \"I think it’s important that we consider everyone, but Damien's gestures seemed a bit off.\"\nDamien: \"Maybe it's not me; perhaps my friend Achille looks a bit too eager.\"\nAlice: \"Let’s vote. I vote for Damien.\"\nBrian: \"I vote for Damien as well.\"\nCarol: \"Damien seems the most likely to be a werewolf. My vote is Damien.\"\nEllie: \"I'll vote for Damien too.\"\nAchille: \"I vote for Brian.\"\nDamien: \"I vote for Achille.\"\n*After tallying the votes, Damien receives the majority and is eliminated from the game*",
+  "night_elim": "Bethany",
+  "day_elim": "Damien"
+}
+ Round Execution Time: 29.931943 seconds 

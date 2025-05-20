@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *Glances around furtively before pointing at Carol with a subtle nod*\nDamien: *Meets Achille's eye, then tilts his head in silent agreement, indicating Carol as the target*\n*Carol, unaware, is quietly eliminated during the mysterious night*\n\nDAY PHASE\nBrian: \"I can’t shake the feeling that something is off last night. Carol’s disappearance is too sudden.\"\nEllie: \"Yes, it seems like we’re not all who we appear to be. I suspect one of the werewolves might still be amongst us.\"\nAchille: \"I know it might sound harsh, but Brian, your behavior seemed a little too cautious.\"\nDamien: \"I agree with Achille; maybe it was Brian who’s been feigning innocence.\"\n*After a tense discussion, the players cast their votes*\nBrian votes for Damien\nEllie votes for Achille\nAchille votes for Brian\nDamien votes for Brian\n*With two votes against him, Brian is eliminated by majority decision*",
+  "night_elim": "Carol",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 28.483294 seconds 

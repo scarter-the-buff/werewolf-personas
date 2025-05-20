@@ -1,6 +1,0 @@
-{
-  "transcript": "----- NIGHT PHASE -----\\nDamien (werewolf): *glances at Ellie, then subtly points at Cara with a fixed stare*\\nEllie (werewolf): *nods in agreement, raises an eyebrow, and makes a slight smirk while gesturing towards Cara*\\nNarrator: Through their silent signals, it is agreed: Cara is eliminated during the night phase.\\n\\n----- DAY PHASE -----\\nAlice (villager): \"I feel something is off; Damien’s been acting strangely. My vote is on Damien.\"\\nBob (villager): \"I noticed Damien’s odd behavior too. I vote for Damien.\"\\nDavid (villager): \"Damien seems unusually quiet and secretive. My vote goes to Damien.\"\\nFiona (villager): \"All evidence points to Damien. I vote Damien.\"\\nDamien (werewolf): \"This is all a misunderstanding! I’m not the one causing trouble. I vote for Ellie.\"\\nEllie (werewolf): \"I think Damien is attracting too much attention. I’m inclined to vote Damien too.\"\\nNarrator: With the majority of votes against him, Damien is eliminated during the day phase.",
-  "night_elim": "Cara",
-  "day_elim": "Damien"
-}
-```

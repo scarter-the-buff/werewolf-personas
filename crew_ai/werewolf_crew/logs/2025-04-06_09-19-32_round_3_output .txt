@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAchille, concealed in the dim light, exchanges a subtle glance with Carol. Without uttering a word, the two werewolves communicate through a series of silent gestures – a raised eyebrow, a slight nod, and pointed looks. Their coordination is precise: a subtle yet determined pointing directs attention toward Brian, the villager. In silence and secrecy, they agree on their target, and Brian is eliminated under the cloak of night.\n\nDAY PHASE:\nWith the break of dawn, the remaining players – Achille, Carol, and Ellie – gather in a tense atmosphere to deliberate over recent events. Achille initiates the discussion: \"We must carefully examine what happened last night. There’s something unsettling in the air.\" Carol, attempting to alleviate suspicion, responds defensively, \"I’ve done nothing out of the ordinary; we all did our part for survival.\" Ellie, voice steady and analytical, adds, \"Given the events, I find it hard not to feel that one among us may still be a threat. I lean towards eliminating Carol based on subtle cues and behaviors observed.\" As the conversation intensifies, Achille reinforces Ellie's suspicion: \"There’s an undeniable hesitation in Carol’s reactions that cannot be ignored.\" With both Achille and Ellie voting against her, the majority decision is clear, and Carol is eliminated from the game.",
+  "night_elim": "Brian",
+  "day_elim": "Carol"
+}
+```
+ Round Execution Time: 36.204334 seconds 

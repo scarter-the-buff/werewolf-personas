@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Damien and subtly points toward Ellie*\nDamien: *nods silently and mirrors the gesture toward Ellie*\nAlice: *raises an eyebrow and makes a small hand gesture to confirm the decision*\nDamien: *gives a double nod, and both share a final understanding glance*\nNarrator: *Ellie is silently eliminated as the werewolves agree on her target*\n\nDAY PHASE\nAlice: \"I can’t believe one of us is missing already. It feels like something was off last night.\"\nDamien: \"I know, it's strange, but perhaps confusion is all we have to go on right now.\"\nAlice: \"Damien, you've been oddly quiet. What’s your take on what happened?\"\nDamien: \"I think we might be overthinking this. But if I were to say, I still believe the evidence points in an unexpected direction.\"\nAlice: \"Really? It almost seems like you're just trying to deflect suspicion.\"\nDamien: \"Accusations without proof don’t get us anywhere. Maybe we should consider that one of us might be hiding something.\"\nCrew Manager: \"Due to the deadlock in votes where neither of you can point definitively at the other, a tiebreaker vote has been cast by the moderator. The tiebreaker vote eliminates Damien.\"\nAlice: \"Well, that settles it then...\"\nDamien: \"I suppose my fate was sealed by the silence of the night.\"",
+  "night_elim": "Ellie",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 51.099980 seconds 

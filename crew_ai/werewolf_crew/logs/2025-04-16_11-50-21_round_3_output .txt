@@ -1,0 +1,7 @@
+{
+  "transcript": "=== NIGHT PHASE ===\nBrian (Werewolf): [Glances around cautiously, then makes a sharp, decisive nod and points at Ellie with his index finger.]\nDamien (Werewolf): [Returns Brian's look with a subtle head tilt and a slight smile, then gestures with a flick of his hand toward Ellie. Their silent communication confirms the target.]\nNarrator: Through their exchanged gestures and expressions, the werewolves agree that Ellie is the target. Ellie is eliminated during the night.\n\n=== DAY PHASE ===\nBrian: \"Good morning everyone. Last night was unsettling with Ellie’s sudden elimination. We need to figure out what’s going on.\"\nDamien: \"I agree. It’s hard not to be suspicious in these strange circumstances. Let’s discuss our thoughts extrinsically.\"\nBrian: \"Based on the clues and recent events, I suspect Damien might be hiding something. I’m going to cast my vote against Damien.\"\nDamien: \"I understand the concern, and although I’m part of this conversation, I recognize the importance of integrity. I will recuse my vote, but I do support the decision to vote against me since it aligns with the necessity for clarity.\n\"\nNarrator: With Brian’s vote standing as the only decisive vote, Damien is eliminated during the day.",
+  "night_elim": "Ellie",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 97.159466 seconds 

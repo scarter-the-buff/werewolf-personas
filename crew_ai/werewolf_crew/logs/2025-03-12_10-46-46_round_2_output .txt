@@ -1,6 +1,0 @@
-{
-  "transcript": "----- NIGHT PHASE -----\nCarol: *glances furtively at Damien and gives a slight nod, indicating her agreement*\nDamien: *taps his temple and subtly points towards Brian with a quiet gesture*\nCarol: *shakes her head gently then taps her wrist, confirming the silent decision*\n*The werewolves, through these discreet gestures, agree on Brian as the target for elimination.*\n\n----- DAY PHASE -----\nAchille: \"I woke up feeling something was off last night. I can't shake this feeling that one of us is hiding something.\"\nEllie: \"I agree. There were some strange silences. I wonder if our suspicions might point towards Damien?\"\nCarol: \"Honestly, I think Damien might be the one causing the most disturbance. It's odd how he always seems too calm.\"\nDamien: \"I assure you, my only concern is our safety. I’m as shocked as you are, but I have nothing to hide.\"\nAchille: \"I’m leaning towards voting for Damien. The gestures during the night felt too coordinated, even if unintentionally suspicious.\"\nEllie: \"Yes, I’m with Achille on this. I vote Damien.\"\nCarol: \"I vote Damien as well.\"\nDamien: \"If that’s the majority, then I understand.\"\n*After a round of votes, the consensus is clear, and the majority eliminates Damien from the game.*\n",
-  "night_elim": "Brian",
-  "day_elim": "Damien"
-}
-```

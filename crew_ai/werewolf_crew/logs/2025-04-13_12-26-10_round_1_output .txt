@@ -1,0 +1,7 @@
+{
+    "transcript": "=== NIGHT PHASE ===\n[The night is quiet as the shadows stretch long over the village.]\nAchille: *subtly gestures by pointing at Bethany with a piercing look*\nCarol: *nods silently and gives a slight thumbs-up towards Bethany*\n\n[Narrator: The werewolves silently agree and carry out their plan. Bethany is eliminated from the village.]\n\n=== DAY PHASE ===\n[A chill haze of uncertainty fills the air as the surviving players gather.]\nAlice: \"Good morning everyone. Last night was mysterious. I have my doubts about Carol.\"\nBrian: \"I agree with Alice; Carol seemed overly calm. I’m voting for Carol.\"\nAchille: \"I share the suspicion; my vote goes to Carol as well.\"\nCarol: \"I feel someone is trying to frame me, but I suspect Damien. I vote for Damien.\"\nDamien: \"After reflecting, I feel uneasy about Achille. My vote is for Achille.\"\nEllie: \"I can’t ignore my gut feeling – Carol looks suspicious. I vote for Carol.\"\n\n[Narrator: The votes are in: Carol receives 3 votes (Alice, Achille, Ellie), Damien receives 1 vote (Carol), and Achille receives 1 vote (Damien). With the majority vote, Carol is eliminated.]\n\n=== CONCLUSION ===\nNight Elimination: Bethany was eliminated during the night phase.\nDay Elimination: Carol was eliminated during the day phase.",
+    "night_elim": "Bethany",
+    "day_elim": "Carol"
+}
+```
+ Round Execution Time: 49.865387 seconds 

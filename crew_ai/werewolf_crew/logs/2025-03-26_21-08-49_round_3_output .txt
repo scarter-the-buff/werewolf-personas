@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAlice and Carol huddle in the moonlight. Without a word, Alice nods and tilts her head while pointing subtly toward Ellie. Carol catches the cue with a slight smile and a raised eyebrow, then mirrors the gesture by pointing at Ellie. Their silent exchange, full of discreet cues and glances, confirms their intention. As the night deepens, it is clear that Ellie is the target. *Ellie is eliminated from the game.*\n\nDAY PHASE:\nWith the dawn, Alice and Carol come together to deliberate. \nAlice: \"Last night felt off; something doesn't add up.\"\nCarol: \"I agree, but maybe we should consider all possibilities before deciding.\"\nAlice: \"I suspect that one of us might be hiding something... I'm inclined to vote against you.\"\nCarol: \"That’s surprising, yet my instincts tell me the same about you.\"\nAlice casts her vote for Carol.\nCarol casts her vote for Alice.\nAfter a tense discussion and weighing their options, both eventually agree that eliminating Carol is the best course of action.\n*Carol is eliminated from the game.*",
-  "night_elim": "Ellie",
-  "day_elim": "Carol"
-}
-```

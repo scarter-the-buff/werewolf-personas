@@ -1,0 +1,7 @@
+{
+  "transcript": "----- NIGHT PHASE -----\nAlice (whispering, glancing at Brian): *nods subtly and points toward Carol*\nBrian (quietly, with a slight smile): *returns the gesture by nodding and miming a pointed finger toward Carol*\nAlice (with a raised eyebrow): *gestures approval with a small nod*\nBrian (firmly, with a decisive hand motion): *signals final agreement*\n*Carol is silently and tragically eliminated during the night phase*\n\n----- DAY PHASE -----\nAchille: \"I can’t believe we lost one of our own last night. This is unsettling.\"\nBethany: \"Something wasn’t right about Carol’s situation. We need to look for clues.\"\nDamien: \"I noticed Brian looking uneasy. Could he be hiding his true role?\"\nEllie: \"I agree. Brian’s behavior was suspicious. We must consider him seriously.\"\nAlice (calmly, yet evasively): \"I really can’t point to anyone specifically without evidence.\"\nBrian (defensively): \"I’m as shocked as you all are. I have nothing to hide!\"\nAfter a brief yet intense debate, the majority of the players cast their votes. Votes are cast by Achille, Bethany, Damien, and Ellie against Brian. Recognizing the overwhelming consensus, it is decided that Brian is eliminated during the day phase.\n*Brian is voted out by majority decision*",
+  "night_elim": "Carol",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 31.420511 seconds 

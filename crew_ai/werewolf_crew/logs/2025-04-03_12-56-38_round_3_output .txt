@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Achille, nods subtly, and points towards Bethany*\nAchille: *meets Alice's look, nods in agreement, and gestures emphatically toward Bethany*\nBethany: *remains unaware as the secret signals conclude*\n*Bethany is eliminated by the werewolves*\n\nDAY PHASE\nAlice: \"I can't believe Bethany is gone... who do you suspect now?\"\nAchille: \"It’s odd that this happened so quietly. Perhaps we should decide between us.\"\nAlice: \"If we are to keep up appearances, we must choose one to eliminate.\"\nAchille: \"Agreed. I suggest we each vote, and then resolve the tie together.\"\nAlice: *points decisively at Achille while stating* \"I vote to eliminate Achille.\"\nAchille: *shakes his head and points at Alice while stating* \"I vote to eliminate Alice.\"\n*After a tense moment and a brief discussion to break the deadlock, they mutually agree that Achille will be eliminated to end the tie.*",
+  "night_elim": "Bethany",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 83.579347 seconds 

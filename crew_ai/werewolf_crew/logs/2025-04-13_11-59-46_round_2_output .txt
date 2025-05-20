@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\n-----------------------------------------------------\nDamien: (Eyes the room, exchanges a furtive nod with Ellie, then points silently toward Alice.)\nEllie: (Returns the nod and subtly tilts her head while pointing at Alice, confirming the choice.)\nNarrator: The werewolves have silently agreed to target villager Alice. As dawn breaks, Alice is eliminated from the game.\n\nDAY PHASE:\n-----------------------------------------------------\nBrian: \"I still can’t believe what happened last night. Losing Alice feels like a setup. Damien, you didn’t seem as surprised as the rest of us. What happened?\"\nBethany: \"I’m in shock, too. I noticed that both Damien and Ellie exchanged secretive looks. It makes me wonder if we’re all being misled.\"\nDamien: (Defensive) \"I assure you, I was as upset as everyone else. I only observed quietly, trying to understand the situation.\"\nEllie: (Hesitant) \"There were some odd gestures last night. Still, we need to focus on moving forward and identifying the true threat.\nBrian: \"All accounts point subtly toward Damien’s behavior. For our own safety, I think we must vote.\nBethany: \"I agree. We can’t risk another shadow attack.\"\n\n[Vote Casting]\nBrian votes: Damien\nBethany votes: Damien\nDamien votes: Ellie\nEllie votes: Damien\n\nNarrator: With three votes against him, Damien is eliminated by majority vote during the day, as the village seeks to protect itself from further harm.",
+  "night_elim": "Alice",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 79.649752 seconds 

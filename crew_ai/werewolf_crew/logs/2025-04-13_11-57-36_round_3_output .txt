@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *makes a silent decided gesture by slowly raising his eyebrow in acknowledgment*\nEllie: *returns with a discreet nod and a subtle thumbs-up*\nAchille: *points silently toward Alice, indicating the selected target*\nEllie: *mirrors the gesture with a slight tilt of her head, confirming the plan*\n*[Alice is eliminated]*\n\nDAY PHASE\nAchille: \"Good morning, Ellie. Last night’s decision still shadows our every move, doesn't it?\"\nEllie: \"Indeed, Achille. Though we concealed our scheme under cover of darkness, the weight of our actions is undeniable.\"\nAchille: \"As we now mingle with the villagers, we must appear impartial. I cast my vote, and it falls on you, Ellie.\"\nEllie: \"I understand the necessity. I, too, must vote, and my vote goes for you, Achille.\"\n*Votes: Achille votes for Ellie, Ellie votes for Achille*\nTie-breaker Decision: With an even tie, the village council decrees that Achille is eliminated.\n",
+  "night_elim": "Alice",
+  "day_elim": "Achille"
+}
+ Round Execution Time: 58.063866 seconds 

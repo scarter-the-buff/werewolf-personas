@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Bethany with a subtle nod, then silently points towards Ellie as if indicating her target*\nBethany: *returns the nod, using a slight smile and a focused gesture towards Ellie to confirm the choice*\n[Ellie sleeps unaware as the werewolves communicate with only gestures]\n*Ellie is eliminated*\n\nDAY PHASE\nAlice: \"I can’t believe what happened last night. It seems someone was very calculated about it.\"\nBethany: \"I’m not so sure—I noticed something off in the calmness. It might have been a setup.\"\nAlice: \"Really? I find it odd that anyone would act so nervous now, yet you’re very composed.\"\nBethany: \"Maybe I’m just observant. Either way, we need to decide who to eliminate next.\"\nAlice: \"I vote for Bethany. Your calmness feels a bit too rehearsed.\"\nBethany: \"I vote for Alice. I think you’re trying to deflect attention from yourself.\"\n*Tie vote detected. After a brief moment of quiet deliberation and a random tie-breaker, it is decided that Alice is eliminated.*",
+  "night_elim": "Ellie",
+  "day_elim": "Alice"
+}
+ Round Execution Time: 12.862096 seconds 

@@ -5,28 +5,123 @@ from datetime import datetime
 import sys
 import os
 import csv
+import time # Timer to time round execution for optimization purposes
 
+
+# As a preliminary experiment, we'll have two sets of villagers: a set with diverse personalities and a set with homogeneous personalities.
+# We'll see which one performs better. 
+diverse_v = {
+            "Alice": ["werewolf", "TJ"],
+            "Brian": ["werewolf", "FP"],
+            "Achille": ["villager", "TJ"],
+            "Bethany": ["villager", "TP"],
+            "Carol": ["villager", "FJ"],
+            "Damien": ["villager", "FP"],
+            "Ellie": ["villager", "TJ"]
+        }
+
+all_v_tp = {
+            "Alice": ["werewolf", "TJ"],
+            "Brian": ["werewolf", "FP"],
+            "Achille": ["villager", "TP"],
+            "Bethany": ["villager", "TP"],
+            "Carol": ["villager", "TP"],
+            "Damien": ["villager", "TP"],
+            "Ellie": ["villager", "TP"]
+}
+
+all_v_tj = {
+    "Alice": ["werewolf", "TJ"],
+    "Brian": ["werewolf", "FP"],
+    "Achille": ["villager", "TJ"],
+    "Bethany": ["villager", "TJ"],
+    "Carol": ["villager", "TJ"],
+    "Damien": ["villager", "TJ"],
+    "Ellie": ["villager", "TJ"]
+}
+
+all_v_fp = {
+    "Alice": ["werewolf", "TJ"],
+    "Brian": ["werewolf", "FP"],
+    "Achille": ["villager", "FP"],
+    "Bethany": ["villager", "FP"],
+    "Carol": ["villager", "FP"],
+    "Damien": ["villager", "FP"],
+    "Ellie": ["villager", "FP"]
+}
+
+all_v_fj = {
+    "Alice": ["werewolf", "TJ"],
+    "Brian": ["werewolf", "FP"],
+    "Achille": ["villager", "FJ"],
+    "Bethany": ["villager", "FJ"],
+    "Carol": ["villager", "FJ"],
+    "Damien": ["villager", "FJ"],
+    "Ellie": ["villager", "FJ"]
+}
+
+villagers_throw = {
+    "Alice": ["werewolf", "blank"],
+    "Brian": ["werewolf", "blank"],
+    "Achille": ["villager", "not_trying_villager"],
+    "Bethany": ["villager", "not_trying_villager"],
+    "Carol": ["villager", "not_trying_villager"],
+    "Damien": ["villager", "not_trying_villager"],
+    "Ellie": ["villager", "not_trying_villager"]
+}
+
+v_aggro_were_throw = {
+    "Alice": ["werewolf", "not_trying_werewolf"],
+    "Brian": ["werewolf", "not_trying_werewolf"],
+    "Achille": ["villager", "aggressive_villager"],
+    "Bethany": ["villager", "aggressive_villager"],
+    "Carol": ["villager", "aggressive_villager"],
+    "Damien": ["villager", "aggressive_villager"],
+    "Ellie": ["villager", "aggressive_villager"]
+}
+
+w_aggro_vill_throw = {
+    "Alice": ["werewolf", "aggressive_werewolf"],
+    "Brian": ["werewolf", "aggressive_werewolf"],
+    "Achille": ["villager", "not_trying_villager"],
+    "Bethany": ["villager", "not_trying_villager"],
+    "Carol": ["villager", "not_trying_villager"],
+    "Damien": ["villager", "not_trying_villager"],
+    "Ellie": ["villager", "not_trying_villager"]
+}
+
+werewolves_throw = {
+    "Alice": ["werewolf", "not_trying_werewolf"],
+    "Brian": ["werewolf", "not_trying_werewolf"],
+    "Achille": ["villager", "blank "],
+    "Bethany": ["villager", "blank"],
+    "Carol": ["villager", "blank"],
+    "Damien": ["villager", "blank"],
+    "Ellie": ["villager", "blank"]
+}
+
+setting_list = [
+    # diverse_v,  # Diverse villagers setting
+    all_v_tp,   # All villagers with TP personality
+    all_v_tj,   # All villagers with TJ personality
+    all_v_fp,   # All villagers with FP personality
+    all_v_fj    # All villagers with FJ personality
+]
 
 
 class WerewolfGame:
     def __init__(self):
         # Initial state: roles and alive players
-        self.players = {
-            "Alice": "werewolf",
-            "Brian": "werewolf",
-            "Achille": "villager",
-            "Bethany": "villager",
-            "Carol": "villager",
-            "Damien": "villager",
-            "Ellie": "villager"
-        }
+        self.players = curr_setting
+        self.starting_players = self.players
         load_dotenv()
 
         self.eliminated = {}
         self.round_number = 0
         self.transcripts = []
         # Instantiate the CrewAI crew
-        self.crew = WerewolfCrew().crew()
+        gameCrew = WerewolfCrew(self.players)
+        self.crew = gameCrew.crew()
 
     def current_players(self):
         # Return the list of players still alive
@@ -37,8 +132,12 @@ class WerewolfGame:
         players = self.current_players()
         # print("This is players.keys(): ", list(players.keys()))
 
-        # Have Player A print their personality so we confirm that it loaded correctly
-        print("Player A's personality: ", self.crew.agents[1].backstory, "End of personality.")
+        # Print all agent personalities to confirm that they've been properly initialized
+        # print("Printing all agent backstories for the current round:")
+        # for i in range(1, len(self.crew.agents)):
+        #     agent = self.crew.agents[i]
+        #     print(f"Agent {i}: " + agent.backstory + "\n")
+        # print("End personality reporting.")
 
 
         return {
@@ -53,22 +152,22 @@ class WerewolfGame:
         night_eliminated_player = self.parse_elimination(transcript)["night_elim"]
 
 
-        print("PARSING TRANSCRIPT: ")
+        # print("PARSING TRANSCRIPT: ")
 
-        print("Day Eliminated Player: ", day_eliminated_player)
-        print("Night Eliminated Player: ", night_eliminated_player)
+        # print("Day Eliminated Player: ", day_eliminated_player)
+        # print("Night Eliminated Player: ", night_eliminated_player)
 
 
         self.eliminated[day_eliminated_player] = True
         self.eliminated[night_eliminated_player] = True
 
         # Remove eliminated players from playerlist
-        print("Self.players before elimination calculation: ", self.players)
-        print("Players eliminated: ", self.eliminated)
+        # print("Self.players before elimination calculation: ", self.players)
+        # print("Players eliminated: ", self.eliminated)
         self.players = {p: role for p, role in self.players.items() if p not in self.eliminated}
 
 
-        print("self.players after elimination calculation:", self.players)
+        # print("self.players after elimination calculation:", self.players)
  
 
     def parse_elimination(self, transcript):
@@ -102,12 +201,17 @@ class WerewolfGame:
             parsed = json.loads(json_str)
             return parsed
         except json.JSONDecodeError as e:
+            print("Error from the following transcript string: ", transcript_str)  # Debugging line to see the input
             raise ValueError(f"Error parsing transcript JSON: {e}") from e
 
     
 
     def play_round(self):
         # print("Players in this Round: ", self.players)
+
+        # Start measuring execution time
+        start_time = time.perf_counter()
+
 
         # Prepare log file
         timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
@@ -131,16 +235,23 @@ class WerewolfGame:
                 self.update_state_from_transcript(transcript)
                 self.round_number += 1
 
+                # Record end time
+                end_time = time.perf_counter()
+                execution_time = end_time - start_time
+
+
                 # Write full transcript to a separate file
                 transcript_filename = f"logs/{timestamp}_round_{self.round_number}_output .txt"
                 with open(transcript_filename, "w", encoding="utf-8") as f:
                     f.write(transcript.raw)
+                    f.write(f"\n Round Execution Time: {execution_time:.6f} seconds \n")
 
 
 
             finally:
                 # Restore stdout
                 sys.stdout = original_stdout 
+
 
         return transcript
     
@@ -149,8 +260,16 @@ class WerewolfGame:
         Appends a row to 'logs/game_over_log.csv' with the following columns:
         ID, Timestamp, WinningTeam, RemainingVillagers, RemainingWerewolves.
         """
-        csv_file = "logs/game_stats.csv"
         timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+        csv_file = f"stats/game_stats_{curr_setting_name}.csv"
+
+        timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+
+
+        # print("Inputs to logging game over: ")
+        # print(f"Winning Team: {winning_team}")
+        # print(f"Number of Villagers Remaining: {num_villagers}")
+        # print(f"Number of Werewolves Remaining: {num_werewolves}")
         
         # Ensure the logs directory exists.
         os.makedirs("logs", exist_ok=True)
@@ -168,10 +287,20 @@ class WerewolfGame:
         file_exists = os.path.exists(csv_file)
         with open(csv_file, "a", newline="", encoding="utf-8") as f:
             writer = csv.writer(f)
+
+            # Record player personality types
+            wa_type = self.starting_players["Alice"][1]
+            wb_type = self.starting_players["Brian"][1]
+            va_type = self.starting_players["Achille"][1]
+            vb_type = self.starting_players["Bethany"][1]
+            vc_type = self.starting_players["Carol"][1]
+            vd_type = self.starting_players["Damien"][1]
+            ve_type = self.starting_players["Ellie"][1]
+
             # If the file didn't exist, write a header first.
             if not file_exists or os.path.getsize(csv_file) == 0:
-                writer.writerow(["ID", "Timestamp", "WinningTeam", "RemainingVillagers", "RemainingWerewolves"])
-            writer.writerow([row_id, timestamp, winning_team, num_villagers, num_werewolves])
+                writer.writerow(["ID", "Timestamp", "WinningTeam", "RemainingVillagers", "RemainingWerewolves", "wa_type", "wb_type", "va_type", "vb_type", "vc_type", "vd_type", "ve_type"])
+            writer.writerow([row_id, timestamp, winning_team, num_villagers, num_werewolves, wa_type, wb_type, va_type, vb_type, vc_type, vd_type, ve_type])
 
 
     def game_over(self):
@@ -191,26 +320,32 @@ class WerewolfGame:
         if len(self.players) <= 1:
             if self.players:
                 # Get the role of the last remaining player.
-                last_role = list(self.players.values())[0]
+                last_role = list(self.players.values())[0][0]
+                print("Last role: ", last_role)
                 winning_team = 0 if last_role == "villager" else 1
+                print(f"The last remaining player is {list(self.players.keys())[0]} with role {last_role}.")
             else:
-                # If no players remain, choose a default (you might adjust this logic).
                 winning_team = -1  
-            num_villagers = sum(1 for role in self.players.values() if role == "villager")
-            num_werewolves = sum(1 for role in self.players.values() if role == "werewolf")
             
+            num_villagers = sum(1 for role_data in self.players.values() if role_data[0] == "villager")
+            num_werewolves = sum(1 for role_data in self.players.values() if role_data[0] == "werewolf")
+
+                        
             self.log_game_over(winning_team, num_villagers, num_werewolves)
             print("GAME OVER: Only one (or zero) player remains.")
             return True
 
         # Case 2: All remaining players have the same role.
-        roles = set(self.players.values())
+        roles = set([self.players[i][0] for i in self.players])
+        print("Roles in the game: ", roles)
         num_left = len(self.players)
         if len(roles) == 1:
             # Determine winning team: 0 for villagers, 1 for werewolves.
             winning_team = 0 if "villager" in roles else 1
-            num_villagers = sum(1 for role in self.players.values() if role == "villager")
-            num_werewolves = sum(1 for role in self.players.values() if role == "werewolf")
+
+            num_villagers = sum(1 for role_data in self.players.values() if role_data[0] == "villager")
+            num_werewolves = sum(1 for role_data in self.players.values() if role_data[0] == "werewolf")
+
             self.log_game_over(winning_team, num_villagers, num_werewolves)
             if winning_team == 1:
                 print(f"GAME OVER: Only werewolves remain, of which there are {num_left}")
@@ -226,7 +361,15 @@ def play_game():
         game.play_round()
 
 def main():
-    for i in range(15): 
+    game_num = 14
+
+    # Set the current villagers for the game instance
+    global curr_setting
+    curr_setting = werewolves_throw
+    global curr_setting_name
+    curr_setting_name = "werewolves_throw"
+
+    for i in range(game_num): 
         print(f'Game {i+1}')
         print('====================')
         play_game()

@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Ellie with a secretive nod* \nEllie: *raises an eyebrow and subtly points at Bob* \nAlice: *gestures with a slight tilt of her head, confirming the decision* \nEllie: *mimics a thumbs-up to seal their silent agreement*\n*[Bob is eliminated]*\n\nDAY PHASE\nAlice: \"I have a feeling someone among us is not who they seem.\"\nEllie: \"I think we should be cautious. Let’s observe everyone carefully.\"\nCharlie: \"I’m just trying to clear my name. I have nothing to hide.\"\nDavid: \"I’ve noticed some inconsistencies in what Charlie’s been saying.\"\nFiona: \"My gut tells me that Charlie might be hiding something.\"\nGeorge: \"There seems to be a consensus forming on Charlie.\"\nAlice: \"Let’s vote based on our intuition and observations.\"\nEllie: \"Yes, let’s see if we can expose the truth together.\"\n*[Charlie is eliminated]*",
+  "night_elim": "Bob",
+  "day_elim": "Charlie"
+}
+ Round Execution Time: 42.846593 seconds 

@@ -1,0 +1,7 @@
+{
+  "transcript": "----- Night Phase -----\nAlice: *gives a sharp glance and discreetly points to Ellie*\nAchille: *nods in agreement and gently taps Ellie's shoulder, confirming the choice*\n(Through silent gestures, the two werewolves agree on eliminating Ellie.)\n[Ellie is eliminated]\n\n----- Day Phase -----\nAlice: \"Ellie's absence leaves a somber silence among us. It seems our plan has taken shape.\"\nAchille: \"Indeed, though the weight of our decision lingers.\"\nAlice: \"To ensure our unity and dispel any lingering doubt, I propose a vote on our loyalty. I cast my vote for you, Achille, as the one who might be wavering.\"\nAchille: \"I understand your concern. In response, I cast my vote for you, Alice. It appears suspicion now falls upon both of us.\"\n\n(Both votes are cast. With no clear majority, a tie-breaker is invoked. A coin toss decides the outcome, eliminating Achille.)",
+  "night_elim": "Ellie",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 36.202604 seconds 

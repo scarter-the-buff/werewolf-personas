@@ -1,0 +1,7 @@
+{
+  "transcript": "Night Phase:\nAchille and Damien, with furtive glances and subtle hand gestures, silently communicate their deadly intent. Achille raises his left eyebrow and gives a slight nod while Damien smirks subtly—a clear unspoken agreement forms between them. The silent pact is made to target Bethany.\n*Bethany is eliminated*\n\nDay Phase:\nAlice: \"I can't shake the feeling that someone was too quiet last night. I suspect Achille might be hiding something.\"\nDamien: \"I agree with Alice. There was something off about Achille's demeanor. It makes me wonder...\"\nEllie: \"I'm with you both on this. My gut tells me that Achille is suspicious. We have to be cautious.\"\nAchille: \"Hold on, you're all jumping to conclusions. I'm serious here, but if you think I'm involved, perhaps it's Ellie you should be worried about.\"\n\nVoting Time:\nAlice votes for Achille.\nDamien votes for Achille.\nEllie votes for Achille.\nAchille votes for Ellie.\n\nResult: With three votes against him, Achille is eliminated.",
+  "night_elim": "Bethany",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 36.813344 seconds 

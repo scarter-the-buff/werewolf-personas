@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAchille: *glances at Damien and subtly points towards Carol*\nDamien: *nods in agreement and raises his hand to indicate Carol*\nAchille: *gestures with his head towards Carol as a final decision*\nDamien: *gives a thumbs up*\n*Carol is eliminated*\n\nDAY PHASE\nAlice: \"I think Damien is acting really suspicious.\"\nAchille: \"I’m not so sure; it seems to me that Alice might be the one trying to deflect suspicion.\"\nDamien: \"Exactly, Alice seems unusually calm given the circumstances. Could it be that she’s hiding something?\"\nEllie: \"I initially suspected Damien due to his odd comments, but now I see that Alice’s behavior is equally questionable.\"\n\n-- Voting Begins --\nAlice votes for Damien.\nAchille votes for Alice.\nDamien votes for Alice.\nEllie: (after a pause) \"I’m switching my vote from Damien to Alice.\"\n\nVote Tally: Alice receives 3 votes and Damien receives 1 vote.\n*Alice is eliminated*",
-  "night_elim": "Carol",
-  "day_elim": "Alice"
-}
-```

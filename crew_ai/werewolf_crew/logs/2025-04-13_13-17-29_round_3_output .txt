@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *casts a sharp, secretive glance toward Ellie and then subtly points at Carol with a cunning smile*\nEllie: *nods slowly and returns the gesture, raising an eyebrow to confirm the silent decision*\nNarrator: *In the silent, tense night, the werewolves agree that Carol is to be eliminated. Carol is quietly removed from the game.*\n\nDAY PHASE\nAlice: \"I feel something is not right. I think one of us might be hiding a real intention. Ellie, what do you think?\"\nEllie: \"It’s funny that you say that, Alice. I’ve been nothing but cooperative. But maybe you’re overthinking things?\"\nAlice: \"Let’s not waste time with doubts. I’m going to vote against you, Ellie.\"\nEllie: \"If that’s what it takes, then I’m ready to accept the vote. I vote against you, Alice.\"\nNarrator: *After cautious deliberation and a tense vote, the majority favors eliminating Ellie. Ellie is eliminated from the game.*",
+  "night_elim": "Carol",
+  "day_elim": "Ellie"
+}
+```
+ Round Execution Time: 71.476084 seconds 

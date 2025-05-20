@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAchille (Werewolf): *makes a subtle hand gesture towards Bethany*\nDamien (Werewolf): *nods in agreement and points discreetly at Bethany*\nNarrator: The werewolves silently agree: Bethany is the chosen victim. Bethany is eliminated during the night phase.\n\nDAY PHASE:\nBrian (Villager): \"I think we need to act now; I'm voting for Damien.\"\nCarol (Villager): \"Damien seems suspicious; I'm voting for Damien.\"\nAchille (Werewolf): \"I vote for Damien as well.\"\nDamien (Werewolf): \"I cast my vote for Achille.\"\nNarrator: With three votes for Damien and one for Achille, the majority has spoken. Damien is eliminated during the day phase.",
+  "night_elim": "Bethany",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 75.762447 seconds 

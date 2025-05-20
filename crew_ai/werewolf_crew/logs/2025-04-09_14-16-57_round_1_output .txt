@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *glances at Bethany with a raised eyebrow, signaling his decision silently*\nBethany: *nods subtly and smiles slyly in response, indicating their target through a quick gesture*\nAchille: *points discreetly towards Carol, confirming the selection*\nBethany: *mirrors the gesture, both werewolves silently agreeing that Carol is the target*\n*Carol, observing the pointed gesture from a distance, is eliminated silently in the night phase*\n\nDAY PHASE\nAlice: \"We lost someone last night. I believe there's more than just chance at play.\"\nBrian: \"I noticed Bethany was acting oddly, almost as if she was guiding us away from the truth.\"\nDamien: \"Bethany's behavior struck me as rehearsed. It might be a clue.\"\nEllie: \"The conversations feel off. We need to speak up about who might really be dangerous.\"\nAchille: \"I think we should all scrutinize our actions and see if anyone is hiding something.\"\nBethany: \"Everyone, let's be careful with our allegations. We don't want to falsely accuse an innocent person.\" \n*After thorough discussion, the majority of players cast their votes. The votes lean towards eliminating Bethany*\n*Bethany is eliminated from the game during the day phase*",
+  "night_elim": "Carol",
+  "day_elim": "Bethany"
+}
+ Round Execution Time: 46.331035 seconds 

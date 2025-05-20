@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: *smirks cunningly and subtly points at Achille*\nDamien: *nods approvingly and mimics Brian's gesture towards Achille*\n(Meanwhile, villagers Achille, Carol, and Ellie sleep soundly, unaware of the secretive exchange.)\n*Achille is eliminated*\n\nDAY PHASE\nCarol: \"I can’t believe Achille was taken so suddenly. Who could be responsible?\"\nEllie: \"This is so unsettling… I wonder if we missed any clues last night.\"\nBrian: \"Perhaps it’s time to consider that someone among us is not who they claim to be.\"\nDamien: \"Right. We should be cautious and look at the signs. For me, suspicions point toward Carol.\"\nCarol: \"Me? Why would you say that? I’ve been nothing but honest.\"\nEllie: \"Let’s not jump to conclusions. We need to vote to decide who might be the threat.\"\nBrian votes: Carol\nDamien votes: Carol\nCarol votes: Brian\nEllie votes: Carol\n*With three votes against her, Carol is eliminated*",
+  "night_elim": "Achille",
+  "day_elim": "Carol"
+}
+ Round Execution Time: 30.971665 seconds 

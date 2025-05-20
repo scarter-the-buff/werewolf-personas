@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice (with a subtle nod and a quiet smile): *glances at Damien and points discreetly toward Bethany*\nDamien (raising an eyebrow and nodding thoughtfully): *returns the gesture, indicating Bethany as the target*\n[The werewolves exchange a final, silent gesture, and Bethany is quietly removed from the game.]\nElimination: Bethany has been eliminated during the night phase.\n\nDAY PHASE\nAlice: \"I think something is off with Damien. I believe he might be the one we need to eliminate.\"\nDamien (defensively, pointing toward Brian): \"No, look at Brian. He’s been acting strangely.\"\nBrian: \"I agree with Alice. Damien’s behavior has been suspicious.\"\nAchille: \"I must side with the majority here; I vote for Damien.\"\nCarol: \"I also believe Damien is the most suspect among us. My vote goes to Damien.\"\nEllie: \"All my instincts tell me that Damien isn't trustworthy. I vote for Damien.\"\n\n[After the discussion, the votes are tallied. With the majority voting, Damien is eliminated during the day phase.]\nElimination: Damien has been eliminated during the day phase.",
+  "night_elim": "Bethany",
+  "day_elim": "Damien"
+}
+ Round Execution Time: 26.852283 seconds 

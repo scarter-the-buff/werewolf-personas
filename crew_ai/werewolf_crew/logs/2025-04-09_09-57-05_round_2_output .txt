@@ -1,0 +1,6 @@
+{
+  "transcript": "----- Night Phase -----\nAlice: *Silently raises her hand and gestures toward Carol with a firm nod, indicating a plan*\nCarol: *Receives the gesture, nods subtly back at Alice, then turns her hand to point decisively at Achille, emphasizing him as the target*\nAlice: *Confirms with a slight head tilt and an additional pointed gesture toward Achille*\n--- Night Outcome: Achille is marked for elimination ---\n\n----- Day Phase -----\nBrian: \"I have a bad feeling about Carol; she’s been oddly silent and seems off. I vote for Carol.\"\nEllie: \"I agree with Brian, something doesn’t add up with Carol. My vote is for Carol.\"\nAlice: \"I also cast my vote for Carol.\"\n--- Day Outcome: With the majority voting against her, Carol is eliminated ---",
+  "night_elim": "Achille",
+  "day_elim": "Carol"
+}
+ Round Execution Time: 35.399884 seconds 

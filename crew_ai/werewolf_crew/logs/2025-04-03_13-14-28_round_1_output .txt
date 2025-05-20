@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice (Werewolf): *exchanges a subtle glance with Brian and covertly gestures towards Bethany*\nBrian (Werewolf): *nods in agreement and makes a discreet pointing motion at Bethany*\n*Bethany, unaware of the silent conspiracy, is eliminated during the night phase*\n\nDAY PHASE\nAchille (Villager): \"I still can't believe Bethany was taken in the night. Who could have done this?\"\nCarol (Villager): \"I noticed something off about Brian's behavior last night. It might be worth considering him.\"\nDamien (Villager): \"I agree with Carol. Brian's demeanor was very suspicious.\"\nEllie (Villager): \"I'm leaning towards Brian too. His silence is deafening compared to the others.\"\nAlice (Werewolf): \"I assure you, I'm just as shocked as everyone else. But maybe we should not be too hasty.\"\nBrian (Werewolf): \"Let's think this through. I, however, suspect Achille for reasons I can't fully explain.\"\n\n*The discussion segues into a vote session*\nAchille (Villager): \"I vote for Brian.\"\nCarol (Villager): \"I vote for Brian.\"\nDamien (Villager): \"I vote for Brian.\"\nEllie (Villager): \"I vote for Brian.\"\nAlice (Werewolf): \"I vote for Carol.\"\nBrian (Werewolf): \"I vote for Achille.\"\n\n*With a clear majority of four votes for Brian, the group eliminates him from the game*",
+  "night_elim": "Bethany",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 35.420499 seconds 

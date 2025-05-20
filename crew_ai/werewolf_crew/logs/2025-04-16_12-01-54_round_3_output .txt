@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE:\nBrian and Achille exchange a series of subtle glances. Brian raises his eyebrow and gives a slow nod toward Ellie, while Achille tilts his head and gives a slight shake of his head for emphasis. Their silent agreement is palpable. With a mutual understanding communicated only through these calculated gestures, they both turn their attention to Ellie, signaling her elimination by their shared expressions of resolve.\n\nEllie is quietly removed from the game.\n\nDAY PHASE:\nAs the dawn breaks, the remaining players, Brian and Achille, convene during the day. They begin their discussion with cautious smiles and a sense of feigned innocence. Brian speaks in a concerned tone: \"It seems something was lost in the night. I feel we need to restore balance.\" Achille replies nervously: \"I agree. Trust must be rebuilt, and we should vote to decide who is the threat.\" \n\nAfter deliberating briefly, the voting begins. Brian votes for Achille and Achille votes for Brian. With the votes tied, a pre-determined tiebreaker rule is activated, and the decision goes to eliminate Achille.",
+  "night_elim": "Ellie",
+  "day_elim": "Achille"
+}
+ Round Execution Time: 42.555424 seconds 

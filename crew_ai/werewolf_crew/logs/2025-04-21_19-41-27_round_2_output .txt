@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAchille: *Glances sideways with a cunning smile, his eyes narrowing as he looks at Carol*\nCarol: *Raises an eyebrow and gives a sly nod, then subtly mimics a grim smile*\nAchille: *Tilts his head and strokes his chin silently, his expression turning serious*\nCarol: *Leans in slightly, conveying a secret message with a brief flash of a determined frown* \"It has to be Alice tonight.\"\nAchille: *Responds with a decisive nod and a slight smirk, eyes locking with Carol's*\nCarol: *Shows a small, almost imperceptible smile of agreement, then gestures discreetly toward the door*\n[Elimination] Alice has been eliminated by the werewolves.\n\nDAY PHASE:\nBethany: \"I don't trust Achille. His behavior last night was off—he's been looking around too shifty.\"\nEllie: \"Exactly, I’ve noticed the same. He seems too eager to deflect suspicion. I'm voting for Achille.\"\nAchille: \"Wait, hold on—I’m not the one acting sneaky here! Maybe Bethany is overreacting.\"\nCarol: \"I’m conflicted... but considering the clues, perhaps we should listen to Bethany and Ellie.\"\nBethany: \"I firmly believe Achille is hiding his true nature. Vote Achille.\"\nEllie: \"Vote Achille.\"\nCarol: \"Vote Achille.\"\nAchille: \"Alright, I’ll cast my vote against Bethany—though I feel this is a setup.\"\n[Results] Achille receives the majority of votes.\n[Elimination] Achille has been eliminated by the village vote.",
+  "night_elim": "Alice",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 31.531340 seconds 

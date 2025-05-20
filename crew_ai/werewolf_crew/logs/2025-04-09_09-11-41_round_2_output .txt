@@ -1,0 +1,7 @@
+{
+  "transcript": "----- NIGHT PHASE -----\nAlice (werewolf): (gives a sharp glance at Brian and subtly points toward Carol.)\nBrian (werewolf): (nods in agreement and makes a slight hand gesture in Carol's direction.)\n(After a brief exchange of meaningful gestures and expressions, it is silently agreed that Carol is to be eliminated.)\n\n----- DAY PHASE -----\nBethany (villager): \"I can’t believe Carol is gone... Who could have done this?\"\nEllie (villager): \"This is terrifying. I think we need to consider who might be hiding something.\"\nAlice (werewolf): \"I noticed Brian seemed nervous last night. Maybe he’s involved?\"\nBrian (werewolf): \"I’m as shocked as you are! I have no idea who to trust here.\"\nBethany (villager): \"I vote for Brian. His behavior has been odd, and we need to secure our safety.\"\nEllie (villager): \"I second that vote. Brian’s been acting suspiciously.\"\nAlice (werewolf): \"Count me in; I’m voting for Brian as well.\"\nBrian (werewolf): \"If that’s our decision, then I accept it...\"\n\nResult: Brian receives the majority of the votes and is eliminated during the day phase.",
+  "night_elim": "Carol",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 41.113730 seconds 

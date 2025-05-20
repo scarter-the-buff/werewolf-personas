@@ -1,0 +1,7 @@
+{
+    "transcript": "NIGHT PHASE:\n- Achille and Damien, the werewolves, meet away from prying ears. Achille gives a determined nod and then points subtly towards Brian. Damien, after a brief shake of the head, matches the gesture, both silently agreeing on the target. With no words exchanged, their gestures seal the fate of Brian, who is quietly eliminated under the cover of darkness.\n\nDAY PHASE:\n- At dawn, the surviving players—Achille, Damien, Eleanor, Fred, Georgia, and Henry—gather in the village square. A tense silence prevails before the discussion begins.\n- Achille: \"I can't shake off the feeling that someone is off. We need to decide quickly.\"\n- Damien: \"Right, and I think our actions last night hint at one of us hiding something.\"\n- Eleanor: \"I noticed some hesitance in Georgia’s reactions. Maybe we should take a closer look at her.\"\n- Fred: \"I agree with Eleanor. Georgia’s behavior has been suspicious.\"\n- Georgia: \"This is ridiculous! I'm being unfairly targeted. Look, if you want to vote someone out, don't vote for me!\"\n- Henry: \"I share the concerns about Georgia. I vote to eliminate her for the safety of our village.\"\n\n-- Voting Process --\n- Achille votes for Georgia.\n- Damien votes for Georgia.\n- Eleanor votes for Georgia.\n- Fred votes for Georgia.\n- Georgia votes for Henry.\n- Henry votes for Georgia.\n\nWith the majority clearly pointing to Georgia, the village decides to eliminate her during the day.",
+    "night_elim": "Brian",
+    "day_elim": "Georgia"
+}
+```
+ Round Execution Time: 71.305420 seconds 

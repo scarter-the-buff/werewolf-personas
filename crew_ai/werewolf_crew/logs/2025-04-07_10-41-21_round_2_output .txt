@@ -1,0 +1,6 @@
+{
+  "transcript": "----- Night Phase -----\nAlice (werewolf) and Damien (werewolf) communicate in silence. \nAlice looks intently at Damien, then subtly gestures by tapping her finger in the direction of Achille and nods in agreement. \nDamien responds with a slow, deliberate nod while pointing towards Achille with his index finger. \nTheir silent exchange confirms the decision: Achille is the villager to be eliminated.\n\nResult: Achille is eliminated during the night.\n\n----- Day Phase -----\nAlice: \"I think something felt off last night. Carol’s behavior was a bit too reserved.\"\nDamien: \"I agree, Alice. Carol seemed to be dodging questions and shifting blame.\"\nEllie: \"I noticed that too. Her silence and body language were suspicious.\"\nCarol: \"Wait a minute, everyone! I’m defending our town. If you’re convinced I’m guilty, perhaps we should take a closer look at Damien’s quick deflection.\"\n\nVotes:\nAlice votes for Carol.\nDamien votes for Carol.\nEllie votes for Carol.\nCarol votes for Damien.\n\nWith three votes against her, Carol is eliminated.\n\nResult: Carol is eliminated during the day.",
+  "night_elim": "Achille",
+  "day_elim": "Carol"
+}
+ Round Execution Time: 61.030753 seconds 

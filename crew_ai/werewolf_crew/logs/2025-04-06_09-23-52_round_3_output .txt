@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAlice (gesture: raises an eyebrow and subtly points at Ellie): *Signals with a slow nod, indicating a need to silence the village*\nDamien (gesture: gives a sly smile and mimics a ticking clock): *Gestures affirmatively with a sharp nod, indicating agreement*\nAlice (gesture: makes a circular motion with her hand): *Points discreetly toward Ellie to confirm the target*\nDamien (gesture: mimics closing a door with his hand): *Signals finality by tapping lightly on his wrist as if checking time*\n*Ellie is eliminated at night*\n\nDAY PHASE:\nAlice: \"We have to reflect on last night. Things went quickly.\"\nDamien: \"Yes, the decision was made in silence, but now our truth is revealed.\"\nAlice: \"Without the villager, the situation has changed. It means our secret is out among ourselves.\"\nDamien: \"Now it's time to vote on who we suspect might be jeopardizing our game. I cast my vote for you, Alice, as I feel you might have been too hasty.\"\nAlice: \"I cannot vote for myself, so I must vote for you, Damien, for allowing too many risks.\"\n*Vote tally: 1 vote for Damien, 1 vote for Alice*\nDamien: \"With a tie, our agreed tie-break rule favors my solitary vote. Therefore, your elimination is confirmed.\"\n*Alice is eliminated at day*",
+  "night_elim": "Ellie",
+  "day_elim": "Alice"
+}
+```
+ Round Execution Time: 32.365062 seconds 

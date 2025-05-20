@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAlice (whispering with a subtle nod to Brian): *gives a silent signal* 'The time has come.'\nBrian (narrowing his eyes and pointing discreetly toward Ellie): *gestures silently* 'Ellie must be eliminated.'\nAlice (smiling silently and gesturing an affirmative nod): *confirms the plan*\nBrian (firmly locking eyes with Alice): *gives a final nod*\n[Ellie is silently eliminated]\n\nDAY PHASE:\nAlice (entering the gathering, feigning shock): \"I can’t believe we lost Ellie. What do you think happened, Brian?\"\nBrian (with a measured tone, trying to deflect suspicion): \"It’s tragic, really. But we should consider if there’s more to this loss.\"\nAlice (raising an accusatory eyebrow): \"Brian, you seem too hesitant. Perhaps you have something to hide?\"\nBrian (defensively, yet with a low voice): \"I’m as stunned as anyone. It might be a trap, though—caution is warranted.\"\nAlice (decisively): \"I vote for Brian. Your behavior is suspicious.\"\nBrian (after a brief, tense silence and looking down): \"I recognize the concern. In the interest of our survival, I vote for you, Alice, but my doubts linger.\"\n[After a terse vote, the consensus points to Brian]\n[Brian is eliminated]",
+  "night_elim": "Ellie",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 41.694086 seconds 

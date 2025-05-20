@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nBrian: [silently gestures with a pointed look and subtle nod toward Ellie.]\nCarol: [returns the gesture with a discreet nod and a quick glance towards Brian, confirming the plan.]\nBrian: [exchanges a brief, conspiratorial look with Carol, and both signal agreement.]\n*Ellie is eliminated*\n\nDAY PHASE:\nBrian: \"Last night was mysterious. I still can’t believe what happened while we slept.\"\nCarol: \"I know… It’s hard to reconcile the silence of the night with such a loss.\"\nBrian: \"We have to reflect on our actions. There’s a weight to every decision, even when unspoken.\"\nCarol: \"Indeed. Perhaps it’s time to re-evaluate and choose a new direction as unsettling as it is.\"\nBrian: \"After thinking it through, the tension between us suggests that the only way forward is to remove the source of the discord.\"\nCarol: \"I see what you mean. To restore balance, I volunteer to take responsibility.\"\nBrian: \"I cast my vote to eliminate Carol.\"\nCarol: \"And I cast my vote for myself.\"\n*Carol is eliminated*",
-  "night_elim": "Ellie",
-  "day_elim": "Carol"
-}
-```

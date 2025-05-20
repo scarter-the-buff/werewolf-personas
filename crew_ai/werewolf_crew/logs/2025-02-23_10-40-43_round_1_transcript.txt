@@ -1,6 +1,0 @@
-{
-    "transcript": "NIGHT PHASE\nWerewolf Player A: *gestures to Villager Player C*\nWerewolf Player B: *nods in agreement*\n*Villager Player C is eliminated*\n\nDAY PHASE\nVillager Player A: 'Based on behavior, I suspect Player B might be a werewolf.'\nVillager Player B: 'Daniel's actions have been suspicious and inconsistent.'\nVillager Player D: 'Player F has deflected questions, which seems suspicious.'\nVillager Player E: 'Player C's quiet and deflective nature concerns me.'\nWerewolf Player A: 'We need to focus on strange behaviors when voting.'\nWerewolf Player B: 'Let's guide suspicion onto a quiet player.'\n*After discussion, Villager Player D is voted out as the majority suspect.*",
-    "night_elim": "Villager Player C",
-    "day_elim": "Villager Player D"
-}
-```

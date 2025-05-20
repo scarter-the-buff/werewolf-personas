@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *points subtly towards Bethany with a slight nod*\nBrian: *meets Alice's gaze, then mimics a biting motion confirming the choice*\n*[Bethany is quietly eliminated]*\n\nDAY PHASE\nAchille: \"I feel something is off among us. Let’s consider everyone's behavior carefully.\"\nCarol: \"I noticed some unusual gestures last night. It might be a hint toward who is not among us.\"\nDamien: \"We can’t ignore the suspicions now. I vote to eliminate Alice.\"\nEllie: \"I’m leaning towards Damien’s thought; Alice has been unusually quiet. My vote is for Alice.\"\nBrian: \"I agree that something is not right. I vote for Alice.\"\nAlice: \"I’m being accused unfairly! I vote for Brian, as he seems too eager to point fingers.\"\nAfter a brief discussion, the votes tally up and the majority vote lands on Alice.\n",
+  "night_elim": "Bethany",
+  "day_elim": "Alice"
+}
+```
+ Round Execution Time: 16.277404 seconds 

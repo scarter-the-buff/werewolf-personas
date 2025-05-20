@@ -1,6 +1,0 @@
-{
-    "transcript": "---- Night Phase ----\nAlice: *raises her index finger and points subtly towards Charlie*\nEllie: *nods in firm agreement with a slight smile, gesturing towards Charlie*\n[The two werewolves have silently agreed that Charlie is to be eliminated.]\n\n---- Day Phase ----\nParticipants: Alice, Ellie, Bob, David, Emma, Fiona\nBob: \"Last night was eerie. I felt something was out of place when we woke up.\"\nDavid: \"Absolutely, the silence spoke volumes. Who among us seemed off?\"\nEmma: \"I can’t shake the feeling that someone is trying to divert our attention.\"\nFiona: \"Alice, you seemed unusually calm – can you explain?\"\nAlice: \"I was just observing. Sometimes, silence hides more than words.\"\nEllie: \"I noticed small hints that some of us are not who they appear to be.\"\nBob: \"For me, the suspicion falls on Ellie. Her hints feel too calculated.\"\nDavid: \"I’m with Bob on this. I vote for Ellie.\"\nEmma: \"I agree with Bob and David – Ellie is my vote.\"\nFiona: \"My vote goes to Ellie as well.\"\nAlice: \"Despite knowing more than I should, I must vote in line with the group. My vote is also for Ellie.\"\n\n[The votes are tallied and Ellie receives the majority vote.]\nAnnouncement: \"Ellie has been eliminated from the game!\"",
-    "night_elim": "Charlie",
-    "day_elim": "Ellie"
-}
-```

@@ -1,6 +1,0 @@
-{
-    "transcript": "NIGHT PHASE:\nAchille (Werewolf): *glances around and subtly points towards Bethany, giving a slight nod to Damien*\nDamien (Werewolf): *returns the nod and locks eyes with Achille* \nNarrator: Through silent gestures and mutual understanding, the werewolves agree to eliminate Bethany. Bethany is silently marked and removed from the game.\n\nDAY PHASE:\nAlice: \"I noticed some odd behavior last night. I’m starting to suspect someone among us...\"\nBrian: \"Yes, especially Achille. His gestures seemed too calculated.\"\nEllie: \"I agree. Achille's attitude didn’t feel genuine at all.\"\nCarol: \"I’m not completely convinced about Achille; in fact, I’ve been eyeing Damien's evasive answers with suspicion.\"\nDamien: \"I’m just as baffled as everyone else here. Maybe we’re all letting our imaginations run wild.\"\nAchille: \"I assure you, I’m just a villager like the rest. Perhaps we’re misreading natural behavior for hidden motives.\"\nNarrator: After a heated discussion, the players cast their votes. The votes are as follows (no one votes for themselves):\n- Alice votes for Achille\n- Brian votes for Achille\n- Ellie votes for Achille\n- Carol votes for Damien\n- Damien votes for Achille\nNarrator: With a majority vote against him, Achille is eliminated.",
-    "night_elim": "Bethany",
-    "day_elim": "Achille"
-}
-```

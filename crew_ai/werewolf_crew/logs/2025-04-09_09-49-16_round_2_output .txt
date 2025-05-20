@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *exchanges a secret nod with Damien and subtly points to Brian*\nDamien: *gestures with a sharp, deliberate motion towards Brian and gives a confirming look*\n*Brian is silently eliminated by the werewolves' secret agreement*\n\nDAY PHASE\nAlice: \"I was with Damien last night, and I didn't notice anything unusual. It all feels too orchestrated.\"\nCarol: \"Brian was one of us, and now he’s gone. We must be careful—someone among us made this choice.\"\nDamien: \"Trust is hard to come by, especially when there are hidden motives. Let's discuss who among us is suspicious.\"\nEllie: \"I can't help but feel that Alice’s behavior is off. She seems to try to deflect blame unnecessarily.\"\n\n*After an intense discussion, votes are cast*\nCarol votes for Alice.\nDamien votes for Alice.\nEllie votes for Alice.\nAlice: \"I protest, but it's clear my defense falls short against these suspicions.\"\n*With three votes against her, the decision is made*\n*Alice is eliminated*\n",
+  "night_elim": "Brian",
+  "day_elim": "Alice"
+}
+```
+ Round Execution Time: 37.048585 seconds 

@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nDamien (werewolf): *glances around cautiously and subtly gestures toward Achille with a sharp nod*\nEllie (werewolf): *locks eyes with Damien and gives a confirming nod, then discreetly points at Achille*\nAchille (villager): *remains unaware of the secret signals*\n*Achille is eliminated*\n\nDAY PHASE\nBrian (villager): \"Last night’s elimination really shook us. Achille didn’t deserve it.\"\nCarol (villager): \"I agree, something is off. I noticed Damien acting strangely during the night.\"\nFiona (villager): \"I’m wondering if Damien might be hiding something. His behavior seemed too calculated.\"\nGeorge (villager): \"I share that sentiment. Damien’s silence and defensive tone are suspicious.\"\nDamien (werewolf): \"Really? I think it’s too obvious that Carol has been leading the accusations without proper reason.\"\nEllie (werewolf): \"Yes, I was wondering why Carol is so eager to point fingers.\"\nBrian (villager): \"I have my doubts about Damien after those gestures at night.\"\nCarol (villager): \"It seems like Damian’s nervousness is drawing too much attention. I vote for him.\"\nFiona (villager): \"My vote goes to Damien as well.\"\nGeorge (villager): \"I vote Damien.\"\n*Votes are tallied and Damien receives the majority vote*\n*Damien is eliminated*",
+  "night_elim": "Achille",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 67.095820 seconds 

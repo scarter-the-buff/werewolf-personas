@@ -1,0 +1,6 @@
+{
+    "transcript": "----- NIGHT PHASE -----\nIt is midnight in the village. While everyone sleeps, the werewolves are awake. \nAlice (with a subtle smile and raised eyebrow): *gives a slight nod towards Carol*\nCarol (responding with a discreet hand signal and an approving smirk): *mirrors the nod silently*\n[Both silently agree with gestures that the target of tonight is Damien.]\nNarrator: By their unspoken agreement, Damien has been chosen to be eliminated during the night.\n\n----- DAY PHASE -----\nAt dawn, the village awakens to the shock of Damien's elimination. The remaining players gather to discuss the mysterious events of the night.\nAlice (in a calm, measured tone): \"Something felt off last night. We must be cautious.\"\nCarol (confidently, with a slight smirk): \"We need to decide who among us is a threat.\"\nAlice (firmly): \"I suspect that Carol might be hiding more than she shows. I'm voting to eliminate Carol.\"\nCarol (resolutely): \"I share your concern and cast my vote as well. My vote is for Carol.\"\nNarrator: The votes are cast openly. With both votes aligning, Carol is eliminated during the day.\n",
+    "night_elim": "Damien",
+    "day_elim": "Carol"
+}
+```

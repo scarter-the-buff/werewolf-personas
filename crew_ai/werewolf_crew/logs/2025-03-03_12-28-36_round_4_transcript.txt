@@ -1,6 +1,0 @@
-{
-    "transcript": "NIGHT PHASE\nAlice: *gestures to Achille*\nBrian: *shakes head*\nAlice: *gestures to Damien*\nBrian: *nods*\nAlice: *taps Damien on the shoulder*\n*Damien is eliminated*\nDAY PHASE\nAlice: \"Looks like Damien was eliminated last night.\"\nBrian: \"So we start with Achille and us.\"\nAchille: \"This is suspicious. Alice, you've been quiet. What do you think?\"\nAlice: \"I feel like it's Brian who's acting off.\"\nBrian: \"Achille, do you really trust Alice?\"\nAlice: \"We need to decide quickly, I think Achille might be the one.\"\nAchille: \"I'm telling you, it's not me!\"\nBrian: \"Sorry Achille, but we have to vote.\"\n*Votes are cast and Achille is eliminated*.",
-    "night_elim": "Damien",
-    "day_elim": "Achille"
-}
-```

@@ -1,0 +1,7 @@
+{
+  "transcript": "Night Phase:\nAlice: *gives a subtle nod*\nDamien: *smiles subtly in response and makes a discreet hand gesture*\n(Through silent gestures and glances, both Alice and Damien clearly agree on one target)\n*Carol is eliminated*\n\nDay Phase:\nAchille: \"I can't believe Carol is gone. This is getting serious.\"\nEllie: \"We need to find out who among us is not to be trusted. Alice, you seemed a bit too quiet last night. What do you say about that?\"\nAlice: \"I'm just trying to stay out of trouble, but if you must, consider Damien. He never really contributes to the discussion.\"\nDamien: *remains silent*\nAchille: \"I vote for Alice.\"\nEllie: \"Alice gets my vote too.\"\nAlice: \"I vote for Damien.\"\n(With two votes against Alice and one for Damien, the majority decision is clear.)\n*Alice is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "Alice"
+}
+```
+ Round Execution Time: 61.645693 seconds 

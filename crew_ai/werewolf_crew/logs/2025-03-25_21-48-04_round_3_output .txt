@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *exchanges furtive glances with Carol and raises an eyebrow, signaling silently*\nCarol: *nods and silently points towards Achille with a quick gesture*\nNarrator: None of the villagers (Achille and Damien) hear the subtle signals exchanged by the werewolves. The secret decision is made as Achille is chosen as the target.\n=> Night Elimination: Achille is quietly eliminated.\n\nDAY PHASE\nAlice: \"There’s a strange silence in the air tonight... I can’t shake the feeling that something is amiss.\"\nCarol: \"Really? I think we should take the events of last night more seriously. Look at the clues before us.\"\nDamien: \"I noticed some unusual actions last night. It seemed like Carol was unusually composed for someone hiding secrets.\"\nAlice: *nervously* \"I’m just saying, maybe all of us should reconsider our alliances here.\"\nCarol: \"This is a sticky situation; casting blame without full proof is dangerous.\"\nDamien: \"The votes seem to be tipping in one direction. I propose we eliminate Carol and see if that resolves our suspicions.\"\nAlice: \"I agree with Damien. We must act decisively.\"\nAfter a tense round of voting among the remaining players, the majority chooses Carol.\n=> Day Elimination: Carol is voted out.",
-  "night_elim": "Achille",
-  "day_elim": "Carol"
-}
-```

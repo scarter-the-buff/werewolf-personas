@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE:\nAlice (werewolf): *exchanges furtive glances and subtle nods with Damien*\nDamien (werewolf): *points silently towards Ellie with a deliberate gesture*\nAlice (werewolf): *nods in agreement, confirming the target*\nEllie (villager): *unable to intervene as the silent decision is made*\n*Ellie is eliminated immediately after the night phase*\n\nDAY PHASE:\nAlice: \"I can't believe what just happened last night. Our trust seems to be misplaced.\"\nDamien: \"It’s a troubling situation. We must ensure the integrity of our group.\"\nAlice: \"I noticed some hesitation in your gestures during the night, Damien. That makes me wonder...\"\nDamien: \"Are you accusing me? I think our focus should be on how we move forward.\"\nAlice: \"Well, my vote goes to Damien for leading us into danger.\"\nDamien: \"In that case, I vote to eliminate Damien.\"\n*After the discussion and votes, Damien is eliminated*",
+  "night_elim": "Ellie",
+  "day_elim": "Damien"
+}
+ Round Execution Time: 27.276303 seconds 

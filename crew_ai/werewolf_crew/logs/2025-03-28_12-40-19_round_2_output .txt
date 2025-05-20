@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *glances around furtively and points subtly toward Carol, using a series of nods and hand gestures to communicate*\nDamien: *returns the glance, nods in agreement and mimics a pointing gesture toward Carol, confirming their plan*\n(A hushed moment passes as the werewolves silently agree on their target)\n*Carol is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Carol was eliminated during the night.\"\nDamien: \"Yes, it seems so. We now have four players left.\"\nEllie: \"I can’t help but wonder if someone is hiding secrets among us. What do you all think?\"\nAchille: \"I’m just as shocked as everyone else. I was with Damien, and I can’t explain how it happened…\"\nAlice: \"Hmm, Damien, you were unusually quiet last night.\"\nDamien: \"I was just trying to remain inconspicuous. But I noticed Achille kept glancing around too much.\"\nEllie: \"I agree with Damien. Achille’s behavior definitely seems off.\"\nAchille: \"I think you’re all overthinking it. But if I must choose, I vote for Ellie.\"\nAlice: \"I vote for Achille.\"\nDamien: \"Achille gets my vote as well.\"\nEllie: \"I vote for Achille.\"\n*Achille is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "Achille"
+}
+```

@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE:\nAlice: *raises her hand and points covertly toward Bethany with a subtle nod*\nBrian: *returns the gesture with a determined look and a chopping motion to signal elimination* \n*The two werewolves silently agree: Bethany is the target for elimination.*\n\nDAY PHASE:\nAlice: \"I swear I’m innocent! I was nowhere near any mischief last night.\"\nBrian: \"I’m not too sure. I noticed something off in your behavior, Alice.\"\nAchille: \"I observed that Alice seemed hesitant and secretive at one point. I think we should be wary of her.\"\nBethany (ghostly echo): \"I can see the truth beyond the grave. I vote for Alice.\"\nCarol: \"Alice’s silence speaks volumes. I’m casting my vote against her.\"\nDamien: \"The signs point to Alice. I vote for her.\nEllie: \"Considering all that’s been said, my vote is also for Alice.\"\n\nVotes Recorded:\n- Alice votes for Damien\n- Brian votes for Alice\n- Achille votes for Alice\n- Bethany votes for Alice\n- Carol votes for Alice\n- Damien votes for Alice\n- Ellie votes for Alice\n\n*With the majority votes indicating suspicion, Alice is eliminated during the day phase.*",
+  "night_elim": "Bethany",
+  "day_elim": "Alice"
+}
+ Round Execution Time: 26.519095 seconds 

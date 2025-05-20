@@ -1,0 +1,6 @@
+{
+  "transcript": "=== NIGHT PHASE ===\nAlice (Werewolf): *Glances sharply at Damien, raising an eyebrow and giving a slight, deliberate nod. Her eyes convey a decisive message without uttering a word.*\nDamien (Werewolf): *Returns a firm, intense stare at Alice and responds with a subtle tilt of his head, followed by a slow, sweeping hand gesture pointed at Ellie, affirming their silent agreement.*\nNarrator: In the silent darkness of the night, the werewolves have reached an unspoken consensus. Ellie is marked as the target.\n\n=== DAY PHASE ===\nAlice (Pretending Villager): \"It seems our village is in mourning. I can’t help but feel there are shadows amongst us.\"\nDamien (Pretending Villager): \"I agree that something seems off. We must be careful, though—suspicion can be dangerous if not handled properly.\"\nAlice: \"Perhaps we should vote on who might be causing the unrest. Trust must be earned, after all.\"\nDamien: \"I’ll place my vote carefully, knowing well that we must eliminate a potential threat.\"\n\nVoting:\n- Alice votes for Damien.\n- Damien votes for Alice.\n\nNarrator: After tallying the votes, the majority decision falls on Alice, who is eliminated by the village consensus.",
+  "night_elim": "Ellie",
+  "day_elim": "Alice"
+}
+ Round Execution Time: 26.460139 seconds 

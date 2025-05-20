@@ -1,0 +1,7 @@
+{
+  "transcript": "=== Night Phase ===\nBrian (werewolf): *glances around cautiously, then gives a subtle thumbs-up to Achille*\nAchille (werewolf): *nods and points discreetly towards Carol's direction*\nBrian: *uses a series of hand gestures meaning 'target is clear'*\nAchille: *agrees with an enthusiastic nod, then both subtly mimic a chopping motion*\n[The werewolves have agreed via these covert signals; Carol is silently eliminated.]\n\n=== Day Phase ===\nBrian: \"I'm getting a vibe that Damien has been unusually quiet and a bit off.\"\nAchille: \"I noticed that too. Damien's behavior is a bit too calm compared to everyone else.\"\nDamien: \"Hold on, I think Brian's been dodgy and overly assertive.\"\nEllie: \"I lean towards Damien as well. His silence during the crucial moments makes me suspicious.\"\n\nVote Tally:\n- Brian votes for Damien\n- Achille votes for Damien\n- Damien votes for Brian\n- Ellie votes for Damien\n\n[Outcome: Damien receives the majority of votes and is eliminated.]",
+  "night_elim": "Carol",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 37.866857 seconds 

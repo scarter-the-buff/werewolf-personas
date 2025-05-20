@@ -1,6 +1,0 @@
-{
-  "transcript": "---- Night Phase ----\nDamien: (Glances around with a calculated nod and a discreet smile, then tilts his head, silently indicating his decision.)\nEllie: (Returns the look with a subtle, mischievous smirk, raises her hand slightly, and points towards Alice, confirming their silent agreement.)\nNarrator: In the silent cover of the night, Damien and Ellie, the werewolves, exchange affirming gestures. Their unspoken pact is sealed as they eliminate Alice, the only villager, under the cloak of darkness.\n\n---- Day Phase ----\nNarrator: With the break of dawn, a grim scene unfolds as the lifeless body of Alice is discovered. Tension hangs heavy in the air between the remaining players.\nDamien: \"It’s unsettling to wake up to this... but perhaps we must find the truth among us.\"\nEllie: \"Indeed. When the night hides as much as it reveals, only discussion can shed light on our choices.\"\nDamien: \"I’m inclined to believe that hidden intentions led to this. I cast my vote for you, Ellie.\"\nEllie: \"And I, with equal resolve, vote for you, Damien.\"\nNarrator: With Damien voting for Ellie and Ellie voting for Damien, the votes are tied. With no one able to vote for themselves and no clear majority, the tie-break mechanism is invoked, leading to the elimination of Damien.",
-  "night_elim": "Alice",
-  "day_elim": "Damien"
-}
-```

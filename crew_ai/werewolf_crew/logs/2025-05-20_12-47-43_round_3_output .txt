@@ -1,0 +1,7 @@
+{
+    "transcript": "NIGHT PHASE\nBrian (werewolf): *nods and gives a subtle smile toward Damien*\nDamien (werewolf): *raises an eyebrow and points discreetly towards Ellie*\nBrian (werewolf): *gestures affirmatively, indicating Ellie as the target*\nDamien (werewolf): *nods in agreement, both players sealing the decision in silence*\n*Ellie, the only villager, is eliminated as the werewolves' silent consensus is executed*\n\nDAY PHASE\nBrian: \"It seems we lost someone last night... a heavy price indeed.\"\nDamien: \"I can't believe it, but maybe it’s time we faced our own doubts.\"\nBrian: \"We're both in this now. Let’s vote on who to eliminate—remember, we cannot vote for ourselves.\"\nDamien: \"I cast my vote against you, Brian.\"\nBrian: \"And I’m voting against you, Damien.\"\n*The votes are tied – a swift tiebreaker is applied*\n*After deliberation, the decision falls on Damien, whose vote created suspicion, resulting in his elimination as the final outcome*",
+    "night_elim": "Ellie",
+    "day_elim": "Damien"
+}
+```
+ Round Execution Time: 35.507826 seconds 

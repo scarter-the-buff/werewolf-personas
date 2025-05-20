@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances subtly at Carol, then points at Achille*\nCarol: *nods silently and gestures toward Achille*\nAchille: *sleeps peacefully unaware*\nBethany: *sleeps soundly*\nEllie: *sleeps undisturbed*\n*Achille is eliminated*\n\nDAY PHASE\nAlice: \"I can’t believe Achille is gone. Who among us appears suspicious tonight?\"\nCarol: \"I agree, something seems off. I’m leaning towards Bethany.\"\nBethany: \"I must defend myself - I feel like Carol’s been a bit too quiet.\"\nEllie: \"I’ve noticed some strange behavior from Bethany, so I’ll vote for her.\"\nAlice: \"I also vote for Bethany.\"\nCarol: \"I vote for Bethany as well.\"\nBethany: \"I vote for Carol.\"\n*Bethany receives the majority of votes and is eliminated*",
+  "night_elim": "Achille",
+  "day_elim": "Bethany"
+}
+```

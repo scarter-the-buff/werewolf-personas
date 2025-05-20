@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAchille: *gives a slow nod, then exchanges a series of subtle gestures with Bethany, including a slight head tilt and a discreet wink, to indicate their chosen target*\nBethany: *points discreetly toward Brian with a gentle hand motion*\n>>> Brian has been eliminated.\n\nDAY PHASE:\nAlice: \"I still can’t believe Brian is gone. We need to stay alert and work together to find out what happened.\"\nAchille: \"I noticed a shift in behavior last night. It makes me wonder if someone might be hiding their true role.\"\nBethany: \"Alice, you seemed particularly uneasy when we gathered. Could it be that you have something to hide?\"\nEllie: \"Let’s think this through logically. We must decide quickly – I lean towards removing someone who’s stirring up suspicion.\"\nAlice: \"I’m grieving and frightened – not scheming. But if it eases tension, I vote for Ellie.\"\nAchille: \"I vote for Alice, as she appears to be deflecting more than offering clarity.\"\nBethany: \"I join in voting for Alice. Her nervousness today seems more than just sadness.\"\nEllie: \"I vote for Alice as well, convinced that the majority decision will help secure our safety.\"\n>>> Alice has been eliminated after receiving 3 votes (Achille, Bethany, and Ellie voted for Alice; Alice voted for Ellie).",
+  "night_elim": "Brian",
+  "day_elim": "Alice"
+}
+```
+ Round Execution Time: 69.815411 seconds 

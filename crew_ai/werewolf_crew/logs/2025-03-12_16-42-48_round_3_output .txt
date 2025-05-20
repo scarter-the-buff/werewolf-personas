@@ -1,5 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *glances at Damien and then points at Carol with a slight nod*\nDamien: *returns the gesture with a subtle slicing motion, raising his eyebrows and pointing decisively at Carol*\nCarol: *remains sound asleep, unaware of the secret signals*\n*Carol is eliminated by the silent decision of the werewolves*\n\nDAY PHASE\nAlice: \"I woke up with a nagging feeling... something isn't right. Damien, you seemed a bit too eager last night.\"\nDamien: *barely reacts, shrugs silently*\nAlice: *steps forward and taps Damien on the shoulder* \"I vote you should leave, Damien.\"\nDamien: *stares briefly, then accepts the vote in silence as the others nod in grim approval*\n*Damien is eliminated*",
-  "night_elim": "Carol",
-  "day_elim": "Damien"
-}

@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Damien and then points discreetly towards Carol with a subtle nod*\nDamien: *returns the gesture with a slight smile and taps his finger on his chin, then nods in agreement with Alice's choice*\n*Carol is silently eliminated during the night phase*\n\nDAY PHASE\nAlice: \"It seems Carol was eliminated last night. I wonder if this was her fate or part of a bigger plan.\"\nDamien: \"I agree it’s mysterious, but we should be careful. Let's decide who might still be a threat.\"\nAlice: \"I think our suspicions point towards Damien. I’m casting my vote for Damien.\"\nDamien: \"I understand your caution, so I’m also voting for Damien.\"\n*Damien receives the majority of the votes and is eliminated during the day phase*",
+  "night_elim": "Carol",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 36.035531 seconds 

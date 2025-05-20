@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nBrian: *glances furtively at Bethany and subtly points towards Achille*\nBethany: *nods silently, raises an eyebrow, and tilts her head in the direction of Achille*\nBrian: *gives a slight smile and a subtle hand wave to confirm the decision*\nBethany: *returns a decisive nod and a small, knowing smile*\n*[Achille is eliminated]*\n\nDAY PHASE:\nBrian: \"I can’t believe we lost someone last night... it’s just so mysterious. Who do you think could be behind this?\"\nBethany: \"It’s really strange. I’m not sure who to trust these days. It might even be an inside job.\"\nBrian: \"Sometimes people act too confidently when hiding something. We should be careful with our suspicions.\"\nBethany: \"Indeed. I wonder if someone among us is shifting blame to divert attention?\"\nBrian: \"If you suspect someone, maybe you should voice it, but I’m still holding back to avoid rushing to judgment.\"\nBethany: \"I understand, but clarity is key if we’re to make a wise decision.\"\n\nVoting Process:\nBrian votes for Bethany.\nBethany votes for Brian.\n\nResult: With the votes tied and based on our pre-arranged tie-breaker, Brian is eliminated.",
+  "night_elim": "Achille",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 140.105346 seconds 

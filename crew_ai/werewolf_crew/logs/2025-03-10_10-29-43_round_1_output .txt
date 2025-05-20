@@ -1,5 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *exchanges secret gestures with Brian, subtly raising an eyebrow and pointing towards Carol*\nBrian: *nods in firm agreement, giving a quick thumbs up*\nAlice: *firmly taps Carol on the shoulder with a deliberate gesture*\nBrian: *makes a confirming gesture*\n*Carol is eliminated*\n\nDAY PHASE\nAchille: \"It looks like Carol was taken during the night.\"\nBethany: \"I'm feeling uneasy. We need to figure out who among us is not who they claim to be.\"\nDamien: \"I noticed that Alice was unusually quiet last night, which makes me suspicious.\"\nEllie: \"I agree with Damien; Alice’s silence was odd, and she might be hiding something.\"\nAlice: \"I think Bethany is overreacting—maybe she's trying to shift focus away from herself.\"\nBrian: \"I understand both points, but the evidence seems to lean towards Alice being too cautious.\"\n\nVoting Round:\nAchille votes for Alice\nBethany votes for Alice\nDamien votes for Alice\nEllie votes for Alice\nAlice votes for Bethany\nBrian votes for Bethany\n*With 4 votes for Alice, she is eliminated during the day phase*",
-  "night_elim": "Carol",
-  "day_elim": "Alice"
-}

@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *gestures to Damien* Alice: *nods* Brian: *nods* Brian: *taps Damien on the shoulder*\n*Damien is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Damien was eliminated last night.\"\nBrian: \"I agree with Alice; before he was eliminated, Damien was suspicious of Carol. Achille also seemed too quiet recently.\"\nAchille: \"I've been quiet because I'm observing, but I'm not a werewolf.\"\nBethany: \"I believe Achille. Carol seems a bit defensive.\"\nCarol: \"I'm helping to gather consensus. Brian seems to push blames away.\"\nEllie: \"I'm undecided, but I suspect Achille.\"\nAlice votes for Carol\nBrian votes for Achille\nAchille votes for Carol\nBethany votes for Carol\nCarol votes for Brian\nEllie votes for Achille\n*Carol is eliminated*",
-  "night_elim": "Damien",
-  "day_elim": "Carol"
-}
-```

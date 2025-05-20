@@ -1,6 +1,0 @@
-{
-    "transcript": "NIGHT PHASE\nAlice: *gestures to Charlie*\nBrian: *nods*\n*Villager Charlie is eliminated*\n\nDAY PHASE\nDavid: \"Last night, we lost Charlie. We have to find out who the werewolves are before it's too late.\"\nEmma: \"I noticed Alice was unusually quiet yesterday after the discussion. It made me suspicious.\"\nAlice: \"Emma, I was just processing everything. Honestly, I think Brian might be acting suspiciously.\"\nBrian: \"That's interesting. I thought David seemed to be avoiding eye contact more than usual.\"\nFrank: \"We need to take this seriously. Let's keep an eye on who is quick to point fingers. My gut feeling is that Emma's suggestions might be deflecting attention.\"\nGloria: \"I agree with Frank. Emma could be trying too hard to divide us. She might be one of the werewolves.\"\nEmma: \"No, I'm just trying to keep the discussion going. I'm not a werewolf!\"\nDavid: \"Let's take a vote. We need to be decisive and eliminate one person today to narrow down our suspects.\"\n\n*Voting*\nEmma: Votes for Alice\nAlice: Votes for Emma\nBrian: Votes for David\nDavid: Votes for Emma\nFrank: Votes for Emma\nGloria: Votes for Emma\n\n*Emma is eliminated*\nEmma: \"I'm innocent! I hope you realize you're making a mistake.\"\n",
-  "night_elim": "Charlie",
-  "day_elim": "Emma"
-}
-```

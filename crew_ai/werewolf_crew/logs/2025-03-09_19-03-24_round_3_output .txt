@@ -1,5 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *glances at Achille with a piercing look and subtly points towards Damien*\nAchille: *nods silently and gestures with his hand towards Damien*\nAlice: *raises an eyebrow and gives a quick thumbs up*\nAchille: *mimics a chopping motion with his hand*\n*Damien, the chosen target, is eliminated silently in the dark*\n\nDAY PHASE\nAlice: \"Good morning, though it feels strange without Damien.\"\nAchille: \"Yes, his absence is noticeable. We must discuss who might be behind tonight's mysteries.\"\nAlice: \"I think we need to look at every possibility. I vote we consider our own actions carefully.\"\nAchille: \"I agree. After weighing what happened last night, I believe a change is necessary.\" \nAlice: \"I cast my vote for Achille.\"\nAchille: \"I see the point. I also cast my vote for Achille.\"\n*With the majority vote pointing to Achille, the day phase vote concludes that Achille is eliminated.*",
-  "night_elim": "Damien",
-  "day_elim": "Achille"
-}

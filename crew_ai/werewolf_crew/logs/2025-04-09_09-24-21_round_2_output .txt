@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nBethany: *glances around furtively, then exchanges a meaningful look with Damien*\nDamien: *nods subtly and points towards Brian, miming a silent agreement*\nBethany: *smirks and firmly gestures toward Brian while using a slight hand motion*\nDamien: *tilts his head and gives a decisive nod, then silently taps Brian on the shoulder*\n*Brian is eliminated*\n\nDAY PHASE\nAlice: \"I can’t believe Brian was taken out last night. This leaves only four of us now.\"\nEllie: \"Yes, his absence is very loud. But I feel like there is still something off with Damien.\"\nBethany: \"Maybe we should be doubting the obvious suspect. Don’t you think his behavior has been strange?\"\nDamien: \"I’m just as shocked as the rest of you, but we need to carefully decide who we can trust now.\"\nAlice: \"I’m voting for Damien. His calm responses seem more like calculated moves than shock.\"\nEllie: \"I agree with Alice. My intuition tells me that Damien might be hiding something.\"\nBethany: \"I have doubts too, and while I’m wary, the evidence against Damien keeps piling up for me.\"\nDamien: \"I’ll vote too, though I must say, it feels like accusations are a bit too quick. But let’s see where this discussion takes us.\"\nAlice: \"Final vote from me remains: Damien must go.\"\nEllie: \"My final vote is also for Damien.\"\n*With two clear votes against him, the majority decision is reached*\n*Damien is eliminated*",
+  "night_elim": "Brian",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 41.845502 seconds 

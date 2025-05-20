@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *exchanges discreet glances and subtle gestures with Damien while pointing at Bethany*\nDamien: *nods in agreement and gives a confirming shrug*\nBethany: *remains unaware as the silent decision is made*\n*Bethany is eliminated*\n\nDAY PHASE\nAlice: \"I heard Bethany was taken out last night.\"\nBrian: \"That’s right. We have to be alert now. Who do we suspect?\"\nCarol: \"I'm uneasy about Achille; his behavior in the night phase seemed odd.\"\nEllie: \"I noticed that too, he was too focused on something.\"\nAchille: \"I assure you, I was not involved in any plotting.\"\nDamien: \"I want to remind everyone to be cautious, but I support careful consideration of all behavior.\"\nAlice: \"Given the night events, I vote to eliminate Achille.\"\nBrian: \"I agree with Alice.\"\nCarol: \"My vote goes to Achille as well.\"\nEllie: \"Count me in with the votes for Achille.\"\nAchille: \"I'll accept the group decision.\"\n*Achille is eliminated*",
+  "night_elim": "Bethany",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 20.807185 seconds 

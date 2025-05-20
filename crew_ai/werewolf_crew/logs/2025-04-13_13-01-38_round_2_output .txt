@@ -1,0 +1,7 @@
+{
+  "transcript": "Night Phase:\nAchille and Damien, the werewolves, slip into the darkness. They meet in a secluded corner where no villagers hear their silent conversation. Achille tilts his head subtly and points discretely toward Bethany, while Damien, mirroring the gesture, nods and raises an index finger in agreement. Their eyes lock in a quiet, conspiratorial understanding, and with a whispered exchange of shared intent, they silently decide: ‘Bethany it is.’ Immediately thereafter, the night judge pronounces: ‘Bethany has been eliminated.’\n\nDay Phase:\nAs dawn breaks, the remaining villagers gather in the town square. Alice begins with a note of concern: \"I sense something amiss after Bethany’s sudden disappearance.\" Achille, trying to defend himself, replies, \"I was with all of you during the night; I had no part in this tragedy.\" Damien adds cautiously, \"I noticed some ambiguous gestures last night, particularly from Achille, which make me wonder if he might be hiding something.\" Ellie, steady and clear, voices her suspicion: \"We need to be vigilant. Achille’s behavior last night seems too calculated.\"\nAfter a brief, tense discussion, each player casts a vote (ensuring nobody votes for themselves):\n- Alice votes for Achille.\n- Damien votes for Achille.\n- Ellie votes for Achille.\n- Achille votes for Damien.\nThe tension breaks as the majority rules, and the declaration follows: \"Achille is eliminated.\"",
+  "night_elim": "Bethany",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 56.303060 seconds 

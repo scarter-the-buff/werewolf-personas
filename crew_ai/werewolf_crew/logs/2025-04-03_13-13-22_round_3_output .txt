@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nThe room is shrouded in darkness. Damien and Ellie, both werewolves, gather quietly in a hidden corner. Damien gives a subtle nod towards Ellie while she raises a slow, arching eyebrow. They exchange a series of silent gestures—a quick tilt of the head, a slight lean, and brief eye contact—confirming their plan: to eliminate the only villager, Alice. As the night deepens, a shadow glides silently toward Alice, marking her elimination.\n\nDAY PHASE:\nMorning light reveals the uneasy setting as only Damien and Ellie remain. In the village square, they gather under the pretense of their roles as villagers. Damien starts hesitantly, \"I think we need to decide who might be causing more trouble around here.\" Ellie replies carefully, \"Yes, it's crucial to settle this and protect our community.\" Both make cautious gestures as they try to hide their true identities. Their discussion intensifies with each subtly accusing the other, though neither presents clear evidence. After a balanced, yet tense dialogue, the two votes are tied. A random draw is conducted, and fate selects Damien for elimination. Damien accepts the decision with a resigned sigh while Ellie watches with a conflicted gaze.",
+  "night_elim": "Alice",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 65.805003 seconds 

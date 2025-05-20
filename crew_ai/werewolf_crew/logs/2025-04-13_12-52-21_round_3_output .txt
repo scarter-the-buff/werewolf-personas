@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *narrowing her eyes and making a quick sweeping hand gesture toward Bethany*\nAchille: *nods subtly and gives a discreet thumbs-up toward Bethany*\nNarrator: The werewolves silently agree on their target. Bethany is marked and eliminated during the night.\n\nDAY PHASE\nAlice: \"I can hardly believe Bethany is gone. This loss leaves us shaken. But we must find the truth behind this tragedy.\"\nAchille: \"It is indeed a grim day. Still, I noticed certain behaviors last night that pulled my suspicion away.\"\nAlice: \"Really? I remember you exchanged more than just nods. Your gestures were too calculated, almost as if you had a secret agenda.\"\nAchille: \"Oh, really? I’d say your intense stare and pointed hints speak volumes. I suspect you might be hiding more than grief.\"\nAlice: \"I think evidence stands by itself in these troubled times. I have to vote for the one whose actions betrayed their true nature.\"\nAchille: \"Since neither of us shall vote against ourselves, my vote falls on you, Alice.\"\n\nNarrator: With each player unwilling to accuse themselves, both cast their opposing votes. In accordance with the tie-breaker tradition, the coin of fate is flipped, landing against Achille.\nNarrator: Achille is eliminated during the day phase.",
+  "night_elim": "Bethany",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 50.370981 seconds 

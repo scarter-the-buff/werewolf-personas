@@ -1,0 +1,7 @@
+{
+    "transcript": "----- NIGHT PHASE -----\nAlice: (Glances at Achille with a silent, conspiratorial nod. She slightly raises her hand and points subtly toward Ellie.)\nAchille: (Returns the nod with a discreet smile, then mirrors the gesture by giving a quick wave toward Ellie.)\n*Ellie is quietly eliminated as both werewolves agree through non-verbal signals.*\n\n----- DAY PHASE -----\nAlice: \"I woke up feeling uneasy last night. I wonder if we overlooked something?\"\nAchille: \"I wasn’t very active, but sometimes the quietest moments hide the deepest secrets.\"\nEllie: \"I’m confused—this elimination last night still leaves questions. We need to clear the air.\"\n\nAlice (whispering to Achille): \"Maybe we should be careful. It might be best to vote out someone who seems overly suspicious...\"\nAchille (smirking subtly): \"Absolutely, we must use our instincts wisely.\"\n\nVoting Round (players do not vote for themselves):\n- Alice votes for Achille.\n- Achille votes for Alice.\n- Ellie votes for Achille.\n\n*Based on the majority vote (2 votes for Achille versus 1 vote for Alice), Achille is eliminated by vote.*",
+    "night_elim": "Ellie",
+    "day_elim": "Achille"
+}
+```
+ Round Execution Time: 56.901751 seconds 

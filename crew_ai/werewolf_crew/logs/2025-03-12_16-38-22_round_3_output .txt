@@ -1,6 +1,0 @@
-{
-  "transcript": "----- NIGHT PHASE -----\nAlice: *glances around subtly, nods quietly, then points steadily towards Ellie with a look of grim determination*\nCarol: *raises an eyebrow in silent acknowledgment, tilts her head and mirrors Alice's gesture by pointing toward Ellie*\nAlice: *exchanges a significant look with Carol without uttering a sound, both confirming their unspoken agreement*\n[Ellie is eliminated during the night]\n\n----- DAY PHASE -----\nAlice: \"I can feel the tension tonight. The night left us shaken, and something is off.\"\nCarol: \"Yes, the silence under the moon was as telling as words. We must discuss what happened.\"\nAlice: \"I suspect there’s more here than meets the eye. I must vote for you, Carol.\"\nCarol: \"I see your point, but for balance, I vote for you, Alice.\"\n[Both votes are cast, resulting in a tie]\nAlice: \"This tie leaves us with a dilemma. We can’t have it continue.\"\nCarol: \"To restore peace and avoid further suspicion, I concede the vote.\"\n[Alice accepts Carol’s concession and the decision is finalized]\n[Carol is eliminated during the day]",
-  "night_elim": "Ellie",
-  "day_elim": "Carol"
-}
-```

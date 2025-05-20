@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAchille (Werewolf): *glances around cautiously then subtly gestures towards Carol*\nBethany (Werewolf): *nods in agreement and uses a discreet hand signal towards Carol*\n*Carol is eliminated*\n\nDAY PHASE\nAlice (Villager): \"I can’t believe Carol is gone. Who could have done this?\"\nBrian (Villager): \"This is really unsettling. We need to discuss and find out who is hiding something.\"\nDamien (Villager): \"I noticed Achille acting strangely last night.\"\nEllie (Villager): \"Yes, his behavior was out of the ordinary.\"\nAchille (Werewolf): \"I’m just as shocked as everyone else. Maybe we should also consider Brian’s silence earlier.\"\nBethany (Werewolf): \"Let’s not jump to conclusions. However, I feel Damien’s comments were too pointed.\"\nAlice (Villager): \"Time to vote. I vote for Achille.\"\nBrian (Villager): \"I vote for Achille.\"\nDamien (Villager): \"I vote for Achille.\"\nEllie (Villager): \"I vote for Achille.\"\nAchille (Werewolf): \"I vote for Brian.\"\nBethany (Werewolf): \"I vote for Damien.\"\n*Achille is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 35.271844 seconds 

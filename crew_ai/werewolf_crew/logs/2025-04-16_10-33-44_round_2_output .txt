@@ -1,0 +1,7 @@
+{
+  "transcript": "----- NIGHT PHASE -----\nBethany: *exchanges a subtle nod and raises an eyebrow at Damien*\nDamien: *leans in, subtly gestures with his hand towards Carol*\nBethany: *further signals with a slight head tilt* Damien: *responds with a confirming smile and expanded hand gesture*\nTogether, through these intricate non-verbal signals, they agree on their target. Silently, they approach Carol's resting spot. A swift, coordinated motion later—Carol is eliminated.\n[Eliminated: Carol]\n\n----- DAY PHASE -----\nAlice: \"I can’t believe one of us betrayed our trust. We need to discuss and find the culprit among us.\"\nEllie: \"I noticed some suspicious exchanges last night. It seemed like Bethany and Damien were secretly communicating.\"\nBethany: \"I was awake but I didn't see anything out of the ordinary.\"\nDamien: \"I think we should closely examine every detail. For me, the behavior I observed in Bethany stands out.\"\nAlice: \"We can't ignore the majority of opinions leaning against Bethany.\"\nEllie: \"I agree. My gut tells me that Bethany is hiding something.\"\nBethany: \"Maybe I'm being targeted unfairly. What about Damien?\"\nDamien: \"Based on our observations, the votes seem to be pointing in one direction.\"\nAlice: \"I vote for Bethany.\"\nEllie: \"I vote for Bethany.\"\nBethany: \"I vote for Damien.\"\nDamien: \"I vote for Bethany.\"\nVotes tally up to eliminate Bethany with a clear majority.\n[Eliminated: Bethany]",
+  "night_elim": "Carol",
+  "day_elim": "Bethany"
+}
+```
+ Round Execution Time: 33.424207 seconds 

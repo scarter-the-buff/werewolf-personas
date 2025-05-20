@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *glances at Carol and subtly points toward Bethany*\nCarol: *nods and gives a slight smile to Achille*\nAchille: *mimics a hand gesture as if clicking a target on Bethany*\nCarol: *raises her eyebrows and tilts her head in confirmation*\n*[Bethany is eliminated]*\n\nDAY PHASE\nBrian: \"Looks like Bethany was eliminated last night. We must be cautious.\"\nEllie: \"I can’t help but feel uneasy about the silence during the night. Who did you see acting strangely?\"\nAchille: \"I was watching everyone closely, but maybe we should look at those who stayed quiet.\"\nCarol: \"I thought Brian and Ellie were exchanging glances; maybe that was more than coincidence.\"\nBrian: \"No, I was with Ellie most of the time, and I don’t see any reason for suspicion there.\"\nEllie: \"Let’s each cast our vote so we can clear the air. I vote for Carol.\"\nAchille: \"My vote goes to Carol as well.\"\nCarol: \"I vote for Brian.\"\nBrian: \"Then I vote for Carol.\"\n*[Carol is eliminated]*",
+  "night_elim": "Bethany",
+  "day_elim": "Carol"
+}
+ Round Execution Time: 27.851560 seconds 

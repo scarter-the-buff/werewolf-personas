@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian: (glances at Ellie and gives a firm nod)\nEllie: (smiles subtly and raises her eyebrow in agreement)\nBrian: (points discreetly towards Carol, raising his hand in a silent command)\nEllie: (mimics a grim cutting motion with her hand)\n*Carol is eliminated*\n\nDAY PHASE\nBrian: \"It’s peculiar now that things have changed suddenly. I wonder if we can trust our own instincts even in this small group.\"\nEllie: \"I know, Brian. With Carol gone, the suspense is high. We need to decide who might be a threat to our survival.\"\nBrian: \"I vote for you, Ellie. It might be the best way to settle this.\" \nEllie: \"I vote for you, Brian. We both seem to be the only options left.\"\n*Brian is eliminated*",
-  "night_elim": "Carol",
-  "day_elim": "Brian"
-}
-```

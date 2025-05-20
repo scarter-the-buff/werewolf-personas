@@ -1,6 +1,0 @@
-{
-  "transcript": "Night Phase:\nAlice (in a hushed tone, makes a subtle gesture by glancing sharply at Damien) \nDamien (nods silently, then points discreetly toward Brian) \nAlice (raises an eyebrow and gives a slight thumbs up to Damien) \nDamien (confirms with a silent, firm nod) \nTogether, through their unspoken signals, the werewolves agree: Brian will be eliminated without any words spoken aloud.\n\nDay Phase:\nAlice (calmly, with a knowing smile): \"Good morning everyone. I feel we must make a clear choice today.\"\nBethany (defensively): \"I’m not sure, but some of you seem to be pointing fingers...\"\nDamien (in a measured tone): \"I believe the evidence leans towards Bethany. Let’s vote accordingly.\"\nEllie (firmly): \"I agree with Damien. I vote for Bethany.\"\nBethany (attempting to shift suspicion): \"I’m voting for Damien, just to mix things up, but clearly something is off here.\"\nAfter votes are tallied, the majority decisively points at Bethany, leading to her elimination.",
-  "night_elim": "Brian",
-  "day_elim": "Bethany"
-}
-```

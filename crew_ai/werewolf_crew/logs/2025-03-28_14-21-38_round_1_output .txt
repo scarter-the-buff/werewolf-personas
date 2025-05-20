@@ -1,0 +1,6 @@
+{
+  "transcript": "=== Night Phase ===\nAchille (whispering with secretive gestures): *Glances quickly around and points toward Bethany with a furtive look*\nDamien (nodding subtly and using facial expressions): *Returns the nod and makes a slight hand gesture toward Bethany, confirming the target*\n(Without any words, the two werewolves silently agree: Bethany is the victim.)\n\n=== Day Phase ===\nAlice: \"Good morning everyone. It’s a sad day – Bethany was found eliminated during the night.\"\nBrian: \"I’m shocked. We have to figure out who among us is not trustworthy.\"\nCarol: \"I noticed Achille been acting oddly last night, almost like he was trying to hide something.\"\nEllie: \"I’m with Carol on this; his behavior seemed off.\"\nAchille: \"I think you're all jumping to conclusions. I was just quiet, not hiding anything!\"\nBrian: \"I’m voting for Achille. I believe his actions last night say more than his words.\nCarol: \"I vote for Achille as well.\"\nEllie: \"That’s two votes for Achille and I’m adding mine too.\"\nAlice: \"It appears we have a consensus.\"\nAchille: \"No, I’m not the werewolf! Please reconsider!\"\n(With the majority vote collected against him, Achille is eliminated.)\n",
+  "night_elim": "Bethany",
+  "day_elim": "Achille"
+}
+```

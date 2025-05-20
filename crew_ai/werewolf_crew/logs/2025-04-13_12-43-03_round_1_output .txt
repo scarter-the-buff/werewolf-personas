@@ -1,0 +1,7 @@
+{
+    "transcript": "NIGHT PHASE:\nBrian (werewolf) and Damien (werewolf) exchange subtle, silent gestures under the moonlight. Brian points discreetly toward Carol, while Damien gives a confirming nod. Without a word spoken, both signal their deadly decision and agree that Carol is the target. Carol is quietly eliminated during the dark of night.\n\nDAY PHASE:\nThe surviving players meet at sunrise: Alice, Achille, Bethany, Brian, Damien, and Ellie. The atmosphere is heavy with suspicion and uncertainty.\nAlice: \"Last night was chilling. We must stay alert.\"\nAchille: \"I have a gut feeling that one among us hides a deadly secret.\"\nBethany: \"I noticed uneasy glances; someone might be pretending to be one of us.\"\nBrian: \"Let’s discuss openly. There are subtle hints that should not be ignored.\"\nDamien: \"We must follow our instincts to root out any deceit.\"\nEllie: \"I believe our focus should be on those who seem overly defensive.\"\n\nThe players then cast their secret votes (none voting for themselves):\nAlice votes for Achille.\nBethany votes for Achille.\nBrian votes for Achille.\nDamien votes for Achille.\nEllie votes for Achille.\nAchille, unable to vote for himself, is overwhelmingly accused and is eliminated by the majority vote.",
+    "night_elim": "Carol",
+    "day_elim": "Achille"
+}
+```
+ Round Execution Time: 30.664657 seconds 

@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Ellie and subtly points toward Bob*\nEllie: *raises her eyebrows, nods, and gestures firmly toward Bob*\nAlice: *tilts her head in confirmation with a slight smile*\nEllie: *gives a final decisive nod*\nNarrator: The two werewolves silently agree. Bob, the targeted villager, is eliminated!\n\nDAY PHASE\nAlice: \"I still can’t believe Bob is gone. Something dark must be lurking among us.\"\nEllie: \"It’s unsettling. We must scrutinize every move and word.\"\nCharlie: \"I’ve observed some odd behaviors tonight. We can’t ignore the possibility that someone here is not as they appear.\"\nDavid: \"I agree with Charlie. I noticed subtle hesitations that make me suspicious.\"\nEva: \"Alice, your reactions have been off—too calculated. I think we should vote against you.\"\nFrank: \"I share Eva’s concern. I vote for Alice as well.\"\nAlice: \"I vote for Charlie, though I maintain my innocence.\"\nEllie: \"I vote for Alice, based on what I've observed.\"\nCharlie: \"I vote for Alice.\"\nDavid: \"I vote for Alice.\"\nNarrator: Tallying the votes reveals that a majority of the players have chosen to eliminate Alice. Consequently, Alice is eliminated from the game!",
+  "night_elim": "Bob",
+  "day_elim": "Alice"
+}
+```
+ Round Execution Time: 95.837921 seconds 

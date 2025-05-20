@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Damien with a knowing look, then subtly gestures towards Bethany*\nDamien: *nods and makes a careful hand signal towards Bethany*\nAlice: *raises an eyebrow and points decisively at Bethany*\nDamien: *smirks and gives a slow nod*\n*[Bethany is eliminated]*\n\nDAY PHASE\nAchille: \"I can’t believe Bethany is gone. Who could have done this?\"\nEllie: \"It’s a mystery. We need to figure out whom to trust.\"\nAlice: \"I was with Damien last night, but even then, something felt off.\"\nDamien: \"I noticed Achille acting a bit nervous earlier.\"\nAchille: \"Really? I don’t recall doing anything unusual, but I agree, we should discuss.\"\nEllie: \"I think the signals point towards someone trying too hard to shift blame. I’m leaning towards voting against Achille.\"\nAlice: \"I vote for Achille as well.\"\nDamien: \"I vote for Achille.\"\n*[Achille is eliminated]*",
+  "night_elim": "Bethany",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 12.911878 seconds 

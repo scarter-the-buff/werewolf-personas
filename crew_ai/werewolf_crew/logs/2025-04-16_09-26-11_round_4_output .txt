@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAlice, with a subtle nod and a sharp, pointed look, initiates the silent communication with Achille. Through a series of nuanced hand signals and fleeting facial expressions, the two werewolves come to a stark, unspoken agreement: they will eliminate the villager, Ellie, during this dark phase. Ellie, peacefully asleep and unaware of the silent strategy unfolding, becomes the target of their coordinated plan.\n\nDAY PHASE:\nWith the sun rising over the village, Alice and Achille—the only survivors—gather in the town square for a tense discussion. Alice, with a calm yet accusatory tone, begins, \"I must say, last night’s silence speaks volumes. I feel uneasy about our choices.\"\nAchille replies with a forced smile and a measured frown, \"Indeed, suspicions arise, and I believe in acting swiftly. My vote must be cast cautiously.\"\nAfter a moment of wary exchange, Alice declares, \"For the good of the village, I vote for Achille,\" while Achille counters, \"I, too, vote for Alice.\" With both casting their votes against each other, the outcome ends in a tie. According to the game's tie-breaker rule, the final decision falls by chance, and fate decides that Achille is the one eliminated.\n",
+  "night_elim": "Ellie",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 85.913223 seconds 

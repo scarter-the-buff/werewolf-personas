@@ -1,0 +1,5 @@
+{"transcript": "NIGHT PHASE\nAlice: *exchanges a meaningful look with Brian, nodding silently*\nBrian: *nods back at Alice, then subtly gestures towards Achille*\nAchille: *unaware, sits quietly as the werewolves coordinate*\n*Achille is eliminated by the silent agreement of the werewolves*\n\nDAY PHASE\nAlice: \"Good morning everyone, though I feel uneasy about last night. What do you all think?\"\nBrian: \"I agree, we must be careful and share our thoughts.\"\nBethany: \"I noticed Brian seemed unusually quiet during the night. It raises some suspicion for me.\"\nCarol: \"I share Bethany's concern. Brian's behavior is a bit too calculated.\"\nDamien: \"I lean towards Brian as well. His responses are vague and that sets off alarms for me.\"\nEllie: \"I second that; I vote for Brian based on the inconsistency in his behavior.\"\n\nVoting Round:\nAlice votes for Carol\nBrian votes for Alice\nBethany votes for Brian\nCarol votes for Brian\nDamien votes for Brian\nEllie votes for Brian\n\n*Brian receives the majority of the votes and is eliminated*",
+"night_elim": "Achille",
+"day_elim": "Brian"}
+```
+ Round Execution Time: 25.832544 seconds 

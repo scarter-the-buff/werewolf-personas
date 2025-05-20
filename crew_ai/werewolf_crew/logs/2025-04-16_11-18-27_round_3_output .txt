@@ -1,0 +1,7 @@
+{
+    "transcript": "----- NIGHT PHASE -----\nAlice (werewolf): *raises an eyebrow, gestures with a nod, and points decisively toward Bethany*\nBrian (werewolf): *returns the gesture with a subtle head tilt and a confirming hand signal*\nBethany (villager): *remains asleep, unaware of the silent conspiracy*\n[The werewolves agree silently: Bethany is eliminated]\n\n----- DAY PHASE -----\nAlice (werewolf): \"I woke up to unsettling whispers. I have my doubts, and I'm beginning to think Brian might be up to something.\"\nBrian (werewolf): \"That’s interesting, Alice. I was just observing, and now I’m wondering if perhaps you are trying to shift suspicion.\"\nAlice: \"Let's be direct. I'm voting for Brian.\"\nBrian: \"Fair enough. I'm voting for Alice.\"\n[The voting is tied. An arbitrary tie-breaker is applied and the decision is made to eliminate Brian.]\n",
+    "night_elim": "Bethany",
+    "day_elim": "Brian"
+}
+```
+ Round Execution Time: 36.312932 seconds 

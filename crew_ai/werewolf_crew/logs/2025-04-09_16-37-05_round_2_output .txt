@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nDavid: *glances around furtively and makes a subtle gesture toward Carol*\nEva: *nods approvingly and points discreetly to Carol*\nDavid: *raises his eyebrows and taps his temple, confirming the decision*\nEva: *gives a slow smile and mimics a heads-up gesture*\n*The two werewolves exchange a final look and silently agree on the target*\n*Carol is eliminated*\n\nDAY PHASE\nBrian: \"I can’t believe Carol was taken in the night. We need to figure out who did this.\"\nAchille: \"This is unsettling. Who among us could be hiding a secret?\"\nBethany: \"I noticed Eva seemed a bit too calculated last night. Could it be her?\"\nEllie: \"I agree with Bethany. Eva’s been oddly quiet during the discussion.\"\nDavid: \"I’m not sure, but I feel like someone is overreacting.\"\nEva: \"I’m just as shocked as everyone else, but we must focus on who had the motive.\"\nBrian: \"I’m voting for Eva, her subtle gestures last night didn’t seem completely natural.\"\nAchille: \"I vote for Eva, too.\"\nBethany: \"I vote for Eva, she’s been the most suspicious.\"\nEllie: \"I vote for Eva as well.\"\nDavid: \"I vote for Bethany, but the majority clearly points to Eva.\"\n*With four votes for Eva and only one dissenting vote, the majority decision is clear*\n*Eva is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "Eva"
+}
+```
+ Round Execution Time: 43.748997 seconds 

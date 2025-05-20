@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nBrian (Werewolf): *glances furtively around and subtly gestures toward Carol*\nDamien (Werewolf): *nods in agreement and, using a discreet hand signal, points toward Carol*\nBrian (Werewolf): *raises an eyebrow and gives a slight smirk, confirming the silent pact*\nDamien (Werewolf): *approaches Carol quietly and taps her shoulder as an unspoken verdict*\n*Carol is eliminated*\n\nDAY PHASE\nAlice (Villager): \"I can’t believe Carol was taken last night. We need to be extra careful now.\"\nAchille (Villager): \"Yes, this is unsettling. We must discuss who might be hiding the truth among us.\"\nBethany (Villager): \"I think we should focus on Brian – something felt off about him during the night.\"\nEllie (Villager): \"I agree with Bethany. His demeanor was too calm.\"\nDamien (Werewolf): \"I’m not sure who to trust, but if the majority thinks so, maybe we should question Brian’s actions.\"\nBrian (Werewolf): \"I understand the suspicion, but I’ve been as involved as any of you. Still, I see I’m the target now.\"\n\n*After a heated discussion and voting, the majority of players cast their votes against Brian*\n*Brian is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "Brian"
+}
+ Round Execution Time: 49.530135 seconds 

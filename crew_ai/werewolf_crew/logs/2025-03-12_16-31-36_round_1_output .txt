@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian: *glances at Damien and raises his eyebrows* \nDamien: *nods subtly and points discreetly towards Bethany* \nBrian: *moves his hand in a silent signal toward Bethany* \nDamien: *mirrors the gesture with a firm nod and a slight smile* \n*Bethany is eliminated*\n\nDAY PHASE\nAlice: \"I can’t believe Bethany was taken out last night. Who do you all think is behind this?\"\nBrian: \"It’s hard to tell, but sometimes the quiet ones deserve a closer look.\"\nAchille: \"I know it’s tense now, but we must look at each other’s clues carefully.\"\nCarol: \"I think some people are overreacting. I’m keeping my eyes on those who talk too much.\"\nDamien: \"I agree, let’s not waste time. I vote for someone trying too hard to steer the conversation.\"\nEllie: \"I feel something is off with Achille’s insistence on leading. I vote for Achille.\"\nAlice: \"Yeah, I’m leaning towards Achille too.\"\nBrian: \"I’m with Alice on that.\"\nAchille: \"I vote for Carol, but clearly, I’m outnumbered.\"\nCarol: \"I vote for Achille.\"\nDamien: \"I’m voting for Achille as well.\"\nEllie: \"My vote is with Achille.\"\n*Achille is eliminated*",
-  "night_elim": "Bethany",
-  "day_elim": "Achille"
-}
-```

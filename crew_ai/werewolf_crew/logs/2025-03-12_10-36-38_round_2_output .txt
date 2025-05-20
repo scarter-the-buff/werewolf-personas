@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAchille: *exchanges a knowing glance with Carol in the dark*\nCarol: *uses a subtle hand gesture to signal agreement*\nBoth werewolves silently point to Bethany, mutually agreeing that she is their target.\nBethany: *unaware and isolated, is silently eliminated*\n\nDAY PHASE:\nAlice: \"I woke with a heavy heart this morning—someone is missing. Who seemed off to everyone last night?\"\nAchille: \"I’m not completely certain, but I think there might have been suspicious behavior from Carol...\"\nCarol: \"I believe someone is trying to deflect attention; perhaps we should consider another viewpoint. Personally, I feel Achille has been a bit evasive.\"\nEllie: \"I had my doubts too, and after considering everything, I’m voting for Achille.\"\n\nNow the votes are cast:\n- Alice votes for Achille\n- Achille votes for Carol\n- Carol votes for Achille\n- Ellie votes for Achille\n\nWith three votes against him, the consensus is to eliminate Achille during the day.",
-  "night_elim": "Bethany",
-  "day_elim": "Achille"
-}
-```

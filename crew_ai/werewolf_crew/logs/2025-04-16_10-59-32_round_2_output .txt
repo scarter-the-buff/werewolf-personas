@@ -1,0 +1,7 @@
+{
+  "transcript": "----- NIGHT PHASE -----\\nThe night is dark and silent. Away from the group, the werewolves, Alice and Carol, convene with secretive gestures. Alice gives a subtle nod and points discreetly toward Damien. Carol, understanding the message, shakes her head briefly then points firmly at Damien. Their unspoken agreement is clear as they settle on Damien as the target.\\n\\n----- DAY PHASE -----\\nDaylight reveals the tension. The survivors gather to discuss the events of the night.\\nAlice: \"I suspect someone among us had a hidden agenda last night. I cast my vote for Achille.\"\\nAchille: \"I’m wary of the behavior I noticed. I vote for Alice.\"\\nCarol: \"Let’s not jump to conclusions too fast. I believe Ellie has been unusually silent; my vote goes to Ellie.\"\\nEllie: \"After considering the whispers and glances, I feel compelled to vote for Alice.\"\\n\\nVote tally: Alice receives 2 votes, Achille 1 vote, and Ellie 1 vote. With the majority against her, Alice is eliminated from the game.",
+  "night_elim": "Damien",
+  "day_elim": "Alice"
+}
+```
+ Round Execution Time: 49.489508 seconds 

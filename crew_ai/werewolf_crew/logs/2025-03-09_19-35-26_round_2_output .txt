@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian: *glances over to Carol, signaling with a slight wink and subtle nod*\nCarol: *nods silently and points toward Damien*\nBrian: *raises a quiet eyebrow at Damien, tapping his temple briefly to indicate suspicion*\nCarol: *makes an emphatic gesture toward Damien, confirming the decision*\n*[Damien] is eliminated\n\nDAY PHASE\nAlice: \"It’s been strange losing Damien last night. We must be more careful.\"\nBrian: \"This loss reminds us that trust is fragile among us.\"\nCarol: \"We need to show our strength; perhaps one among us is not on our side.\"\nEllie: \"I find the way Carol reacted to be a bit too calculated. I’m leaning toward eliminating her.\"\nAlice: \"I vote for Carol.\"\nBrian: \"I vote for Carol.\"\nCarol: \"I vote for Brian.\"\nEllie: \"I vote for Carol.\"\n*[Carol] is eliminated",
-  "night_elim": "Damien",
-  "day_elim": "Carol"
-}
-```

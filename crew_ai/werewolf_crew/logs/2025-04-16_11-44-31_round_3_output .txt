@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nBrian: *Glances at Achille, raises an eyebrow, and slowly points toward Ellie, indicating a plan without speaking.*\nAchille: *Returns the gesture with a subtle nod and a thumbs-up, then points decisively at Ellie to confirm the elimination plan.*\nBrian: *Clenches his fist and gives a final confirming gesture to mark their target.*\nAchille: *Nods silently as both agree the plan is set. Ellie's fate is sealed as she is quietly eliminated by their silent ballot.*\n\nDAY PHASE:\nBrian: \"I can’t believe what happened last night. I’m still puzzled by the turn of events.\"\nAchille: \"It was unfortunate, but sometimes things happen. We need to decide who among us is untrustworthy.\"\nBrian: \"Look, I’m pointing at you—you were too eager to keep our secret last night.\"\nAchille: \"Really? I was just trying to cover our tracks. Honestly, your nervous energy says it all.\"\nBrian: \"That’s rich coming from you. It seems like we’re both under suspicion.\"\nAchille: \"Well, let’s vote then. I cast my vote against you, Brian.\"\nBrian: \"And I cast my vote against you, Achille.\"\n*With each voting for the other, a tie-breaker is used, and by game rule Brian is eliminated.*",
+  "night_elim": "Ellie",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 35.228108 seconds 

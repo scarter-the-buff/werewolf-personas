@@ -1,0 +1,7 @@
+{
+  "transcript": "=== Night Phase ===\nAlice (quietly glancing at Brian): *Nods subtly and gestures towards Bethany*\nBrian (responding with a significant look): *Points at Bethany with a firm nod*\n[Both werewolves silently agree on their target as Bethany remains asleep, unaware of the danger.]\n\n=== Day Phase ===\nAlice: \"I woke up to a heavy silence. I fear something happened tonight.\" \nBrian: \"I noticed some odd behavior last night. It seems one of us might not be as they appear.\" \nBethany (dazed, having just been eliminated): \"...\"\nEllie: \"This is terrible. Who could have done this?\"\nAlice: \"I am suspicious of Ellie. Her evasiveness last night stood out to me.\" \nBrian: \"I concur. I believe Ellie’s behavior is questionable and might hide a darker truth.\"\nEllie: \"I have nothing to hide! But with tensions everywhere, I’ll vote for Brian to safeguard the town.\" \nAlice: \"I vote for Ellie, as her actions last night cannot be overlooked.\" \nBrian: \"My vote is also for Ellie, to prevent any further risk.\"\nEllie: \"I cast my vote for Brian, though it appears the majority leans elsewhere.\"\n\n[Votes Recorded: Alice -> Ellie, Brian -> Ellie, Ellie -> Brian]\n[Result: With two votes against her, Ellie is eliminated in the day phase.]",
+  "night_elim": "Bethany",
+  "day_elim": "Ellie"
+}
+```
+ Round Execution Time: 36.773954 seconds 

@@ -1,0 +1,6 @@
+{
+    "transcript": "NIGHT PHASE\nAlice: *glances at Brian and nods subtly, then points toward Bethany with a slight tilt of her head*\nBrian: *returns the glance, raises his eyebrows, and makes a pressing gesture toward Bethany*\n*Silent agreement is exchanged between Alice and Brian as they both indicate Bethany*\n*Bethany is eliminated*\n\nDAY PHASE\nAchille: \"I can\u2019t believe one of us is gone. I wonder who was targeted last night.\"\nCarol: \"It\u2019s unsettling, but I noticed how Alice kept acting suspiciously.\"\nDamien: \"I agree, Alice seemed too eager to lead the conversation.\"\nEllie: \"I also noticed that. Maybe we should consider eliminating her.\"\nBrian: \"I think we must be careful. We need more evidence before we turn on one of our own.\"\nAlice: \"I\u2019m as shocked as you are. I suggest we take a vote to be sure.\"\nAchille: \"I vote for Alice because of her behavior.\"\nCarol: \"Same here, my vote is for Alice.\"\nDamien: \"I\u2019m voting for Alice as well.\"\nEllie: \"My vote goes to Alice too.\"\nBrian: \"I vote for Damien, just to mix things up.\" \n*With a majority of votes against Alice*\n*Alice is eliminated*",
+    "night_elim": "Bethany",
+    "day_elim": "Alice"
+}
+```

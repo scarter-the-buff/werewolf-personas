@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *gestures to Charlie* Brian nods in agreement while pointing towards Charlie and making a slashing motion across the neck to indicate the decision to eliminate him during the night phase.\nCharlie is eliminated.\n\nDAY PHASE\nAlice: 'I really think we should focus on those who have been the quietest through the last few rounds, perhaps Bethany or Ellie.'\nBrian: 'I'd agree with Alice, but Carol's quick shifts in opinions seem suspicious as well.'\nBethany: 'Alice, you're pointing fingers quite early aren't you? Could that be to divert attention?'\nCarol: 'Bethany, I have been actively trying to piece together everyone's roles, but Ellie, what do you have to say for yourself?'\nDamien: 'I'm not convinced about Bethany, she seems honest. However, I'm keeping a close eye on Brian and Carol.'\nEllie: 'I just feel like there's an alliance forming between Alice and Brian, and it might be worth focusing on that.'\n\nVoting outcomes:\nAlice votes for Ellie, Brian votes for Carol, Bethany votes for Alice, Carol votes for Ellie, Damien votes for Brian, Ellie votes for Alice.\nWith a tie between Ellie and Alice, they need further discussion or a revote.",
-  "night_elim": "Charlie",
-  "day_elim": ""
-}
-```

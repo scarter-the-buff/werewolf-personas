@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Bethany and subtly gestures toward someone off-screen*\nBethany: *nods and uses a slight head tilt to indicate her choice, then both exchange a secret look*\nEllie: *unaware and quietly resting*\n*Ellie is eliminated*\n\nDAY PHASE\nAlice: \"I noticed Ellie's absence this morning, and it makes me wonder if something is not right.\"\nBethany: \"I agree that something is off, and while I initially hesitated, I now feel uneasy about the situation.\"\nAlice: \"Based on our conversation and the way things unfolded, I am convinced that Bethany might not be on our side. I vote for Bethany.\"\nBethany: \"After some thought on the events of last night and our morning discussion, I also believe that voting for me is the best way forward.\"\n*Bethany is eliminated*",
+  "night_elim": "Ellie",
+  "day_elim": "Bethany"
+}
+```
+ Round Execution Time: 16.223404 seconds 

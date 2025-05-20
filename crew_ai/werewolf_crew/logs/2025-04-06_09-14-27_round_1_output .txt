@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *glances furtively and points at Bethany*\nBrian: *nods silently in agreement, eyes fixed on Bethany*\nAlice: *sleeps peacefully, unaware*\nBethany: *remains quiet in her sleep*\nCarol: *stays out of the room*\nDamien: *does not notice the secret signals*\nEllie: *unwittingly quiet*\n*Bethany is eliminated*\n\nDAY PHASE\nAlice: \"I can’t believe Bethany didn’t make it through the night. Who could be behind this?\"\nBrian: \"I think it’s time we look deeper into each other’s actions.\"\nAchille: \"We need to be cautious; perhaps the quiet ones have something to hide.\"\nCarol: \"I noticed Brian seemed strangely defensive last night.\"\nDamien: \"Brian’s behavior has been off; I lean towards him being suspicious.\"\nEllie: \"I agree with the others. I vote for Brian.\"\nAlice: \"Count me in; I vote for Brian too.\"\nAchille: \"I’m voting for Brian as well.\"\nCarol: \"I vote for Brian.\"\nDamien: \"My vote is for Brian.\"\n*Brian is eliminated*",
+  "night_elim": "Bethany",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 23.932772 seconds 

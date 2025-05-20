@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAlice: (glances at Carol with a covert nod, eyes narrowing with intent)\nCarol: (offers a slight smirk and raises an eyebrow in silent agreement)\n*Both silently point toward Ellie*\n*Ellie, surprised and unable to protest, is quietly removed from the game*\n\nDAY PHASE:\nAlice: \"I can't help but notice something amiss from last night...\"\nCarol: \"Yes, suspicions are rising. Who truly had something to hide?\"\nAlice: \"We must decide now. Let’s vote on who seems less trustworthy.\"\nCarol: \"I agree. Let's see where the majority leans.\" \n\n*Both players cast their votes and the tally results in a tie, invoking the tie-breaker rule.*\n\nAlice: (sombrely) \"With the tie-breaker, I have no choice. By the rules, Carol must be eliminated.\"",
+  "night_elim": "Ellie",
+  "day_elim": "Carol"
+}
+```
+ Round Execution Time: 25.235137 seconds 

@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *glances sharply at Brian and makes a subtle pointing gesture towards Bethany*\nBrian: *nods quietly, then uses a discreet hand motion to mimic tapping someone’s shoulder, indicating Bethany*\nAlice: *exchanges a meaningful look with Brian and together they silently agree on their target*\n*[Bethany is quietly eliminated during the night]*\n\nDAY PHASE\nAlice: \"It looks like someone didn’t make it through the night.\"\nBrian: \"Something happened while we were all asleep. We must be cautious.\"\nAchille: \"This is unsettling. Who do you all suspect might be a threat?\"\nDamien: \"I’ve observed that Carol has been unusually reserved today.\"\nEllie: \"Now that we’re awake, Carol’s behavior seems off.\"\nCarol: \"I’m as surprised as anyone. I assure you, I’m on your side. But we need to find the real culprit.\"\nAlice: \"For my part, I believe our suspicions should be on Carol.\"\nBrian: \"I agree with Alice, Carol’s reactions are very suspicious.\"\nAchille: \"I vote for Carol.\"\nDamien: \"I second that vote; Carol seems to be the common factor in our doubts.\"\nEllie: \"I vote for Carol as well.\"\n*[Carol is eliminated after receiving the majority of votes]*",
-  "night_elim": "Bethany",
-  "day_elim": "Carol"
-}
-```

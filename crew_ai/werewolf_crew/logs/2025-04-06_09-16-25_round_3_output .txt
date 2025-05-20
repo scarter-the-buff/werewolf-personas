@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: (Exchanges a meaningful glance with Damien, then subtly moves her hand in a gesture that hints at targeting one person.)\nDamien: (Returns the gesture with a decisive nod and discreetly points toward Ellie.)\nAlice: (Confirms the gesture with a slight tilt of her head.)\n(Without a word, the two werewolves silently converge on their target. Ellie's figure is soon seen isolated, marking her elimination.)\n\nDAY PHASE\nAlice: \"Good morning, everyone. I woke up anxious after a strange night. I couldn't shake the feeling that something was amiss.\"\nDamien: \"I share your unease. It’s hard to ignore the silence surrounding certain actions last night.\"\nAlice: (Raises an eyebrow) \"Is it possible you have something to hide, Damien? You seemed oddly reserved when matters were at stake.\"\nDamien: (Defensively) \"I was as alert as everyone, but sometimes silence speaks louder than words. Perhaps we should consider our actions fairly.\"\nAlice: \"Interesting choice of words coming from someone who seems unusually guarded today.\"\nDamien: (Sighs) \"Let’s vote, then. I vote for you, Alice.\"\nAlice: \"I vote for you, Damien.\"\n(After both cast their votes simultaneously, neither able to vote for themselves, the result is a tie. According to the established tiebreaker rules, the decision falls, and Damien is eliminated.)",
+  "night_elim": "Ellie",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 28.711565 seconds 

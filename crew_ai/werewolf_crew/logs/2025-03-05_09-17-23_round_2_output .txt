@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *gestures to Ellie*\nBrian: *nods*\nAlice: *gestures to Ellie again*\nBrian: *taps Ellie on the shoulder*\n*Ellie is eliminated*\n\nDAY PHASE\nAchille: \"Looks like Ellie was eliminated last night.\"\nAchille: \"Alright, everyone, it's really unsettling that Ellie was taken out last night. We need to figure out who's responsible and vote them out today. What do you two think?\"\nBethany: \"It's really getting nerve-wracking now. I've been trying to observe everyone's behavior. Achille, to be honest, you seem a bit on edge, more than usual.\"\nAchille: \"Can you blame me? We're down to just three of us, and the stakes are high.\"\nCarol: \"Bethany, I see where you're coming from, but Achille's anxiety makes sense given our situation.\"\nBethany: \"Achille is notably defensive.\"\nAchille: \"I think Bethany's trying too hard to convince us she's innocent.\"\nCarol: \"Bethany, you’re a great talker, but I’ve picked up a certain defensiveness.\"\nBethany: \"Better to take a chance than end up losing.\"\nCarol: \"My vote goes to Bethany. Achille, are you with me?\"\nAchille: \"My vote goes to Bethany as well.\"\nBethany: \"I’m sure you’ll regret this.\"\n*Bethany is eliminated*",
-  "night_elim": "Ellie",
-  "day_elim": "Bethany"
-}
-```

@@ -1,0 +1,6 @@
+{
+  "transcript": "---- NIGHT PHASE ----\nBrian (werewolf): *raises an eyebrow and nods subtly toward Damien*\nDamien (werewolf): *gives a slight smile and points silently at Carol*\nBrian (werewolf): *makes a shushing gesture and taps his temple* \nDamien (werewolf): *nods in agreement with a determined look*\n[Announcement]: 'Carol has been eliminated.'\n\n---- DAY PHASE ----\nAlice: \"I can't shake the feeling that something isn’t right.\"\nBrian: \"I noticed Damien was uncharacteristically quiet last night. It makes me suspicious.\"\nDamien: \"Hold on, I think we should consider everyone’s behavior, not just mine.\"\nEllie: \"I feel the same as Alice; Damien’s defensiveness is worrying. I vote for Damien.\"\nAlice: \"I vote for Damien as well.\"\nBrian: \"My vote is also for Damien.\"\nDamien: \"It seems the majority has spoken...\"\n[Vote Tally]: The votes favor eliminating Damien.\n[Announcement]: 'Damien has been eliminated.'",
+  "night_elim": "Carol",
+  "day_elim": "Damien"
+}
+ Round Execution Time: 45.818217 seconds 

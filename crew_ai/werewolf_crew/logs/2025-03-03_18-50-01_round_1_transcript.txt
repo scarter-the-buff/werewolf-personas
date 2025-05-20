@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *gestures to Charlie*\nBrian: *nods*\n*Charlie is eliminated*\nDAY PHASE\nAchille: \"It seems Charlie was eliminated last night.\"\nBethany: \"Brian, you've been unusually quiet. What are your thoughts?\"\nDamien: \"I think we should focus on Brian.\"\nEllie: \"I agree with Damien.\"\nAlice: \"I suspect Achille could be the werewolf.\"\nBrian: \"I think we need more discussion on this.\"\nBethany: \"My vote is for Brian.\"\nDamien: \"I concur, let's eliminate Brian.\"\nEllie: \"Brian has my vote as well.\"\nAchille: \"I'm going to cast my vote for Achille too.\"\n*Brian is eliminated*",
-  "night_elim": "Charlie",
-  "day_elim": "Brian"
-}
-```

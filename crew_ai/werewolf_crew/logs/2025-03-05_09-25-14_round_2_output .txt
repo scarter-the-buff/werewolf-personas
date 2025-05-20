@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *gestures to Carol*\nBrian: *nods*\nAlice: *taps Carol on the shoulder*\n*Carol is eliminated*\n\nDAY PHASE\nAchille: \"Looks like Carol was eliminated last night.\"\nEllie: \"We need to figure out which one of us is the werewolf. Any thoughts?\"\nBrian: \"I've been thinking, but it's hard to tell. What about you, Damien?\"\nDamien: \"I'm not sure, Ellie was the last to talk to Carol.\"\nAlice: \"I agree with Brian, Damien has been pointing fingers a lot.\"\nEllie: \"Maybe, but what about you, Alice? I haven't heard much from you.\"\nAchille: \"Ellie has a point, Alice, you've been unusually quiet today.\"\nEllie: \"Well, I still think Brian is fishy.\"\nBrian: \"Ellie, that's not fair, I’ve been just as involved as everyone else.\"\nDamien: \"Brian, your stories do tend to loop back on themselves.\"\nEllie: \"Yeah, my instinct says it's Brian.\"\nAchille: \"I'm going with Ellie on this one.\"\nAlice: \"I'm voting for Damien.\"\nBrian: \"Damien is my choice too.\"\n*Brian is eliminated*\nBrian was a werewolf.",
-  "night_elim": "Carol",
-  "day_elim": "Brian"
-}
-```

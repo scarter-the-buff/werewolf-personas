@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Achille and nods subtly* \nAchille: *returns the nod while pointing discreetly at Carol*\nAlice: *raises an eyebrow in agreement as she gestures to Carol*\nAchille: *smirks and firmly points at Carol*\n*Carol is eliminated from the game*\n\nDAY PHASE\nAlice: \"I saw something strange last night. Your eyes seemed fixed on Carol. Are you sure you acted purely out of strategy?\"\nAchille: \"I followed our plan and did what was necessary. Don’t you think our actions were all aligned?\"\nAlice: \"Maybe, but that lingering look suggests more than mere strategy.\"\nAchille: \"I assure you, every move was by the book.\"\n*Both players cast votes against each other; vote tally results in a tie, and by tie-breaker rule Achille is eliminated.*",
+  "night_elim": "Carol",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 21.978758 seconds 

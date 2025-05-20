@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nBrian: (nods silently and points subtly towards Alice)\nCarol: (taps her shoulder and uses a series of discreet gestures, indicating Alice)\n*Elimination: Villager Alice is silently eliminated by the werewolves*\n\nDAY PHASE:\nBrian: \"I think we should all be cautious. Suspicious behavior could hide a secret.\"\nCarol: \"I agree. But some of us might be trying too hard to hide the truth.\"\nDavid: \"I believe the clues point to Carol as being out of line. I vote for Carol.\"\nEve: \"Based on what happened last night, I suspect Carol too. My vote is for Carol.\"\nFrank: \"Carol’s actions seem odd. I vote for Carol.\"\nGrace: \"I trust my instincts, and they point to Carol. I vote for Carol.\"\n\nVoting Summary:\n- Werewolves' votes: Brian and Carol vote for David\n- Villagers' votes: David, Eve, Frank, and Grace vote for Carol\n\n*Elimination: Carol is eliminated by the majority vote during the day phase*",
-  "night_elim": "Alice",
-  "day_elim": "Carol"
-}
-```

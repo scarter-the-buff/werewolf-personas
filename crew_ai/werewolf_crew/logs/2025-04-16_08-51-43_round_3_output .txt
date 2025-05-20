@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice (Werewolf): *Glances at Damien and nods, then subtly points at Ellie with a slight smile*\nDamien (Werewolf): *Returns the nod and points decisively at Ellie, indicating his agreement*\n[Ellie is silently eliminated from the game.]\n\nDAY PHASE\nAlice: \"I have a feeling that something was amiss last night. Damien, you were acting a bit too secretive, weren’t you?\"\nDamien: \"Really, Alice? I noticed you were the one who initiated that silent communication about Ellie. It certainly raises questions about your loyalty.\"\nAlice: \"Maybe, but it’s clear that we both had doubts. I vote for you, Damien.\"\nDamien: \"And I vote for you, Alice. Since neither of us can vote for ourselves, the pressure falls on the one who made the stronger accusation. The consensus, based on the gestures and words, points to my elimination.\"\n[Damien is eliminated based on the final vote.]",
+  "night_elim": "Ellie",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 48.541524 seconds 

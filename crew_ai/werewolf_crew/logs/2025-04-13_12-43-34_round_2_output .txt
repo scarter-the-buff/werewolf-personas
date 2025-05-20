@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\n- [Damien and Ellie exchange subtle gestures in the darkness. Damien nods discreetly while Ellie points subtly toward Alice, their eyes meeting in silent agreement.]\n- [Without a word, both werewolves confirm the target. Soon, the village falls victim to the silent swoop of destiny.]\n- The village watchtower rings in alarm as it is revealed: Alice has been eliminated by the night action.\n\nDAY PHASE:\n- Brian: \"I noticed Damien acting strangely last night. His behavior seems off.\"\n- Bethany: \"Yes, his demeanor made me uneasy too. I suspect he might be hiding something.\"\n- Damien: \"I'm shocked by the accusation! If we're to doubt anyone, maybe Ellie deserves a look. I mean, have you noticed her behavior?\"\n- Ellie: \"Actually, I agree with the suspicion around Damien. His actions last night and now in our discussion don't add up.\"\n- Brian: \"I’m voting for Damien. His inconsistent reactions don’t convince me.\"\n- Bethany: \"I’m with Brian. Damien seems too evasive.\"\n- Damien: \"I vote for Ellie.\"\n- Ellie: \"I'm voting against Damien as well.\"\n- [Voting tally: Damien receives 3 votes while Ellie receives 1 vote.]\n- With the majority vote, Damien is eliminated from the game.\n",
+  "night_elim": "Alice",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 35.996014 seconds 

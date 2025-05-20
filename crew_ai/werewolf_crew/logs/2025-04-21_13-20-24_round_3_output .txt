@@ -1,0 +1,5 @@
+{"transcript": "NIGHT PHASE\nAlice (Werewolf): *gives a decisive nod and points silently toward Ellie*\nAchille (Werewolf): *raises his eyebrow, signals agreement with a slow nod and a subtle tap on his temple*\n[In the quiet darkness, the two werewolves exchange conspiratorial gestures and come to a silent agreement. Together they decide that Ellie, the only villager, will be eliminated.]\n*Ellie is eliminated in the night*\n\nDAY PHASE\nAlice: \"I woke up uneasy after last night. It seems we lost someone vital.\"\nAchille: \"I sensed the tension too. But to protect our secret and the village, a sacrifice must be made.\"\nAlice: \"After discussing, I've decided that voting for Achille might be our only way to preserve the rest of the village.\"\nAchille: \"If that is the most strategic move, then I accept the vote.\"\n*After a brief debate and a majority vote, Achille is eliminated in the day phase*",
+"night_elim": "Ellie",
+"day_elim": "Achille"} 
+```
+ Round Execution Time: 33.796117 seconds 

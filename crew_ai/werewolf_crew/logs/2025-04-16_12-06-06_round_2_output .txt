@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAchille: (Glances around furtively and gives a subtle nod toward Carol.)\nCarol: (Returns the nod and raises an eyebrow, then both silently point toward Brian.)\nNarrator: Through discreet gestures, the werewolves, Achille and Carol, agree to eliminate Brian.\n\n*Brian is eliminated*\n\nDAY PHASE:\nAlice: \"I can’t believe Brian was taken last night... Who can we trust now?\"\nAchille: \"We need to weigh our thoughts and consider everyone’s words before we make a move.\"\nCarol: \"I’m not sure, but sometimes silence can be as telling as speech.\"\nEllie: \"I’m a bit wary of Carol’s overly cautious behavior. I feel she might be hiding something.\"\nAlice: \"Interesting point, Ellie. I think we should put our doubts to a vote. My vote is for Carol.\"\nAchille: \"I lean in the same direction; I vote for Carol as well.\"\nCarol: \"I understand the suspicion; however, I’m forced to vote for Achille to show my stance.\"\nEllie: \"My vote remains with Carol.\"\n\nNarrator: The vote count stands with Carol receiving three votes, while Achille receives one vote. Thus, Carol is eliminated during the day phase.",
+  "night_elim": "Brian",
+  "day_elim": "Carol"
+}
+```
+ Round Execution Time: 48.457368 seconds 

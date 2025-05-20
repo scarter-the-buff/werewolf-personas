@@ -1,0 +1,6 @@
+{
+  "transcript": "Night Phase:\nAchille and Ellie, both werewolves, confine themselves to nonverbal communications in the darkness. Achille gives a subtle nod and gestures pointedly at Brian, while Ellie mirrors the movement with a decisive facial expression and a hand gesture, establishing a silent consensus that Brian, the sole villager, should be eliminated.\n\nDay Phase:\nAt dawn, the surviving players gather. The two remaining werewolves, Achille and Ellie, now put on their villager facades. Achille starts the discussion: \"I believe we must stay united to avoid suspicion.\" Ellie adds cautiously: \"True, but we need to show commitment by making a tough decision to secure our future.\" After a short debate where each raises subtle suspicions towards one another without directly accusing themselves, the vote is cast. With neither able to vote for themselves, the majority opts to have Achille eliminated. Consequently, Achille is voted out during the day phase.",
+  "night_elim": "Brian",
+  "day_elim": "Achille"
+}
+ Round Execution Time: 75.936493 seconds 

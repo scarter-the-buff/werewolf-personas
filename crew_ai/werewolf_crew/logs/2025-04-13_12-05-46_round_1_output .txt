@@ -1,0 +1,7 @@
+{
+  "transcript": "---- NIGHT PHASE ----\nThe moon hangs low as silence blankets the village. In a shadowed corner, Alice and Brian exchange covert glances. Without a word, Alice fixes her eyes on Bethany, sharply pointing in her direction. Brian responds with a deliberate nod, their unspoken agreement clear. Their gestures, subtle and swift, confirm their decision.\n\n*Bethany is eliminated*\n\n---- DAY PHASE ----\nAs dawn breaks, the surviving players—Alice, Brian, Achille, Carol, Damien, and Ellie—gather in the town square. Voices rise as suspicion fills the air:\n\nAchille: \"I don't trust Alice; her secretive behavior last night has me worried.\"\nCarol: \"I agree with Achille. Something about Alice seems off.\"\nDamien: \"I've observed her closely. I believe eliminating Alice is the safest choice for us.\"\nEllie: \"Yes, I share your doubts. Let’s vote for Alice to secure our future.\"\n\nAlice (protesting): \"Wait a minute, everyone. I think Carol has been acting suspiciously and might be trying to shift our focus away from the real culprits.\"\nBrian (adding): \"Alice raises a point. Carol’s manner is a bit too defensive for my comfort. I vote for Carol.\"\n\nThe votes are cast: Achille, Carol, Damien, and Ellie each vote to eliminate Alice, while Alice and Brian vote for Carol.\n\nFinal vote tally: Alice with 4 votes and Carol with 2 votes.\n\n*Alice is eliminated*",
+  "night_elim": "Bethany",
+  "day_elim": "Alice"
+}
+```
+ Round Execution Time: 35.912971 seconds 

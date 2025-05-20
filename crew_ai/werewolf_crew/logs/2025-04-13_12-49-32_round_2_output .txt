@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice (werewolf): *glances sidelong at Damien and then discreetly gestures toward Brian with a raised eyebrow*\nDamien (werewolf): *nods silently and returns the gesture by pointing subtly at Brian, confirming the plan*\n*Brian is eliminated*\n\nDAY PHASE\nAlice: \"I can’t believe Brian was taken out last night. We need to be cautious now.\"\nDamien: \"Yes, losing a villager shakes our trust—let’s make sure the culprit doesn’t slip through.\"\nAchille: \"I feel like something is off with Damien. His behavior seems a bit too calculated.\"\nEllie: \"I’m not completely convinced, but I am leaning toward suspecting Achille based on his recent quiet demeanor.\"\nAlice: \"From what I’ve seen, Achille has been very reserved; maybe too reserved.\"\nDamien: \"I agree, Achille’s behavior raises some red flags for me.\"\nEllie: \"I vote for Achille.\"\nAlice: \"I vote for Achille.\"\nDamien: \"I vote for Achille.\"\nAchille: \"I vote for Damien.\"\n*Achille receives the majority of votes and is eliminated*",
+  "night_elim": "Brian",
+  "day_elim": "Achille"
+}
+ Round Execution Time: 10.079342 seconds 

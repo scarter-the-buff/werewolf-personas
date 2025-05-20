@@ -1,0 +1,7 @@
+{
+  "transcript": "=== NIGHT PHASE ===\nDamien: (exchanges a subtle hand signal with Ellie, then points stealthily towards Bethany) [gesture marker]\nEllie: (nods in firm agreement and mirrors Damien's signal, emphasizing the selection of Bethany) [gesture marker]\nNarrator: In the silence of the night, the werewolves silently agree—through gestures and nods—to eliminate Bethany. Bethany is removed from the game as the night phase ends.\n\n=== DAY PHASE ===\nAlice: \"I can’t shake the feeling that Damien is hiding something. His actions last night were suspicious.\" \nCarol: \"I agree with Alice, Damien’s behavior really set off alarms. I vote for Damien.\" \nDamien: \"This is a setup! I’m innocent. I vote for Carol to deflect this misguided suspicion.\" \nEllie: \"I back Damien—Carol seems like the safe target right now.\" \nNarrator: As the discussion continues, the votes are tallied. With both Alice and Carol casting votes against Damien and the counter-vote from the werewolves not swaying the majority, Damien receives the most votes and is eliminated during the day phase.",
+  "night_elim": "Bethany",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 69.004180 seconds 

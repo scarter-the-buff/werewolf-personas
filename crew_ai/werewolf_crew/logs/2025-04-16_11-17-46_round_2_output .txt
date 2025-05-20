@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *nods subtly at Brian, then gestures towards Achille with a decisive look*\nBrian: *raises his eyebrows and points discreetly at Achille, silently confirming the decision*\n*Achille is unaware of the silent plot unfolding*\n*Achille is eliminated by the werewolves* \n\nDAY PHASE\nAlice: \"I feel a strange silence from someone among us.\"\nBrian: \"Yes, we should be exacting in finding the culprit.\"\nBethany: \"I noticed Ellie was very quiet about the recent events. Could it be her?\"\nEllie: \"I’m being unfairly singled out, but I believe someone might be trying to disguise their intent.\"\n\n*The players proceed to vote:*\nAlice votes for Ellie\nBrian votes for Ellie\nBethany votes for Ellie\nEllie votes for Bethany\n\n*With a majority vote, Ellie is eliminated*",
+  "night_elim": "Achille",
+  "day_elim": "Ellie"
+}
+ Round Execution Time: 40.543786 seconds 

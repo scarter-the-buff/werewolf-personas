@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *exchanges furtive glances with Damien and subtly gestures towards Alice, indicating suspicion*\nDamien: *nods in agreement with a measured stare and points decisively at Alice*\nAchille: *raises his eyebrows and gives a slight smile, confirming the plan*\nDamien: *gives a final thumbs-up toward Alice*\n*[Alice is quietly eliminated by the werewolves]*\n\nDAY PHASE\nBrian: \"I can’t believe Alice was taken out last night. This game just got even more dangerous.\"\nBethany: \"It really shakes our trust. We need to be cautious now more than ever.\"\nCarol: \"I noticed Damien was strangely reserved—could that be more than just nerves?\"\nEllie: \"I agree. His silence is suspicious. I lean towards Damien.\"\nAchille: \"I’m not entirely certain, but I feel we should keep an open mind about everyone's behavior.\"\nBrian: \"I vote for Damien.\"\nBethany: \"I'm with Brian, vote Damien.\"\nCarol: \"My vote is for Damien too.\"\nEllie: \"Damien it is.\"\nAchille: \"I’m going to vote for Bethany, just to mix things up a bit.\"\nDamien: \"I’ll vote for Brian, so as not to attract suspicion on myself.\"\n*[With Damien receiving four votes compared to the others, he is eliminated during the day’s vote]*\n",
+  "night_elim": "Alice",
+  "day_elim": "Damien"
+}
+ Round Execution Time: 30.880524 seconds 

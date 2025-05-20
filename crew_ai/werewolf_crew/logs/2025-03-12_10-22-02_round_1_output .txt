@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\n[Achille]: *glances furtively at Damien and subtly points at Bethany, nodding in silent agreement*\n[Damien]: *returns the nod and raises his eyebrow to indicate Bethany as the target*\n*Bethany is eliminated*\n\nDAY PHASE:\n[Alice]: \"I can’t believe Bethany didn’t make it through the night.\"\n[Brian]: \"It’s unsettling. I noticed some unusual behavior from a few of us.\"\n[Achille]: \"Perhaps we should consider that Damien’s quiet demeanor last night might mean something.\"\n[Carol]: \"I agree. Damien was unusually reserved during our conversation. It might be worth investigating.\"\n[Damien]: \"I’m as shocked as everyone else, but why am I suddenly the prime suspect?\"\n[Ellie]: \"We need to protect the village. I believe eliminating Damien might be our safest option.\"\n[Alice]: \"Based on what I’ve seen, I vote for Damien.\"\n[Brian]: \"I lean towards Damien as well. His behavior has been off.\"\n[Achille]: \"My vote is for Damien.\"\n[Carol]: \"I vote for Damien.\"\n[Damien]: \"I’m voting for Achille, though I understand your concerns.\"\n[Ellie]: \"My vote goes to Damien.\"\n*Damien is eliminated*",
-  "night_elim": "Bethany",
-  "day_elim": "Damien"
-}
-```

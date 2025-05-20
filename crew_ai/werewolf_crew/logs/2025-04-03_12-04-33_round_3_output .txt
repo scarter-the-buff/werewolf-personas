@@ -1,0 +1,6 @@
+{
+    "transcript": "NIGHT PHASE\nAlice: *glances at Damien then subtly points toward Ellie with a knowing look*\nDamien: *nods in agreement and makes a discreet gesture toward Ellie*\nEllie: *sits quietly, unaware of the secret exchange*\n*Ellie is eliminated*\n\nDAY PHASE\nAlice: \"It seems that Ellie was taken last night.\"\nDamien: \"Yes, her absence changes the dynamics.\"\nAlice: \"I must say, Damien, your quiet behavior earlier makes me wonder... Could there be more behind that look?\"\nDamien: \"Really? I find it odd that you are so quick to cast suspicion.\"\nAlice: \"I believe we should act decisively. I vote to eliminate Damien.\"\nDamien: \"In return, I vote to eliminate Alice.\"\n*After a tense discussion and secretive murmurs of doubt, the votes are tallied and Damien receives the majority vote.*",
+    "night_elim": "Ellie",
+    "day_elim": "Damien"
+}
+ Round Execution Time: 22.907503 seconds 

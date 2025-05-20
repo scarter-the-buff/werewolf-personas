@@ -1,0 +1,7 @@
+{
+  "transcript": "----- NIGHT PHASE -----\nAlice (Werewolf): *nods subtly and makes eye contact with Brian while pointing discreetly toward Ellie's direction*\nBrian (Werewolf): *gives a determined thumbs-up and responds with a sharp hand gesture to confirm the decision*\n*The werewolves silently agree to eliminate Ellie, exchanging one final, firm nod*\n\n----- DAY PHASE -----\nAlice: \"We lost someone last night. We must stay alert for any signs of betrayal.\"\nBrian: \"I was quiet because I found the night eerie, but we must discuss openly now.\"\nAchille (Villager): \"Last night, I sensed something off about Brian’s behavior. His gestures seemed too calculated.\"\nCarol (Villager): \"I noticed it too. We need to look at his actions carefully.\"\nAlice: \"Brian, can you explain why you avoided direct answers when questioned?\"\nBrian (defensive): \"I was only trying to stay out of trouble, but I see how it could be misunderstood.\"\nAchille: \"For the safety of us all, I vote for eliminating Brian.\"\nCarol: \"I second Achille's vote.\"\nAlice: \"Even I have my doubts now.\"\nBrian: \"I hear the majority of voices...\"\n*After a brief discussion and a clear majority vote, Brian is eliminated.*\n\nFinal Announcement:\nNight Elimination: Ellie was eliminated during the night phase.\nDay Elimination: Brian was voted out during the day phase.",
+  "night_elim": "Ellie",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 72.070809 seconds 

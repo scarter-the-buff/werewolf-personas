@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nBrian and Achille exchange subtle glances and nods. Brian raises his eyebrow, then makes a slight hand signal toward Ellie. Achille responds with a light tap on his own hand, confirming the plan. Their facial expressions convey a silent agreement as they use gestures to decide that Ellie is to be eliminated. Throughout this covert exchange, Ellie remains completely unaware of the werewolves' clandestine discussion.\n\nDAY PHASE:\nBrian: \"I’ve been watching you, Achille. Your actions last night weren’t as secret as you hoped.\"\nAchille: \"Oh please, Brian, your accusations are as hollow as your words. I’m certain you had a hand in it.\"\n\nVotes are cast:\nBrian votes for Achille.\nAchille votes for Brian.\nThe votes are tied. Following a tie-breaker decision, Achille is eliminated.",
-  "night_elim": "Ellie",
-  "day_elim": "Achille"
-}
-```

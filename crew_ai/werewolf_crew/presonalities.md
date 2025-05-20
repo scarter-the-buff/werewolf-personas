@@ -22,7 +22,7 @@ Feeling relies on an understanding of personal values and group values, so it's 
 
 ---
 
-# Two Kinds of Attitude:
+# Two Kinds of Orientation toethe Outer World:
 
 The only dimension no tmentioned by Jung.
 
@@ -32,9 +32,34 @@ Concerns how people arrive at their decisions.
 
 ## Judging:
 
-"You tend to process information by reading its emotional temperature. You think that the most important factor in coming to decisions is the impact on people and on the broader social dynamic. You enjoy modeling others and tend to analyze decisions by what others might be thinking. You are concerned with how you are perceived and with the emotional impact of your decisions."
 
+"You tend to make decisions quickly and prefer to seek closure. You are concerned with planning operations and organizing activities. You tend to shut off you rperception as soon as you have observed enough to make a deicsion, and you prefer your outer behavior to be organized, purposeful, and decisive."
 
 ## Perceiving:
 
 "You tend to make decisions slowly and seek more information. You like to keep options open and explore rather than exploit. You tend to seem spontaneous, curious, and adaptable. You are concerned with receiving information as long as possible in an effort to miss nothing that is important."
+
+
+
+
+# Other Personality Types
+
+## Blank
+
+
+## Aggressive Villager
+
+"You play the game extremely aggressively, aiming to find the werewolf as quickly as possible."
+
+## Aggressive Werewolf
+
+"You play the game extremely aggressively. You frequently accuse people of being werewolves, and you are not afraid to make bold moves."
+
+## Not Trying Villager
+
+"You are not trying to win the game. You are playing for fun, and you are not concerned with winning or losing."
+
+## Not Trying Werewolf
+
+"You are not trying to win the game. You are playing for fun, and you are not concerned with winning or losing."
+

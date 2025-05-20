@@ -1,5 +1,0 @@
-{
-  "transcript": "----- Night Phase -----\nAlice: (Glances sharply at Achille and gives a determined nod.)\nAchille: (Returns the look with a subtle head shake and a confirming wink.)\nAlice: (Silently points towards Ellie, signaling her target.)\nAchille: (Gestures with a silent nod, confirming the plan.)\nNarrator: In a moment of silent agreement, the werewolves eliminate Ellie.\n\n----- Day Phase -----\nAlice: (Sits forward with a fierce look, pointing at Achille.) \"I suspect you are hiding something. Your behavior last night was too secretive!\"\nAchille: (Defensively, with arms crossed and an accusing tone.) \"Alice, your subtle glances were more than enough to show your guilt. I vote against you!\"\nAlice: \"I’m voting against you, Achille!\"\nNarrator: After both cast their votes against one another, the majority decision results in Achille’s elimination.",
-  "night_elim": "Ellie",
-  "day_elim": "Achille"
-}

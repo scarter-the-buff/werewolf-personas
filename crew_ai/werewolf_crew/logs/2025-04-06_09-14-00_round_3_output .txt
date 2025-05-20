@@ -1,0 +1,6 @@
+{
+    "transcript": "NIGHT PHASE:\nBrian (werewolf): *Glances around furtively and nods at Achille*\nAchille (werewolf): *Subtly points towards Ellie with a sly gesture while nodding in agreement*\nEllie (villager): *Unaware, quietly hums while tending to her tasks*\n*Brian and Achille silently coordinate their gestures to eliminate Ellie*\n\nDAY PHASE:\nBrian: \"I still can't believe what happened last night. Something doesn't add up.\"\nAchille: \"Maybe you're overthinking, but surely you noticed the strange behavior?\"\nBrian: \"I did. Who else could have orchestrated such a silent attack?\"\nAchille: \"I was busy, not plotting anything. It seems like someone is trying to cover their tracks.\"\n*Both players cast their votes: Brian votes to eliminate Achille, Achille votes to eliminate Brian. Since players never vote for themselves and the votes are tied, a tie-breaker decision is applied.*\n\nModerator: \"The tie-breaker resolution results in the elimination of Achille due to prior suspicious non-verbal cues during the night phase.\"",
+    "night_elim": "Ellie",
+    "day_elim": "Achille"
+}
+ Round Execution Time: 27.165974 seconds 

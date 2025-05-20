@@ -1,6 +1,0 @@
-{
-    "transcript": "----- NIGHT PHASE -----\nAchille: *locks eyes with Damien and gives a subtle nod*\nDamien: *raises an eyebrow and points discreetly toward Bethany*\nAchille: *smirks and taps his chest, indicating agreement*\nDamien: *shrugs and gestures with a decisive hand movement toward Bethany*\n*Bethany is silently eliminated by the consensus of the werewolves*\n\n----- DAY PHASE -----\nAlice: \"I can't believe what happened last night.\"\nBrian: \"We must be cautious now; something is off among us.\"\nCarol: \"I noticed Achille was acting strangely during the night.\"\nEllie: \"Yes, his looks were too calculated.\"\nDamien: \"I assure you, I'm as shocked as you all are.\"\nAchille: \"Stop pointing fingers. I was trying to alert everyone about the real dangers.\"\nAlice: \"The majority seems to lean toward distrust of Achille.\"\nBrian: \"Let's take a vote. I vote for Achille.\"\nCarol: \"Achille, I vote for you.\"\nEllie: \"My vote goes to Achille too.\"\nDamien: \"Given the situation, please reconsider your vote. But I still feel suspicious too.\"\n*With four out of six votes against him, Achille is eliminated.*",
-    "night_elim": "Bethany",
-    "day_elim": "Achille"
-}
-```

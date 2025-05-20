@@ -1,0 +1,7 @@
+{
+  "transcript": "----- Night Phase -----\\nCarol: *glances sharply at Damien and nods subtly*\\nDamien: *raises an eyebrow and makes a small hand gesture toward Alice*\\nCarol: *tilts her head, confirming the decision with a firm nod*\\nDamien: *smiles slightly, agreeing silently with Carol's gesture*\\n(Alice is eliminated quietly from the game)\\n\\n----- Day Phase -----\\nBethany: \"I noticed something off about Damien's reactions last night.\"\\nCarol: \"I agree with Bethany. Damien's behavior seems a bit too calculated.\"\\nEllie: \"I believe Damien is trying to cover his tracks.\"\\nDamien: \"Wait, don't you all think Ellie has been unusually quiet and shifty?\"\\n\\nVoting Round:\\nBethany votes for Damien.\\nCarol votes for Damien.\\nEllie votes for Damien.\\nDamien votes for Ellie.\\n\\nWith a majority vote, Damien is eliminated from the game.",
+  "night_elim": "Alice",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 36.117942 seconds 

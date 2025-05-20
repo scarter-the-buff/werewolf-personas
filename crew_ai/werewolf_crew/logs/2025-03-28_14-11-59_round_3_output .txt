@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE:\nAlice: *nods subtly, then exchanges a piercing look with Brian*\nBrian: *raises his hand with a quiet thumbs-up and points discreetly towards Ellie*\nAlice: *points steadily towards Ellie, confirming the target with a silent gesture*\nBrian: *nods in agreement, finalizing their secret decision*\n*Ellie is quietly eliminated from the game*\n\nDAY PHASE:\nAchille: \"I noticed Brian seemed particularly eager last night. His gestures were too calculated.\"\nBethany: \"Yes, I felt something off about his behavior. It makes me suspicious that he might be hiding his true role.\"\nAlice: \"I’m not convinced by any evidence here. We should consider all possibilities before deciding.\"\nBrian: \"I assure you, I'm just as shocked as everyone else. Don’t pin this on me!\"\nAchille: \"Given the circumstances, I vote to eliminate Brian.\"\nBethany: \"I second that vote.\"\nAlice: \"I will vote with Achille and Bethany for Brian.\nBrian: \"In that case, I vote for Achille, trying to deflect the suspicion off me.\"\n*With three votes against him and only one in his favor, Brian is eliminated*",
+  "night_elim": "Ellie",
+  "day_elim": "Brian"
+}
+```

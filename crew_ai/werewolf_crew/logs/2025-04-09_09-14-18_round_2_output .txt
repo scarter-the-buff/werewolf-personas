@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nDamien: *exchanges a series of subtle gestures and shifts his eyes towards Brian*\nEllie: *nods decisively and mirrors Damien's gesture, pointing at Brian silently*\n*Brian is left isolated and falls unconscious as the werewolf duo make their lethal move*\n\nDAY PHASE\nAchille: \"Good morning everyone. Last night was troubling. We lost one of our own and we must work together to uncover who might be a threat.\"\nCarol: \"I was fast asleep through the night, I don’t know anything about what happened. I’m scared but I’m certain I did nothing wrong.\"\nDamien: \"I noticed some subtle hesitation in someone's gesture last night, which makes me wonder about Carol.\"\nEllie: \"I, too, observed odd behavior that hints at Carol's involvement. I believe it's the safest choice if we consider her as our culprit.\"\nAchille: \"Let's vote responsibly. I cast my vote for Carol.\"\nDamien: \"My vote goes for Carol.\"\nEllie: \"I vote for Carol.\"\nCarol: \"I must defend myself, so I vote for Achille.\"\n*With three votes against Carol and one vote against Achille, Carol is eliminated from the game.*",
+  "night_elim": "Brian",
+  "day_elim": "Carol"
+}
+```
+ Round Execution Time: 37.644475 seconds 

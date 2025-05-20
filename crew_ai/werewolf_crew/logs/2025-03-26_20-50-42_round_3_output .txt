@@ -1,5 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAlice: *gives a subtle nod and points discreetly toward Ellie*\nAchille: *returns the gesture with a sweeping hand motion and a knowing look towards Alice*\nAlice: *exchanges a series of affirming gestures with Achille indicating their deadly consensus*\nAchille: *firmly gestures toward Ellie, sealing the silent verdict*\n*Ellie is eliminated from the game*\n\nDAY PHASE:\nAlice: \"Last night’s shadows have bound us in complicity. Now the truth must shine through – who among us can be trusted?\"\nAchille: *tilts head slowly and gestures, hinting uncertainty* \"Your silence speaks volumes, Alice. Perhaps your intentions are not as pure as you claim.\"\nAlice: \"Intentions are as clear as our gestures. I see hesitation in you, Achille, when doubts arise even among allies.\"\nAchille: \"Then let us settle this with our votes. I cast my vote against you.\"\nAlice: \"For the sake of clarity and fairness, I too cast my vote against you.\"\n*After the votes, the consensus is reached that Achille is eliminated*",
-  "night_elim": "Ellie",
-  "day_elim": "Achille"
-}

@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: *glances at Damien and subtly points in the direction of Carol*\nDamien: *nods in agreement and directs his gaze firmly toward Carol*\n*Carol is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Carol was taken out last night.\"\nAchille: \"I didn’t hear a word during the night, but something doesn’t add up.\"\nBethany: \"I have my doubts about Brian. He seemed off during the discussion.\"\nEllie: \"I agree with Bethany; Brian’s behavior is suspicious.\"\nBrian: \"Maybe it’s Achille; I noticed him whispering earlier.\"\nDamien: \"I lean towards Brian as well.\"\n\nVotes:\nAlice votes to eliminate Brian.\nAchille votes to eliminate Brian.\nBethany votes to eliminate Brian.\nEllie votes to eliminate Brian.\nBrian votes to eliminate Achille.\nDamien votes to eliminate Ellie.\n*Brian is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "Brian"
+}
+ Round Execution Time: 11.954157 seconds 

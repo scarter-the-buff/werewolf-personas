@@ -1,6 +1,0 @@
-{
-    "transcript": "NIGHT PHASE\nBrian: *glances at Achille, then makes a subtle gesture towards Alice*\nAchille: *nods and points silently at Alice; exchanges a meaningful look and gesture with Brian*\nBrian: *raises his hand in silent assent*\nAchille: *makes a decisive gesture*\n*Alice is eliminated*\n\nDAY PHASE\nBrian: \"I can’t believe what happened last night.\"\nAchille: \"It was unexpected. We need to be vigilant now.\"\nCarol: \"Alice’s elimination feels too convenient. Something isn’t right.\"\nEllie: \"I agree. We must carefully consider who to trust.\"\nBrian: \"I suspect that some of us might be hiding their true colors.\"\nAchille: \"Let’s not jump to conclusions too quickly. But someone must be responsible.\"\nCarol: \"I’m noticing that Brian has been unusually quiet on the accusations.\"\nEllie: \"I think we should vote. I’m leaning towards eliminating Achille.\"\nBrian: \"I vote for Achille.\"\nAchille: \"I vote for Brian.\"\nCarol: \"I vote for Achille.\"\nEllie: \"I vote for Achille.\"\n*Achille receives the majority of the votes and is eliminated*",
-    "night_elim": "Alice",
-    "day_elim": "Achille"
-}
-```

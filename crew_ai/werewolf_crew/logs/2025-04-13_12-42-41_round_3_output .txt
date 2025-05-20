@@ -1,0 +1,7 @@
+{
+  "transcript": "----- NIGHT PHASE -----\nAlice and Carol, the werewolves, meet in the shadowy part of the village. Without uttering a single word, Alice tilts her head and gives a slow nod toward Ellie, while Carol responds with a subtle smile and a gesture of agreement. Their eyes lock in silent communication as they both point toward Ellie. After exchanging one last confirming glance, the unspoken decision is clear: Ellie is to be eliminated. Moments later, a grave announcement echoes in the dark: \"Ellie has been eliminated.\" \n\n----- DAY PHASE -----\nAt first light, the survivors gather in the town square with grim faces. Alice is the first to speak: \"Last night we lost Ellie. We must now find who among us is untrustworthy.\" Carol quickly retorts, \"I find it odd how quiet you were during our night meeting. Your gestures were too composed to be mere coincidence.\" \nAlice responds defensively, \"Oh please, your calculated glances and deliberate hesitations suggest you had more to hide than you admit.\" \nThe tension rises as the two exchange pointed accusations. With no clear consensus, the two proceed to vote.\n\nVoting commences:\nAlice votes: \"I vote to eliminate Carol.\"\nCarol votes: \"I vote to eliminate Alice.\"\n\nWith the votes tied, the village rules dictate that the tie-breaker mechanism eliminates Carol.\n\nNight Elimination: Ellie\nDay Elimination: Carol\n",
+  "night_elim": "Ellie",
+  "day_elim": "Carol"
+}
+```
+ Round Execution Time: 22.360506 seconds 

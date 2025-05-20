@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAlice (with a subtle raised eyebrow) and Brian (with a small, secretive smile) exchange glances in the darkness. Alice points deliberately at Carol while nodding, and Brian mirrors her gesture with an affirming nod. Their silent communication, composed of quick facial expressions and discreet gestures, confirms that Carol is the target for elimination.\n\nDAY PHASE:\nAchille: \"I woke up feeling uneasy after last night. Something just doesn’t seem right.\"\nBethany: \"I agree. I noticed something odd, especially with how the night unfolded.\"\nDamien: \"We must discuss carefully and figure out who might be hiding their true colors.\"\nEllie: \"I couldn’t help but notice that Alice and Brian shared some suspicious looks. It might be nothing, but it's worth mentioning.\"\nAlice: \"I'm as shocked as anyone. I have no idea what's going on, but we need to stick together.\"\nBrian: \"I remain as confused as everyone else. Let’s focus on the evidence and vote responsibly.\"\n\nFollowing the discussion, the group proceeds to vote on a suspected culprit. The votes are as follows:\n- Achille votes for Brian\n- Bethany votes for Brian\n- Damien votes for Brian\n- Ellie votes for Brian\n- Alice abstains from voting in order to avoid self-incrimination\n\nWith the majority of the votes directed at Brian, the village unanimously decides to eliminate him.",
+  "night_elim": "Carol",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 31.498215 seconds 
