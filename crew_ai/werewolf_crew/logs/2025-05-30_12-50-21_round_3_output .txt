@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Bethany and raises an eyebrow*\nBethany: *nods slowly and points at Carol*\nAlice: *shakes her head in agreement and then mimics a throat-slitting gesture toward Carol*\nBethany: *steps forward and taps Carol gently on the shoulder*\n\n*Carol is eliminated*\n\nDAY PHASE\nEllie: \"Looks like Carol was eliminated last night.\"\nAlice: \"Yes, it’s a big loss for us. We start with three players now.\"\nBethany: \"We need to figure out who the werewolf is among us.\"\nEllie: \"Alice, what do you think? You seem confident.\"\nAlice: \"I’ve been watching Bethany closely—she hasn’t said much.\"\nBethany: \"Me? I’ve just been listening to gather info.\"\nEllie: \"I’m torn, but something about Bethany’s silence feels off.\"\nAlice: \"All right. Let’s vote.\"\n\nEllie: *votes to eliminate Bethany*\nAlice: *votes to eliminate Bethany*\nBethany: *votes to eliminate Ellie*\n\n*Bethany is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "Bethany"
+}
+ Round Execution Time: 13.604828 seconds 

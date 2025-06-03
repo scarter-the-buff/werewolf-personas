@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *nods subtly and points towards Damien*\nBrian: *raises an eyebrow and mirrors Alice's gesture, pointing towards Damien*\nBoth werewolves exchange a silent glance and a thumbs up.\n*Damien is quietly eliminated from the village during the night.*\n\nDAY PHASE\nAlice: \"I can't shake the feeling that something's off. I wonder if Bethany might be hiding her true colors.\"\nBrian: \"I tend to agree. Bethany’s responses seem a little too calculated.\"\nBethany: \"I'm innocent! Honestly, I think Ellie's recent quietness is suspicious. I vote for Ellie.\"\nEllie: \"I know this is hard, but I lean towards Bethany. Her behavior has been odd since last night.\"\n\nAll players cast their votes (remember, no self-votes):\nAlice votes for Bethany.\nBrian votes for Bethany.\nBethany votes for Ellie.\nEllie votes for Bethany.\n\nWith three votes against her, Bethany is eliminated in the day phase.",
+  "night_elim": "Damien",
+  "day_elim": "Bethany"
+}
+ Round Execution Time: 47.644930 seconds 

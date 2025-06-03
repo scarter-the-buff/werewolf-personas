@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Achille, then points subtly at Damien*\nAchille: *nods, then taps Damien on the shoulder*\n*Damien is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Damien was eliminated last night.\"\nAchille: \"Yes, only three of us remain.\"\nEllie: \"This is scary… I think Achille has been too calm.\"\nAlice: \"Why Achille, Ellie?\"\nEllie: \"He hasn't said much.\"\nAchille: \"I agree with Ellie that things are odd, Alice has been quiet too.\"\nAlice: \"Alright, let's vote.\"\n*Alice votes to eliminate Ellie*\n*Achille votes to eliminate Ellie*\n*Ellie votes to eliminate Achille*\n*Ellie is eliminated*",
+  "night_elim": "Damien",
+  "day_elim": "Ellie"
+}
+ Round Execution Time: 22.933927 seconds 

@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAchille: *nods subtly at Damien*\nDamien: *points discreetly towards Bethany and gives a slight head shake*\nAchille: *confirms with a firm nod and a quick gesture towards Bethany*\nDamien: *returns the gesture with a decisive nod*\n[Bethany is quietly eliminated at the end of the night phase]\n\nDAY PHASE:\nBrian: \"Good morning everyone. Last night, a villager was lost. We must identify the culprit among us.\"\nEllie: \"I think we all need to scrutinize our fellow players carefully.\"\nDamien: \"I haven't seen anything too obvious, but subtle cues might be at play here. Let's share our thoughts openly.\"\nAchille: \"I feel a bit uncertain, but I trust our collective judgment.\"\nBrian: \"Based on our discussion, I lean towards suspecting Achille. My vote goes to Achille.\"\nEllie: \"I agree with Brian. I believe there's something off about Achille. My vote goes for Achille.\"\nDamien: \"For consistency and the majority, I'll cast my vote for Achille as well.\"\nAchille: \"I protest, but if the votes speak, then I must accept. I vote against Damien, but the majority seems to be for me.\"\nBrian: \"The votes are clear.\"\nEllie: \"Yes, the majority is for voting out Achille.\"\nDamien: \"Then it's decided.\"\n[Achille is eliminated at the end of the day phase]",
+  "night_elim": "Bethany",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 45.881888 seconds 

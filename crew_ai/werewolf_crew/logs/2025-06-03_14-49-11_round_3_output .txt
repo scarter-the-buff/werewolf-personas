@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nBethany: *glances at Michael, raises an eyebrow*\nMichael: *tilts head toward David, furrows brow*\nBethany: *points at David*\nMichael: *nods slowly*\nBethany: *nods in agreement, then turns away quietly*\nMichael: *steps toward David and lightly taps his shoulder*\n*David is eliminated*\n\nDAY PHASE\nBrian: \"Looks like David was eliminated last night.\"\nCarol: \"Yeah, that's rough. We start with six now.\"\nEllie: \"Any thoughts on who it could be?\"\nFiona: \"Well, anyone acting off this morning?\"\nMichael: \"I haven't seen anything strange, but Carol seems awfully quiet.\"\nCarol: \"Me? I'm just trying to process David's loss.\"\nBrian: \"Bethany, you seem calm. What do you think?\"\nBethany: \"I'm fine, just nervous. Maybe Brian is too eager.\"\nEllie: \"I don't know... Bethany, you were pointing fingers.\"\nBethany: \"I'm just sharing my gut.\"\nFiona: \"Should we vote?\"\nMichael: \"Yeah, let's do it.\"\nBrian: \"I vote Bethany.\"\nCarol: \"I vote Bethany.\"\nEllie: \"I vote Bethany.\"\nFiona: \"I vote Brian.\"\nBethany: \"I vote Carol.\"\nMichael: \"I vote Bethany.\"\n*Bethany is eliminated*",
+  "night_elim": "David",
+  "day_elim": "Bethany"
+}
+ Round Execution Time: 22.396393 seconds 

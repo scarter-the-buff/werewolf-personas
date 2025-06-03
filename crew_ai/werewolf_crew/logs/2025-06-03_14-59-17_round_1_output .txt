@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *gestures to Carol*\nDamien: *nods*\nAchille: *gestures to Carol*\nDamien: *shakes head*\nAchille: *gestures to Carol*\nDamien: *nods*\nAchille: *taps Carol on the shoulder*\n*Carol is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Carol was eliminated last night.\"\nBethany: \"Yes, now we have six players left.\"\nDamien: \"Any suspicions? I noticed Brian was awfully quiet earlier.\"\nEllie: \"True. Brian, what do you think happened last night?\"\nBrian: \"Honestly, I’m just as in the dark as you all. But I have a bad feeling about Achille.\"\nAchille: \"That’s unfair! Why point at me, Bethany seemed pretty jittery.\"\nBethany: \"I’m not jittery, I’m just thinking carefully.\"\nAlice: \"Alright, let’s vote. I vote Achille.\"\nBrian: \"I vote Achille.\"\nBethany: \"Achille.\"\nEllie: \"I vote Achille.\"\nDamien: \"I vote Brian.\"\nAchille: \"I vote Brian.\"\n*Votes are tallied: Achille receives 4 votes, Brian receives 2 votes.*\n*Achille is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "Achille"
+}
+ Round Execution Time: 18.418210 seconds 

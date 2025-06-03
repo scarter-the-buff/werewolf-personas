@@ -11,6 +11,8 @@ werewolf_round:
 
     {players}
 
+    Generate each utterance, one-by-one, by delegating to the appropriate agent. For example, in order to have Brian say something, delegate the task to Brian and then have Brian share with you the generated output.
+
   expected_output: >
 
     Output a Python dictionary that can easily be formatted into a JSON file. The dictionary should have the following keys:

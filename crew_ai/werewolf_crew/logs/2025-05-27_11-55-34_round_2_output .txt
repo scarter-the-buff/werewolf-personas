@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE:\nThe night descends as the village falls silent. In a shadowed corner, Achille and Damien exchange covert gestures. Achille gives a subtle nod while slightly tilting his head, and Damien responds with a discreet hand signal. Their silent conversation makes it clear: Carol is to be the target. Moments later, Carol is quietly eliminated, her absence unnoticed by the slumbering villagers.\n\nDAY PHASE:\nDawn breaks and the villagers gather in the town square. Alice, looking around with a mix of shock and sorrow, remarks, \"I can’t believe Carol is gone already. Who could have done this?\"\nAchille then, attempting to shift suspicion, comments, \"Maybe there’s something off about how Damien behaved last night...\" \nDamien retorts calmly, \"I agree, Achille’s behavior has been suspicious.\"\nEllie, cautiously observing, adds, \"I noticed something strange about Achille’s demeanor. It might be worth considering him.\"\n\nThe discussion intensifies as the votes are cast. Alice votes for Achille, Damien votes for Achille, and Ellie also votes for Achille, while Achille votes for Damien. With a clear majority, Achille is eliminated from the game.",
+  "night_elim": "Carol",
+  "day_elim": "Achille"
+}
+ Round Execution Time: 48.387658 seconds 

@@ -1,0 +1,5 @@
+{"transcript": "NIGHT PHASE\nBrian: *glances around furtively and gives a sharp look toward Achille, indicating he is ready*\nAchille: *nods subtly and then points discreetly in the direction of Damien, signaling his target*\nBrian: *firmly gestures toward Damien with a decisive wave of his hand*\nAchille: *leans in and mimics a chopping motion to confirm the decision*\n*Damien is eliminated*\n\nDAY PHASE\nBrian: \"I can’t believe Damien is gone... Who could have done this among us?\"\nAchille: \"It’s tragic, but we must be vigilant. I feel a strange tension in the air.\"\nBrian: \"I noticed some odd behavior last night; it might be nothing, but trust is thin.\"\nAchille: \"I don’t want to point fingers, but for the safety of the group, I vote for Brian.\"\nBrian: \"That’s unfortunate, but I must vote for Achille because his silence earlier was unsettling.\"\n*After a tense debate, the votes tie; a tie-breaker is conducted, and it is decided that Brian is eliminated*",
+"night_elim": "Damien",
+"day_elim": "Brian"}
+```
+ Round Execution Time: 31.725789 seconds 

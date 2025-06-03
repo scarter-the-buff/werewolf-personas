@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances around in the dark, then leans toward Bethany and points subtly at Bernard*\nBethany: *furrows brows, nods once toward Bernard, then makes a cutting motion across her throat*\nAlice: *nods, then lightly taps Bernard on the shoulder*\n*Bernard is eliminated*\n\nDAY PHASE\nAlbert: \"Looks like Bernard was eliminated last night.\"\nCharles: \"So now there are six of us.\"\nDavid: \"We need to find the werewolves before they kill again.\"\nEdward: \"I saw Bethany near Bernard's hut after lights out; it looked suspicious.\"\nAlice: \"Edward, that's just speculation without proof.\"\nCharles: \"Bethany, you defended yourself quickly—what’s your take?\"\nBethany: \"Maybe I’m innocent and being unfairly accused. Charles, you’ve been awfully quiet.\"\nDavid: \"Time to vote.\"\nAlbert: \"I vote to eliminate Bethany.\"\nCharles: \"I vote Bethany.\"\nDavid: \"Bethany gets my vote.\"\nEdward: \"I vote Bethany.\"\nAlice: \"I vote Bethany.\"\nBethany: \"I vote Charles.\"\n*Bethany is eliminated*",
+  "night_elim": "Bernard",
+  "day_elim": "Bethany"
+}
+ Round Execution Time: 13.995117 seconds 

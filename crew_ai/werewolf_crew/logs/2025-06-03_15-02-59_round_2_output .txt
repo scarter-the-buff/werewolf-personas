@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Brian*\nBrian: *raises eyebrows at Alice*\nAlice: *points subtly to Carol*\nBrian: *nods slowly*\nAlice: *points to Carol again*\nBrian: *makes a cutting motion across his throat*\nAlice: *touches Carol on the shoulder*\n*Carol is eliminated*\n\nDAY PHASE\nEllie: \"Looks like Carol was eliminated last night.\"\nAchille: \"That's terrible. She was a good villager.\"\nAlice: \"Indeed, it's unfortunate.\"\nBrian: \"I can't believe she's gone.\"\nEllie: \"Achille, you were quiet. What do you think?\"\nAchille: \"I suspect Brian; he's been awfully calm.\"\nAlice: \"Why Brian? He seems sincere.\"\nBrian: \"I swear I'm just as shocked as you all.\"\nEllie: \"I vote to eliminate Brian.\"\nAchille: \"I vote Brian.\"\nAlice: \"I vote Brian.\"\nBrian: \"I vote Ellie.\"\n*Brian is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "Brian"
+}
+ Round Execution Time: 28.025236 seconds 

@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nDamien: *points at Ellie*\nBethany: *nods*\nDamien: *shakes head*\nBethany: *points at Alice*\nDamien: *nods*\nBethany: *taps Alice gently*\n\n*Alice is eliminated*\n\nDAY PHASE\nEllie: \"Looks like Alice was eliminated last night.\"\nBrian: \"Yes, it's just the four of us now.\"\nBethany: \"We need to be careful. Who seems suspicious?\"\nDamien: \"I've noticed Brian has been awfully quiet.\"\nEllie: \"Really? I thought Bethany was quiet too.\"\nBrian: \"I think Ellie has been acting nervous.\"\nBethany: \"I'm just observing. We should vote now.\"\nEllie: \"Alright, I vote to eliminate Brian.\"\nDamien: \"I vote to eliminate Brian.\"\nBethany: \"I vote to eliminate Brian.\"\nBrian: \"I vote to eliminate Ellie.\"\n\n*Brian is eliminated*",
+  "night_elim": "Alice",
+  "day_elim": "Brian"
+}
+ Round Execution Time: 16.260512 seconds 

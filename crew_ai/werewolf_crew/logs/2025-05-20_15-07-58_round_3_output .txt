@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *gives a sly glance and subtly points toward Ellie with a raised eyebrow*\nAchille: *nods in agreement, then makes a decisive pointing gesture at Ellie*\nEllie: *sits quietly, unaware of the secret signals*\n*Ellie is eliminated*\n\nDAY PHASE\nAlice: \"It seems Ellie was taken last night.\"\nAchille: \"Yes, sadly so. Now that we’re left with only the two of us, we have to be careful.\"\nAlice: \"I worry that my assertiveness might draw unwanted attention from outsiders. Perhaps it’s better if one of us steps aside before suspicions arise.\"\nAchille: \"I understand, but I feel that your leadership could be seen as too domineering. I propose that I take the fall so that our secret remains safe.\"\nAlice: \"Interesting point. To maintain our cover, I will vote for you.\"\nAchille: \"For the greater good, I also cast my vote for you.\"\n*Achille is eliminated*",
+  "night_elim": "Ellie",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 27.550493 seconds 

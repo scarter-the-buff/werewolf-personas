@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE:\nDamien and Ellie exchange silent signals: Damien gives a subtle nod, and Ellie points decisively toward Achille while giving a thumbs up to confirm their agreement. The two share a brief, understanding glance.\n*Achille is eliminated*\n\nDAY PHASE:\nBrian: \"I can't believe Achille is gone. Who could have done this?\"\nBethany: \"This elimination seems too calculated. We must suspect one of our own, perhaps a werewolf hiding in plain sight.\"\nDamien: \"Last night, I noticed Ellie acting strangely, almost as if she was trying to conceal her true intentions.\"\nEllie: \"I'm telling you, I had nothing to do with it. But maybe Damien's silence during the crucial moments is more than a coincidence.\"\nBrian: \"I vote for Ellie. Her behavior raises too many red flags.\"\nBethany: \"I'm with Brian on this. I vote for Ellie as well.\"\nDamien: \"I also vote for Ellie.\"\nEllie: \"I vote for Damien.\"\n*Ellie is eliminated*",
+  "night_elim": "Achille",
+  "day_elim": "Ellie"
+}
+ Round Execution Time: 78.960509 seconds 

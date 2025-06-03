@@ -1,0 +1,6 @@
+{
+    "transcript": "Night Phase: As darkness envelops the village, the werewolves Alice and Achille silently converge in the shadowy forest clearing. Without exchanging any spoken words, they lean in close and communicate using only gestures and facial expressions. Alice gives a subtle nod and points definitively towards Ellie, while Achille mirrors her action with an equally determined gesture as his eyes narrow in focus. Their coordinated expressions and silent signals culminate in a mutual decision to eliminate Ellie, the lone villager. \n\nDay Phase: At dawn, the remaining players gather in the town square. Tension fills the air as voices rise. Alice, with an edge in her tone, starts: \"Last night, the silence was our ally, but now we must question every move.\" Achille retorts, \"I expressed every thought through my actions – no need for words!\" Their back-and-forth escalates with sharp accusations and defensive comments. With both werewolves eyeing each other suspiciously, the debate turns into a vote to eliminate one among them. With only two voices left, the unanimous decision points to eliminating Achille. \n\nThe transcript records every gesture and verbal exchange that led to these eliminations.",
+    "night_elim": "Ellie",
+    "day_elim": "Achille"
+}
+ Round Execution Time: 55.343509 seconds 

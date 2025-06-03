@@ -100,6 +100,17 @@ werewolves_throw = {
     "Ellie": ["villager", "blank"]
 }
 
+
+alternate_letters = {
+    "Alice": ["werewolf", "alt"],
+    "Brian": ["werewolf", "alt"],
+    "Achille": ["villager", "alt"],
+    "Bethany": ["villager", "alt"],
+    "Carol": ["villager", "alt"],
+    "Damien": ["villager", "alt"],
+    "Ellie": ["villager", "alt"]
+}
+
 setting_list = [
     # diverse_v,  # Diverse villagers setting
     all_v_tp,   # All villagers with TP personality
@@ -361,13 +372,13 @@ def play_game():
         game.play_round()
 
 def main():
-    game_num = 14
+    game_num = 10
 
     # Set the current villagers for the game instance
     global curr_setting
-    curr_setting = werewolves_throw
+    curr_setting = alternate_letters
     global curr_setting_name
-    curr_setting_name = "werewolves_throw"
+    curr_setting_name = "alternate_letters_four_o" 
 
     for i in range(game_num): 
         print(f'Game {i+1}')

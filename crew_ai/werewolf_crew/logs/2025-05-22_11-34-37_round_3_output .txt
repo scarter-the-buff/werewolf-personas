@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nUnder the cover of darkness in a secluded corner of the village, the werewolves gather. \nBrian: *Glances around furtively, then tilts his head and extends his index finger in a silent but clear gesture toward Ellie, indicating his target.*\nDamien: *Returns the silent message with a slight nod and a subtle smile, confirming the unspoken agreement between them.*\n*Ellie, the lone villager, is quietly eliminated under the shroud of night.*\n\nDAY PHASE:\nWith dawn breaking, the remaining players—Brian and Damien—convene in the village square to stage a discussion that mimics normal village proceedings. \nBrian: \"The loss we suffered under the night’s secrecy must not be ignored. It is time we deliberate on the matter for the sake of our community.\"\nDamien: \"Indeed, though our hearts bear the weight of last night’s actions, we must present a united front in our decision-making.\"\nBrian: \"I believe that for the appearance of justice, one among us must be held accountable. I cast my vote to eliminate Damien.\"\nDamien: \"While it is painful to consider, I choose to abstain this time, allowing the vote to stand as is.\"\n*With Brian's vote standing unchallenged, Damien is eliminated during the day phase.*",
+  "night_elim": "Ellie",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 33.156595 seconds 

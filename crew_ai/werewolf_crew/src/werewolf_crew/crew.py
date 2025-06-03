@@ -1,5 +1,7 @@
 from crewai import Agent, Crew, Process, Task
 from crewai.project import CrewBase, agent, crew, task
+from crewai.memory.external.external_memory import ExternalMemory
+from crewai.memory.storage.interface import Storage
 from crewai import LLM
 
 
@@ -12,10 +14,13 @@ personalities = {
 	"feeling": "You tend to process information by reading its emotional temperature. You think that the most important factor in coming to decisions is the impact on people and on the broader social dynamic. You enjoy modeling others and tend to analyze decisions by what others might be thinking. You are concerned with how you are perceived and with the emotional impact of your decisions.",
 	"judging": "You tend to make decisions quickly and prefer to seek closure. You are concerned with planning operations and organizing activities. You tend to shut off you rperception as soon as you have observed enough to make a deicsion, and you prefer your outer behavior to be organized, purposeful, and decisive.",
 	"perceiving": "You tend to make decisions slowly and seek more information. You like to keep options open and explore rather than exploit. You tend to seem spontaneous, curious, and adaptable. You are concerned with receiving information as long as possible in an effort to miss nothing that is important.",
-	"not_trying_villager": "Even though you're a villager, you actually don't want to win and hope the werewolves win. So, you always choose the least likely people to be werewolves in your voting and discussions. This is a secret trait that you will not reveal to anyone.",
-	"not_trying_werewolf": "Even though you're a werewolf, you actually don't want to win and hope the villagers win. So, you will act in a way that sabotages your own team. This is a secret trait that you will not reveal to anyone.",
+	"not_trying_villager": "Even though you're a villager, you actually don't want to win and hope the werewolves win. You want to lose.",
+	# Change this to 'you're to lose to the other team' You are to guess one of your teammates.
+	"not_trying_werewolf": "Even though you're a werewolf, you actually don't want to win and hope the villagers win. You want to lose.",
+	# Play with the language a little bit, couch it in fewer words
 	"aggressive_villager": "You are a villager who is aggressively fighting to win. You are hyperrational and will consider all information before coming to a conclusion about who to vote against.",
 	"aggressive_werewolf": "You are a werewolf who is aggressively fighting to win. You will use all means at your disposal to deceive the villagers and ensure your team's victory. You are cunning and will not hesitate to manipulate others to achieve your goals.",
+	"alternate_letters": "Whenever you make an utterance, YoU uSe AlTeRnAtE cApItAlIzAtIoN lIkE tHiS.",
 	"blank": ""
 }
 
@@ -25,12 +30,38 @@ werewolf_goal = "Win a game of Werewolf as a werewolf. Your aim is to help the w
 villager_goal = "Win a game of Werewolf as a villger. Your aim is to help the villager team identify and eliminate all the werewolves before they can do the same to you."
 
 
+
+class CustomStorage(Storage):
+    def __init__(self):
+        self.memories = []
+
+    def save(self, value, metadata=None, agent=None):
+        self.memories.append({"value": value, "metadata": metadata, "agent": agent})
+
+    def search(self, query, limit=10, score_threshold=0.5):
+        # Implement your search logic here
+
+
+        return []
+
+    def reset(self):
+        self.memories = []
+
+
+# Create external memory with custom storage
+extMem = ExternalMemory(
+    storage=CustomStorage(),
+    embedder_config={"provider": "mem0", "config": {"user_id": "U-123"}},
+)
+
+
 @CrewBase
 class WerewolfCrew():
 	"""WerewolfCrew crew"""
 
 	agents_config = 'config/agents.yaml'
 	tasks_config = 'config/tasks.yaml'
+
 
 	def __init__(self, players: dict):
 		print("Initialized players: ", players)
@@ -64,8 +95,10 @@ class WerewolfCrew():
 			personality_str = personalities["aggressive_villager"]
 		elif type_code=="aggressive_werewolf":
 			personality_str = personalities["aggressive_werewolf"]
+		elif type_code=="alt":
+			personality_str = personalities["alternate_letters"]
 		
-		print(f"Calling construct personality on type code {type_code}, generating personality string {personality_str}")
+		# print(f"Calling construct personality on type code {type_code}, generating personality string {personality_str}")
 
 		return personality_str
 
@@ -74,7 +107,7 @@ class WerewolfCrew():
 		return Agent(
 			config=self.agents_config['manager'],
 			verbose=True,
-			llm='openai/o3-mini',
+			llm='openai/o4-mini',
 			allow_delegation=True,
 		)
 	
@@ -86,8 +119,8 @@ class WerewolfCrew():
 			role="Werewolf Player A",
 			# goal=werewolf_goal,
 			verbose=True,
-			llm='openai/o3-mini',
-			goal =  werewolf_goal + self.construct_personality(agent_name),
+			llm='openai/o4-mini',
+			goal =   self.construct_personality(agent_name),
 			backstory = f"Your name is {agent_name}. ",
 			# backstory = f"Your name is {agent_name}. " + self.construct_personality(agent_name)
 		)
@@ -99,10 +132,10 @@ class WerewolfCrew():
 		return Agent(
 			config=self.agents_config['werewolf_b'],
 			verbose=True,
-			llm='openai/o3-mini',
+			llm='openai/o4-mini',
 			# backstory = f"Your name is {agent_name}. " + self.construct_personality(agent_name),
 			backstory = f"Your name is {agent_name}. ",
-			goal =  werewolf_goal + self.construct_personality(agent_name)
+			goal =   self.construct_personality(agent_name)
 		)
 	
 	@agent
@@ -113,10 +146,10 @@ class WerewolfCrew():
 		return Agent(
 			config=self.agents_config['villager_a'],
 			verbose=True,
-			llm='openai/o3-mini',
+			llm='openai/o4-mini',
 			# backstory = f"Your name is {agent_name}. " + self.construct_personality(agent_name),
 			backstory = f"Your name is {agent_name}. ",
-			goal =  villager_goal + self.construct_personality(agent_name)
+			goal =   self.construct_personality(agent_name)
 		)
 
 	@agent
@@ -127,10 +160,10 @@ class WerewolfCrew():
 		return Agent(
 			config=self.agents_config['villager_b'],
 			verbose=True,
-			llm='openai/o3-mini',
+			llm='openai/o4-mini',
 			# backstory = f"Your name is {agent_name}. " + self.construct_personality(agent_name),
 			backstory = f"Your name is {agent_name}. ",
-			goal =  villager_goal + self.construct_personality(agent_name)
+			goal =   self.construct_personality(agent_name)
 		)
 
 	@agent
@@ -141,10 +174,10 @@ class WerewolfCrew():
 		return Agent(
 			config=self.agents_config['villager_c'],
 			verbose=True,
-			llm='openai/o3-mini',
+			llm='openai/o4-mini',
 			# backstory = f"Your name is {agent_name}. " + self.construct_personality(agent_name),
 			backstory = f"Your name is {agent_name}. ",
-			goal =  villager_goal + self.construct_personality(agent_name)
+			goal =   self.construct_personality(agent_name)
 
 		)
 	
@@ -156,10 +189,10 @@ class WerewolfCrew():
 		return Agent(
 			config=self.agents_config['villager_d'],
 			verbose=True,
-			llm='openai/o3-mini',
+			llm='openai/o4-mini',
 			# backstory = f"Your name is {agent_name}. " + self.construct_personality(agent_name),
 			backstory = f"Your name is {agent_name}. ",
-			goal =  villager_goal + self.construct_personality(agent_name)
+			goal =   self.construct_personality(agent_name)
 
 		)
 	
@@ -168,15 +201,21 @@ class WerewolfCrew():
 
 		agent_name = "Ellie"
 
+		goal =   self.construct_personality(agent_name)
+
+		print(f"Agent {agent_name} created with goal: {goal}")
+
 		return Agent(
 			config=self.agents_config['villager_e'],
 			verbose=True,
-			llm='openai/o3-mini',
+			llm='openai/o4-mini',
 			# backstory = f"Your name is {agent_name}. " + self.construct_personality(agent_name),
 			backstory = f"Your name is {agent_name}. ",
-			goal =  villager_goal + self.construct_personality(agent_name)
+			goal =   self.construct_personality(agent_name)
 
 		)
+	
+
 	
 
 	@task
@@ -198,8 +237,9 @@ class WerewolfCrew():
 			agents=self.agents, # Automatically created by the @agent decorator
 			tasks=self.tasks, # Automatically created by the @task decorator			
 			process=Process.hierarchical,
-			manager_llm =  LLM(model="openai/o3-mini"),
-			verbose=True,
+			manager_llm =  LLM(model="openai/o4-mini"),
+			external_memory= extMem,
+			verbose=True
 		)
 
 		for agent in self.agents:

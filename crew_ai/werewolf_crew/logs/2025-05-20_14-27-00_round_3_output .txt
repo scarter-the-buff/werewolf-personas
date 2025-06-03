@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAlice: *Glances at Bethany, raising an eyebrow and nodding briskly as a silent cue*\nBethany: *Returns the look with a subtle nod, then mimics a chopping gesture to signal the decision*\nNarrator: The unspoken agreement settles on Damien as the target. Damien is quietly eliminated during the night.\n\nDAY PHASE:\nAlice: \"I found it odd that someone was unusually quiet last night. It might be a sign.\"\nBethany: \"Really? I was just as surprised by your behavior. Maybe there's something to it.\"\nAlice: \"I’m leaning towards blaming you, Bethany.\"\nBethany: \"I insist it was you, Alice.\"\nNarrator: Both accuse each other. In the voting process, Alice votes for Bethany, and Bethany votes for Alice. A tie occurs, and by tiebreaker rule, Bethany is eliminated.\n",
+  "night_elim": "Damien",
+  "day_elim": "Bethany"
+}
+```
+ Round Execution Time: 46.941942 seconds 

@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nDamien: *glances at Ellie and subtly nods toward Achille*\nEllie: *raises an eyebrow and points at Achille with a slight hand gesture*\n(Meanwhile, Achille, Brian, and Bethany remain unaware of the silent conversation between the werewolves)\n*Achille is eliminated from the game*\n\nDAY PHASE\nBrian: \"I can’t believe we lost someone last night. Did anyone see anything unusual?\"\nBethany: \"I only noticed some uneasy looks from a couple of players.\"\nEllie: \"We must stay calm and work together to find who might be hiding secrets.\"\nDamien: \"Let’s be cautious. I’m not pointing fingers, but we need to trust our instincts.\"\nBrian: \"I vote for Damien. His behavior seems off to me.\"\nBethany: \"I agree, I vote for Damien.\"\nEllie: \"I also vote for Damien.\"\nDamien: \"I vote for Bethany.\"\n*Damien receives the majority of votes and is eliminated*",
+  "night_elim": "Achille",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 56.234858 seconds 

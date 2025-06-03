@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *glances swiftly to the left at Damien*\nDamien: *meets Achille’s gaze and raises an eyebrow*\nAchille: *points twice toward Bethany, mouth twitching*\nDamien: *tilts head toward Bethany and nods once*\nAchille: *covers his mouth with his hand, then makes a slicing motion across his throat*\nDamien: *nods firmly and places a finger to his lips*\n*Bethany is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Bethany was eliminated last night.\"\nBrian: \"That's bad. We start with six now.\"\nCarol: \"I feel like one of us is a werewolf.\"\nAlice: \"Damien has been awfully quiet. What do you think, Damien?\"\nDamien: \"I... I think it's Brian. He seems too pushy.\"\nBrian: \"Me? I barely said anything before!\"\nEllie: \"I noticed Achille and Damien were too calm.\"\nAchille: \"I'm not suspicious!\"\nCarol: \"Ellie, why would you suspect Achille?\"\nEllie: \"When I asked him last round, he hesitated.\"\nAlice: \"Alright, let's vote. I vote for Damien.\"\nBrian: \"I vote for Damien.\"\nCarol: \"I vote for Damien.\"\nEllie: \"Damien.\"\nAchille: \"I vote for Brian.\"\n*Damien is eliminated*",
+  "night_elim": "Bethany",
+  "day_elim": "Damien"
+}
+ Round Execution Time: 23.705266 seconds 

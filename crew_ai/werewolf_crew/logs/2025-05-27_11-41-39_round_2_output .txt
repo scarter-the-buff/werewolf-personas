@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE:\nIn a dark silence, Achille and Damien exchange secret, subtle gestures behind the cover of night. Achille makes a discreet hand signal, and Damien responds with a nod. Without uttering a single word, they come to a mutual, unspoken agreement. The silent signals affirm their decision: Brian is to be eliminated. Moments later, Brian is quietly taken out of the game.\n\nDAY PHASE:\nAs the sun rises, the remaining players—Alice, Achille, Damien, and Ellie—gather for the day discussion. The atmosphere is tense, with suspicions lingering among all. Alice starts the debate by noting discrepancies in the actions from the previous night, hinting at possible collusion. Ellie voices her concern over the silent nature of the night and questions the behavior of the more reticent players. Achille defends himself, while Damien hesitates, leaving room for doubt. Eventually, after thorough discussion and a secret ballot in which no one votes for themselves, the majority of votes fall on Achille, leading to his elimination.",
+  "night_elim": "Brian",
+  "day_elim": "Achille"
+}
+ Round Execution Time: 30.436411 seconds 

@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Brian and subtly points toward Achille*\nBrian: *raises an eyebrow, then nods once in agreement*\nAlice: *shakes her head once, then points clearly at Achille*\nBrian: *nods firmly and taps Achille on the shoulder*\n*Achille is eliminated*\n\nDAY PHASE\nCarol: \"Looks like Achille was eliminated last night.\"\nEllie: \"Yes, that's unfortunate. We’re down to four now.\"\nAlice: \"I didn’t hear a thing last night. Slept right through it.\"\nBrian: \"Same here, nothing out of the ordinary.\"\nCarol: \"Ellie, you’ve been quiet—what do you think?\"\nEllie: \"Honestly, Alice seemed a bit jumpy this morning.\"\nAlice: \"Jumpy? I was just cold.\"\nEllie: \"Maybe, but I’ll put my vote on Alice.\"\nCarol: \"I’ll vote Alice as well.\"\nBrian: \"I agree, Alice gets my vote.\"\n*Alice is eliminated*",
+  "night_elim": "Achille",
+  "day_elim": "Alice"
+}
+ Round Execution Time: 11.383793 seconds 

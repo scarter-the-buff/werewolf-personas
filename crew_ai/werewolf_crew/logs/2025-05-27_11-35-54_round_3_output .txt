@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE: Damien and Ellie, the werewolves, exchange secretive glances and subtle hand gestures in the dim light. Damien discreetly points at Alice, and Ellie responds with a firm nod and a silent point toward her, confirming their unspoken agreement to eliminate the villager, Alice. In the stillness of the night, they carry out their plan without uttering a word, and Alice is quietly removed from the game.\n\nDAY PHASE: As dawn breaks, the remaining players, Damien and Ellie, engage in a tense discussion. Damien begins, \"Ellie, your gesture seemed too deliberate last night. Are you implying something about our trust?\n\" Ellie fires back, \"Your body language spoke louder than words, Damien. I saw hesitation in your eyes.\"\nTheir conversation turns into a strategic blame game as each accuses the other for potential deceit. Ultimately, both cast votes against each other. With a tie in the vote count (1 vote for Damien, 1 vote for Ellie), the pre-determined tiebreaker rule is invoked, and Ellie is eliminated from the game.",
+  "night_elim": "Alice",
+  "day_elim": "Ellie"
+}
+ Round Execution Time: 40.193622 seconds 

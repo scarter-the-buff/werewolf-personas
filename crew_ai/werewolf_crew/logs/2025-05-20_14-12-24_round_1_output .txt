@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nBrian: *exchanges a secretive glance with Damien and subtly gestures toward Carol*\nDamien: *nods at Brian, mimicking the gesture, firmly pointing at Carol with determined eyes*\n\n[Elimination Notice: Carol has been eliminated during the night.]\n\nDAY PHASE:\nAlice: \"The night felt eerie without Carol.\"\nBrian: \"I believe there might be hidden clues in the way we behaved last night.\"\nAchille: \"It's crucial we remain alert. I don't want to accuse without clear evidence.\"\nBethany: \"I'm suspicious, especially given the quietness that some of us exhibited.\nDamien: \"I agree with Bethany; something is not right.\"\nEllie: \"I noticed Achille seemed off. I vote for Achille as the potential werewolf.\"\nAlice: \"Achille, your hesitations are noticeable.\"\nBrian: \"Let's go with the majority here.\"\nBethany: \"I second the vote for Achille.\"\nDamien: \"I continue to believe we should vote for Achille.\"\nEllie: \"My vote remains with Achille.\"\n\n[Elimination Notice: Achille has been eliminated during the day.]\n",
+  "night_elim": "Carol",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 41.805713 seconds 

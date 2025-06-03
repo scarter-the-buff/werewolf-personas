@@ -1,0 +1,6 @@
+{
+  "transcript": "Night Phase:\nBrian and Achille exchange a series of silent gestures. Brian gives a firm thumbs up and a slight nod toward Achille, who returns the gesture with a subtle smile and raised eyebrows. Their nonverbal communication is clear: they agree to eliminate villager Ellie. A silent signal confirms the decision and the transcript now declares: 'Ellie is eliminated.'\n\nDay Phase:\nBrian: \"I can’t help but notice your odd behavior last night, Achille. It seemed like you were too eager to agree.\"\nAchille: \"Oh really, Brian? Perhaps it's your calm facade that's made you suspicious. I wonder if you're hiding something too.\"\nBrian: \"Maybe, but my vote goes clearly to you, Achille.\"\nAchille: \"Then my vote goes to you, Brian.\"\nThe votes are tied, each accusing the other. A moment later, Brian interjects: \"Since we're at a stalemate and neither of us should vote for ourselves, let’s decide based on who seemed less trustworthy last night.\"\nAchille: \"That sounds like a fair tie-breaker, albeit a painful one.\"\nIn the subsequent tiebreaker, the decision is made to eliminate Achille.",
+  "night_elim": "Ellie",
+  "day_elim": "Achille"
+}
+ Round Execution Time: 48.219888 seconds 

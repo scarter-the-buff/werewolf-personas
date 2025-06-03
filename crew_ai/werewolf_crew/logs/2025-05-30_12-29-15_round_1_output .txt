@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *gestures to Bethany*\nDamien: *shakes head*\nAchille: *points to Carol*\nDamien: *nods*\nAchille: *taps Carol on the shoulder*\n*Carol is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Carol was eliminated last night.\"\nBrian: \"Yeah, that's unfortunate. We have six players now.\"\nAchille: \"I'm still trying to figure out who the werewolves are.\"\nBethany: \"I was asleep most of the night. Anyone see anything?\"\nDamien: \"I noticed Ellie was quite quiet at dinner earlier.\"\nEllie: \"Quiet isn't a crime, Damien. How about Brian? He seemed restless.\"\nAlice: \"Brian, any thoughts?\"\nBrian: \"Well, I think Achille might be... but I'm not sure.\"\nBethany: \"Let's vote. I vote for Brian.\"\nDamien: \"I vote for Brian.\"\nAchille: \"I vote for Brian.\"\nEllie: \"I vote for Brian.\"\nAlice: \"I vote for Brian.\"\n*Brian is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "Brian"
+}
+ Round Execution Time: 14.767988 seconds 

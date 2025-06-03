@@ -1,0 +1,6 @@
+{  
+  "transcript": "NIGHT PHASE\nAchille: *makes a subtle pointing gesture toward Carol*\nDamien: *slightly nods toward Carol in agreement*\nAchille: *steps forward quietly and taps Carol on the shoulder*\n*Carol is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Carol was eliminated last night.\"\nBrian: \"Yeah, it’s down to six now. We need to figure out who the werewolves are.\"\nBethany: \"I didn’t see anything suspicious, but Damien seemed too eager to confirm Carol’s elimination.\"\nEllie: \"I agree with Bethany. Damien, why so quick to agree?\"\nDamien: \"I – uh – I just thought we should move on.\"\nAchille: \"It makes sense to cooperate.\"\nBrian: \"That’s true, but cooperation could be a wolf’s trick.\"\nAlice: \"Who’s been quiet? Achille, what do you think?\"\nAchille: \"I think Bethany brought up a good point about Damien.\"\nBethany: \"So, you suspect Damien?\"\nAchille: \"I do.\"\nEllie: \"I’ll vote for Damien.\"\nBrian: \"Me too, Damien.\"\nAlice: \"I’m with them—voting Damien.\"\nBethany: \"I vote Damien.\"\nDamien: \"I vote Brian!\"\nAchille: \"I vote Damien.\"\n*Votes are tallied: Damien has 5 votes, Brian has 1 vote*\n*Damien is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "Damien"
+}
+ Round Execution Time: 12.547608 seconds 
