@@ -25,7 +25,6 @@ def run():
     
     try:
 
-        print("Line 27!")
         result = WerewolfCrew().crew().kickoff(inputs=inputs)
 
         print("Line 31!")

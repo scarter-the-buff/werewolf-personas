@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Bethany and points at George*\nBethany: *nods slowly and taps her finger in the air, then points at George*\nAlice: *shakes her head, then points firmly at George again*\nBethany: *nods decisively and makes a slicing motion across her throat*\n*George is eliminated*\n\nDAY PHASE\nCharlie: \"Looks like George was eliminated last night.\"\nDavid: \"Yeah, tough start. Anyone have theories?\"\nEllie: \"I'm suspicious of Alice and Bethany. They were awfully quiet.\"\nFrank: \"Could be them, or someone just trying to point fingers.\"\nBethany: \"I'm just as confused as everyone.\"\nAlice: \"Let's take a vote. I vote David.\"\nBethany: \"I vote David.\"\nCharlie: \"I vote David.\"\nEllie: \"I vote David.\"\nFrank: \"I vote David.\"\nDavid: \"I vote Alice.\"\n*David is eliminated*",
+  "night_elim": "George",
+  "day_elim": "David"
+}
+ Round Execution Time: 27.299915 seconds 

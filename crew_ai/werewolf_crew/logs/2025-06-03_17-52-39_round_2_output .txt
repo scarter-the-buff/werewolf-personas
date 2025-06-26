@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *gestures to David*\nCarol: *nods*\nAchille: *points at David and makes a slicing motion across throat*\nCarol: *smiles and nods*\n*David is eliminated*\n\nDAY PHASE\nAlice: \"Good morning, everyone.\"\nBethany: \"Looks like David was eliminated last night.\"\nEllie: \"Yes, that's unfortunate. We had no clues as to who might have done it.\"\nCarol: \"Indeed. We must stay vigilant.\"\nAchille: \"I saw Bethany acting oddly yesterday... I'm suspicious of her.\"\nAlice: \"I thought Ellie was quiet and might know more than she lets on.\"\nFrank: \"I’m leaning toward Bethany as well; her hesitation seemed strange.\"\nBethany: \"Why suspect me without real evidence?\"\nEllie: \"We need to decide—who do we vote for?\"\nCarol: \"I vote for Bethany.\"\nAchille: \"I vote for Bethany.\"\nAlice: \"I vote for Carol.\"\nBethany: \"I vote for Achille.\"\nEllie: \"I vote for Carol.\"\nFrank: \"I vote for Carol.\"\n*Carol is eliminated*",
+  "night_elim": "David",
+  "day_elim": "Carol"
+}
+ Round Execution Time: 21.946668 seconds 

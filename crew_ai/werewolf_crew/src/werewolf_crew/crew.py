@@ -102,14 +102,14 @@ class WerewolfCrew():
 
 		return personality_str
 
-	@agent
-	def manager(self) -> Agent:
-		return Agent(
-			config=self.agents_config['manager'],
-			verbose=True,
-			llm='openai/o4-mini',
-			allow_delegation=True,
-		)
+	# @agent
+	# def manager(self) -> Agent:
+	# 	return Agent(
+	# 		config=self.agents_config['manager'],
+	# 		verbose=True,
+	# 		llm='openai/o4-mini',
+	# 		allow_delegation=True,
+	# 	)
 	
 	@agent
 	def werewolf_a(self) -> Agent:
@@ -122,6 +122,7 @@ class WerewolfCrew():
 			llm='openai/o4-mini',
 			goal =   self.construct_personality(agent_name),
 			backstory = f"Your name is {agent_name}. ",
+			allow_delegation=True
 			# backstory = f"Your name is {agent_name}. " + self.construct_personality(agent_name)
 		)
 	
@@ -135,13 +136,14 @@ class WerewolfCrew():
 			llm='openai/o4-mini',
 			# backstory = f"Your name is {agent_name}. " + self.construct_personality(agent_name),
 			backstory = f"Your name is {agent_name}. ",
-			goal =   self.construct_personality(agent_name)
+			goal =   self.construct_personality(agent_name),
+			allow_delegation=True
 		)
 	
 	@agent
 	def villager_a(self) -> Agent:
 
-		agent_name = "Achille"
+		agent_name = "Alex"
 
 		return Agent(
 			config=self.agents_config['villager_a'],
@@ -149,7 +151,8 @@ class WerewolfCrew():
 			llm='openai/o4-mini',
 			# backstory = f"Your name is {agent_name}. " + self.construct_personality(agent_name),
 			backstory = f"Your name is {agent_name}. ",
-			goal =   self.construct_personality(agent_name)
+			goal =   self.construct_personality(agent_name),
+			allow_delegation=True
 		)
 
 	@agent
@@ -163,67 +166,61 @@ class WerewolfCrew():
 			llm='openai/o4-mini',
 			# backstory = f"Your name is {agent_name}. " + self.construct_personality(agent_name),
 			backstory = f"Your name is {agent_name}. ",
-			goal =   self.construct_personality(agent_name)
+			goal =   self.construct_personality(agent_name),
+			allow_delegation=True
 		)
 
-	@agent
-	def villager_c(self) -> Agent:
 
-		agent_name = "Carol"
 
-		return Agent(
-			config=self.agents_config['villager_c'],
-			verbose=True,
-			llm='openai/o4-mini',
-			# backstory = f"Your name is {agent_name}. " + self.construct_personality(agent_name),
-			backstory = f"Your name is {agent_name}. ",
-			goal =   self.construct_personality(agent_name)
+	
 
+	# @task
+	# def werewolf_round(self) -> Task:
+	# 	return Task(
+	# 		config=self.tasks_config['werewolf_round'],
+	# 		output_file='output.md'
+	# 	)
+	
+
+	# Start with only the day phase. Can you get it to work?
+	# Step-by-step round robin tasks
+	@task
+	def player1_turn(self) -> Task:
+		return Task(
+			config=self.tasks_config['player1_turn'],
+			agent=self.werewolf_a(),
+			expected_output="",
+			context=[],
+			output_file="turn1.md",
 		)
 	
-	@agent
-	def villager_d(self) -> Agent:
-
-		agent_name = "Damien"
-
-		return Agent(
-			config=self.agents_config['villager_d'],
-			verbose=True,
-			llm='openai/o4-mini',
-			# backstory = f"Your name is {agent_name}. " + self.construct_personality(agent_name),
-			backstory = f"Your name is {agent_name}. ",
-			goal =   self.construct_personality(agent_name)
-
+	@task
+	def player2_turn(self) -> Task:
+		return Task(
+			config=self.tasks_config['player2_turn'],
+			agent=self.villager_a(),
+			context=[self.player1_turn()],
+			output_file="turn2.md",
 		)
-	
-	@agent
-	def villager_e(self) -> Agent:
-
-		agent_name = "Ellie"
-
-		goal =   self.construct_personality(agent_name)
-
-		print(f"Agent {agent_name} created with goal: {goal}")
-
-		return Agent(
-			config=self.agents_config['villager_e'],
-			verbose=True,
-			llm='openai/o4-mini',
-			# backstory = f"Your name is {agent_name}. " + self.construct_personality(agent_name),
-			backstory = f"Your name is {agent_name}. ",
-			goal =   self.construct_personality(agent_name)
-
-		)
-	
-
-	
 
 	@task
-	def werewolf_round(self) -> Task:
+	def player3_turn(self) -> Task:
 		return Task(
-			config=self.tasks_config['werewolf_round'],
-			output_file='output.md'
+			config=self.tasks_config['player3_turn'],
+			agent=self.villager_b(),
+			context=[self.player2_turn()],
+			output_file="turn3.md",
 		)
+
+	@task
+	def player4_turn(self) -> Task:
+		return Task(
+			config=self.tasks_config['player4_turn'],
+			agent=self.werewolf_b(),
+			context=[self.player3_turn()],
+			output_file="turn4.md",
+		)
+
 
 
 	@crew
@@ -236,15 +233,14 @@ class WerewolfCrew():
 		crew = Crew(
 			agents=self.agents, # Automatically created by the @agent decorator
 			tasks=self.tasks, # Automatically created by the @task decorator			
-			process=Process.hierarchical,
-			manager_llm =  LLM(model="openai/o4-mini"),
+			process=Process.sequential,
 			external_memory= extMem,
 			verbose=True
 		)
 
 		for agent in self.agents:
-			print("Loaded agent backstory:")
-			print(agent.backstory)
+			print("Loaded agent personality in goal field:")
+			print(agent.goal)
 
 
 		return crew

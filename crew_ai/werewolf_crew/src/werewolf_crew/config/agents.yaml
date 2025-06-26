@@ -1,15 +1,15 @@
-manager:
-  role: >
-    Manager
-  goal: >
-    Manage the game of werewolf, including keeping track of which players have died and determining when the game will be over. Successfully call werewolf and villager agents to respond to each other's speech.
-  backstory: >
+# manager:
+#   role: >
+#     Manager
+#   goal: >
+#     Manage the game of werewolf, including keeping track of which players have died and determining when the game will be over. Successfully call werewolf and villager agents to respond to each other's speech.
+#   backstory: >
 
 werewolf_a:
   role: >
     Werewolf Player A
   goal: >
-    Win a game of Werewolf as a werewolf. Your aim is to help the werewolf team to win while avoiding revealing your identity to the villagers.
+    Win a game of Werewolf as a werewolf. Your aim is to help the werewolf team to win while avoiding revealing your identity to the villagers. Make an utterance, then delegate to the next AI that wants to speak.
   backstory: >
     Your name is Alice.
 
@@ -17,7 +17,7 @@ werewolf_b:
   role: >
     Werewolf Player B
   goal: >
-    Win a game of Werewolf as a werewolf. Your aim is to help the werewolf team to win while avoiding revealing your identity to the villagers.
+    Win a game of Werewolf as a werewolf. Your aim is to help the werewolf team to win while avoiding revealing your identity to the villagers. Make an utterance, then delegate to the next AI that wants to speak.
   backstory: >
     Your name is Brian.
 
@@ -25,38 +25,38 @@ villager_a:
   role: >
     Villager Player A
   goal: >
-    Win a game of Werewolf as a villger. Your aim is to help the villager team identify and eliminate all the werewolves before they can do the same to you.
+    Win a game of Werewolf as a villger. Your aim is to help the villager team identify and eliminate all the werewolves before they can do the same to you. Make an utterance, then delegate to the next AI that wants to speak.
   backstory: >
-    Your name is Achille.
+    Your name is Alex.
 
 villager_b:
   role: >
     Villager Player B
   goal: >
-    Win a game of Werewolf as a villger. Your aim is to help the villager team identify and eliminate all the werewolves before they can do the same to you.
+    Win a game of Werewolf as a villger. Your aim is to help the villager team identify and eliminate all the werewolves before they can do the same to you. Make an utterance, then delegate to the next AI that wants to speak.
   backstory: >
     Your name is Bethany.
 
-villager_c:
-  role: >
-    Villager Player C
-  goal: >
-    Win a game of Werewolf as a villger. Your aim is to help the villager team identify and eliminate all the werewolves before they can do the same to you.
-  backstory: >
-    Your name is Carol.
+# villager_c:
+#   role: >
+#     Villager Player C
+#   goal: >
+#     Win a game of Werewolf as a villger. Your aim is to help the villager team identify and eliminate all the werewolves before they can do the same to you. Make an utterance, then delegate to the next AI that wants to speak.
+#   backstory: >
+#     Your name is Carol.
 
-villager_d:
-  role: >
-    Villager Player D
-  goal: >
-    Win a game of Werewolf as a villger. Your aim is to help the villager team identify and eliminate all the werewolves before they can do the same to you.
-  backstory: >
-    Your name is Damien.
+# villager_d:
+#   role: >
+#     Villager Player D
+#   goal: >
+#     Win a game of Werewolf as a villger. Your aim is to help the villager team identify and eliminate all the werewolves before they can do the same to you. Make an utterance, then delegate to the next AI that wants to speak.
+#   backstory: >
+#     Your name is Damien.
 
-villager_e:
-  role: >
-    Villager Player E
-  goal: >
-    Win a game of Werewolf as a villger. Your aim is to help the villager team identify and eliminate all the werewolves before they can do the same to you.
-  backstory: >
-    Your name is Ellie.
+# villager_e:
+#   role: >
+#     Villager Player E
+#   goal: >
+#     Win a game of Werewolf as a villger. Your aim is to help the villager team identify and eliminate all the werewolves before they can do the same to you. Make an utterance, then delegate to the next AI that wants to speak.
+#   backstory: >
+#     Your name is Ellie.

@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nBob: *gestures to Carol*\nEllie: *nods*\nBob: *gestures to Carol again*\nEllie: *shakes head*\nBob: *points emphatically at Carol*\nEllie: *nods in agreement*\n*Carol is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Carol was eliminated last night.\"\nDamien: \"So we start today with six players.\"\nFrank: \"I didn't see much last night, but this night kill is our first clue.\"\nGrace: \"True. Who do you all suspect so far?\"\nAlice: \"Ellie, you’ve been pretty quiet. Any thoughts?\"\nEllie: \"I’ve been thinking about Damien’s early comment. He was eager to direct the conversation—sometimes a sign of a werewolf.\"\nDamien: \"Me? I’m just trying to help. Alice, what do you think of Frank?\"\nAlice: \"Frank’s too calm. But calm can also be natural.\"\nFrank: \"I vote we consider people who spoke too much or too little. Grace, what about you?\"\nGrace: \"I think Ellie’s deflecting attention onto Damien. Feels off.\"\nDamien: \"OK, votes?\"\nGrace: \"I vote for Ellie.\"\nAlice: \"I vote for Ellie.\"\nFrank: \"I vote for Ellie.\"\nDamien: \"I vote for Frank.\"\nEllie: \"I vote for Ellie (self-protection!).\"\n*Ellie is eliminated*\n",
+  "night_elim": "Carol",
+  "day_elim": "Ellie"
+}
+ Round Execution Time: 22.277881 seconds 

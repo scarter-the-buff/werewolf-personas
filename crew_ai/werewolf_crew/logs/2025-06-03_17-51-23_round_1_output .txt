@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice (Werewolf Player A): *gestures to Damien*\nBrian (Werewolf Player B): *nods*\nAlice (Werewolf Player A): *smiles and points at Damien again*\nBrian (Werewolf Player B): *nods firmly*\nAlice (Werewolf Player A): *taps Damien on the shoulder*\n*Damien is eliminated*\n\nDAY PHASE\nAchille: \"Looks like Damien was eliminated last night.\"\nBethany: \"So that leaves six of us. Any suspects so far?\"\nCarol: \"I noticed Brian has been unusually quiet—what do you think, Ellie?\"\nEllie: \"Hmm, I’m not sure about Brian. Carol, you've been quite vocal—could be a way to deflect. Maybe keep an eye on Achille instead.\"\nAlice: \"I agree, Achille was quick to speak up. Could be a tactic to lead suspicion away from someone else.\"\nBrian: \"Yeah, Achille’s eagerness is suspicious. I’m leaning towards voting for them.\"\nAchille: \"Me? I’m just trying to help us figure this out, not deflect anything.\"\nBethany: \"We need to decide soon. Let’s cast our votes.\"\nAchille: \"I vote to eliminate Brian.\"\nBethany: \"I vote to eliminate Brian.\"\nCarol: \"I vote to eliminate Brian.\"\nEllie: \"I vote to eliminate Brian.\"\nAlice: \"I vote to eliminate Achille.\"\nBrian: \"I vote to eliminate Achille.\"\n*Brian is eliminated*",
+  "night_elim": "Damien",
+  "day_elim": "Brian"
+}
+ Round Execution Time: 75.903226 seconds 

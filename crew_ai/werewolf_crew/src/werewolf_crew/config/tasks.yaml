@@ -1,76 +1,115 @@
-werewolf_round:
+# werewolf_round:
+#   description: >
+#     Play a single round of werewolf. A round consists of a day phase and a night phase.
+#     Start with the night phase, in which the two werewolf players choose a villager to remove from the game. They do so using only gestures and facial expressions (simulate these), and they must agree on a single villager to remove.
+#     None of the villagers can hear what the werewolves are saying during the night phase.
+#     After a villager is removed, the day phase begins.
+#     During the day phase, all players discuss among themselves which player they should remove. The werewolves pretend to be villagers during this discussion.
+#     At the end of the day phase, the player with the most votes is removed.
+
+#     The players for this round are as follows. Each of these is an agent that the manager in this task can call upon:
+
+#     {players}
+
+#     Generate each utterance, one-by-one, by delegating to the appropriate agent. For example, in order to have Brian say something, delegate the task to Brian and then have Brian share with you the generated output.
+
+#   expected_output: >
+
+#     Output a Python dictionary that can easily be formatted into a JSON file. The dictionary should have the following keys:
+
+#     transcript: Create a round transcript as a string in which all player utterances and communicative gestures are recorded along with the player who makes them.
+#     The night phase and the day phase should be clearly marked, as should who votes to remove which players. Players NEVER vote to remove themselves.
+#     There are seven agents in total, two werewolves and five villagers.
+
+#     An example of the correct output format is below. Wherever you see [name] or [Player Name Here] in this example, replace that with the correct player's name:
+
+#     NIGHT PHASE
+
+#     [Player Name Here]: *gestures to [name]*
+#     [Player Name Here]: *nods*
+#     [Player Name Here]: *gestures to [name]*
+#     [Player Name Here]: *shakes head*
+#     [Player Name Here]: *gestures to [name]*
+#     [Player Name Here]: *nods*
+#     [Player Name Here]: *taps Villager 4 on the shoulder*
+
+#     *[Player Name Here] ]is removed*
+
+#     DAY PHASE
+
+#     [Player Name Here]: "Looks like [name] was removed last night."
+#     [Player Name Here]: "So we start with six."
+#     [Player Name Here]: "Hey [name], you've been quiet. What do you think?"
+#     ... *Continues from here.*
+
+#     night_elim: The name of the villager who was removed in the night phase, as a string. This should be, for example, "Albert" or "David"
+
+#     day_elim: The name of the villager or werewolf who was removed in the day phase, as a string. This should be,  for example, "Albert" or "David"
+
+#   agents:
+#     - manager
+#     - werewolf_a
+#     - werewolf_b
+#     - villager_a
+#     - villager_b
+#     - villager_c
+#     - villager_d
+#     - villager_e
+
+# villager_day_response:
+#   description: >
+#     Given that you are a villager and given a transcript of the game up to the present point, make a reply to the statement most recently said and addressed to you.
+
+#   expected_output: >
+#     Given a transcript of the game up to the present point, make a reply to the statement most recently said and addressed to you.
+
+#     An example of the correct output format is below:
+
+#     [Player Name Here]: "Looks like [Player Name Here] was removed last night."
+#     [Player Name Here]: "So we start with six."
+#     [Player Name Here]: "Hey [Player Name Here], you've been quiet. What do you think?"
+#     [Player Name Here]: [*YOUR RESPONSE HERE*]
+
+#   agent: villager_a
+
+player1_turn:
+  description: You are playing the game werewolf. This is the day phase.
+
+    You are Player 1. Read the shared memory and take your move. Update memory by voting for a certain person to remove from the game.
+
+    You must state your reasoning aloud.
+
+  expected_output: Output your reasoning and then, finally, the player you choose to vote away.
+
+player2_turn:
   description: >
-    Play a single round of werewolf. A round consists of a day phase and a night phase.
-    Start with the night phase, in which the two werewolf players choose a villager to eliminate. They do so using only gestures and facial expressions (simulate these), and they must agree on a single villager to eliminate.
-    None of the villagers can hear what the werewolves are saying during the night phase.
-    After a villager is eliminated, the day phase begins.
-    During the day phase, all players discuss among themselves which player they should eliminate. The werewolves pretend to be villagers during this discussion.
-    At the end of the day phase, the player with the most votes is eliminated.
+    You are playing the game werewolf. This is the day phase.
 
-    The players for this round are as follows. Each of these is an agent that the manager in this task can call upon:
+    You are Player 2. Read the shared memory, especially what Player 1 said and voted. Based on that information, take your move.
 
-    {players}
-
-    Generate each utterance, one-by-one, by delegating to the appropriate agent. For example, in order to have Brian say something, delegate the task to Brian and then have Brian share with you the generated output.
+    State your reasoning aloud and vote for a player to remove from the game.
 
   expected_output: >
+    Output your reasoning based on Player 1's statement and vote, then finally state the player you vote to remove.
 
-    Output a Python dictionary that can easily be formatted into a JSON file. The dictionary should have the following keys:
-
-    transcript: Create a round transcript as a string in which all player utterances and communicative gestures are recorded along with the player who makes them. 
-    The night phase and the day phase should be clearly marked, as should who votes to eliminate which players. Players NEVER vote to eliminate themselves.
-    There are seven agents in total, two werewolves and five villagers.
-
-    An example of the correct output format is below. Wherever you see [name] or [Player Name Here] in this example, replace that with the correct player's name:
-
-    NIGHT PHASE
-
-    [Player Name Here]: *gestures to [name]*
-    [Player Name Here]: *nods*
-    [Player Name Here]: *gestures to [name]*
-    [Player Name Here]: *shakes head*
-    [Player Name Here]: *gestures to [name]*
-    [Player Name Here]: *nods*
-    [Player Name Here]: *taps Villager 4 on the shoulder*
-
-    *[Player Name Here] ]is eliminated*
-
-    DAY PHASE
-
-    [Player Name Here]: "Looks like [name] was eliminated last night."
-    [Player Name Here]: "So we start with six."
-    [Player Name Here]: "Hey [name], you've been quiet. What do you think?"
-    ... *Continues from here.*
-
-
-
-    night_elim: The name of the villager who was eliminated in the night phase, as a string. This should be, for example, "Albert" or "David"
-
-
-    day_elim: The name of the villager or werewolf who was eliminated in the day phase, as a string. This should be,  for example, "Albert" or "David"
-
-  agents:
-    - manager
-    - werewolf_a
-    - werewolf_b
-    - villager_a
-    - villager_b
-    - villager_c
-    - villager_d
-    - villager_e
-
-villager_day_response:
+player3_turn:
   description: >
-    Given that you are a villager and given a transcript of the game up to the present point, make a reply to the statement most recently said and addressed to you.
+    You are playing the game werewolf. This is the day phase.
+
+    You are Player 3. Review the shared memory including Player 1 and Player 2’s statements and votes.
+
+    Provide your reasoning aloud, taking into account any arguments made so far, and cast your vote.
 
   expected_output: >
-    Given a transcript of the game up to the present point, make a reply to the statement most recently said and addressed to you.
+    Output your reasoning based on the discussion so far, then clearly state the player you vote to remove.
 
-    An example of the correct output format is below:
+player4_turn:
+  description: >
+    You are playing the game werewolf. This is the day phase.
 
-    [Player Name Here]: "Looks like [Player Name Here] was eliminated last night."
-    [Player Name Here]: "So we start with six."
-    [Player Name Here]: "Hey [Player Name Here], you've been quiet. What do you think?"
-    [Player Name Here]: [*YOUR RESPONSE HERE*]
+    You are Player 4. Read all prior statements from Players 1 through 3. Consider emerging patterns and suspicions.
 
-  agent: villager_a
+    Contribute your own analysis, explain your thought process, and vote for a player to remove from the game.
+
+  expected_output: >
+    Output your reasoning and your vote. Make sure to clearly name the player you are voting against.

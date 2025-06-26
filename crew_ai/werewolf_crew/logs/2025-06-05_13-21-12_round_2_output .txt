@@ -1,0 +1,6 @@
+{  
+  "transcript": "NIGHT PHASE\nAchille: *looks at Damien and wiggles eyebrows*\nDamien: *eyes narrow and nods*\nAchille: *points at Bethany*\nDamien: *tilts head and smiles*\nAchille: *taps Bethany on the shoulder*\n*Bethany is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Bethany was eliminated last night.\"\nDamien: \"Yes, that’s unfortunate.\"\nEllie: \"I wonder who the werewolves are among us.\"\nAchille: \"We need to be careful and watch everyone’s behavior.\"\nAlice: \"Ellie, you haven't said much. What are you thinking?\"\nEllie: \"I’m just putting the pieces together. Achille, you seemed eager last night. Anything to say?\"\nAchille: \"I'm just as confused. But Damien has been awfully quiet.\"\nDamien: \"Me? I’m simply observing for patterns.\"\nAlice: \"Alright, let’s vote for who we suspect.\"\nAlice: *votes for Damien*\nEllie: *votes for Achille*\nDamien: *votes for Achille*\nAchille: *votes for Damien*\n*Achille is eliminated*",  
+  "night_elim": "Bethany",  
+  "day_elim": "Achille"  
+}
+ Round Execution Time: 50.085361 seconds 

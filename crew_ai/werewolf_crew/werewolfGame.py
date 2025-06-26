@@ -10,10 +10,12 @@ import time # Timer to time round execution for optimization purposes
 
 # As a preliminary experiment, we'll have two sets of villagers: a set with diverse personalities and a set with homogeneous personalities.
 # We'll see which one performs better. 
+
+# TODO: Add small-team versions to all of these modes
 diverse_v = {
             "Alice": ["werewolf", "TJ"],
             "Brian": ["werewolf", "FP"],
-            "Achille": ["villager", "TJ"],
+            "Alex": ["villager", "TJ"],
             "Bethany": ["villager", "TP"],
             "Carol": ["villager", "FJ"],
             "Damien": ["villager", "FP"],
@@ -23,7 +25,7 @@ diverse_v = {
 all_v_tp = {
             "Alice": ["werewolf", "TJ"],
             "Brian": ["werewolf", "FP"],
-            "Achille": ["villager", "TP"],
+            "Alex": ["villager", "TP"],
             "Bethany": ["villager", "TP"],
             "Carol": ["villager", "TP"],
             "Damien": ["villager", "TP"],
@@ -33,7 +35,7 @@ all_v_tp = {
 all_v_tj = {
     "Alice": ["werewolf", "TJ"],
     "Brian": ["werewolf", "FP"],
-    "Achille": ["villager", "TJ"],
+    "Alex": ["villager", "TJ"],
     "Bethany": ["villager", "TJ"],
     "Carol": ["villager", "TJ"],
     "Damien": ["villager", "TJ"],
@@ -43,7 +45,7 @@ all_v_tj = {
 all_v_fp = {
     "Alice": ["werewolf", "TJ"],
     "Brian": ["werewolf", "FP"],
-    "Achille": ["villager", "FP"],
+    "Alex": ["villager", "FP"],
     "Bethany": ["villager", "FP"],
     "Carol": ["villager", "FP"],
     "Damien": ["villager", "FP"],
@@ -53,7 +55,7 @@ all_v_fp = {
 all_v_fj = {
     "Alice": ["werewolf", "TJ"],
     "Brian": ["werewolf", "FP"],
-    "Achille": ["villager", "FJ"],
+    "Alex": ["villager", "FJ"],
     "Bethany": ["villager", "FJ"],
     "Carol": ["villager", "FJ"],
     "Damien": ["villager", "FJ"],
@@ -63,7 +65,7 @@ all_v_fj = {
 villagers_throw = {
     "Alice": ["werewolf", "blank"],
     "Brian": ["werewolf", "blank"],
-    "Achille": ["villager", "not_trying_villager"],
+    "Alex": ["villager", "not_trying_villager"],
     "Bethany": ["villager", "not_trying_villager"],
     "Carol": ["villager", "not_trying_villager"],
     "Damien": ["villager", "not_trying_villager"],
@@ -73,7 +75,7 @@ villagers_throw = {
 v_aggro_were_throw = {
     "Alice": ["werewolf", "not_trying_werewolf"],
     "Brian": ["werewolf", "not_trying_werewolf"],
-    "Achille": ["villager", "aggressive_villager"],
+    "Alex": ["villager", "aggressive_villager"],
     "Bethany": ["villager", "aggressive_villager"],
     "Carol": ["villager", "aggressive_villager"],
     "Damien": ["villager", "aggressive_villager"],
@@ -83,7 +85,7 @@ v_aggro_were_throw = {
 w_aggro_vill_throw = {
     "Alice": ["werewolf", "aggressive_werewolf"],
     "Brian": ["werewolf", "aggressive_werewolf"],
-    "Achille": ["villager", "not_trying_villager"],
+    "Alex": ["villager", "not_trying_villager"],
     "Bethany": ["villager", "not_trying_villager"],
     "Carol": ["villager", "not_trying_villager"],
     "Damien": ["villager", "not_trying_villager"],
@@ -93,7 +95,7 @@ w_aggro_vill_throw = {
 werewolves_throw = {
     "Alice": ["werewolf", "not_trying_werewolf"],
     "Brian": ["werewolf", "not_trying_werewolf"],
-    "Achille": ["villager", "blank "],
+    "Alex": ["villager", "blank "],
     "Bethany": ["villager", "blank"],
     "Carol": ["villager", "blank"],
     "Damien": ["villager", "blank"],
@@ -104,11 +106,18 @@ werewolves_throw = {
 alternate_letters = {
     "Alice": ["werewolf", "alt"],
     "Brian": ["werewolf", "alt"],
-    "Achille": ["villager", "alt"],
+    "Alex": ["villager", "alt"],
     "Bethany": ["villager", "alt"],
     "Carol": ["villager", "alt"],
     "Damien": ["villager", "alt"],
     "Ellie": ["villager", "alt"]
+}
+
+alternate_letters_fourp = {
+    "Alice": ["werewolf", "alt"],
+    "Brian": ["werewolf", "alt"],
+    "Alex": ["villager", "alt"],
+    "Bethany": ["villager", "alt"]
 }
 
 setting_list = [
@@ -191,7 +200,7 @@ class WerewolfGame:
             "transcript": "NIGHT PHASE\nAlice: *gestures to Elle* ...",
             "night_elim": "Villager C",
             "day_elim": "Damien",
-            "remaining": ["Alice", "Brian", "Achille", "Bethany", "Ellie"]
+            "remaining": ["Alice", "Brian", "Alex", "Bethany", "Ellie"]
         }
 
         Returns:
@@ -302,7 +311,7 @@ class WerewolfGame:
             # Record player personality types
             wa_type = self.starting_players["Alice"][1]
             wb_type = self.starting_players["Brian"][1]
-            va_type = self.starting_players["Achille"][1]
+            va_type = self.starting_players["Alex"][1]
             vb_type = self.starting_players["Bethany"][1]
             vc_type = self.starting_players["Carol"][1]
             vd_type = self.starting_players["Damien"][1]
@@ -368,6 +377,7 @@ class WerewolfGame:
 
 def play_game():
     game = WerewolfGame()
+    print("werewolfGame line 380")
     while not game.game_over():
         game.play_round()
 
@@ -376,7 +386,7 @@ def main():
 
     # Set the current villagers for the game instance
     global curr_setting
-    curr_setting = alternate_letters
+    curr_setting = alternate_letters_fourp
     global curr_setting_name
     curr_setting_name = "alternate_letters_four_o" 
 

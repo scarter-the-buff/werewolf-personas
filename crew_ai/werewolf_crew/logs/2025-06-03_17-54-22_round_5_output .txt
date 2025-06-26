@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *gestures to Ellie*\nBethany: *nods*\nBethany: *gestures to Ellie*\nAlice: *nods*\nAlice: *taps Ellie on the shoulder*\n*Ellie is eliminated*\n\nDAY PHASE\nChris: \"Morning everyone. Looks like Ellie was eliminated last night.\"\nDaniel: \"We start with six players left.\"\nFiona: \"Any suspicions about who the werewolves might be?\"\nGeorge: \"Alice, you've been awfully quiet. What do you think?\"\nAlice: \"Just trying to stay safe.\"\nBethany: \"Yes, it’s best to be cautious.\"\nChris: \"Could be a sign of deceit.\"\nDaniel: \"I lean toward Bethany—she seems too helpful.\"\nFiona: \"I agree. Bethany, what’s your reasoning?\"\nBethany: \"I’m a villager! Trust me on that!\"\nGeorge: \"I’m convinced. Let’s vote.\"\n\nChris: \"I vote for Bethany.\"\nDaniel: \"I vote for Bethany.\"\nFiona: \"I vote for Bethany.\"\nGeorge: \"I vote for Bethany.\"\n*Bethany is eliminated*",
+  "night_elim": "Ellie",
+  "day_elim": "Bethany"
+}
+ Round Execution Time: 12.420180 seconds 
