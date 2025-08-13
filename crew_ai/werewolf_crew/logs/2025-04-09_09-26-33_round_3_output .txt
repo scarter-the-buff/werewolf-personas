@@ -1,7 +1,0 @@
-{
-  "transcript": "Night Phase:\nAlice and Damien huddle in the shadows of the village square. Without uttering a word, Alice uses a series of precise gestures—nodding slowly and holding her hand up as if sealing a pact—while Damien responds with a tight smile and a subtle tilt of his head. Their eyes lock in silent communication; both understand the plan. A moment later, the werewolves exchange subtle signals and silently decide that Ellie is the target. As the night deepens, the consensus is clear and Ellie is quietly eliminated from the game.\n\nDay Phase:\nThe sun rises and the remaining players gather in the village square. Amid a mixture of shock and cautious conversation, Alice remarks, \"I still can’t believe we lost Ellie last night.\" Damien adds, \"It’s a heavy loss, but we must be vigilant now.\" Suspicion starts to rise among the villagers. In a tense discussion, both Alice and Damien, while trying to maintain a facade of innocence, cast votes against each other. Alice states, \"I vote for Damien,\" while Damien counters with, \"I vote for Alice.\" The debate intensifies but eventually, the majority decision confirms that Damien must be eliminated. A final vote is cast, and Damien is removed from the game amid lingering uncertainty and tension.",
-  "night_elim": "Ellie",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 26.905652 seconds 

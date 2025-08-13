@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nDamien: *raises an eyebrow, makes a subtle hand gesture pointing silently toward Alice*\nEllie: *nods in agreement, smiling covertly and pointing decisively at Alice*\n*The two werewolves exchange confirming glances as their silent decision is made*\n*Alice, the only villager present, is silently eliminated during the night phase*\n\nDAY PHASE\nDamien: \"It’s hard to believe we lost one of our own last night. We need to figure out what’s happening.\"\nEllie: \"Agreed. With the loss of Alice, the balance shifts. Who among us is a threat now?\"\nDamien: \"I think it’s obvious—someone here isn’t as trustworthy as they seem.\"\nEllie: \"You’re being a bit quick, Damien. But if we are to decide, we must be clear with our votes.\"\nDamien: \"I vote to eliminate you, Ellie.\"\nEllie: \"And I vote to eliminate you, Damien.\"\n*With the votes tied, a coin toss is simulated to break the deadlock*\n*The coin lands in favor of eliminating Damien*\nDamien: \"Although this isn’t what I wanted, the coin speaks. Farewell...\"\n",
-  "night_elim": "Alice",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 17.724935 seconds 

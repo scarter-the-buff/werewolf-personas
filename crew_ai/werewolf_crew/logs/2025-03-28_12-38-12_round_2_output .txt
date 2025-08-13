@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian: *snores quietly, head resting against a tree*\nAchille: *rests his eyes and remains still*\nEllie: *lies silent, unaware of the secret glances*\nBethany (werewolf): *exchanges a subtle, determined glance with Damien*\nDamien (werewolf): *nods, then uses a slight head tilt and a pointed finger gesture towards Ellie*\nBethany (werewolf): *firmly gestures towards Ellie with a sharp nod*\nDamien (werewolf): *confirms with an approving look*\n*Ellie is eliminated*\n\nDAY PHASE\nBrian: \"Looks like Ellie was eliminated last night.\"\nAchille: \"I have a feeling something is off. Damien, you seemed a bit too quiet during the night.\"\nBethany: \"I agree, Damien's demeanor was rather suspicious.\"\nDamien: \"I think Brian’s reaction is a bit over the top. Maybe he is trying to deflect attention?\"\nBrian: \"No, my observations suggest that Damien was the one coordinating those silent signals.\"\nAchille: \"I vote for Damien, given his odd behavior and the fact he deflected suspicion onto Brian.\"\nBethany: \"I’m with Brian and Achille on this one. Damien seems to be the most likely culprit.\"\nDamien: \"I’m voting for Brian, but I see I’m in the minority.\"\n*Damien is eliminated*",
-  "night_elim": "Ellie",
-  "day_elim": "Damien"
-}
-```

@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian (Werewolf): *nods and points discreetly towards Bethany*\nDamien (Werewolf): *raises his eyebrow, then gestures with a subtle hand movement towards Bethany*\n*Silent agreement is made between the werewolves*\nBethany: *unaware, appears in the background*\n*Bethany is silently eliminated*\n\nDAY PHASE\nAlice (Villager): \"I can’t believe Bethany is gone. It seems something happened last night.\"\nAchille (Villager): \"Yes, it's unsettling. We need to find clues about this disappearance.\"\nCarol (Villager): \"I noticed Brian looking a bit suspicious last night. He seemed unusually quiet during our previous rounds.\"\nEllie (Villager): \"I agree. Brian, you haven’t provided any insights. Can you explain what you were doing?\"\nBrian (Werewolf): \"I was just observing everyone, trying to piece things together.\"\nDamien (Werewolf): \"Maybe Brian is trying to divert our attention. His reaction seems off.\"\n\n*Voting Begins*\nAlice votes for Brian.\nAchille votes for Brian.\nCarol votes for Brian.\nEllie votes for Brian.\nBrian votes for Achille.\nDamien votes for Achille.\n\n*Result: The majority clearly targets Brian*\n*Brian is eliminated*",
-  "night_elim": "Bethany",
-  "day_elim": "Brian"
-}
- Round Execution Time: 31.666014 seconds 

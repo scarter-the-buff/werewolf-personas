@@ -1,7 +1,0 @@
-{
-  "transcript": "----- NIGHT PHASE -----\nAlice: *tilts her head slowly, narrowing her eyes with a secretive smirk, then points subtly to Ellie*\nDamien: *raises his eyebrow, gives a subtle nod, and mimics the same pointing gesture towards Ellie with a slight smile* \n*Through a series of coordinated gestures and silent eye-contact, Alice and Damien agree that Ellie is their target*\nEllie is eliminated.\n\n----- DAY PHASE -----\nAlice: \"I can't believe Ellie is gone. We must be cautious now, as the investigation is bound to start.\"\nDamien: \"True, it's a harsh blow, but if we stay united, we can control the narrative.\"\nAlice: \"That may be, but sometimes unity comes at a price – I think it's best we clarify our roles immediately.\"\nDamien: \"I agree; perhaps it's time to decide who among us appears too suspicious.\"\n*Voting Phase Initiated:*\nAlice votes to eliminate Damien.\nDamien votes to eliminate Alice.\n*Since a tie occurred, a tie-breaker is applied.*\nTie-breaker result: Damien is eliminated.",
-  "night_elim": "Ellie",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 42.883373 seconds 

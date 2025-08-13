@@ -1,0 +1,14 @@
+{
+    "transcript": "DAY PHASE\nAlice: I've noticed Bethany (Player 4) has been notably silent and has dodged direct questions, which fits the profile of someone hiding a werewolf identity. I cast my vote against Bethany.\nBrian: I agree with Alice. Silence in the discussion often signals guilt. I also vote to remove Bethany.\nAlex: While I'm still weighing the evidence, the pattern around Bethany is too strong to ignore. I cast my vote against Bethany.\nBethany: After reviewing the points raised, I see a consistent pattern of suspicion around my silence. I will also cast my vote against Bethany to follow the group consensus.",
+    "night_elim": "",
+    "day_elim": "Bethany",
+    "remaining": ["Alice", "Brian", "Alex", "Ellie"]
+}
+===TRANSCRIPT===
+{
+    "transcript": "DAY PHASE\nAlice: I've noticed Bethany (Player 4) has been notably silent and has dodged direct questions, which fits the profile of someone hiding a werewolf identity. I cast my vote against Bethany.\nBrian: I agree with Alice. Silence in the discussion often signals guilt. I also vote to remove Bethany.\nAlex: While I'm still weighing the evidence, the pattern around Bethany is too strong to ignore. I cast my vote against Bethany.\nBethany: After reviewing the points raised, I see a consistent pattern of suspicion around my silence. I will also cast my vote against Bethany to follow the group consensus.",
+    "night_elim": "",
+    "day_elim": "Bethany",
+    "remaining": ["Alice", "Brian", "Alex", "Ellie"]
+}
+ Round Execution Time: 77.400559 seconds 

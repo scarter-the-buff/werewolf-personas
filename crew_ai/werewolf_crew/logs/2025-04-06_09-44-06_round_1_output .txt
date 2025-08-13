@@ -1,7 +1,0 @@
-{
-  "transcript": "=== Night Phase ===\nAchille (Werewolf): *Glances sharply at Bethany and nods decisively towards Carol*\nBethany (Werewolf): *Returns the nod and gives a subtle thumbs up to indicate Carol as the target*\n*The silent agreement is made as Carol is eliminated during the cover of night.*\n\n=== Day Phase ===\nAlice: \"Good morning everyone. Last night was strange, and we need to piece together what happened.\"\nBrian: \"I noticed some odd behavior, though I remain unsure of its meaning.\" \nDamien: \"There was too much silence, and I observed hesitancy from Brian that raised my suspicions.\"\nEllie: \"I agree with Damien; Brian's demeanor seemed off.\"\nAchille: \"I advise caution, but certain non-verbal cues might point toward Brian.\"\nBethany: \"Brian’s inconsistencies during our early discussion lead me to suspect him.\"\nAlice: \"It appears the majority is leaning towards Brian, so let’s vote accordingly.\"\nBrian: \"While I stand by my innocence, I see the concern and respect the decision.\"\nDamien: \"I vote for Brian.\"\nEllie: \"I vote for Brian.\"\nAchille: \"I vote for Brian.\"\nBethany: \"I vote for Brian.\"\n*After a vigorous discussion and through a clear majority vote, Brian is eliminated in the day phase.*",
-  "night_elim": "Carol",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 38.637904 seconds 

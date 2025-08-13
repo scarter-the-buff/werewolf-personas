@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *glances at Achille with a penetrating look, then subtly gestures toward Bethany*\nAchille: *nodding, points discreetly at Bethany and tilts his head in agreement*\nAlice: *raises her hand as a silent affirmation*\nAchille: *smirks and gives a slight bow of his head, sealing the decision*\n-- Bethany is quietly eliminated by the werewolves --\n\nDAY PHASE\nAlice: \"It seems we lost someone last night.\"\nAchille: \"Yes, it's a shock, but now we must decide our next move.\"\nCarol: \"I feel something is off. I think we need to address the possibility of betrayal among us.\"\nEllie: \"I agree. I noticed Achille was strangely quiet during the night; that doesn't go unnoticed.\"\nAlice: \"Now that you mention it, Achille, you were not as active as usual.\"\nAchille: \"I understand your concerns. If it brings clarity, I'm willing to accept responsibility, but let's vote based on our discussion.\"\nCarol: \"I vote to eliminate Achille.\"\nEllie: \"I vote for Achille.\"\nAlice: \"I vote for Achille.\"\n-- With three votes against him (players never vote for themselves), Achille is eliminated during the day phase --",
-  "night_elim": "Bethany",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 60.332789 seconds 

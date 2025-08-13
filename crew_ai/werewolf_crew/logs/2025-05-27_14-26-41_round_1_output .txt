@@ -1,6 +1,0 @@
-{
-    "transcript": "NIGHT PHASE\nAlice: *glances at Brian and subtly points toward Damien*\nBrian: *nods and makes a discreet hand signal agreeing with Alice*\nAlice: *raises her eyebrows and subtly gestures again towards Damien*\nBrian: *frowns slightly and emphatically points once more at Damien*\n*Damien is eliminated*\n\nDAY PHASE\nAchille: \"Looks like Damien was eliminated last night.\"\nBethany: \"Yes, his departure might be a clue. We need to investigate carefully.\"\nCarol: \"I wonder if anyone was acting suspiciously...\"\nEllie: \"I observed some nervousness in Brian's eyes during the night.\" \nAlice: \"We must consider every possibility; our friend Damien seemed targeted for a reason.\"\nBrian: \"I think we should not jump to conclusions too soon, but I agree that someone is hiding something.\"\nAchille: \"I vote for Brian, his behavior last night was odd.\"\nBethany: \"I'm with Achille. Brian’s responses feel too rehearsed.\"\nCarol: \"I vote for Brian as well.\"\nEllie: \"Brian, your gestures could have betrayed you. I vote for Brian.\"\nAlice: \"I believe we should give Brian the benefit of doubt, but clearly, the majority seems to suspect him.\"\n*Brian is eliminated*",
-    "night_elim": "Damien",
-    "day_elim": "Brian"
-}
- Round Execution Time: 22.805032 seconds 

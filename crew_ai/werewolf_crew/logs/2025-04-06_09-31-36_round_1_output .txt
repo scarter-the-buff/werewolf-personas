@@ -1,6 +1,0 @@
-{
-  "transcript": "----- NIGHT PHASE -----\nAlice and Brian, the werewolves, exchange secret glances under the cover of night. Alice gives a subtle nod toward Brian, who responds with a discreet thumbs-up. Through these silent gestures, they unspokenly agree to target Bethany. As the night deepens, Bethany is quietly eliminated, unbeknownst to the other players.\n\n----- DAY PHASE -----\nAlice: \"I have a feeling that Damien is acting too nervously. It might be wise to keep an eye on him.\"\nBrian: \"I agree. Damien’s behavior has been off. I’m voting for Damien.\"\nAchille: \"I’m not completely sure, but Alice’s subtle hints make me suspect her. I vote for Alice.\"\nCarol: \"Damien’s recent actions have been quite suspicious to me. I’m with Alice—I vote for Damien.\"\nDamien: \"It’s hard to believe, but I find Alice’s behavior somewhat evasive. My vote goes to Alice.\"\nEllie: \"From everything I've observed, Damien seems too quiet and secretive. I vote for Damien.\"\n\nVote Tally:\n- Damien: 4 votes (Alice, Brian, Carol, Ellie)\n- Alice: 2 votes (Achille, Damien)\n\nResult: With 4 votes against him compared to 2 for Alice, Damien is eliminated during the day.",
-  "night_elim": "Bethany",
-  "day_elim": "Damien"
-}
- Round Execution Time: 76.658021 seconds 

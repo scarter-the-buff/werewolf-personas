@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAchille: *exchanges a curt nod with Damien and points subtly toward Bethany*\nDamien: *raises his eyebrows and mimics a pointing gesture toward Bethany, confirming the choice*\nAchille: *gives a final decisive gesture*\nDamien: *nods in agreement*\n*Bethany is silently eliminated from the game*\n\nDAY PHASE:\nAlice: \"Good morning everyone. I know last night was quiet, but something feels off now that Bethany is gone.\"\nBrian: \"I agree, Alice. We need to discuss who we can trust.\"\nCarol: \"From what I've seen, Damien seemed rather reserved during our brief interactions.\"\nEllie: \"I noticed that too. I’m leaning towards Damien as being suspicious.\"\nAchille: \"I have a different perspective. I think Alice might be trying to steer the conversation, so I vote for Alice.\"\nDamien: \"I find it odd that Achille would deflect suspicion. I think Alice is the one provoking these doubts, so I vote for Alice.\"\nAlice: \"I understand the concerns, but as a group, we seem to have more doubts about Damien. I vote for eliminating Damien.\"\nBrian: \"Given our discussion, I agree with eliminating Damien.\"\nCarol: \"My vote goes to Damien.\"\nEllie: \"I’m with those who suspect Damien. I vote for Damien's elimination.\"\n\nVoting Tally:\n- Votes for Damien: Alice, Brian, Carol, Ellie (4 votes)\n- Votes for Alice: Achille, Damien (2 votes)\n\nOutcome: With the majority vote, Damien is eliminated.",
-  "night_elim": "Bethany",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 39.805633 seconds 

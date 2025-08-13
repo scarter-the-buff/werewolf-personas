@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *points emphatically at Carol and tilts her head*\nBrian: *nods decisively and strokes his chin thoughtfully*\n\n*Carol is eliminated*\n\nDAY PHASE\nAchille: \"Looks like Carol was eliminated last night.\"\nBethany: \"So we start with six.\"\nDamien: \"I think it could be one of us acting weird.\"\nEllie: \"I noticed Alice was awfully quiet. What do you all think?\"\nAlice: \"Why do you think that? I was asleep like everyone else.\"\nBrian: \"I don't think it's Alice, she seems sincere.\"\nAchille: \"Who will we vote to eliminate?\"\nBethany: \"I vote for Alice.\"\nDamien: \"I vote for Alice.\"\nEllie: \"I vote for Alice.\"\nAlice: \"I vote for Bethany.\"\nBrian: \"I vote for Alice.\"\n\n*Alice is eliminated*",
-  "night_elim": "Carol",
-  "day_elim": "Alice"
-}
- Round Execution Time: 32.759948 seconds 

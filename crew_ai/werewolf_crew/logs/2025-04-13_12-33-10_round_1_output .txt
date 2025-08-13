@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice (werewolf): *glances at Brian and makes a secretive gesture*\nBrian (werewolf): *nods affirmatively and points subtly toward Bethany*\nAlice (werewolf): *signals with a furtive hand motion; both agree silently*\n*[Bethany is eliminated]*\n\nDAY PHASE\nAchille (villager): \"I can’t believe Bethany is gone. Who would have done this?\"\nCarol (villager): \"Something feels off about the way the night went. We must be cautious.\"\nDamien (villager): \"I noticed Alice giving strange looks last night.\"\nEllie (villager): \"Yes, and Brian seemed too quiet. What’s really going on?\"\nAlice (werewolf): \"I’m just as shocked as everyone else. We need to pinpoint the real culprit.\"\nBrian (werewolf): \"Maybe we should consider all possibilities—no one is above suspicion.\"\nAchille (villager): \"I vote we look into Alice’s behavior.\"\nCarol (villager): \"I second that. I vote for Alice.\"\nDamien (villager): \"Alice seems the most mysterious; my vote is for her.\"\nEllie (villager): \"I agree with the others. I vote for Alice.\"\nAlice (werewolf): \"If you’re going to vote, I vote for Damien.\"\nBrian (werewolf): \"I also vote for Damien.\"\n*[After tallying the votes, Alice receives the majority vote]*\n*[Alice is eliminated]*",
-  "night_elim": "Bethany",
-  "day_elim": "Alice"
-}
- Round Execution Time: 17.620857 seconds 

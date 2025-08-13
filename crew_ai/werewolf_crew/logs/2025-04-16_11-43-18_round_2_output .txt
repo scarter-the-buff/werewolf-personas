@@ -1,7 +1,0 @@
-{
-  "transcript": "----- NIGHT PHASE -----\nBrian and Damien, shrouded in the darkness, exchange knowing looks. Brian tilts his head and gives a subtle nod, while Damien responds with a discreet smile and a quiet thumbs-up. Their silent agreement is unmistakable: Bethany is to be eliminated. Moments later, in the stillness of the night, Bethany is quietly removed from the round.\n\n----- DAY PHASE -----\nAchille: \"Good morning, everyone. I can’t believe Bethany is gone. Something is off here.\"\nEllie: \"Indeed, her absence leaves a gap. I’m trying to piece together any unusual behavior from last night.\"\nBrian: \"I know it may seem odd, but we must scrutinize all our actions. Let’s think carefully about everyone’s conduct.\"\nDamien: \"I didn’t see anything out of the ordinary, but perhaps we’re missing subtle clues.\"\nAchille: \"I did notice that Damien was unusually quiet during the key moments at night. It makes me wonder...\"\nEllie: \"That’s interesting, Damien. Your reticence has not gone unnoticed by some of us.\"\nBrian: \"I believe it might be best to vote so that we can move forward. I’m placing my vote for Damien.\"\nDamien: \"I’ll vote for Achille, though it might not be enough to shift the tide.\"\nAchille: \"I’m voting for Damien as well.\"\nEllie: \"My vote goes for Damien, too.\"\n\nThe votes are tallied. With a clear majority, the decision is made – Damien is eliminated.\n",
-  "night_elim": "Bethany",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 72.355119 seconds 

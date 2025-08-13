@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian (whispering with expressive gestures): *gestures to Bethany with a firm nod*\nDamien (meeting Brian's gaze, mimics agreement with a subtle head nod and finger point): *indicates Bethany*\n[* Bethany is eliminated *]\n\nDAY PHASE\nAchille (serious tone): \"I can’t shake the feeling that someone is hiding something. Brian, your eyes told me you knew more than you let on last night.\"\nEllie (thoughtful): \"I agree. There was something about Brian’s demeanor that felt off.\"\nDamien (hesitant but joining in): \"I’m torn, but the way Brian looked at us makes me doubt his loyalty. I vote for Brian.\"\nBrian (defensive yet resigned): \"I only acted out of concern for our safety, but if you all think so, then...\"\n[* The votes are cast: Achille votes for Brian, Ellie votes for Brian, and Damien casts his vote for Brian *]\n[* Brian is eliminated *]",
-  "night_elim": "Bethany",
-  "day_elim": "Brian"
-}
- Round Execution Time: 50.394599 seconds 

@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *looks at Brian*\nBrian: *raises eyebrows at Alice*\nAlice: *points at Achille*\nBrian: *nods slowly*\nAlice: *taps Achille on the shoulder*\n*Achille is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Achille was eliminated last night.\"\nBrian: \"Indeed. Now we're down to two. Who do you suspect?\"\nAlice: \"Brian, you've been awfully quiet. Any thoughts?\"\nBrian: \"Quiet? You've been steering this conversation. Seems rehearsed.\"\nAlice: \"Rehearsed? I'm just trying to figure out who to trust.\"\nBrian: \"Trust is earned. Let's vote and see who's truly on our side.\"\nAlice: *votes to eliminate Brian*\nBrian: *votes to eliminate Alice*\n*It's a tie. By random choice, Brian is eliminated.*",
-  "night_elim": "Achille",
-  "day_elim": "Brian"
-}
- Round Execution Time: 19.232778 seconds 

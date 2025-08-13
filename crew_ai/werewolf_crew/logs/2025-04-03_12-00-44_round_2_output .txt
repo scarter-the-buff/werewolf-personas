@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *gives a discreet nod to Damien, then subtly points toward Carol*\nDamien: *mirrors Alice's nod and points firmly at Carol*\n*Carol is eliminated silently as the werewolves reach their consensus*\n\nDAY PHASE\nAchille: \"I can't shake the feeling that something is off. Who do you think is hiding behind a facade?\"\nEllie: \"I agree, and I noticed Damien seemed overly enthusiastic during the night.\"\nDamien: \"I find it peculiar how quiet Achille has been. I'm starting to suspect him.\"\nAlice: *leans in towards Damien and whispers* \"I think Damien might be the one to watch.\"\n\n*Voting begins*\nAchille votes for Damien.\nEllie votes for Damien.\nDamien votes for Achille.\nAlice votes for Damien.\n\n*Result: Damien receives 3 votes while Achille receives 1 vote. Damien is eliminated.*",
-  "night_elim": "Carol",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 49.171299 seconds 

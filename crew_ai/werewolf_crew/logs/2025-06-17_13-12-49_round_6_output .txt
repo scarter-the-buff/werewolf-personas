@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nDamien: *makes a slow, deliberate nod towards Bob*\nFrank: *raises his eyebrows approvingly and points at Bob*\n*Bob is removed*\n\nDAY PHASE\nAlice: \"Looks like Bob was removed last night.\"\nCarol: \"So we start with six players now.\"\nEve: \"Damien, you haven't said much. What are your thoughts?\"\nDamien: \"I’m a bit concerned about Grace. She’s been awfully quiet too.\"\nGrace: \"Hold on, I was just thinking. I’m not the werewolf—just cautious.\"\nFrank: \"I actually noticed Grace looking nervous when we found out about Bob.\"\n\nVOTES:\nAlice: votes to remove Damien\nCarol: votes to remove Damien\nEve: votes to remove Damien\nGrace: votes to remove Damien\nDamien: votes to remove Grace\nFrank: votes to remove Grace\n\n*Damien is removed*",
-  "night_elim": "Bob",
-  "day_elim": "Damien"
-}
- Round Execution Time: 66.208499 seconds 

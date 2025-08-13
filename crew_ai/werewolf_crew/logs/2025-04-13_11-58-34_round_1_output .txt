@@ -1,7 +1,0 @@
-{
-  "transcript": "----- NIGHT PHASE -----\nBrian: *locks eyes with Achille and subtly gestures toward Carol with a discrete hand movement*\nAchille: *nods slowly and gives a confirming gesture by tilting his head, indicating Carol is the target*\n*Carol is eliminated*\n\n----- DAY PHASE -----\nAlice: \"I can’t believe Carol was taken out so silently last night. Who do you think did it?\"\nBethany: \"I noticed Brian and Achille had some secretive communication before the night. It might be connected.\"\nDamien: \"Yes, their behavior was oddly synchronized. It makes me uneasy.\"\nEllie: \"I’m leaning towards suspecting Achille because his answers seem very guarded.\"\nBrian: \"I’m shocked too, but I honestly can’t pinpoint who did it. Still, maybe we should consider the possibility that one of us is hiding something.\"\nAchille: \"I assure you I am as surprised as everyone else, but if suspicions are high, I understand the need to vote.\" \nAlice: \"Let’s cast our votes. I vote for Achille.\"\nBethany: \"My vote is also for Achille.\"\nDamien: \"I agree with you all, my vote goes to Achille.\"\nEllie: \"I’m voting for Achille as well.\"\nBrian: \"I vote for Achille too.\"\n*Achille is eliminated*",
-  "night_elim": "Carol",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 72.267859 seconds 

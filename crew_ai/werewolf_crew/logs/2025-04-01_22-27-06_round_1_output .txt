@@ -1,7 +1,0 @@
-{
-  "transcript": "=== Night Phase ===\nAlice: *glances sharply at Brian and then subtly gestures toward Bethany*\nBrian: *nods and points discreetly to Bethany*\n(The werewolf duo silently agrees: Bethany is the target.)\nBethany is quietly eliminated.\n\n=== Day Phase ===\nAchille: \"Good morning everyone. I can’t believe someone was taken this night. Who could be behind this?\"\nCarol: \"I noticed some odd behavior last night. Alice and Brian were the only ones active...\"\nDamien: \"I saw Brian acting strangely, almost avoiding eye contact when others were talking.\"\nEllie: \"I agree, Brian’s silence and evasiveness were suspicious.\"\nAlice: \"I think we should consider every possibility, but Brian’s actions do seem off.\"\nBrian: \"I’m trying to explain, but the pressure is too high.\"\n(After a collective discussion, the players cast their votes.)\nAchille votes for Brian\nCarol votes for Brian\nDamien votes for Brian\nEllie votes for Brian\nAlice votes for Damien\n(With a majority against Brian, the vote is confirmed.)\nBrian is eliminated.",
-  "night_elim": "Bethany",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 31.477649 seconds 

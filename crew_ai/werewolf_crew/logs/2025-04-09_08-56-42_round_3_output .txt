@@ -1,6 +1,0 @@
-{
-  "transcript": "=== Night Phase ===\nBrian and Carol, both werewolves, exchange secretive glances under the moonlit sky. With no words said, Brian raises his hand subtly while Carol gives a slight nod; each gesture is clear to the other as they agree on their target. Their silent agreement points to Ellie, the only villager present. Moments later, in the eerie hush of the night, Ellie is found eliminated.\n\n=== Day Phase ===\nWith the break of dawn, the surviving players gather. Brian and Carol, aware that suspicion lingers, begin the discussion. Brian speaks slowly and carefully: \"We need to talk about what really happened last night. Our community can’t afford hidden enemies.\" Carol, matching his cautious tone, replies: \"I agree. But honestly, it's hard to trust anyone when doubts arise about all of us.\"\nTension builds as both subtly imply the other could be working against the community. A vote is then taken:\n   - Brian casts his vote for Carol.\n   - Carol casts her vote for Brian.\nThe voting results in a tie, prompting a tie-break intervention. Under the established rules, this system mandates that Carol be eliminated as the final decision. With Carol removed, Brian stands as the only remaining werewolf.",
-  "night_elim": "Ellie",
-  "day_elim": "Carol"
-}
- Round Execution Time: 56.380591 seconds 

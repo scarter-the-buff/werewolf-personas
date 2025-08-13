@@ -1,5 +1,0 @@
-{"transcript": "NIGHT PHASE:\nAlice (Werewolf): *gives a subtle nod and points intently at Charlie*\nEllie (Werewolf): *raises an eyebrow and gestures with a slow wink towards Charlie*\nAlice (Werewolf): *gestures with a slight smile, reaffirming the choice*\nEllie (Werewolf): *silently agrees by tilting her head and clapping lightly*\n--- Charlie has been silently selected for elimination during the night ---\n\nDAY PHASE:\nAlice: \"I think we need to focus on those acting suspiciously. My vote is for Bob.\" \nEllie: \"I feel someone is deceiving us; I vote for Alice.\" \nBob: \"I’m still reeling from last night. I vote for Alice because her eyes betray her.\" \nDavid: \"I agree with Bob. My vote is for Alice.\" \nEve: \"Alice seems too eager to deflect attention. I'm voting for Alice.\" \nFiona: \"Given the evidence, I’m also voting for Alice.\" \n--- Vote Tally: Alice - 5 votes, Bob - 1 vote. ---\nAlice has been eliminated during the day phase.",
-"night_elim": "Charlie",
-"day_elim": "Alice"}
-```
- Round Execution Time: 38.524736 seconds 

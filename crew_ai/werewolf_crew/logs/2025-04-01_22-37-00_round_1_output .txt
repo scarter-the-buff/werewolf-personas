@@ -1,6 +1,0 @@
-{
-  "transcript": "=== NIGHT PHASE ===\nDamien: *Glances furtively at Ellie, then gives a slow nod to confirm the target.*\nEllie: *Returns a subtle thumbs up and mimics a pointing gesture toward Bethany.*\nNarrator: The werewolf pair silently agrees; Bethany is targeted and eliminated in the dark of night.\n\n=== DAY PHASE ===\nAlice: \"I noticed something off last night. Was Ellie not a bit too quiet?\"\nBrian: \"I agree, her silence seems a bit calculated.\"\nAchille: \"Her noncommittal look made me wonder if she had something to hide.\"\nCarol: \"Maybe Ellie has been holding back her true intentions all along.\"\nDamien: \"I think we should consider a different perspective. How about voting for Alice?\"\nEllie: \"I second that—let's vote for Alice.\"\nAlice: \"No, I believe it's more likely Ellie is the culprit. I'm voting for Ellie.\"\nBrian: \"I'm with Alice. Ellie seems too detached to be innocent.\"\nAchille: \"Count me in on voting for Ellie.\"\nCarol: \"I vote for Ellie as well; her behavior is very suspicious.\"\nNarrator: After tallying the votes, the majority points to Ellie. With the votes cast, Ellie is eliminated at the end of the day.\n",
-  "night_elim": "Bethany",
-  "day_elim": "Ellie"
-}
- Round Execution Time: 63.035133 seconds 

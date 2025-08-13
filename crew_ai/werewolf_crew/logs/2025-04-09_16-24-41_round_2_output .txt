@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice (werewolf): *Glances around furtively, then raises her left hand subtly, signaling a secret plan.*\nBrian (werewolf): *Nods slightly, meeting Alice's eyes, then points discreetly toward Carol with a slight tilt of his head.*\nAlice (werewolf): *Smirks and makes a small circular motion with her finger, emphasizing Carol as the target.*\nBrian (werewolf): *Responds with a sharp nod and a brief gesture that confirms Carol as the chosen one.*\n-- Action: Carol is silently marked for elimination. --\nResult: Carol has been eliminated.\n\nDAY PHASE\nAlice: \"I noticed something off last night. Who do you think is trying to hide something?\"\nBrian: \"I agree with Alice. I suspect Damien might be involved in something shady.\"\nDamien: \"Me? I’m shocked at what happened. I don’t know what to say, but I promise I have nothing to hide.\"\nEllie: \"I’m uneasy too. Damien’s reaction was strange, and I lean towards suspecting him.\"\nAlice: \"The signs point towards Damien. I feel we have to vote accordingly.\"\nBrian: \"My vote is for Damien.\"\nEllie: \"I vote for Damien as well.\"\nDamien: \"Although it hurts, I will vote for Ellie to balance things out.\"\n-- Vote Tally: Alice votes Damien; Brian votes Damien; Ellie votes Damien; Damien votes Ellie --\nResult: With the majority of votes against him, Damien is eliminated.\n",
-  "night_elim": "Carol",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 29.767070 seconds 

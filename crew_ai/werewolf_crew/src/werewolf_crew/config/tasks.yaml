@@ -75,7 +75,7 @@
 player1_turn:
   description: You are playing the game werewolf. This is the day phase.
 
-    You are Player 1. Read the shared memory and take your move. Update memory by voting for a certain person to remove from the game.
+    You are Player 1. Make your move. Update the shared memory emory by voting for a certain person to remove from the game.
 
     You must state your reasoning aloud.
 
@@ -110,6 +110,18 @@ player4_turn:
     You are Player 4. Read all prior statements from Players 1 through 3. Consider emerging patterns and suspicions.
 
     Contribute your own analysis, explain your thought process, and vote for a player to remove from the game.
+
+    Finally, tally the votes so far and state who was voted out. If there is a tie, break the tie by making a choice. Your final output should be a JSON object formatted like this:
+
+        Expected JSON format:
+    {
+        "transcript": "NIGHT PHASE\nAlice: *gestures to Elle* ...",
+        "night_elim": "",
+        "day_elim": "Damien",
+        "remaining": ["Alice", "Brian", "Alex", "Bethany", "Ellie"]
+    }
+
+    (There is no night elim at the moment)
 
   expected_output: >
     Output your reasoning and your vote. Make sure to clearly name the player you are voting against.

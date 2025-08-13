@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAchille: *gestures towards Max hesitantly*\nDamien: *tilts head, frowns*\nAchille: *raises eyebrows and then nods*\nDamien: *nods firmly*\nAchille: *points at Max*\nDamien: *gives a thumbs-up*\n*Max is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Max didn't make it through the night.\"\nBethany: \"That's rough. We still have six players.\"\nEllie: \"Who do you think the werewolves are?\"\nFiona: \"I haven't heard from Damien much. What do you think, Damien?\"\nDamien: \"I've been quiet to listen. Alice, any suspicions?\"\nAlice: \"I'm thinking Achille. He seemed eager last night.\"\nBethany: \"I have a bad feeling about Achille too.\"\nEllie: \"I agree with them, Achille has been off.\"\nFiona: \"I'm voting Achille.\"\nAchille: \"No way it's me; I'm a villager! I vote Bethany.\"\nDamien: \"I'm sticking with my gut and voting Alice.\"\nAlice: *raises hand* \"I vote Achille.\"\nBethany: *nods* \"I vote Achille.\"\nEllie: *points at Achille* \"I vote Achille.\"\nFiona: *points at Achille* \"I vote Achille.\"\n*Achille is eliminated*",
-  "night_elim": "Max",
-  "day_elim": "Achille"
-}
- Round Execution Time: 24.819172 seconds 

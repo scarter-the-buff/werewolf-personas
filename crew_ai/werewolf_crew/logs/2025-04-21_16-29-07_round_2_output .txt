@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *casts a knowing glance towards Brian and subtly gestures with a nod, indicating her target*.\nBrian: *responds with a slight frown and a discreet pointing gesture towards Damien without uttering a word*\nAchille: *Remains asleep and unaware of the covert conversation*\nDamien: *Oblivious in his slumber, becomes the quiet target of the silent conspiracy*\nEllie: *Unwittingly trusts the night, unaware of the scheming*\n*Damien is silently eliminated as the werewolves agree on him during the night phase*\n\nDAY PHASE\nAlice: \"I feel something is off; maybe Damien wasn't as reliable as we thought.\"\nBrian: \"Let's discuss this carefully. I noticed some odd behavior last night, but it's hard to pinpoint.\"\nAchille: \"I think we should look at the subtle disagreements from last night; it might reveal a pattern.\"\nEllie: \"Damien's absence is unsettling. I lean towards suspecting that maybe one of us hid something.\" \n\n*The players begin casting their votes:*\nAlice votes for Brian.\nBrian votes for Achille.\nAchille votes for Brian.\nEllie votes for Brian.\n\n*With the majority of votes against him, Brian is eliminated at the end of the day phase.*",
-  "night_elim": "Damien",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 27.666065 seconds 

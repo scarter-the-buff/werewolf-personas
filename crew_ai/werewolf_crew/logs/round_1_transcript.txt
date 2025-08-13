@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nWerewolf Player A: *gestures to Achille* Werewolf Player B: *shakes head*\nWerewolf Player A: *gestures to Bethany* Werewolf Player B: *nods*\nWerewolf Player A: *thumbs-up* Werewolf Player B: *thumbs-up*\n*Bethany is eliminated*\n\nDAY PHASE\nAchille: \"Looks like Bethany was eliminated last night.\"\nCarol: \"So we start with six.\"\nDamien: \"Hey Alice, you've been quiet. What do you think?\"\nAlice: \"I suspect Damien because he was quiet during the last discussion.\"\nBrian: \"I think it's Carol because she seemed too eager to accuse Bethany last round.\"\nEllie: \"I think we need more evidence, but we must vote.\"\n*Voting commences*\nAlice votes for Damien.\nBrian votes for Carol.\nAchille votes for Brian.\nCarol votes for Ellie.\nDamien votes for Alice.\nEllie votes for Damien.\n*Damien is eliminated*",
-  "night_elim": "bethany",
-  "day_elim": "damien",
-  "remaining": ["werewolf_a", "werewolf_b", "achille", "carol", "ellie"]
-}
-```

@@ -1,7 +1,0 @@
-{
-  "transcript": "----- NIGHT PHASE -----\nAlice and Achille exchange silent signals.\nAlice: *glances sharply at Bethany, raises an eyebrow, and subtly points in her direction*\nAchille: *nods deliberately and gestures with a slight tilt of his head toward Bethany*\nAlice: *makes a decisive hand motion indicating the target*\nAchille: *returns a firm nod, reinforcing the decision*\n\nThe werewolves silently agree on their course.\nBethany is eliminated.\n\n----- DAY PHASE -----\nAlice: \"I can't believe we lost Bethany last night. It feels like we need to act quickly now.\"\nAchille: \"Yes, we must decide who among us is at risk. I feel that perhaps someone might be hiding a secret.\"\nCarol: \"I don't know... but I think we should carefully consider someone's behavior from last night.\"\nEllie: \"True, and we need to be fair in our assumptions.\"\n\nAlice: \"I vote for Carol.\" \nAchille: \"I vote for Ellie.\"\nCarol: \"I vote for Achille.\" \nEllie: \"I vote for Achille.\"\n\nThe votes have been tallied. With two votes against Achille, the consensus is clear.\nAchille is eliminated.",
-  "night_elim": "Bethany",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 48.154230 seconds 

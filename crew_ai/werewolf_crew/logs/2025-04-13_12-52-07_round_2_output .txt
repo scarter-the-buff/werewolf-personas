@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *glances around, then makes a quick hand gesture toward Brian*\nBrian: *nods subtly and raises his eyebrows, then points slowly toward Ellie*\nAlice: *tilts her head and subtly makes a tapping motion on her own chest, then points at Ellie*\nBrian: *scrunches his face and gives a slight thumbs up towards Ellie*\n*Together, through a series of silent gestures and facial expressions, Alice and Brian decisively choose Ellie as their target*\n*Ellie is silently eliminated*\n\nDAY PHASE\nAlice: \"It seems someone fell during the night...\"\nBrian: \"Yes, it appears our numbers are dwindling.\"\nAchille: \"I noticed Ellie was not around when the night fell. Could it be that she was targeted?\"\nBethany: \"I agree. We need to consider who might be behind this.\"\nAlice: \"I think we must be cautious; sometimes the greatest threat hides among us.\"\nBrian: \"I’m not saying much, but I believe we should review everyone’s actions last night.\"\nAchille: \"Let’s vote. I vote for Brian, since his eyes hinted at more than just concern.\"\nBethany: \"I lean towards Brian as well. There’s something off about him.\"\nAlice: \"I’m voting for Brian too.\"\n*Votes tallied: Brian receives the majority of votes*\n*Brian is eliminated*",
-  "night_elim": "Ellie",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 13.800937 seconds 

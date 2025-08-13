@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *raises eyebrows and subtly points at Bob*\nDamien: *tilts head toward Bob and points as well*\nAlice: *nods decisively*\nDamien: *smiles faintly and gives a thumbs-down gesture toward Bob*\n*Bob is eliminated*\n\nDAY PHASE\nCarol: \"Looks like Bob was eliminated last night.\"\nDavid: \"Poor Bob. He never had a chance to defend himself.\"\nCharlie: \"So we’re down to six. Any early suspicions?\"\nEve: \"Alice, you’ve been quiet—what do you think happened?\"\nAlice: \"I’m not sure, but I noticed Carol hesitated when I asked about her night. Damien? What’s your take?\"\nDamien: \"Carol’s hesitation stood out to me too. Feels odd.\"\nCarol: \"Me? I was just caught off-guard by the news—does that make me a suspect?\"\nDavid: \"Actually, Alice and Damien were whispering before the elimination. Seems off for villagers.\"\nCharlie: \"I agree—whispering in the dark could mean they’re wolves. I’m voting for Alice.\"\nEve: \"I’ll join that—voting for Alice.\"\nCarol: \"Alice, explain yourself before we vote.\"\nAlice: \"I was just worried about Carol being on edge. But fine—I vote for Carol.\"\nDamien: \"I’ll vote for Alice.\"\nDavid: \"Voting Alice.\"\nCharlie: \"Voting Alice.\"\nEve: \"Voting Alice.\"\n*Alice is eliminated*",
-  "night_elim": "Bob",
-  "day_elim": "Alice"
-}
- Round Execution Time: 17.374356 seconds 

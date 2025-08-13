@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAchille: *makes secret eye contact with Damien and nods subtly*\nDamien: *raises eyebrow and taps his finger on his lips*\nAchille: *gestures to Bethany*\nDamien: *nods emphatically while frowning as if confirming the plan*\nAchille: *points at Bethany, then glances towards Damien*\nDamien: *smirks and gives a silent thumbs-up*\n*[Bethany is eliminated]*\n\nDAY PHASE\nAlice: \"I can’t believe Bethany is gone. Last night’s events have left me wondering what really happened.\"\nEllie: \"I noticed some strange gestures too. It seemed like someone was trying to hide something.\"\nAchille: \"I assure you, I had no part in harming Bethany. I was just as shocked as everyone else.\"\nDamien: \"Well, I couldn’t help but notice that Achille was very active with his signals last night.\"\nAlice: \"There were definitely secret looks and gestures exchanged. Could it be that some of us were working together?\"\nEllie: \"I think we need to consider the possibility of a coordinated plan. I lean towards suspecting Achille.\"\nDamien: \"I agree. My vote goes for Achille.\"\nAlice: \"My vote is for Achille as well.\"\nAchille: *sighs* \"I vote for Damien.\"\n*[Votes Recorded: Achille receives votes from Alice, Ellie, and Damien; Damien receives Achille’s vote.]*\n*[Achille is eliminated]*",
-  "night_elim": "Bethany",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 31.652308 seconds 

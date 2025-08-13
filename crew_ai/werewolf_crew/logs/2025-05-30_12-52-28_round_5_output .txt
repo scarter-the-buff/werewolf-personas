@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *gestures toward Villager3*\nDamien: *nods*\nDamien: *gestures toward Villager3*\nAlice: *nods*\nAlice: *taps Villager3 on the shoulder*\n*Villager3 is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Villager3 was eliminated last night.\"\nDamien: \"Indeed. That leaves six of us.\"\nAlice: \"Alright everyone, we need to decide who to lynch today.\"\nVillager1: \"I still don’t know who to trust.\"\nVillager2: \"I noticed Damien was awfully quiet this morning.\"\nDamien: \"Quiet isn’t a crime. Maybe we should look at Villager2 instead?\"\nVillager4: \"I saw Damien smirk when I mentioned Villager3’s role last night.\"\nVillager5: \"That smirk was weird.\"\nAlice: \"It does seem suspicious.\"\nVillager1: \"I’ll vote for Damien.\"\nVillager2: \"I’m voting for Damien as well.\"\nVillager4: \"Damien gets my vote.\"\nVillager5: \"Same here, Damien.\"\nAlice: \"I vote for Damien.\"\nDamien: \"Fine, I vote for Villager4.\"\n\nVotes:\nAlice → Damien\nVillager1 → Damien\nVillager2 → Damien\nVillager4 → Damien\nVillager5 → Damien\nDamien → Villager4\n\n*Damien is eliminated*",
-  "night_elim": "Villager3",
-  "day_elim": "Damien"
-}
- Round Execution Time: 36.844000 seconds 

@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *points subtly towards Ellie*\nCarol: *nods and taps her foot in agreement*\n(Through their silent gestures, Alice and Carol, the werewolves, agree to eliminate Ellie.)\n*Ellie is eliminated*\n\nDAY PHASE\nAlice: \"I can’t shake the feeling that something is off between us.\"\nCarol: \"Really? I was actually thinking the same about you, Alice.\"\nAlice: \"Perhaps we should consider who might be hiding something. I suspect you are a bit too secretive.\"\nCarol: \"That’s rich coming from someone who barely speaks up about anything. I think you’re the one to watch out for.\"\n\nVoting:\nAlice votes to eliminate Carol.\nCarol votes to eliminate Alice.\n(After a tied vote, a tie-breaker rule is applied resulting in the elimination of Carol.)",
-  "night_elim": "Ellie",
-  "day_elim": "Carol"
-}
-```
- Round Execution Time: 47.920366 seconds 

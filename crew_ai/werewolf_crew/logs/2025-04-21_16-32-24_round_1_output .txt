@@ -1,7 +1,0 @@
-{
-    "transcript": "----- NIGHT PHASE -----\nBrian (Werewolf): *Glances at Achille with a subtle, determined nod, indicating his choice.*\nAchille (Werewolf): *Returns the gaze, raises an eyebrow and silently points toward Carol.*\nNarrator: The werewolves share silent gestures and facial expressions, agreeing to eliminate Carol.\n\n----- DAY PHASE -----\nAlice (Villager): \"I'm suspicious of Brian. I vote for Brian as the werewolf.\"\nBethany (Villager): \"I agree with Alice. My vote goes to Brian.\"\nDamien (Villager): \"I haven't noticed anything normal about Brian today; I vote for Brian.\"\nEllie (Villager): \"I vote for Achille; something is off there.\"\nAchille (Werewolf): \"I vote for Alice to divert suspicion.\"\nBrian (Werewolf): \"I'm voting for Ellie.\"\n\nNarrator: Vote tally - Brian: 3 votes, Alice: 1 vote, Achille: 1 vote, Ellie: 1 vote. With the highest votes, Brian is eliminated during the day.",
-    "night_elim": "Carol",
-    "day_elim": "Brian"
-}
-```
- Round Execution Time: 53.192647 seconds 

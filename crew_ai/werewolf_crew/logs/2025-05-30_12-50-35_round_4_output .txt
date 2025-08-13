@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *glances at Ellie*\nAlice: *raises one finger pointing at David*\nEllie: *nods*\nAlice: *smiles subtly*\nEllie: *touches David's name on the list*\nAlice: *shakes head at Charlie*\nEllie: *gestures to David again*\nAlice: *nods*\nAlice: *taps David on the shoulder*\n*David is eliminated*\n\nDAY PHASE\nGrace: \"Looks like David was eliminated last night.\"\nBob: \"So we start with six players.\"\nCharlie: \"I'm worried about Alice's quietness... she hasn't said much.\"\nFrank: \"I noticed Alice and Ellie were kind of quiet too.\"\nEllie: \"I just wanted to listen to everyone's thoughts before speaking.\"\nAlice: \"Same here. I thought we should gather our ideas first.\"\nGrace: \"Ellie, you do speak up now. Anyone suspicious?\"\nBob: \"I think Alice's sudden defense of Ellie is odd.\"\nCharlie: \"I vote to eliminate Alice.\"\nFrank: \"I agree with Charlie.\"\nGrace: \"I also vote Alice.\"\nEllie: \"I vote to eliminate Frank.\"\nBob: \"That's 3 votes Alice, 1 Frank, 1 Ellie.\"\nFrank: \"I vote for Alice too.\"\nCharlie: \"Alice is at 4 now.\"\nGrace: \"I'll vote Alice as well.\"\nAlice: \"I vote to eliminate Grace.\"\n*Alice receives the majority of votes*\n*Alice is eliminated*",
-  "night_elim": "David",
-  "day_elim": "Alice"
-}
- Round Execution Time: 12.363861 seconds 

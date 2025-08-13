@@ -1,7 +1,0 @@
-{
-  "transcript": "==== NIGHT PHASE ====\nAlice (Werewolf): *glances over at Achille and makes a subtle, beckoning gesture*\nAchille (Werewolf): *nods silently, then both exchange furtive eye contacts and point discreetly toward Frank*\nNarrator: Without uttering a word, the two werewolves confirm their unspoken plan. Frank, one of the villagers, is silently marked for elimination.\n\n==== DAY PHASE ====\nEllie (Villager): \"I woke up to the tragic news. Something felt off last night. Did anyone notice unusual behavior?\"\nBob (Villager): \"I did see Alice and Achille exchanging secretive looks. It’s suspicious.\"\nCarol (Villager): \"I think we should consider the possibility that one of them is hiding something.\"\nDavid (Villager): \"It makes sense to scrutinize the behavior from last night. I lean towards suspecting Achille.\"\nAlice (Werewolf): \"I honestly can’t explain what happened. I was as surprised as anyone.\"\nAchille (Werewolf): \"I understand the suspicions but I really wasn’t involved in any wrongdoing.\"\n\nNarrator: After a round of intense discussion, the voting begins. The votes cast are as follows:\n- Ellie votes for Achille.\n- Bob votes for Achille.\n- Carol votes for Achille.\n- David votes for Achille.\n\nNarrator: With the majority of votes pointing to him, Achille is eliminated in the day phase.",
-  "night_elim": "Frank",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 73.147762 seconds 

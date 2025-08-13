@@ -1,7 +1,0 @@
-{
-    "transcript": "NIGHT PHASE\nAlice: *glances at Brian and makes a subtle hand signal*\nBrian: *nods and points discreetly toward Carol*\n(Meanwhile, the villagers are asleep or unaware of the secretive exchange.)\nAlice: *locks eyes with Brian, confirming the decision*\nBrian: *quietly gestures agreement*\n*Carol is eliminated from the round*\n\nDAY PHASE\nAchille: \"I can hardly believe Carol is gone. Who would do this?\"\nBethany: \"It has to be someone among us. I wonder if anyone noticed anything odd last night.\"\nDamien: \"We must be vigilant. Suspicion can hide anywhere.\"\nEllie: \"I think we should be careful about trusting those who seem too quiet.\"\nAlice: \"Maybe it was someone unexpected...\"\nBrian: \"Yes, sometimes the quiet ones hide more than they let on.\"\n\nVoting:\nAchille votes for Bethany.\nBethany votes for Achille.\nDamien votes for Achille.\nEllie votes for Bethany.\nAlice votes for Achille.\nBrian votes for Achille.\n\n*Achille is eliminated from the round*",
-    "night_elim": "Carol",
-    "day_elim": "Achille"
-}
-```
- Round Execution Time: 14.656641 seconds 

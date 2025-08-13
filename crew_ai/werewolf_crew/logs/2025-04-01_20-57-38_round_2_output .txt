@@ -1,7 +1,0 @@
-{
-    "transcript": "NIGHT PHASE:\nAlice is seen quietly resting as the village slumbers. Achille glances around and then subtly points toward Alice, while Damien meets his eyes and nods emphatically. Through a series of careful gestures and exchanged looks, the two werewolves silently decide that Alice is to be eliminated. Soon after these agreed signals, Alice is quietly removed from the game.\n\nDAY PHASE:\nAs dawn breaks, the remaining players gather in the village square. Carol speaks up first, \"I can't believe we've lost someone last night. Who do you think is responsible?\"\nAchille quickly defends himself, \"I’m as surprised as you are! I saw nothing unusual.\"\nDamien adds, \"I did notice some odd behavior during the night. It might be worth discussing further.\"\nEllie chimes in, \"Yes, we need to figure this out quickly. Let's vote based on our suspicions.\"\nThe votes are then cast. Carol votes, \"I believe Achille has been acting strangely.\"\nDamien votes, \"I agree with Carol; Achille’s behavior was too calculated.\"\nAchille, trying to deflect suspicion, votes for Damien, while Ellie votes for Carol.\nWith the majority pointing to him, Achille receives two votes and is eliminated from the game.",
-    "night_elim": "Alice",
-    "day_elim": "Achille"
-}
-```
- Round Execution Time: 42.922893 seconds 

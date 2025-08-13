@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAchille: *glances around furtively and makes a subtle gesture pointing toward Bethany*\nDamien: *nods silently and mimics a pointing gesture toward Bethany, confirming the plan*\n(Bethany is silently marked for elimination as the werewolves’ secret pact seals her fate.)\n\nDAY PHASE\nAlice: \"Good morning, everyone. I woke up with a gut feeling that something went wrong last night.\"\nBrian: \"I agree, Alice. The night was too quiet – perhaps too orchestrated.\"\nCarol: \"I couldn’t help but notice that Achille seemed evasive. His actions last night didn’t add up.\"\nDamien: \"I’m troubled by some subtle signals too. While I defend my integrity, I must say Achille’s manner was oddly calculated.\"\nEllie: \"I have my doubts too. My instincts push me to suspect that Achille might be more dangerous than he seems. I vote against him.\"\nAchille: \"This is preposterous! I am one of you and have nothing to hide. To redirect the scrutiny, I cast my vote for Brian.\"\n\nVoting:\n- Alice votes for Achille\n- Brian votes for Achille\n- Carol votes for Achille\n- Damien votes for Achille\n- Ellie votes for Achille\n- Achille votes for Brian\n\nWith a clear majority, the group votes to eliminate Achille.",
-  "night_elim": "Bethany",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 34.907718 seconds 

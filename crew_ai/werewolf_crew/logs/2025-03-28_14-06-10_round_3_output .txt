@@ -1,6 +1,0 @@
-{
-    "transcript": "NIGHT PHASE:\nBrian and Achille, the werewolves, convene in the dim light of the village outskirts. Without uttering a word, Brian raises a hand in a subtle, prearranged signal while Achille responds with a slight nod and an earnest thumbs-up. Their silent agreement is conveyed through these gestures as they stealthily approach Ellie, the sole villager, and silently decide to eliminate her.\n\nDAY PHASE:\nAt dawn, the surviving players gather in the village square. The atmosphere is tense. Brian speaks first, cautiously stating, \"I sensed something off last night; perhaps someone among us was acting strangely.\" Achille quickly retorts with defensiveness, \"Really, Brian? Surely we must consider all behaviors before pointing fingers.\" The conversation intensifies as suspicions fly with subtle accusations. Unable to reach consensus through dialogue, both Brian and Achille cast their votes: Brian votes against Achille, and Achille votes against Brian. With the votes tying, a tie-breaker mechanism is invoked, and the final decision results in the elimination of Achille.",
-    "night_elim": "Ellie",
-    "day_elim": "Achille"
-}
-```

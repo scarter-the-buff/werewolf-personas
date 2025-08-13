@@ -1,5 +1,0 @@
-{"transcript": "NIGHT PHASE\nAchille: *glances around stealthily and gestures subtly toward Carol with a slight nod*\nDamien: *squints, tilts his head, and responds with a silent nod accompanied by a pointed look at Carol*\nAlice: *sleeps unaware*\nCarol: *remains silent as the werewolves conspire*\nEllie: *unaware, quietly observes the night*\n*Carol is eliminated from the game*\n\nDAY PHASE\nAlice: \"I can’t believe Carol was taken last night. It seems something sinister is afoot.\"\nDamien: \"I’m just as shocked, but I’m sure there’s an explanation. I was just as surprised.\"\nAchille: \"I’m a bit wary. I noticed Damien seemed a bit too eager during the night...\"\nEllie: \"I agree with Alice; Damien’s behavior was odd. I think we should consider him more carefully.\"\nAlice: \"I vote to eliminate Damien based on his suspicious attitude.\"\nDamien: \"I vote for Alice, because her tone seems a bit too defensive.\"\nAchille: \"I vote for Damien, given his unusual manner last night.\"\nEllie: \"I vote for Damien as well.\"\n*Damien is eliminated by majority vote*",
-"night_elim": "Carol",
-"day_elim": "Damien"}
-```
- Round Execution Time: 60.478990 seconds 

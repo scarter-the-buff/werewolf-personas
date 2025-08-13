@@ -1,7 +1,0 @@
-{
-  "transcript": "----- NIGHT PHASE -----\nAlice: *Glances at Carol with a conspiratorial nod, her eyes flicking towards Ellie in a silent accusation*\nCarol: *Returns the nod with a subtle smirk and a slight head tilt, confirming their unspoken plan*\n(Without exchanging any words, both werewolves agree through their gestures that their target is Ellie)\n\n----- DAY PHASE -----\nAlice: \"I’m still reeling from last night. One of us must be hiding something, and Ellie’s absence speaks volumes.\"\nCarol: \"It’s true, something doesn’t add up. But let’s think: who among us can be trusted?\"\nAlice: \"I’ve been watching you, Carol. Your hesitance, your looks... they all put you in a suspicious light.\"\nCarol: \"Oh, really? You’re the one with too many secretive glances yourself. We can’t ignore the signs any longer.\"\nAlice: *Shakes her head and frowns* \"Enough! For the sake of the game, I have to say I vote to eliminate you, Carol.\"\nCarol: *Sighs deeply, then nods with resignation* \"I understand. For the survival of our group, I’ll accept that vote.\"\nConsensus reached: Carol is eliminated.\n\nFinal Outcome:\nNight elimination: Ellie\nDay elimination: Carol",
-  "night_elim": "Ellie",
-  "day_elim": "Carol"
-}
-```
- Round Execution Time: 32.805005 seconds 

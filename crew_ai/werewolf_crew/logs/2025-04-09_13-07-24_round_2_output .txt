@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian: *exchanges a secretive glance with Carol, giving a knowing nod and raising an eyebrow*\nCarol: *responds with a determined nod and a subtle smirk, gesturing with her hand towards Achille*\nBrian: *points discreetly in the direction of Achille*\nCarol: *locks eyes with Brian, confirming the silent agreement*\n*Achille is eliminated during the night phase*\n\nDAY PHASE\nBrian: \"Last night’s events leave us with no time to waste. We need to decide who among us poses the biggest risk.\"\nBethany: \"I noticed Carol seemed unusually calm about last night. Isn’t that a bit suspicious?\"\nEllie: \"I agree. We need to vote someone out for the safety of everyone.\"\nCarol: \"I assure you, I’m just as shocked as everyone else. But we must choose quickly.\"\nBrian: \"I think it’s best if we eliminate someone who may be hiding secrets.\"\nBethany: \"I’m voting for Carol.\"\nEllie: \"Me too, Carol.\"\nCarol: \"I’m voting against Brian, even though I fear that vote might not save me.\"\n*With Brian, Bethany, and Ellie voting against Carol, the majority decision is reached*\n*Carol is eliminated during the day phase*",
-  "night_elim": "Achille",
-  "day_elim": "Carol"
-}
-```
- Round Execution Time: 34.216197 seconds 

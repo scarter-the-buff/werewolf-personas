@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *raises an eyebrow and nods at Achille*\nAchille: *points subtly toward David and gives a quick nod*\nAlice: *gestures with a slight hand movement in agreement*\nAchille: *makes a quiet 'thumbs up' gesture*\n*The two silently agree and David is pointed out*\n*David is eliminated during the night phase*\n\nDAY PHASE\nBethany: \"I can't believe someone was taken last night. It has to be one of us.\"\nCarol: \"We only have six of us now. I noticed some nervous glances from Alice.\"\nEllie: \"Achille seemed too eager to keep quiet. What do you all think?\"\nEvelyn: \"I think it might be Alice. She seemed off during these discussions.\"\nAchille: \"I'm just as shocked as everyone else. But we need to decide quickly.\"\nAlice: \"I assure you, I was as surprised as you were.\"\nBethany: \"I vote for Alice.\"\nCarol: \"I vote for Alice.\"\nEllie: \"My vote goes to Alice.\"\nEvelyn: \"I vote for Alice.\"\nAchille: \"I vote for Carol, but it seems the majority is against Alice.\"\n*With four votes for Alice and one vote for Carol (and Alice not voting for herself), the majority vote eliminates Alice*\n",
-  "night_elim": "David",
-  "day_elim": "Alice"
-}
- Round Execution Time: 104.755650 seconds 

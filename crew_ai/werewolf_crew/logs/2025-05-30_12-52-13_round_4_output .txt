@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *makes a subtle beckoning gesture toward Damien*\nDamien: *nods quietly in agreement*\nAlice: *points deliberately at Bethany*\nDamien: *raises eyebrows, then nods*\nAlice: *approaches Bethany and taps her on the shoulder*\n*Bethany is eliminated*\n\nDAY PHASE\nEllie: \"Looks like Bethany was eliminated last night.\"\nAlice: \"Yes. Now there are three of us left.\"\nEllie: \"Damien, you were awfully quiet during the night. What do you think happened?\"\nDamien: \"I’m not sure yet, but I have a bad feeling about Ellie. She’s too eager to point fingers.\"\nAlice: \"I noticed that too. Ellie, can you explain why you’re so sure?\"\nEllie: \"I just want to keep us safe. I think Damien’s hesitation is suspicious.\"\nAlice: \"Fair point. Let’s take a vote.\"\nAlice: \"I vote to eliminate Ellie.\"\nDamien: \"I vote to eliminate Ellie.\"\nEllie: \"I vote to eliminate Damien.\"\n*Ellie is eliminated*",
-  "night_elim": "Bethany",
-  "day_elim": "Ellie"
-}
- Round Execution Time: 15.137300 seconds 

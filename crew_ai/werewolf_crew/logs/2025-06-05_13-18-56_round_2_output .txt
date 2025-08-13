@@ -1,6 +1,0 @@
-{  
-  "transcript":"NIGHT PHASE\nAchille: *points firmly at Damien, then glances towards Bethany*\nDamien: *slowly nods*\nAchille: *extends hand toward Bethany then tucks it against his chest*\nDamien: *nods emphatically*\nAchille: *steps forward and taps Bethany gently on the shoulder*\n*Bethany is eliminated*\n\nDAY PHASE\nBrian: \"Looks like Bethany was eliminated last night.\"\nEllie: \"Yes, that leaves us with four.\"\nBrian: \"Damien, what’s your take on all this?\"\nDamien: \"I think Ellie seems awfully quiet—could be hiding something.\"\nEllie: \"I’ve just been listening carefully. Maybe Achille was too quick to pick Bethany?\"\nAchille: \"Damien did hesitate a bit when Brian asked—why the pause?\"\nBrian: \"I vote to eliminate Damien.\"\nAchille: \"I vote to eliminate Damien.\"\nEllie: \"I vote to eliminate Damien.\"\nDamien: \"I vote to eliminate Achille.\"\n*Damien is eliminated*",
-  "night_elim":"Bethany",
-  "day_elim":"Damien"
-}
- Round Execution Time: 36.001961 seconds 

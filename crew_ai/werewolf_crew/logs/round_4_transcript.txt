@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nDave: *gestures to Fiona*\nGeorge: *nods*\n*Fiona is eliminated*\n\nDAY PHASE\nAlice: \"Oh no, we lost another villager!\"\nBob: \"This is terrible. We need to share suspicions.\"\nEllie: \"George seemed suspiciously quiet.\"\nCarol: \"Dave seemed eager to blame Fiona.\"\nGeorge: \"Dave has been deflecting conversations.\"\nDave: \"I was just trying to keep the conversation going!\"\n*Votes are cast*\n*Dave (werewolf) is eliminated after the vote*\n\nNIGHT PHASE\nGeorge: *decides to eliminate Bob*\n*Bob is eliminated*\n\nDAY PHASE\nEllie: \"We're losing too many. We have to make this count.\"\nAlice: \"It all ties back to George!\"\nCarol: \"Agree, George is suspicious.\"\nGeorge: \"No, wait!\"\n*Votes are cast*\n*George (werewolf) is eliminated*\n*The villagers have won this round of werewolf.*",
-  "night_elim": "Fiona",
-  "day_elim": "Dave",
-  "remaining": ["Alice", "Carol", "Ellie", "George"]
-}

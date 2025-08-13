@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: (Silently nods and glances at Brian, then points explicitly towards Bethany.)\nBrian: (Returns the nod with a subtle smile and gestures toward Bethany.)\nNarrator: The two werewolves silently agree to eliminate Bethany.\nNarrator: Bethany is eliminated.\n\nDAY PHASE\nAchille: \"I still can’t believe what happened last night. We must remain vigilant.\"\nCarol: \"Something about the silence last night makes me uneasy. Who do you all suspect?\"\nDamien: \"I’m leaning towards Alice. Her calm demeanor seems off given the circumstances.\"\nEllie: \"I agree with Damien. I vote for Alice.\"\nAlice: \"I vote for Carol.\"\nBrian: \"I vote for Carol.\"\nAchille: \"I’ll vote for Alice.\"\nCarol: \"I’m with Alice; she’s been too quiet today.\"\nDamien: \"Alice it is then.\"\nEllie: \"Final vote for Alice.\"\nNarrator: The votes are in. With the majority of villagers targeting her, Alice is eliminated.",
-  "night_elim": "Bethany",
-  "day_elim": "Alice"
-}
-```
- Round Execution Time: 48.277738 seconds 

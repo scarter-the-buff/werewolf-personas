@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice (Werewolf): *glances subtly at Brian and then makes a furtive gesture toward Damien*\nBrian (Werewolf): *nods in agreement and points discreetly toward Damien*\nAchille (Villager): *remains silent in slumber*\nBethany (Villager): *dozes unaware*\nCarol (Villager): *sleeps peacefully*\nDamien (Villager): *sleeps soundly*\nEllie (Villager): *sleeps tranquilly*\n*Damien is eliminated*\n\nDAY PHASE\nAlice (Villager): \"It seems one of us is missing. Who could it be?\"\nBrian (Villager): \"I think we need to be cautious. Maybe we should consider who might be hiding something.\"\nAchille (Villager): \"I observed something odd about Brian last night. I'm inclined to vote for him.\"\nBethany (Villager): \"I agree with Achille, Brian's been acting strangely. My vote is for Brian.\"\nCarol (Villager): \"I also suspect Brian. Let's put our faith in his elimination.\"\nEllie (Villager): \"I vote for Brian as well.\"\nAlice (Villager - undercover Werewolf): \"Given the consensus, I will also vote for Brian.\"\nBrian (Villager - undercover Werewolf): \"The majority seems clear. I accept the votes as they stand.\"\n*Brian is eliminated*",
-  "night_elim": "Damien",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 17.187142 seconds 

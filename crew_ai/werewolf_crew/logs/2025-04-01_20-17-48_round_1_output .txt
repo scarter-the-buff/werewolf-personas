@@ -1,7 +1,0 @@
-{
-  "transcript": "----- NIGHT PHASE -----\nAchille (Werewolf): *glances at Damien, then points discreetly toward Carol with a subtle nod*\nDamien (Werewolf): *returns the gesture with a silent thumbs-up toward Carol, indicating agreement*\n*(The two werewolves share a final look and silently agree on their target.)*\nEliminated during the night: Carol\n\n----- DAY PHASE -----\nAlice: \"Looks like Carol was eliminated last night.\"\nBrian: \"Yes, we lost a villager. We need to be alert now.\"\nBethany: \"I’m not sure who did it, but someone among us might be hiding a dangerous secret.\"\nEllie: \"It’s unsettling, but we must figure out who the werewolf is.\"\nDamien: \"I’m leaning towards caution. Let’s listen carefully to each other before deciding.\"\nAchille: \"I think it’s time we make a decision, even though it’s difficult.\"\n\n(As the discussion heats up, the players cast their votes as follows:)\nAlice votes to eliminate Achille\nBrian votes to eliminate Achille\nBethany votes to eliminate Achille\nEllie votes to eliminate Achille\nDamien votes to eliminate Bethany\nAchille votes to eliminate Brian\n\nThe votes are tallied: Achille receives the majority of votes.\nAnnouncement: Achille is eliminated.\n",
-  "night_elim": "Carol",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 46.678978 seconds 

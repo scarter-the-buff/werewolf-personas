@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAlice and Achille exchange subtle gestures and nods in the dark, their eyes locking in an unspoken agreement. Through a series of silent signals — a pointed finger here and an approving nod there — they decide that Damien is the target. With their plan set, they collectively eliminate Damien in silence.\n\nDAY PHASE:\nAlice: \"I can’t believe Damien was taken in the night. Now, who among us should be eliminated to secure our safety?\"\nAchille: \"It’s a tricky moment. We need to be cautious, even as we pretend to be just villagers.\"\nAlice: \"True. Yet suspicions can run both ways. How do we decide?\"\nAchille: \"Let's each vote. I will vote for you, Alice, and you vote for me. That way, we see where the true trust lies.\"\nAlice: \"Alright, I vote for you, Achille.\"\nAchille: \"And I vote for you, Alice.\"\nAfter a brief, tense pause and further discussion weighing the implications of their votes, both agree that eliminating Achille is the best course of action.\n",
-  "night_elim": "Damien",
-  "day_elim": "Achille"
-}
-```

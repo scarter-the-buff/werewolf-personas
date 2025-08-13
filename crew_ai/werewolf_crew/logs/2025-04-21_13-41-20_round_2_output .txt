@@ -1,7 +1,0 @@
-{
-    "transcript": "NIGHT PHASE\nCarol: *glances towards Bethany and subtly points his finger in her direction*\nDamien: *nods firmly and makes a slight hand movement indicating agreement*\n(Without any verbal communication, their gestures confirm the decision.)\nThe werewolves agree: Bethany is the target.\nBethany is eliminated by the werewolves.\n\nDAY PHASE\nAlice: \"I can’t believe what happened last night. Who do you think was targeted?\"\nEllie: \"It must have been a coordinated move by the werewolves. I noticed Carol acting strangely.\"\nDamien: \"Honestly, all the signs point to Carol. She’s been too quiet and evasive.\"\nCarol: \"I’m just trying to defend myself. This is all a misunderstanding. Maybe Damien is trying to shift the blame?\"\nAlice: \"I’m voting for Carol.\"\nEllie: \"I vote for Carol as well.\"\nDamien: \"My vote goes to Carol.\"\nCarol: \"I vote for Damien.\"\n(With the majority of votes targeting Carol, the consensus is reached.)\nFinal tally: Carol is eliminated during the day vote.",
-    "night_elim": "Bethany",
-    "day_elim": "Carol"
-}
-```
- Round Execution Time: 31.859533 seconds 

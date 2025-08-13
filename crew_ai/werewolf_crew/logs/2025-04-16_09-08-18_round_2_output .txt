@@ -1,7 +1,0 @@
-{
-  "transcript": "----- NIGHT PHASE -----\nBrian: *raises his right hand slowly, then points discreetly toward Bethany with a nod of agreement*\nDamien: *gives a subtle thumbs-up and mimics a pointed finger toward the same direction, nodding firmly*\n(Although no words are spoken, both werewolves clearly agree on targeting Bethany, the villager.)\n\nBethany has been silently eliminated during the night by the werewolves.\n\n----- DAY PHASE -----\nAlice: \"Good morning everyone. What do we think happened last night?\"\nBrian: \"I'm just as shocked as you are, but maybe we should remain cautious.\"\nDamien: \"I agree. We must consider every possibility, but let's discuss before we decide.\"\nEllie: \"I noticed something odd about Brian's silence. It might be worth exploring.\"\nAlice: \"Ellie, that’s an interesting point. Brian, care to respond?\"\nBrian: \"I feel as involved as anyone. I believe we should not jump to conclusions.\"\nDamien: \"Let’s proceed to vote and hopefully reveal the truth.\"\nEllie: \"Alright, let's vote.\"\n\n[Vote Round]\nAlice: \"I vote for Brian.\"\nBrian: \"I vote for Damien.\"\nDamien: \"I vote for Brian.\"\nEllie: \"I vote for Brian.\"\n\nBased on the votes, Brian is eliminated in the day phase.\n",
-  "night_elim": "Bethany",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 30.827530 seconds 

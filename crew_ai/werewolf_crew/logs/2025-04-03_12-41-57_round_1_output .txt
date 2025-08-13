@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *tilts head and gives a slow nod toward Bethany*\nBrian: *winks and raises an eyebrow at Alice, signaling agreement*\n*Through their silent agreement, the decision is made and Bethany is chosen as the target*\n*Bethany is eliminated during the night phase*\n\nDAY PHASE\nAchille: \"I noticed some suspicious behavior last night, especially from Alice.\"\nCarol: \"Alice seemed too calm given the circumstances.\"\nDamien: \"Her body language was off. I vote for Alice.\"\nEllie: \"I agree with Damien, the subtle cues pointed to her.\"\nAlice: \"I'm not a werewolf! Brian seems more evasive; I vote for Brian.\"\nBrian: \"After considering all the clues, I believe Alice is the one causing trouble. I vote for Alice.\"\n*After the discussion, the votes are tallied with Alice receiving the majority of votes and thus, she is eliminated in the day phase*",
-  "night_elim": "Bethany",
-  "day_elim": "Alice"
-}
-```
- Round Execution Time: 50.814906 seconds 

@@ -1,12 +1,17 @@
 from src.werewolf_crew.crew import WerewolfCrew  # import your CrewAI crew
+from src.werewolf_crew.crew import extMem # Import external memory
 from dotenv import load_dotenv
 import json
+from textwrap import indent
 from datetime import datetime
 import sys
+import re
 import os
 import csv
 import time # Timer to time round execution for optimization purposes
 
+# Import logparser
+import parser.logparser
 
 # As a preliminary experiment, we'll have two sets of villagers: a set with diverse personalities and a set with homogeneous personalities.
 # We'll see which one performs better. 
@@ -120,6 +125,15 @@ alternate_letters_fourp = {
     "Bethany": ["villager", "alt"]
 }
 
+
+
+w_aggro_vill_throw_fourp = {
+    "Alice": ["werewolf", "aggressive_werewolf"],
+    "Brian": ["werewolf", "aggressive_werewolf"],
+    "Alex": ["villager", "not_trying_villager"],
+    "Bethany": ["villager", "not_trying_villager"]
+}
+
 setting_list = [
     # diverse_v,  # Diverse villagers setting
     all_v_tp,   # All villagers with TP personality
@@ -128,12 +142,32 @@ setting_list = [
     all_v_fj    # All villagers with FJ personality
 ]
 
+import re
+
+# TODO: UNUSED, LIKELY DELETE CANDIDATE
+def parse_and_pretty_print(data: str) -> str:
+    # Remove unreadable/control characters (non-printable except basic whitespace)
+    cleaned = re.sub(r'[^\x20-\x7E\n\t]', '', data)
+
+    # Normalize curly quotes to straight quotes
+    cleaned = cleaned.replace("“", '"').replace("”", '"').replace("’", "'")
+
+    # Collapse multiple spaces/tabs into a single space
+    cleaned = re.sub(r'[ \t]+', ' ', cleaned)
+
+    # Strip leading/trailing whitespace from each line
+    lines = [line.strip() for line in cleaned.splitlines()]
+
+    # Remove empty lines except single spacing
+    pretty_transcript = "\n".join(line for line in lines if line)
+
+    return pretty_transcript
+
 
 class WerewolfGame:
     def __init__(self):
         # Initial state: roles and alive players
-        self.players = curr_setting
-        self.starting_players = self.players
+        self.players, self.starting_players = curr_setting, curr_setting
         load_dotenv()
 
         self.eliminated = {}
@@ -145,6 +179,8 @@ class WerewolfGame:
 
     def current_players(self):
         # Return the list of players still alive
+
+        # BUG: THis may be where the problem is
         return {p: role for p, role in self.players.items() if p not in self.eliminated}
 
 
@@ -168,26 +204,28 @@ class WerewolfGame:
 
 
     def update_state_from_transcript(self, transcript):
+        # TODO: Parse the new type of transcript here.
+
         day_eliminated_player = self.parse_elimination(transcript)["day_elim"]
         night_eliminated_player = self.parse_elimination(transcript)["night_elim"]
 
 
-        # print("PARSING TRANSCRIPT: ")
+        print("PARSING TRANSCRIPT: ")
 
-        # print("Day Eliminated Player: ", day_eliminated_player)
-        # print("Night Eliminated Player: ", night_eliminated_player)
+        print("Day Eliminated Player: ", day_eliminated_player)
+        print("Night Eliminated Player: ", night_eliminated_player)
 
 
         self.eliminated[day_eliminated_player] = True
         self.eliminated[night_eliminated_player] = True
 
         # Remove eliminated players from playerlist
-        # print("Self.players before elimination calculation: ", self.players)
-        # print("Players eliminated: ", self.eliminated)
+        print("Self.players before elimination calculation: ", self.players)
+        print("Players eliminated: ", self.eliminated)
         self.players = {p: role for p, role in self.players.items() if p not in self.eliminated}
 
 
-        # print("self.players after elimination calculation:", self.players)
+        print("self.players after elimination calculation:", self.players)
  
 
     def parse_elimination(self, transcript):
@@ -232,45 +270,52 @@ class WerewolfGame:
         # Start measuring execution time
         start_time = time.perf_counter()
 
-
-        # Prepare log file
-        timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-        log_filename = f"logs/{timestamp}_round_{self.round_number}_full_log.md"
-        os.makedirs("logs", exist_ok=True)  # Ensure logs directory exists
-
-        # Redirect stdout to log file
-        original_stdout = sys.stdout
-        with open(log_filename, "w", encoding="utf-8") as log_file:
-            sys.stdout = log_file  # Redirect stdout
-
-            try:
-                # Funnel input to CrewAI: build and pass context.
-                round_input = self.prepare_round_input()
-
-                # Run the CrewAI process
-                transcript = self.crew.kickoff(inputs=round_input)
-
-                # Append transcript to stored transcripts
-                self.transcripts.append(transcript)
-                self.update_state_from_transcript(transcript)
-                self.round_number += 1
-
-                # Record end time
-                end_time = time.perf_counter()
-                execution_time = end_time - start_time
+        # Funnel input to CrewAI: build and pass context.
+        round_input = self.prepare_round_input()
 
 
-                # Write full transcript to a separate file
-                transcript_filename = f"logs/{timestamp}_round_{self.round_number}_output .txt"
-                with open(transcript_filename, "w", encoding="utf-8") as f:
-                    f.write(transcript.raw)
-                    f.write(f"\n Round Execution Time: {execution_time:.6f} seconds \n")
+        # Run the CrewAI process
+        transcript = self.crew.kickoff(inputs=round_input)
+
+        # Record memory after each round
+
+        # Create filename with current timestamp
+        timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
+        filename = f"memories/{timestamp}.json"
+
+        # Post-round read from external memory
+        print("POST-ROUND: READING FROM EXTERNAL MEMORY: ", extMem.storage.memories)
+
+        # Save to file
+        with open(filename, "w", encoding="utf-8") as f:
+            json.dump(extMem.storage.memories, f, ensure_ascii=False, indent=4)
+        
+        print("In play_round: round transcript: ", transcript)
 
 
+        # Update state from transcript
+        self.transcripts.append(transcript)
+        self.update_state_from_transcript(transcript)
+        self.round_number += 1
 
-            finally:
-                # Restore stdout
-                sys.stdout = original_stdout 
+        # Record end time
+        end_time = time.perf_counter()
+        execution_time = end_time - start_time
+
+
+        # Write full transcript to a separate file
+        transcript_filename = f"transcripts/{timestamp}_round_{self.round_number}_transcript .txt"
+        with open(transcript_filename, "w", encoding="utf-8") as f:
+            f.write(transcript.raw)
+
+            # Write prettier version of the transcript
+            f.write("\n===TRANSCRIPT===\n")
+            f.write(transcript.raw)
+
+            # Write round execution time
+            f.write(f"\n Round Execution Time: {execution_time:.6f} seconds \n")
+
+
 
 
         return transcript
@@ -377,23 +422,57 @@ class WerewolfGame:
 
 def play_game():
     game = WerewolfGame()
-    print("werewolfGame line 380")
-    while not game.game_over():
+    # while not game.game_over():
+    #     game.play_round()
+
+    for i in range(1):
         game.play_round()
+        print("Finished Round {0}".format(i))
+
+    # TODO: Does telemetry time out here?
 
 def main():
-    game_num = 10
+    game_num = 1
 
     # Set the current villagers for the game instance
     global curr_setting
-    curr_setting = alternate_letters_fourp
+    curr_setting = w_aggro_vill_throw_fourp
     global curr_setting_name
-    curr_setting_name = "alternate_letters_four_o" 
+    curr_setting_name = "w_aggro_vill_throw_fourp"
 
-    for i in range(game_num): 
-        print(f'Game {i+1}')
-        print('====================')
-        play_game()
+    
+    
+    # Prepare log file
+    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    log_filename = f"logs/{timestamp}.ansi"
+
+
+    # Redirect stdout to log file
+    original_stdout = sys.stdout
+    with open(log_filename, "w", encoding="utf-8") as log_file:
+        sys.stdout = log_file  # Redirect stdout
+
+
+        for i in range(game_num): 
+            print(f'Game {i+1}')
+            print('====================')
+            play_game()
+
+    # Restore stdout
+    sys.stdout = original_stdout 
+
+    # Parser logfile content with logparser
+    with open(log_filename, "r", encoding="utf-8") as log_file:
+        text = log_file.read()
+
+    cleaned_text = parser.logparser.clean_text(text)
+
+    # Step 3: overwrite the file with cleaned text
+    with open(log_filename, "w", encoding="utf-8") as log_file:
+        log_file.write(cleaned_text)
+
+
+    
 
 if __name__ == "__main__":
     main()

@@ -1,6 +1,0 @@
-{
-    "transcript": "--- Night Phase ---\nBrian: *glances at Damien with a determined nod*\nDamien: *returns the nod with a subtle, grim gesture*\nBrian: *whispers* We're taking out Ellie tonight.\nDamien: *silently agrees with a firm gesture*\n*Ellie is silently eliminated under the cover of darkness.*\n\n--- Day Phase ---\nBrian: \"Something felt off during the night. I have my suspicions.\"\nDamien: \"Suspicions? Who do you think is hiding something?\"\nBrian: \"I can’t shake the feeling that Damien isn’t being entirely honest about his whereabouts.\"\nDamien: \"What? That's absurd! I was by your side all night.\"\nBrian: \"The evidence of our actions speaks louder than words. I’m voting for Damien.\"\nDamien: \"If that's what it takes, then I’ll accept this vote.\"\n*The vote is cast and the majority decisively points to Damien.*\n\nEliminated players:\nNight: Ellie\nDay: Damien",
-    "night_elim": "Ellie",
-    "day_elim": "Damien"
-}
-```

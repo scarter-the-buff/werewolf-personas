@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *raises her right hand, then exchanges a determined look with Ellie*\nEllie: *nods subtly and gestures towards Villager 3*\n*Both werewolves silently agree to eliminate Villager 3*\n\nDAY PHASE\nVillager 1: \"I noticed something odd about Villager 4's behavior last night.\"\nVillager 2: \"That's true. Villager 4 was very defensive when asked about his whereabouts.\"\nVillager 5: \"I agree, my instincts tell me we should be cautious about trusting Villager 4.\"\nVillager 4: \"I’m innocent! I’m being framed by my own neighbors!\"\nAlice: \"Maybe we should take a closer look at Villager 4's actions, just to be safe.\"\nEllie: \"I think we have enough reason to suspect Villager 4.\"\n*After a brief discussion, the majority of the players vote against Villager 4, leading to his elimination*",
-  "night_elim": "Villager 3",
-  "day_elim": "Villager 4"
-}
- Round Execution Time: 51.724278 seconds 

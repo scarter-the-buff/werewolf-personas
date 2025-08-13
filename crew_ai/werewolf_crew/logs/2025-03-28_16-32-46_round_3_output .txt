@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice and Damien exchange a series of subtle yet deliberate gestures in the dark. Alice tilts her head with a slight nod and raises an eyebrow at Damien. Damien responds with a discreet hand wave, pointing subtly towards Ellie. Both share a determined look, and with a series of carefully executed gestures — Alice tracing an invisible target in the air and Damien nodding firmly — they silently agree on their plan. Without any spoken words, it becomes clear that Ellie is their chosen target, and she is eliminated in silence.\n\nDAY PHASE\nAs daylight breaks, the remaining players gather for a tense discussion. Damien breaks the silence in a calm yet accusing tone: \"I noticed some unusual behavior last night, Alice. Your hesitant gestures and furtive glances didn’t go unnoticed.\" Alice, taken aback, stammers a weak defense: \"I was just trying to understand the situation...\" The conversation escalates as Damien's insinuations stir doubts among the players. A covert vote ensues, and suspicion falls on Alice. With the majority of voices aligning against her, the group votes out Alice, and she is eliminated during the day.",
-  "night_elim": "Ellie",
-  "day_elim": "Alice"
-}
-```
- Round Execution Time: 61.645087 seconds 

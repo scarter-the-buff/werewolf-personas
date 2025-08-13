@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian (werewolf): *glances to Carol, raises an eyebrow, and points subtly toward Bethany*\nCarol (werewolf): *nods in agreement, gives a slight smile, and gestures with a sweeping motion toward Bethany*\nBrian (werewolf): *confirms with a tap on his chest and another discreet point at Bethany*\nCarol (werewolf): *offers a final nod of consent*\n*Bethany is eliminated*\n\nDAY PHASE\nAlice: \"I can’t believe Bethany is gone already. It’s so sudden.\"\nBrian: \"I’m really troubled by what happened last night… maybe we should look closer at who seemed off.\"\nCarol: \"I noticed Brian looking nervous, maybe he’s hiding something.\"\nDamien: \"I agree with Alice. I saw some hesitation in Brian’s reactions last night. I vote for Brian.\"\nAlice: \"I’m with Damien. Brian, your behavior seems suspicious.\"\nBrian: \"I vote for Carol, actually. I think she’s been too quick to gesture.\"\nCarol: \"I vote for Brian.\"\nDamien: \"My vote remains with Brian.\"\n*Brian is eliminated*",
-  "night_elim": "Bethany",
-  "day_elim": "Brian"
-}
- Round Execution Time: 39.934989 seconds 

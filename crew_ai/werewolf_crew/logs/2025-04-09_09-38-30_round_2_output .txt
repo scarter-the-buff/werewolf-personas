@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAchille: *locks eyes with Damien, then subtly points toward Bethany with a furtive glance and a slight nod*\nDamien: *returns the silent nod and makes a small sweeping gesture toward Bethany, confirming the agreement*\n*Bethany is silently marked for elimination and is eliminated from the game*\n\nDAY PHASE\nAlice: \"I can’t believe Bethany is gone. This is unsettling. Who could have taken her out?\"\nEllie: \"I saw something odd last night. Maybe we should consider those who seem too calm.\"\nAchille: \"We need to keep our cool. But I must say, my instincts are leaning toward Damien.\"\nDamien: \"I’m not sure why I’m being singled out. I suspect someone is trying to deflect suspicion. I vote for Alice.\"\nAlice: \"I’m certain enough that Damien’s behavior was suspicious. I vote for Damien.\"\nEllie: \"I agree with Alice. My vote goes for Damien.\"\nAchille: \"I lean with the concern raised. I vote for Damien as well.\"\n*With three votes for Damien and one for Alice, the group eliminates Damien*",
-  "night_elim": "Bethany",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 33.985278 seconds 

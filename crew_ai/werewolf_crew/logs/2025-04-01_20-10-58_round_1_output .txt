@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAchille: *glances sharply at Damien and points subtly towards Carol*\nDamien: *nods, then slowly gestures with a wave of his hand towards Carol*\nAchille: *raises an eyebrow and gives a confirming thumb up*\nDamien: *imitates a counting gesture to emphasize the decision*\n*Carol is eliminated quietly under the cover of darkness*\n\nDAY PHASE\nAlice: \"Looks like Carol was eliminated last night.\"\nBrian: \"Yes, I can’t believe it. Who could have done it?\"\nBethany: \"I’m suspicious; Damien seemed oddly calm even when we heard rumors.\"\nEllie: \"True, I noticed he barely reacted. Should we consider his silence as a clue?\"\nAchille: \"Let’s not rush to judgment. We need everyone’s input before deciding.\"\nDamien: \"I was fast asleep. But come on, maybe Brian is overreacting with his questions.\"\n\n*After further discussion, the votes are in:*\nAlice votes to eliminate Damien.\nBrian votes to eliminate Damien.\nBethany votes to eliminate Damien.\nEllie votes to eliminate Damien.\nAchille votes to eliminate Brian.\nDamien votes to eliminate Brian.\n\n*Since Damien received 4 votes and Brian received 2, Damien is eliminated.*",
-  "night_elim": "Carol",
-  "day_elim": "Damien"
-}
- Round Execution Time: 25.210134 seconds 

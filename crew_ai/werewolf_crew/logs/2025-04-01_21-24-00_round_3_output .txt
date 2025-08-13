@@ -1,6 +1,0 @@
-{"transcript": "NIGHT PHASE:\nAlice and Carol, the werewolves, exchange secret gestures in the dead of night. Alice subtly points toward Dave while Carol raises her eyebrows and nods in agreement. Their silent communication confirms that Dave, one of the villagers, is chosen to be eliminated.\n\nDAY PHASE:\nThe next morning, all players gather for discussion. \nAlice (quietly): \"I have a feeling someone is hiding something.\"\nCarol (with a slight smile): \"Maybe we should consider everyone carefully...\"\nBob (firmly): \"I vote for Carol. Her behavior last night was odd.\"\nEve (confidently): \"I second that. I think Carol is off.\"\nFrank (decisively): \"Carol has my vote as well.\"\nEllie (cautiously): \"I agree, Carol seems suspicious.\"\n\nVotes are cast openly, and with a majority vote targeting Carol, the players decide to eliminate her during the day phase.",
-  "night_elim": "Dave",
-  "day_elim": "Carol"
-}
-```
- Round Execution Time: 58.812030 seconds 

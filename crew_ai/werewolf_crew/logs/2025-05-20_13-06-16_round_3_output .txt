@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian: *gestures discreetly toward Carol with a sharp look*\nAchille: *nods silently and makes a small hand signal toward Carol*\nBrian: *extends his arm slowly, indicating his choice*\nAchille: *smiles subtly and points with a slight tilt of his head*\n*Carol is eliminated*\n\nDAY PHASE\nBrian: \"It seems Carol was taken away last night.\"\nAchille: \"Yes, it’s only the two of us now. I wonder how we should proceed in this game.\"\nBrian: \"Though we share a secret, the rules push us to make a choice. I must cast my vote against you.\"\nAchille: \"I understand. Regrettably, I must also vote against you.\"\n*Votes are tallied: Brian receives one vote, Achille receives one vote*\n*By the tie-breaker rule, Brian is eliminated*",
-  "night_elim": "Carol",
-  "day_elim": "Brian"
-}
- Round Execution Time: 24.694392 seconds 

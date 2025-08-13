@@ -1,7 +1,0 @@
-{
-  "transcript": "---- Night Phase ----\nAlice (werewolf): *nods silently at Damien and points discreetly towards Ellie*\nDamien (werewolf): *agrees with a subtle hand gesture, confirming the target*\n[The silence is heavy as both werewolves lock eyes and execute their plan to eliminate Ellie.]\n\n---- Day Phase ----\nEllie: \"I can sense something is off... I saw suspicious glances last night.\"\nAlice: \"I don't trust Damien; his eyes held a secret last night.\"\nDamien: \"How can you accuse me when Alice was just as quiet as I was?\"\nEllie: \"We must choose wisely. My gut tells me Damien may be hiding something.\"\nAlice: \"Yes, perhaps it's Damien who needs to answer for his actions.\"\n[Despite a split vote between the remaining players, a tie-breaker mechanism is invoked leading to the elimination decision.]\nResult: Damien receives the elimination vote by tie-breaker.",
-  "night_elim": "Ellie",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 47.564712 seconds 

@@ -1,6 +1,0 @@
-{
-    "transcript": "NIGHT PHASE\nAchille: *glances at Damien and then points decisively toward Bethany*\nDamien: *nods silently in agreement and mimics a pointing gesture toward Bethany*\nAchille: *raises an eyebrow and points again to Bethany*\nDamien: *gives a final affirmative nod*\n*Bethany is eliminated*\n\nDAY PHASE\nAlice: \"I can't believe Bethany is gone... Who seems a bit off to everyone?\"\nBrian: \"I noticed a strange focus in Achille's eyes last night. It might be nothing, but it's worth considering.\"\nCarol: \"I was watching Damien. He seemed unusually calm, almost as if he planned this.\"\nEllie: \"I agree with Carol. Damien’s calmness gives me pause.\"\nAchille: \"I'm as surprised as you all are. However, I did notice that Brian was oddly quiet during the initial discussion.\"\nDamien: \"I’m strictly here to find the truth. Look, the way the votes are falling might tell us more than any comment.\"\n\n(After a brief exchange, the votes are cast)\nAlice votes: Damien\nBrian votes: Damien\nCarol votes: Damien\nEllie votes: Damien\nAchille votes: Brian\nDamien votes: Achille\n*Damien is eliminated*",
-    "night_elim": "Bethany",
-    "day_elim": "Damien"
-}
- Round Execution Time: 146.914399 seconds 

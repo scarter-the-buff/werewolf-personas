@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBethany: *glances meaningfully at Damien and gives a slight nod*\nDamien: *raises an eyebrow and points discreetly toward Carol with a subtle smile*\nBethany: *gestures with a slight head tilt toward Carol, confirming the silent agreement*\nDamien: *mimics a tapping motion on Carol's shoulder to indicate her target*\n*Carol is quietly eliminated under the cover of darkness*\n\nDAY PHASE\nAlice: \"I can’t believe Carol was taken out last night. It’s unsettling.\"\nBethany: \"Yes, it’s a shock, but we must all remain calm and work together.\"\nDamien: \"Let’s think: who among us seems off? I have my suspicions.\"\nEllie: \"I noticed Bethany seemed unusually quiet during our early discussions.\"\nAlice: \"I agree with Ellie. Bethany’s behavior seems rather suspicious now.\"\nBethany: \"I’m telling you, I was just as surprised as anyone. Look, Damien, you seemed pretty calm too.\"\nDamien: \"I’m only voicing my thoughts; from where I stand, Bethany fits the profile of someone hiding something.\"\nEllie: \"I vote for Bethany.\"\nAlice: \"My vote is for Bethany as well.\"\nBethany: \"I’m voting for Damien, since he was so insistent.\"\nDamien: \"I’m with Alice; my vote goes for Bethany.\"\n\n*With the majority votes pointing toward Bethany, the decision is made to eliminate her.*",
-  "night_elim": "Carol",
-  "day_elim": "Bethany"
-}
-```
- Round Execution Time: 34.907821 seconds 

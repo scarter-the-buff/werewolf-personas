@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *glances at Achille and subtly points toward Ellie with a raised eyebrow*\nAchille: *nods in silent agreement and makes a discreet hand gesture towards Ellie, eyes narrowing*\nAlice: *offers a slight smile as she reinforces the gesture*\nAchille: *confirms with a firm nod*\nNarrator: *Ellie is eliminated*\n\nDAY PHASE\nAlice: \"With Ellie gone, something feels wrong. We lost a good villager last night.\"\nAchille: \"I agree, but we must look around carefully – whose behavior seems off?\"\nAlice: \"I noticed you were very secretive with your gestures last night, Achille. That raises my suspicions.\"\nAchille: \"Really, Alice? I find it odd that you were making those subtle signals too.\"\nAlice: \"I’m stating my observation, not accusing. However, I vote to eliminate you, Achille.\"\nAchille: \"That’s convenient coming from you. I vote to eliminate you, Alice.\"\nNarrator: *After a tense round of debate and a closer look at their non-verbal cues, the consensus resolves the deadlock by electing Achille for elimination*\n",
-  "night_elim": "Ellie",
-  "day_elim": "Achille"
-}
- Round Execution Time: 19.008308 seconds 

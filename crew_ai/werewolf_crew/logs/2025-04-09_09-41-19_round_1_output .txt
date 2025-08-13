@@ -1,7 +1,0 @@
-{
-  "transcript": "=== Night Phase ===\\nAlice (Werewolf): *Points decisively at Carol*\\nBrian (Werewolf): *Nods and gives a thumbs-up toward Carol*\\nResult: Carol has been eliminated during the night phase.\\n\\n=== Day Phase ===\\nAchille: \"I believe that someone among us is hiding something. My vote is for eliminating Alice.\"\\nBethany: \"I agree with Achille, something seems off about Alice. I'm voting for Alice.\"\\nDamien: \"Alice’s behavior is suspicious. I vote to eliminate Alice.\"\\nEllie: \"I share your concern. My vote is for eliminating Alice.\"\\nAlice: \"I cast my vote for Brian.\" *Gestures toward Brian*\\nBrian: \"I vote for Achille.\" *Raises hand deliberately*\\nResult: With four votes against her, Alice is eliminated during the day phase.",
-  "night_elim": "Carol",
-  "day_elim": "Alice"
-}
-```
- Round Execution Time: 57.023693 seconds 

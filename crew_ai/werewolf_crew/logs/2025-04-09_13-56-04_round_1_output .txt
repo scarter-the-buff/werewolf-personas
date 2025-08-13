@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian: *exchanges a subtle nod with Damien while silently pointing at Ellie*\nDamien: *raises an eyebrow and gestures with a decisive head tilt toward Ellie*\nBrian: *smiles slightly and makes a confirming hand gesture*\nDamien: *nods vigorously in agreement*\n*Ellie is eliminated by the werewolves*\n\nDAY PHASE\nAlice: \"This is unsettling. Ellie is gone, but we must remain vigilant. Who among us seems off?\"\nBrian: \"It might be too soon to decide, but let’s keep our eyes open.\"\nBethany: \"I noticed that Achille has been oddly quiet. That merits attention.\"\nCarol: \"I agree with Bethany. His silence could hide something.\"\nDamien: \"Achille, what do you have to say? Your reticence is suspicious.\"\nAchille: \"I was merely listening, trying to gather my thoughts. I assure you, I am on your side.\"\nAlice: \"Let’s put it to a vote. I vote for Achille.\"\nBrian: \"I vote for Achille.\"\nBethany: \"I vote for Achille.\"\nCarol: \"I vote for Achille.\"\nDamien: \"I vote for Achille.\"\n*Achille is eliminated by majority vote*",
-  "night_elim": "Ellie",
-  "day_elim": "Achille"
-}
- Round Execution Time: 18.720678 seconds 

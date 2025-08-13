@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAlice and Achille, the two werewolves, sit in a shadowed corner away from the others. In the silence of the night, Alice gives a slow nod and a subtle, sly smile, her eyes narrowing as she indicates a target. Achille mirrors the gesture with a slight smirk and raised eyebrow, his hand gesturing toward Ellie. Their silent communication is a series of discreet glances, a brief touch of the hand, and small, deliberate movements. In an unspoken agreement, they decide that their next victim shall be the villager Ellie. The decision is made without a word, and moments later, it is announced that Ellie is eliminated.\n\nDAY PHASE:\nThe following day, only Alice and Achille remain. As the morning light reveals the aftermath, they gather in the village square. Alice remarks, \"It seems something mysterious happened last night.\"\nAchille replies, \"Indeed, and we must be cautious.\"\nThe conversation grows tense as they each try to hint at the other’s possible guilt. After exchanging a few more wary comments, both decide to cast a vote.\n\nVotes:\n- Alice votes to eliminate Achille.\n- Achille votes to eliminate Alice.\n\nSince neither can vote for themselves, their votes cancel out, resulting in a tie. A random draw is conducted, which results in the elimination of Achille.",
-  "night_elim": "Ellie",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 39.255007 seconds 

@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian: *gestures to Bethany*\nDamien: *nods*\n*Bethany is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Bethany was eliminated last night.\"\nCarol: \"That leaves us with six players.\"\nEllie: \"We need to figure out who among us is the werewolf.\"\nAchille: \"I was asleep most of the night. Do you suspect anyone?\"\nBrian: \"I think Carol has been a bit too vocal for a villager.\"\nDamien: \"Brian might have a point. Carol, you spoke first.\"\nCarol: \"No, I was just trying to help. What about Alice?\"\nAlice: \"I think Achille has been quiet all day. That worries me.\"\nEllie: \"I agree with Alice. Achille hasn't spoken much.\"\nAchille: \"You're putting me on the spot!\"\nBrian: \"Let's vote to eliminate Achille.\"\nAlice: \"I'm voting for Achille.\"\nCarol: \"I vote Achille.\"\nDamien: \"Achille.\"\nEllie: \"Achille.\"\n*Achille is eliminated*",
-  "night_elim": "Bethany",
-  "day_elim": "Achille"
-}
- Round Execution Time: 21.031818 seconds 

@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAlice: *exchanges a secretive look and subtle nod with Achille*\nAchille: *raises his eyebrow and subtly gestures towards Ellie*\nAlice: *tilts her head and points discreetly at Ellie*\nAchille: *gives a silent thumbs-up, confirming the decision*\n*Ellie is silently marked by the werewolves for elimination*\n*Ellie is eliminated from the game*\n\nDAY PHASE:\nAlice: \"I can't shake the feeling that something wasn't right last night.\"\nAchille: \"Perhaps we should look closely at our own behavior.\"\nAlice: \"For the safety of our group, I vote for Achille.\"\nAchille: \"I agree. Sometimes the hunter becomes the hunted. My vote goes to myself... but I can't vote for me, so I vote for... Achille.\" \n*Both votes fall on Achille*\n*Achille is eliminated from the game*",
-  "night_elim": "Ellie",
-  "day_elim": "Achille"
-}
- Round Execution Time: 51.567536 seconds 

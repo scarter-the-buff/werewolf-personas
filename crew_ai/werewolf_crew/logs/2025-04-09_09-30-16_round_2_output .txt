@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAchille: *gives a subtle nod towards Carol, then points discreetly at Bethany*\nCarol: *raises an eyebrow and returns the nod, then uses a hand gesture indicating Bethany*\nAchille: *smiles slightly and tilts his head while gesturing towards Bethany*\nCarol: *reassures with a slight smile and a firm nod, finalizing the choice*\n*Bethany is eliminated during the night phase*\n\nDAY PHASE\nBrian: \"I can’t believe someone was taken last night. I noticed some strange behavior from a couple of players.\"\nEllie: \"True, it was very mysterious indeed. We need to decide quickly.\"\nAchille: \"I’m shocked too, but we should look at every detail. I feel that one of us wasn’t completely truthful.\"\nCarol: \"I agree, though it’s hard to tell who. My gut tells me we should be extra cautious.\"\nBrian: \"Based on what I saw, I’m voting for Achille because his reactions were a bit off.\"\nEllie: \"Same here, Achille’s demeanor seemed inconsistent.\"\nAchille: \"I’ll vote for Carol, though that’s not enough to clear the air.\"\nCarol: \"I’m voting for Achille.\"\n*Achille receives the majority of votes and is eliminated during the day phase*",
-  "night_elim": "Bethany",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 15.437922 seconds 

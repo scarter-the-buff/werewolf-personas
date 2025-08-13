@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAlice: *Glances around cautiously and gives a subtle nod to Brian while pointing discreetly toward Bethany's spot on the table.*\nBrian: *Returns the nod and taps his fingers twice, confirming the silent plan, then gestures toward Bethany.*\n[The werewolves silently agree that Bethany is the target.]\n-- Bethany has been eliminated during the night phase --\n\nDAY PHASE:\nAchille: \"I can't shake the feeling that something was off last night. We need to be cautious.\"\nBethany: \"I am gone, but my memory reminds us to look for subtle clues.\"\nCarol: \"Based on how things were handled, I'm leaning towards suspecting Brian. I vote for Brian.\"\nDamien: \"I agree with Carol; Brian's behavior seems too suspicious to ignore. My vote is for Brian.\"\nEllie: \"I vote for Brian as well. He seems to be acting out of character.\"\nAlice: \"I'll let the discussion continue, since my role is to stay low-key.\"\nBrian: \"I feel targeted here, but I have no chance against unanimous votes.\"\n-- The votes are cast: Achille, Carol, Damien, and Ellie vote to eliminate Brian, leading to his elimination during the day phase. --",
-  "night_elim": "Bethany",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 35.974369 seconds 

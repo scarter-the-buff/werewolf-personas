@@ -1,7 +1,0 @@
-{
-  "transcript": "----- NIGHT PHASE -----\nAlice and Brian, in complete silence, exchange furtive glances and subtle hand gestures in a dimly lit corner. Alice raises her eyebrows and nods, while Brian points decisively toward Bethany. Without uttering a single word, both establish a deadly consensus: Bethany is to be eliminated.\n\n----- DAY PHASE -----\nAchille: \"I can't believe we lost someone last night. The air feels different now.\"\nCarol: \"Yes, it's unsettling. We need to figure out what happened and who we can really trust.\"\nEllie: \"I have been watching everyone closely—someone's been acting out of place.\"\nDamien (defensive): \"I know it looks suspicious, but please, I’m not guilty of anything!\"\nAlice: \"From what I've observed, Damien's hesitation seems off. I vote for Damien.\"\nBrian: \"I agree with Alice. Damien's behavior tonight raises red flags. I vote for Damien.\"\nAchille: \"Based on the discussions and our loss last night, I also vote for Damien.\"\nCarol: \"It appears the majority is leaning towards Damien. I vote for Damien as well.\"\nEllie: \"I second that. My vote goes to Damien.\"\nDamien: \"I must defend myself—if I'm to vote, I cast my vote for Achille.\"\n\nWith the votes tallied, a clear decision emerges: Damien receives the majority of votes and is eliminated during the day phase.",
-  "night_elim": "Bethany",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 50.423788 seconds 

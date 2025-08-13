@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAchille: *points decisively towards Bethany with a determined look and a subtle nod.*\nDamien: *returns the gesture with a brief eye contact and a quiet hand signal indicating Bethany as the target.*\nNarrator: The werewolves silently agree on their target. Bethany is eliminated from the game.\n\nDAY PHASE\nAlice: \"I woke up unsettled after the mysterious night. Something feels off.\"\nAchille: \"Let’s not be hasty. Everyone could be under suspicion.\"\nDamien: \"I agree with Alice, but we need to be cautious; our votes matter.\"\nEllie: \"I think there was something peculiar about Achille’s behavior. I vote for Achille.\"\nAlice: \"I’m with Ellie. My vote goes to Achille.\"\nDamien: \"Given the discussion, my vote is also for Achille.\"\nNarrator: With a clear majority, Achille is eliminated from the game.",
-  "night_elim": "Bethany",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 33.668441 seconds 

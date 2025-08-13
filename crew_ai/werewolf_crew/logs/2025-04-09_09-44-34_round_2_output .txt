@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nThe village slumbers under a dark, starry sky. In the midst of the silence, the werewolves, Alice and Damien, silently gather near the edge of the forest. Without speaking a word, Alice gives a subtle nod and a raised eyebrow, while Damien mirrors the gesture with a slow hand wave toward Brian’s direction. Their eyes lock in a shared understanding: Brian is the target tonight. The silent agreement is made as the two exchange decisive gestures, sealing Brian's fate.\n\nDAY PHASE:\nDawn breaks over the village, and the survivors—Alice, Achille, Damien, and Ellie—gather in the town square. The stunned silence is soon broken by Ellie who cautiously remarks, \"I have a feeling someone among us isn’t telling the full truth.\" Alice, with a careful tone, adds, \"I noticed odd behavior last night. It might be best for us to question those who seem too calm.\" Damien, leaning in, observes, \"I think there's something off about Achille’s responses during our questions.\" Feeling the mounting suspicion, Achille defensively replies, \"I’ve always been transparent, but now I feel targeted without cause.\"\n\nAfter a heated discussion, they decide to vote on who to eliminate. The votes are cast as follows:\n- Alice votes for Achille\n- Damien votes for Achille\n- Ellie votes for Achille\n- Achille, in a bid to redirect blame, votes for Damien\n\nWith the majority clearly in favor, Achille is eliminated from the round.",
-  "night_elim": "Brian",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 85.370158 seconds 

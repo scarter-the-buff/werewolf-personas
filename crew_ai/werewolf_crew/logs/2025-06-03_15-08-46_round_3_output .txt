@@ -1,6 +1,0 @@
-{  
-  "transcript": "NIGHT PHASE\nAchille: *raises two fingers discreetly toward Diana*\nDiana: *looks thoughtful, then nods once*\nAchille: *points subtly at Carl*\nDiana: *furrows brow, then gives a firm nod*\nAchille: *touches Carl on the shoulder*\n*Carl is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Carl was eliminated last night.\"\nEric: \"Yeah... that leaves six of us now.\"\nFiona: \"Any ideas who the werewolves are?\"\nBethany: \"I noticed Achille and Diana whispering earlier—felt odd.\"\nDiana: \"Whispering strategy, that’s all!\"\nAchille: \"Honestly, Bethany’s been too quiet—could be hiding something.\"\nAlice: \"Bethany seems genuine to me.\"\nEric: \"I don’t know… Achille’s pushing hard.\"\nFiona: \"I’ll vote Achille.\"\nBethany: \"Me too.\"\nAlice: *votes Achille*\nDiana: *votes Achille*\nEric: *votes Achille*\nFiona: *votes Achille*\nAchille: *votes Alice*\n*Achille is eliminated*",
-  "night_elim": "Carl",
-  "day_elim": "Achille"
-}
- Round Execution Time: 36.179048 seconds 

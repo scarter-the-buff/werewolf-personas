@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAlice glances around furtively and catches Brian’s eye. With a slight nod, she points subtly towards Damien. Brian returns the gesture with a discreet smile and a firm nod. They exchange a series of silent signals—quick glances and a confirming head tilt—to agree on their target. Without uttering a word, both werewolves indicate that Damien is the chosen villager for tonight. A hushed understanding passes between them as Damien is marked for elimination.\n\nDAY PHASE:\nAlice: \"I have a feeling someone among us isn’t as honest as they seem. I noticed Carol acting quite nervously last night.\"\nBrian: \"I agree with Alice. My intuition tells me that Carol might be hiding something. I’m inclined to vote for Carol.\"\nAchille: \"I believe we need to act. From my perspective, Carol’s behavior raises red flags. I vote for Carol.\"\nBethany: \"It does seem like Carol is the common focus here. I’m voting for Carol as well.\"\nCarol: (defensively) \"I’m innocent! I don’t appreciate these accusations, but if it means saving the group, I will vote for Achille since his stance seems too eager.\"\nEllie: \"Given the circumstances and what I observed, I’m convinced that Carol is our risk. I cast my vote for Carol.\"\n\nVotes summary: Carol receives votes from Alice, Brian, Achille, Bethany, and Ellie; only Carol votes differently by choosing Achille. With the majority targeting Carol, the decision is made to eliminate her.",
-  "night_elim": "Damien",
-  "day_elim": "Carol"
-}
-```
- Round Execution Time: 44.455279 seconds 

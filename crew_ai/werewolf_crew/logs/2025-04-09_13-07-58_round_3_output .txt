@@ -1,7 +1,0 @@
-{
-    "transcript": "NIGHT PHASE:\nBrian: *raises his hand slowly and gives a determined nod toward Bethany*\nEllie: *mirrors Brian's gesture with a subtle head tilt and pointed finger toward Bethany*\n*Both werewolves silently agree, and with no words exchanged, the decision is made.*\nANNOUNCEMENT: Bethany has been eliminated during the night phase.\n\nDAY PHASE:\nBrian: \"I can’t believe what happened last night. It seems we lost someone important.\"\nEllie: \"Yes, it's a dark turn. We need to be careful even among ourselves.\"\n*Both players now engage in a tense exchange of words as they try to shift suspicion away from themselves.*\nBrian: \"We must think logically. Who among us is a threat now?\"\nEllie: \"I trust my instincts, but this conversation is getting us nowhere.\"\n*After a brief discussion and no clear consensus, a vote is held between the remaining players. In a deadlock situation, a tiebreaker is applied by the moderator.*\nANNOUNCEMENT: Ellie has been eliminated during the day phase.",
-    "night_elim": "Bethany",
-    "day_elim": "Ellie"
-}
-```
- Round Execution Time: 59.363048 seconds 

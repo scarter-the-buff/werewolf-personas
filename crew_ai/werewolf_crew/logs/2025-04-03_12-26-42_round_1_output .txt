@@ -1,7 +1,0 @@
-{
-  "transcript": "------ NIGHT PHASE ------\nAchille: *raises an eyebrow and nods silently at Damien*\nDamien: *responds with a slight, grim smile, pointing subtly towards Bethany*\n*A series of exchanged glances and gestures confirm their decision*\nBethany: *is quietly gestured at to leave* \n*Bethany is eliminated*\n\n------ DAY PHASE ------\nAlice: \"Good morning everyone. I feel something strange happened last night.\"\nBrian: \"I noticed something off too, especially around Achille. His behavior seemed suspicious.\"\nCarol: \"I agree. His silence and odd looks during the night make me wonder if he had a hidden agenda.\"\nEllie: \"His actions don’t add up with what we expect from a villager.\"\nAchille: \"I’m just as confused, please, I had nothing to do with it!\"\nDamien: \"Maybe the evidence lies in our impressions rather than words.\"\n\n*The village begins to cast their votes:*\nAlice: \"I vote for Achille.\"\nBrian: \"I vote for Achille.\"\nCarol: \"I vote for Achille.\"\nEllie: \"I vote for Achille.\"\nAchille: \"I vote for someone else, but I understand the decision.\"\nDamien: \"The majority seems clear.\"\n\n*With a majority vote, Achille is eliminated from the game.*",
-  "night_elim": "Bethany",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 833.367819 seconds 

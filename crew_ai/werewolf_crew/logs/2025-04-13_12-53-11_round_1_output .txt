@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian: *exchanges a knowing look with Damien, then gestures discreetly towards Bethany*\nDamien: *nods and uses a subtle head tilt to confirm the decision*\nBethany: *unaware, goes about her business as the silent elimination is carried out*\n*Bethany is eliminated from the game*\n\nDAY PHASE\nAlice: \"I can’t help but feel something was off last night with the way things unfolded.\"\nAchille: \"Yes, I noticed some strange behaviour. Who could be hiding their true nature?\"\nCarol: \"I was watching Brian closely; his expression seemed too calm for the situation.\"\nEllie: \"I agree, Brian’s signals earlier gave me pause.\"\nBrian: \"I’m as surprised as you all, but I promise I’m just as shocked as the rest of you.\"\nDamien: \"Maybe we should reconsider all the subtle hints we saw last night.\"\nAfter a brief discussion, the majority votes are cast:\nAlice votes for Brian.\nAchille votes for Brian.\nCarol votes for Brian.\nEllie votes for Brian.\nDamien votes defensively but ultimately remains silent on a vote.\n*Brian is eliminated from the game*",
-  "night_elim": "Bethany",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 49.436800 seconds 

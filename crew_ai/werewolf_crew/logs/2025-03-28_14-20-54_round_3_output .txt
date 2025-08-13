@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *narrows her eyes and gives a subtle nod, indicating Ellie*\nAchille: *makes a discreet hand sign and gestures affirmatively toward Ellie*\nNarrator: Through silent gestures and subtle facial expressions, the werewolves, Alice and Achille, have agreed to eliminate villager Ellie.\n*Ellie is eliminated*\n\nDAY PHASE\nAlice: \"What a terrible night... We have lost a fellow villager.\"\nAchille: \"Indeed, the loss weighs heavy. But trust is undermined—could one of us be harboring deceit?\"\nAlice: \"Your words imply suspicion. Explain how I might be less loyal.\"\nAchille: \"I suspect that you might have led our silent pact with ulterior motives.\"\nAlice: \"That’s rich coming from someone eager to shift blame.\"\nNarrator: As tension grows, both players hesitate before casting their votes.\nAlice (voting): \"I vote for Achille.\"\nAchille (voting): \"I vote for Alice.\"\nNarrator: The votes are evenly split. By the predetermined tiebreaker rule, Achille is eliminated.\nAlice: \"So it comes to this... I am left with only my guilt and suspicion.\"\n*Achille is eliminated*",
-  "night_elim": "Ellie",
-  "day_elim": "Achille"
-}
-```

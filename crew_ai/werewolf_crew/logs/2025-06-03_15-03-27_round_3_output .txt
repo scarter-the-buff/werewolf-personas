@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAchille: *glances at Dave and raises an eyebrow in the moonlight*\nDave: *nods subtly and points toward Bob*\nAchille: *forms a circle with his finger over Bob’s name in the air*\nDave: *taps Bob lightly on the shoulder in agreement*\n*Bob is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Bob was eliminated last night.\"\nEllie: \"Oh no... that’s a big loss.\"\nCarol: \"So we’re down to six. Who do you all suspect?\"\nEmily: \"I noticed that Dave was quiet this morning—kind of shady, isn’t it?\"\nDave: \"Me? I’ve just been processing. But Ellie, you’ve been awfully talkative.\"\nEllie: \"Why would you deflect to me?\"\nAchille: \"I think Emily is trying to frame Dave.\"\nEmily: \"No, I’m just pointing out behavior.\"\nAlice: \"Let’s hear from Carol—what do you think?\"\nCarol: \"Well, Achille and Eve—sorry, Emily—have been opinionated, but Ellie seemed too eager to accuse.\"\nEllie: \"I was just trying to help!\"\nDave: \"I vote to eliminate Ellie.\"\nAchille: \"I’m with Dave. Ellie out.\"\nAlice: \"I vote to eliminate Ellie as well.\"\nCarol: \"I also vote for Ellie.\"\nEmily: \"Alright, I cast my vote for Ellie.\"\n*Ellie is eliminated*",
-  "night_elim": "Bob",
-  "day_elim": "Ellie"
-}
- Round Execution Time: 11.513197 seconds 

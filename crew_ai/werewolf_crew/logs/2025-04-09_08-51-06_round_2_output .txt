@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nThe night descends quietly over the village. In the shadows, Achille and Damien, the werewolves, silently communicate using intense gestures and subtle facial expressions. Achille raises an eyebrow and nods slightly, while Damien smirks and makes a decisive hand gesture. Their non-verbal cues clearly indicate their target: Brian. Unbeknownst to the sleeping or unaware villagers, their silent agreement seals Brian's fate.\n\nAnnouncement: The werewolves have made their decision. Brian is eliminated during the night.\n\nDAY PHASE:\nAt dawn, the remaining players—Alice, Achille, Damien, and Ellie—gather in the village square. The mood is tense and full of suspicion as they begin discussing the previous night's events.\nAlice: \"I can't believe Brian is gone. The night's silence hides dark secrets.\"\nEllie: \"I noticed Damien giving off a strange vibe last night. Could he be involved?\"\nDamien: \"I spent the entire night with Achille. I have nothing to hide, but maybe we should all be cautious.\"\nAchille: \"I confess, I did see a sly look in Damien's eyes, but perhaps it's just my imagination. Let's think this through carefully.\"\nAfter a round of discussion, each player casts a vote (remembering they cannot vote for themselves), and the majority concludes that Damien is the suspect to be eliminated.\n\nFinal Day Announcement: With the votes counted, it is declared that Damien is eliminated from the game.",
-  "night_elim": "Brian",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 24.240807 seconds 

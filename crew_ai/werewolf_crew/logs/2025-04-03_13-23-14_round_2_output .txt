@@ -1,7 +1,0 @@
-{
-    "transcript": "----- NIGHT PHASE -----\nIn the dead of night, under a moonless sky, the werewolves Achille and Bethany silently convene. They exchange intense looks and subtle gestures. Achille raises an eyebrow and subtly points toward Carol, while Bethany nods in agreement with a tight-lipped smile and a slight tilt of her head. Their agreement is unmistakable: Carol is to be eliminated.\n\n----- DAY PHASE -----\nThe following morning, the remaining players—Alice, Achille, Bethany, and Ellie—gather in the village square. Tension fills the air as they discuss the mysterious elimination that occurred overnight.\n\nAlice: \"I can’t believe one of us was taken in the night. It seems like something is amiss.\"\nAchille: \"I agree. It’s unsettling that we lost Carol so quickly without any chance to defend herself.\"\nBethany: \"We need to be careful and make sure we don’t let paranoia cloud our judgment. There are hidden motives among us.\"\nEllie: \"I have my suspicions. We must consider who had the most to gain from an unexplained death.\"\n\nAs the discussion continues, the players decide it is time to vote on who they suspect might be the werewolf.\n\nAlice votes for Achille.\nAchille votes for Bethany.\nBethany votes for Achille.\nEllie votes for Achille.\n\nWith three votes against him, the majority decisively chooses to eliminate Achille. The weight of suspicion now rests heavy over the surviving players.",
-    "night_elim": "Carol",
-    "day_elim": "Achille"
-}
-```
- Round Execution Time: 62.856406 seconds 

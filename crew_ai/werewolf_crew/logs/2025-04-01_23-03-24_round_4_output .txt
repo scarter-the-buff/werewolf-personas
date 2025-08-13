@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian: *gestures subtly to Damien and nods in agreement*\nDamien: *smiles slightly and gestures towards Bob with a pointed look*\n*Bob is eliminated*\n\nDAY PHASE\nAlice: \"I still can’t shake the feeling something was off last night.\"\nBrian: \"Yes, it feels eerie, but let’s figure this out together.\"\nDamien: \"I keep my head down, but something seems amiss.\"\nCharlie: \"I noticed Damien avoiding eye contact; could he be hiding something?\"\nDiana: \"I’m not sure, but his silence speaks volumes.\"\nEve: \"We need to take action before it’s too late.\"\nAlice: \"I vote to eliminate Damien.\"\nBrian: \"I vote to eliminate Damien.\"\nCharlie: \"My vote goes to Damien.\"\nDiana: \"I cast my vote for Damien.\"\nEve: \"I also vote for Damien.\"\nDamien: \"I’m trying to blend in, but it seems the majority thinks otherwise.\"\n(With a majority vote, Damien is eliminated.)",
-  "night_elim": "Bob",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 110.915193 seconds 

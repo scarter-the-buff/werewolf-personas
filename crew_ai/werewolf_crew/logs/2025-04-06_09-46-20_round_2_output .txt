@@ -1,7 +1,0 @@
-{
-    "transcript": "NIGHT PHASE:\nAchille and Carol, the werewolves, lock eyes in the darkness. Achille tilts his head and makes a subtle gesture toward Brian while Carol, with a slight nod and a focused gaze, mirrors his intention. Their silent communication is filled with secret signals—small nods and fleeting smiles—as they make their unspoken decision to eliminate Brian. [Brian is silently marked for elimination.]\n\nDAY PHASE:\nThe next morning, the surviving players gather to discuss the events of the previous night. The atmosphere is heavy with suspicion and unease.\n\nAlice: \"I feel there was something off about the energy last night—maybe someone was hiding their true intentions.\"\nEllie: \"I noticed a similar vibe, especially from those who seemed too composed.\"\nAchille: \"I’m just as shocked as you all. I did my best to stay under the radar.\"\nCarol: \"I’m not completely convinced by any of the stories. I have my suspicions about both sides, but I'm leaning towards something not adding up.\"\n\nThe players proceed to vote, with the understanding that no one votes for themselves:\n- Alice votes for Achille\n- Ellie votes for Achille\n- Carol votes for Alice\n- Achille votes for Carol\n\nWith two votes in favor, Achille receives the highest number of votes and is eliminated from the game. [Achille is voted out of the game.]",
-    "night_elim": "Brian",
-    "day_elim": "Achille"
-}
-```
- Round Execution Time: 28.923891 seconds 

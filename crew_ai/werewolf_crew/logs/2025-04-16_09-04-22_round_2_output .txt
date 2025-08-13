@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nBrian and Achille, who are the werewolves, exchange subtle and secretive gestures under the cover of night. Brian raises his hand slightly while Achille nods, and through this silent communication, they both agree that Carol is the villager to be eliminated. Carol is quietly signaled out as the target, and once the arewolf consensus is reached, she is removed from the game.\n\nDAY PHASE:\nAlice: \"Last night, something felt off. Carol’s elimination was too sudden, and I’m wondering about everyone’s behavior.\"\nBrian: \"I admit I’ve been quiet, but I think we should look carefully at the actions of others.\"\nAchille: \"I find it odd that Brian seemed too calm during the night. It’s hard to hide when you're pretending to be just a villager.\"\nEllie: \"I’m with Achille on this. Brian’s behavior has been strangely measured.\"\n\nVoting Session:\nAlice votes for Brian.\nBrian votes for Alice.\nAchille votes for Brian.\nEllie votes for Brian.\n\nAs the votes are tallied, Brian receives 3 votes compared to Alice’s 1 vote. With the majority in favor, Brian is eliminated during the day phase.",
-  "night_elim": "Carol",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 56.168699 seconds 

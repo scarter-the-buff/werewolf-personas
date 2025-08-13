@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *raises one eyebrow at Ellie*\nEllie: *nods slightly*\nAlice: *points towards David with a subtle finger motion*\nEllie: *furrows brow and taps her chin thoughtfully*\nAlice: *shrugs and looks at Ellie expectantly*\nEllie: *smiles and points at David*\nAlice: *nods firmly*\nEllie: *closes eyes and gives a small thumbs-up*\n*David is eliminated*\n\nDAY PHASE\nBob: \"Looks like David was eliminated last night.\"\nFrank: \"Yes. We have six now.\"\nGrace: \"Who do you all suspect?\"\nCharlie: \"Alice and Ellie have been oddly calm.\"\nAlice: \"I was just shocked by seeing David gone.\"\nEllie: \"I barely heard anything all night; I slept badly.\"\nBob: \"Charlie, you seemed to wander near David yesterday.\"\nCharlie: \"I did, but I was just getting water.\"\nFrank: \"Hmm. Grace, you stayed close to Charlie.\"\nGrace: \"True, but I thought he seemed nervous.\"\nAlice: \"Maybe the real werewolf is among you.\"\nEllie: \"Let's not jump too quickly.\"\nBob: \"I think Ellie is trying to deflect. I vote for Ellie.\"\nFrank: \"I vote for Ellie.\"\nGrace: \"I vote for Ellie.\"\nCharlie: \"I vote for Ellie.\"\nAlice: \"I vote for Grace.\"\nEllie: \"I vote for Grace.\"\n*Ellie is eliminated*",
-  "night_elim": "David",
-  "day_elim": "Ellie"
-}
- Round Execution Time: 27.059727 seconds 

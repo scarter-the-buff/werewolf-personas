@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *Glances intently at Damien and gives a subtle nod, signaling her intent through a slight tilt of her head and a discreet hand motion.*\nDamien: *Returns the gesture with a calm smile and a deliberate blink, communicating silently that he agrees with the plan.*\nNarrator: The two werewolves, through silent signals and mutual understanding, decide that Ellie, the unsuspecting villager, is to be eliminated. *Ellie is quietly removed from the game.*\n\nDAY PHASE\nAlice: \"I still can’t shake a feeling that something was off last night...\"\nDamien: \"I know what you mean. The silence and the subtleties... It makes me wonder about hidden intentions.\"\nAlice: \"After thinking it through, I'm leaning towards suspicions falling on you, Damien.\"\nDamien: \"I understand your concern. In the spirit of fairness, let’s cast our votes openly.\" \nNarrator: Both surviving players declare their votes. Alice votes for Damien, and Damien, agreeing to the notion of eliminating the suspicion, also casts his vote for Damien. *Damien is eliminated from the game as the consensus is reached.*",
-  "night_elim": "Ellie",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 68.194955 seconds 

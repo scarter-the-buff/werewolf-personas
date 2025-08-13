@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAchille: *gives a subtle nod and a quick thumbs-up to Damien*\nDamien: *responds with a discreet point toward Carol, accompanied by a slight shake of his head to emphasize his choice*\nWithout uttering a single word, the two werewolves silently agree on their target. Through careful gestures and exchanged glances, they select Carol, and she is eliminated in complete secrecy.\n\nDAY PHASE:\nAlice: \"I still can’t believe Carol was taken from us in the dead of night. Who could be responsible?\"\nAchille: \"We must stay calm and examine every action from last night. It’s the only way we find the culprit.\"\nDamien: \"I agree. We need to uncover any suspicious behavior, but I’m just as shocked as everyone else.\"\nEllie: \"I can’t shake the feeling that there’s more to this. Achille, you seemed unusually quiet during everything—could that be hiding guilt?\"\nAlice: \"I’m leaning toward that suspicion too. It’s unsettling, but we need to vote with our instincts.\"\nAchille: \"I insist I’m innocent. However, to break the tension, I’ll vote for Ellie since she hasn’t spoken much until now.\"\n\nVoting:\n- Alice votes for Achille\n- Damien votes for Achille\n- Ellie votes for Achille\n- Achille votes for Ellie\n\nWith three votes for Achille and one for Ellie, the majority decision leads to the elimination of Achille.",
-  "night_elim": "Carol",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 58.749483 seconds 

@@ -1,7 +1,0 @@
-{
-  "transcript": "–––––– NIGHT PHASE ––––––\nAlice: (Glances around, then uses a subtle hand gesture and nods decisively toward Eva.)\nBrian: (Returns the gesture with a firm nod, confirming their unspoken agreement to target Eva.)\nAlice: (Slight smile as she tilts her head, signaling that their plan is set.)\nBrian: (Makes a small hand motion to confirm the decision to eliminate Eva.)\n\n–––––– DAY PHASE ––––––\nDamien: \"Last night's elimination really changes things. Who do you think we should suspect?\"\nFrank: \"I noticed something odd about Alice—her behavior was too calm.\"\nGeorge: \"I agree. It seems like she might be hiding her true self.\"\nHannah: \"Every instinct tells me that Alice could be involved.\"\nAlice: \"I'm seriously being misjudged here; I'm on your side like everyone else.\"\nBrian: \"Let's consider everything carefully and find the truth.\"\nDamien: \"I believe the silent signals we saw at night might reveal more than we expected.\"\nFrank: \"It just adds up—Alice's gestures were too calculated.\"\nGeorge: \"I vote for eliminating Alice, as her behavior is very suspicious.\"\nHannah: \"I second that vote; it seems like the majority here trusts that judgment.\"\nAlice: \"I protest; I'm innocent!\"\nBrian: (Remains silent as the votes are tallied.)\nModerator: \"With the majority vote in favor, Alice has been eliminated.\"",
-  "night_elim": "Eva",
-  "day_elim": "Alice"
-}
-```
- Round Execution Time: 94.012602 seconds 

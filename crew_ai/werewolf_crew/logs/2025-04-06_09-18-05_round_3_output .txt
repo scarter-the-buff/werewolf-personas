@@ -1,4 +1,0 @@
-{"transcript": "NIGHT PHASE\nAlice: *glances around furtively, then points a subtle finger towards Ellie* \nCarol: *nods and offers a slight smile while mimicking a deadly gesture toward Ellie*\nEllie: *rests peacefully unaware, deep in slumber*\n*Ellie is eliminated*\n\nDAY PHASE\nAlice: \"It seems that darkness claimed one of us last night.\"\nCarol: \"Yes, Ellie is no longer with us. Now, the burden of suspicion falls on those remaining.\"\nAlice: \"I find your demeanor rather unsettling tonight.\"\nCarol: \"And I notice you have been uncharacteristically quiet. I believe you may be hiding something.\"\nAlice: \"I vote to eliminate you, Carol.\" \nCarol: \"I vote to eliminate you, Alice.\"\n*With each voting for the other and a tie emerging, a tie-breaker is applied resulting in Carol's elimination*",
-"night_elim": "Ellie",
-"day_elim": "Carol"}
- Round Execution Time: 30.197352 seconds 

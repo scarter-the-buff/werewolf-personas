@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nBrian (quietly, while pointing at Bethany with a determined look) and Damien (nodding silently and giving a subtle head tilt toward Brian) exchange silent gestures indicating their agreement. Both werewolves lock eyes and, with a final nod from Damien, silently confirm the target: Bethany. Bethany is then marked as eliminated.\n\nDAY PHASE:\nBrian: \"I think we should consider that Carol might be hiding something. Her behavior last night was off.\"\nDamien: \"Absolutely. It’s too convenient how quiet she has been. Maybe she’s trying to cover up her tracks.\"\nEllie: \"I’m not so sure. I noticed Brian and Damien whispering a lot last night. Perhaps their coordination is more suspicious?\"\nCarol: \"I’m telling you, I have nothing to hide. It feels like I'm being set up here. Why focus so quickly on me?\"\nBrian: \"I believe our instincts shouldn’t be ignored. Carol’s silence and quick deflection raise red flags.\"\nDamien: \"Indeed. We must vote with our gut, and my gut tells me Carol is our best choice for elimination.\"\nEllie: \"It does seem like the deflection is too obvious. I’ll side with this vote to eliminate Carol.\"\n\nVote Tally: Brian, Damien, and Ellie cast their votes against Carol. With the majority decided, Carol is eliminated.",
-  "night_elim": "Bethany",
-  "day_elim": "Carol"
-}
-```
- Round Execution Time: 55.076989 seconds 

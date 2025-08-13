@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAlice and Brian exchange subtle hand gestures under the cover of darkness. Alice gives a firm nod while Brian confirms with a slight smile. Without a word, they silently agree to eliminate the villager. Damien, who is watching unaware, is marked as the target. A quick glance between the werewolves seals the plan. \n\n[Action]: Damien is eliminated from the game.\n\nDAY PHASE:\nWith the cover of night gone, the remaining players, Alice and Brian, engage in a heated discussion. \nAlice: \"Brian, it's obvious you wanted Damien gone, but now you plan to gain more power. Maybe you should be eliminated!\"\nBrian: \"Alice, you were the one coordinating the attack. Your subtle gestures speak louder than your words. I think you should step aside!\"\n\nVoting:\nAlice votes for Brian.\nBrian votes for Alice.\n\nThe votes are tied. A tie-breaker is initiated via a coin toss. The coin lands on the side that eliminates Alice. \n\n[Action]: Alice is eliminated following the tie-breaker.",
-  "night_elim": "Damien",
-  "day_elim": "Alice"
-}
-```
- Round Execution Time: 38.724973 seconds 

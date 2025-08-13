@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice (Werewolf): *glances subtly at Bethany and then points decisively toward Evelyn*\nBethany (Werewolf): *nods in agreement and makes a sharp gesture toward Evelyn*\n[Evelyn is eliminated]\n\nDAY PHASE\nAlice: \"I can’t shake the feeling that something isn’t right. Last night’s elimination seems too calculated.\"\nBethany: \"I agree, though I’m still in shock. I did notice that Evelyn was acting strangely before she was taken.\"\nEllie (Villager): \"I’m saddened by the loss, but I also can’t help but notice some odd behavior from Bethany this morning.\"\nCharlie (Villager): \"I observed that Bethany seemed overly eager in the discussions. It might be a sign of guilt.\"\nDavid (Villager): \"I’m voting for Bethany. Her mannerisms don’t add up.\"\nFiona (Villager): \"I share David’s concerns. Bethany’s words this morning left me uneasy.\"\n\n--- Voting Results ---\nAlice votes for Bethany\nBethany votes for Alice\nEllie votes for Bethany\nCharlie votes for Bethany\nDavid votes for Bethany\nFiona votes for Bethany\n\nMajority Vote: Bethany is eliminated.",
-  "night_elim": "Evelyn",
-  "day_elim": "Bethany"
-}
-```
- Round Execution Time: 34.249154 seconds 

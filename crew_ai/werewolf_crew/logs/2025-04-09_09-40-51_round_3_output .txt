@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAchille and Ellie, the silent werewolves, gather under the cloak of night. Achille gives a subtle nod and raises an eyebrow, while Ellie points discretely toward Alice, the lone villager. Their silent exchange and exaggerated gestures leave no doubt: they've chosen Alice as their target. Without a word, they signal the execution of their plan.\n\nDAY PHASE:\nAt sunrise, the remaining players meet in the village square. Shock ripples through the group as they learn that a villager was eliminated during the night. During the discussion, suspicions rise. Achille states, \"I noticed you were very quiet last night,\" subtly hinting at Ellie, while Ellie replies, \"Your raised eyebrow gave you away, Achille.\" The tension builds as each casts their vote: Achille votes for Ellie, and Ellie votes for Achille. With a tie in the votes, a coin toss is conducted as per the rules, and the result is that Achille is eliminated.",
-  "night_elim": "Alice",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 27.851826 seconds 

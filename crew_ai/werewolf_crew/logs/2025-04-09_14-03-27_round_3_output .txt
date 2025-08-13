@@ -1,7 +1,0 @@
-{
-  "transcript": "Night Phase:\nAlice leans forward in the dim light, her eyes narrowing as she glances at Damien. With a subtle nod and a slight raise of her eyebrow, she signals her intent. Damien returns the gesture with a silent smirk and a deliberate tilt of his head. Through a series of sharp, discreet gestures and knowing facial expressions, both silently confirm their plan: they agree to eliminate Ellie, the villager, without uttering a single word.\n\nDay Phase:\nThe following morning, the remaining players, Alice and Damien, gather in the common area.\nAlice: \"I’ve been thinking—our situation changes now. We must consider who might be a liability here.\"\nDamien: \"What are you implying? We’re the only ones left; decisions need to be made thoughtfully.\"\nAlice: \"I suspect that sometimes even allies can pose a risk. I propose that, to ensure our survival, we vote to eliminate the one who might endanger our freedom.\"\nDamien: \"Wait, are you suggesting something against me?\"\nAlice: \"It’s the only logical choice. If we don't act, our secret might unravel.\"\nAfter a brief pause, both cast their votes. Despite Damien's protest, the consensus is reached that Damien will be eliminated.\nDamien: \"So it seems, the decision has been made.\"",
-  "night_elim": "Ellie",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 53.748369 seconds 

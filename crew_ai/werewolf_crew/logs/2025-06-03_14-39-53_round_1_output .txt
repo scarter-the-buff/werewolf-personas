@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *glances around furtively, then gestures to Bethany*\nDamien: *shakes his head in disagreement*\nAlice: *shifts gaze to Carol and points emphatically*\nDamien: *nods firmly and makes a slicing gesture across his throat*\nAlice: *claps hands softly in agreement*\n\n*Carol is eliminated*\n\nDAY PHASE\nBrian: \"Looks like Carol was eliminated last night.\"\nEllie: \"That's unfortunate. So we're down to six.\"\nBethany: \"Any thoughts on who might be a werewolf?\"\nAchille: \"I didn't see much from Alice or Damien yesterday.\"\nAlice: \"Same here, I was pretty quiet though.\"\nDamien: \"Me too.\"\nBrian: \"I have a gut feeling about Achille's silence.\"\nBethany: \"I noticed Achille didn't speak up until now.\"\nEllie: \"I agree, Achille has been too calm.\"\nAlice: \"I trust your instincts, Brian.\"\nDamien: \"Count me in.\"\nBrian: \"I vote to eliminate Achille.\"\nBethany: \"I vote Achille.\"\nEllie: \"I vote Achille.\"\nAlice: \"I vote Achille.\"\nDamien: \"I vote Achille.\"\nAchille: \"I don't think I'm the werewolf, but I'm suspicious of Bethany.\"\nAchille: \"I vote Bethany.\"\n\n*Achille is eliminated*",
-  "night_elim": "Carol",
-  "day_elim": "Achille"
-}
- Round Execution Time: 28.762348 seconds 

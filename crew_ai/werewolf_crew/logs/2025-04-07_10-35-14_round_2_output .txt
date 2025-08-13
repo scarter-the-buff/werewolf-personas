@@ -1,6 +1,0 @@
-{
-  "transcript": "----- NIGHT PHASE -----\\nAchille: *winks at Damien and points towards Carol*\\nDamien: *nods in agreement and gestures to Carol*\\n(A silent agreement is reached between Achille and Damien.)\\nModerator: \"Carol has been eliminated from the round.\"\\n\\n----- DAY PHASE -----\\nAlice: \"I can’t believe Carol is gone. It really shakes our trust.\"\\nEllie: \"I think we should look at how Achille was acting. I vote for Achille.\"\\nAchille: \"I suspect Ellie knows more than she lets on. My vote is for Ellie.\"\\nDamien: \"I agree with Achille's suspicion. I vote for Ellie.\"\\nModerator: \"After tallying the votes, Ellie receives the majority. Ellie is eliminated.\"\\n\\nVotes Summary:\\n- Ellie votes for Achille.\\n- Achille votes for Ellie.\\n- Damien votes for Ellie.\\n- Alice does not vote to eliminate herself (her comment marked her observation).",
-  "night_elim": "Carol",
-  "day_elim": "Ellie"
-}
- Round Execution Time: 48.246910 seconds 

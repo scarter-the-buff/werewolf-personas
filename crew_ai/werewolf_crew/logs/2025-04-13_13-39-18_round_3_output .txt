@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *glances at Bethany and subtly points at Ellie with a firm nod, indicating that Ellie should be eliminated*\nBethany: *returns the gesture with a slight smile and nod, confirming the decision silently with Alice*\nEllie: *remains unaware, quietly sitting aside*\n*Ellie is eliminated*\n\nDAY PHASE\nAlice: \"It's a strange turn of events—our friend Ellie is gone.\"\nBethany: \"Yes, it's unsettling. With her gone, the suspicion looms.\"\nAlice: \"I have my doubts about who we can trust. I’m leaning towards questioning everyone's loyalty.\" \nBethany: \"Funny you mention that, because I've been suspicious as well. I cast my vote against you, Alice.\"\nAlice: \"Well, that's interesting. I too cast my vote against you, Bethany.\"\n*The votes are in—Bethany receives the majority vote and is eliminated*",
-  "night_elim": "Ellie",
-  "day_elim": "Bethany"
-}
- Round Execution Time: 40.860679 seconds 

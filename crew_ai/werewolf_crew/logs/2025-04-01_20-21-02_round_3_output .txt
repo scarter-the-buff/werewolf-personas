@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAlice and Achille, the werewolves, silently gather in a secluded corner as the moon rises. Without uttering a word, Alice raises her right eyebrow and gives a subtle nod while Achille responds with a crisp, decisive gesture. Their eyes lock in agreement and they simultaneously point toward Damien, the villager, finalizing their silent pact.\n\nDAY PHASE:\nWith the new day dawning, tension fills the air among the remaining players. The survivors—Alice and Achille—convene in a hushed circle. Alice says, \"It seems Damien was taken in the night,\" while Achille adds, \"Yes, but now it's between us.\" After a brief exchange of glances and measured words, the vote takes shape: Alice casts her vote clearly for Achille, while Achille reciprocates by voting for Alice. In the end, following the vote count and adhering to the rule that no one votes for themselves, the rules determine that Achille is eliminated.",
-  "night_elim": "Damien",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 32.302324 seconds 

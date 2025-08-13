@@ -1,7 +1,0 @@
-{
-    "transcript": "NIGHT PHASE:\nAlice and Carol, both werewolves, huddle in the darkness. Alice raises her eyebrows, tilting her head and subtly pointing at Edward. Carol responds with a discreet nod and mimics a pointing gesture. Their silent communication is filled with furtive glances and carefully controlled expressions. In unison, they signal that Edward is to be eliminated.\n\n*NIGHT ELIMINATION: Edward is quietly removed from the game*\n\nDAY PHASE:\nWith the new day, the remaining players — Alice, Carol, Achille, Ellie, Bob, and Diana — gather to deliberate. Bob starts, saying, \"I think something feels off about the way we lost someone last night.\" Diana adds, \"We need to be careful. A wrong vote could doom us all.\" Achille remarks, \"Let's discuss each of our suspicions seriously.\" Ellie chimes in with, \"I haven't seen any clear evidence, but we must trust our instinct.\" Meanwhile, Carol, still undercover, listens intently and encourages others to share their thoughts.\n\nWhen it comes time to vote, the votes are cast as follows:\n- Bob votes for Alice.\n- Diana votes for Alice.\n- Achille votes for Alice.\n- Ellie votes for Alice.\n- Carol, blending in with the crowd, also votes for Alice.\n- Alice votes for Diana.\n\nThe majority votes point to Alice, and so she is eliminated from the game.\n\n*DAY ELIMINATION: Alice is eliminated*",
-    "night_elim": "Edward",
-    "day_elim": "Alice"
-}
-```
- Round Execution Time: 27.516267 seconds 

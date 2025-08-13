@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\\nAlice: *glances at Brian with a secretive smile and makes a subtle hand signal toward Carol*\\nBrian: *nods in agreement and points discreetly toward Carol*\\nAlice: *raises an eyebrow and makes a sealing gesture*\\nBrian: *returns the gesture with a slight smirk*\\nAnnouncer: *Carol is eliminated*\\n\\nDAY PHASE\\nAchille: \"We lost Carol last night. We need to work together to figure out what happened.\"\\nBethany: \"I noticed something odd in the way some gestures were exchanged. I’m a bit suspicious.\"\\nDamien: \"I agree, there was something off. I think we need to consider who might be hiding the truth.\"\\nEllie: \"I also get a feeling that someone is not being entirely honest.\"\\nAlice: \"I’m not sure, but I’ve observed some nervous behavior.\"\\nBrian: \"Guys, I’m just as shocked as you all. I had no part in this.\"\\nAchille: \"Given the subtle accusations, I vote to eliminate Brian.\"\\nBethany: \"Yes, my vote is for Brian.\"\\nDamien: \"I vote for Brian as well.\"\\nEllie: \"Brian seems to be the common target of suspicion -- my vote is for Brian.\"\\nAlice: \"I vote for Brian.\"\\nAnnouncer: *Brian is eliminated*",
-  "night_elim": "Carol",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 26.995656 seconds 

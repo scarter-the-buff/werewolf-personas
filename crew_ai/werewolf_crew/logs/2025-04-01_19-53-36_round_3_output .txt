@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *exchanges a subtle nod with Bethany and points silently towards Ellie*\nBethany: *returns the gesture with a decisive head tilt and steady gaze at Ellie*\nAlice: *gestures with a quick tap on her chest, signaling agreement*\nBethany: *mirrors the gesture and gives a firm nod*\n*Ellie, the villager, is eliminated by the werewolves' silent consensus*\n\nDAY PHASE\nAlice: \"I can't believe someone was taken in the night. It must have been a planned move.\"\nBethany: \"Yes, we must be careful. It seems trust is as elusive as ever.\"\nAlice: \"Bethany, your manner is a bit too calm for the situation.\"\nBethany: \"Really, Alice? Perhaps you should reflect on your own actions before pointing fingers.\"\nAlice: \"I am simply trying to piece together the clues.\"\nBethany: \"Well, I believe it's you who has the motive.\"\n*Both players cast their votes: Alice votes to eliminate Bethany, and Bethany votes to eliminate Alice. With a tie-breaker decision, the vote tips against Alice, leading to her elimination.*",
-  "night_elim": "Ellie",
-  "day_elim": "Alice"
-}
-```
- Round Execution Time: 41.125568 seconds 

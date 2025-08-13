@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nCarol: *glances furtively at Frank and subtly points at David*\nFrank: *nods in agreement and exchanges a secretive look with Carol*\nCarol: *raises an eyebrow, then gives a firm nod*\nFrank: *taps his finger as if confirming the target*\n-- David is eliminated --\n\nDAY PHASE\nBrian: \"I still can’t believe we lost David last night. We need to work together now.\"\nEllie: \"I’m as shocked as you are, but we must stay alert.\"\nEve: \"I’m feeling uneasy about someone among us.\"\nGrace: \"I noticed Ellie seemed too quick to defend herself this morning.\"\nCarol: \"I think we should consider all angles. My vote is with Ellie.\"\nFrank: \"I agree, Ellie seems off. I vote to eliminate Ellie.\"\nBrian: \"Then it seems we’re all leaning toward Ellie. My vote is for Ellie.\"\nEve: \"I’ll vote Ellie as well.\"\nGrace: \"I vote for Ellie too.\"\nEllie: \"I’m innocent! But if you must choose, I won’t vote for myself. I vote for Carol.\"\n-- With the majority of votes cast for Ellie, she is eliminated --",
-  "night_elim": "David",
-  "day_elim": "Ellie"
-}
-```
- Round Execution Time: 44.804924 seconds 

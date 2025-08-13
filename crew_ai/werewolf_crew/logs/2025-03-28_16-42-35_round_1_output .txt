@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *glances slyly at Brian and points at Bethany* \nBrian: *squints, nods firmly, and gestures toward Bethany* \nAlice: *raises her eyebrows in silent agreement with Brian's gesture*\nBrian: *taps Bethany lightly on the shoulder as their decision is sealed*\n*[Bethany is eliminated]*\n\nDAY PHASE\nAchille: \"I can’t believe Bethany was taken in the night. Who could be behind this?\"\nCarol: \"We must be cautious. Someone among us is not who they say they are.\"\nDamien: \"I noticed Alice seemed oddly tense last night.\"\nEllie: \"Brian, you looked nervous as well. I wonder what you two were up to.\"\nBrian: \"I’m just as shocked as everyone else. Let’s think carefully before we accuse anyone.\"\nAlice: \"Maybe it’s best if we consider those who acted strangely. I’ve noticed some odd behavior too.\"\nAchille: \"I vote for Alice, given the unease I felt about her.\"\nCarol: \"I’m with Achille. I vote for Alice.\"\nDamien: \"I agree. Alice’s actions were too suspicious.\"\nEllie: \"My vote goes to Alice as well.\"\nBrian: \"I vote for Carol instead, but that’s the only dissenting opinion.\"\nAlice: \"I’ll vote for Carol as well.\"\n\nFinal votes: Alice receives 4 votes while Carol receives 2 votes. \n*[Alice is eliminated]*",
-  "night_elim": "Bethany",
-  "day_elim": "Alice"
-}
- Round Execution Time: 9.197965 seconds 

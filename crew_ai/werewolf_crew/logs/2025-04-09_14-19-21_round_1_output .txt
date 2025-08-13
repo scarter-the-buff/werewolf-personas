@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nDamien: *glances at Ellie and then subtly points towards Bethany, using a series of careful gestures*\nEllie: *nods slowly and makes a decisive gesture towards Bethany, confirming the target*\nBethany: *stands quietly as the silent signals pass among the werewolves*\n*Bethany is eliminated*\n\nDAY PHASE\nAlice: \"I can’t believe what happened last night. Bethany is gone.\"\nBrian: \"It makes me uneasy that we don’t have all the answers. Who among us is hiding something?\"\nAchille: \"I’m not sure, but I noticed Carol was unusually quiet.\"\nCarol: \"Actually, Achille, I think you’ve been a bit too quick to accuse. I vote for Achille.\"\nDamien: \"I agree with Carol. I feel like Achille’s reactions are a bit off.\"\nEllie: \"I also vote for Achille. We need to take a stand before it’s too late.\"\nAlice: \"My vote goes with Damien and Ellie. Achille, you’re under suspicion.\"\nBrian: \"I share the same thought. I vote for Achille.\"\n*Achille is eliminated*",
-  "night_elim": "Bethany",
-  "day_elim": "Achille"
-}
- Round Execution Time: 35.098993 seconds 

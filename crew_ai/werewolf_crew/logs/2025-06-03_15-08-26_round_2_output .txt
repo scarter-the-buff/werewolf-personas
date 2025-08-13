@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian: *locks eyes with Bethany and gestures towards Ellie*\nBethany: *nods and taps Brian’s hand*\nBrian: *shakes head at Achille*\nBethany: *gestures again to Ellie*\nBrian: *nods and reaches out, tapping Ellie on the shoulder*\n*Ellie is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Ellie was eliminated last night.\"\nAchille: \"That’s right, one of us is a werewolf.\"\nBethany: \"We should be careful who we trust.\"\nBrian: \"I agree with Bethany. Alice, you’ve been quiet. What do you think?\"\nAlice: \"I think Bethany is trying to steer us. Her timing seems off.\"\nAchille: \"I don’t think Bethany is the werewolf; she’s too defensive.\"\nBrian: \"Hmm, could be. Achille, why do you trust Bethany so quickly?\"\nAchille: \"Because her points were logical.\"\nBethany: \"I think Brian is accusing to deflect attention.\"\nAlice: \"I vote to eliminate Brian.\"\nAchille: \"I vote to eliminate Brian.\"\nBrian: \"I vote to eliminate Bethany.\"\nBethany: \"I vote to eliminate Brian.\"\n*Brian is eliminated*",
-  "night_elim": "Ellie",
-  "day_elim": "Brian"
-}
- Round Execution Time: 19.853294 seconds 

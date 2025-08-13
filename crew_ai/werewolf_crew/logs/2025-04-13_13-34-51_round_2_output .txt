@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *glances at Carol, raises an eyebrow and makes a subtle hand gesture toward Damien*\nCarol: *nods in agreement, tilts head with a slight smile, and points discreetly toward Damien*\nBethany: *snores lightly, unaware of the secret signals*\nDamien: *remains oblivious in his sleep*\nEllie: *quietly dozes, unaware of the covert exchange*\n*Damien is eliminated*\n\nDAY PHASE\nAlice: \"I saw something odd last night. Perhaps Damien didn't act like our friend did. But now, I think we should be wary of Ellie.\"\nBethany: \"I agree with Alice; something about Ellie's calm made me suspicious.\"\nCarol: \"I have a feeling that Ellie may be hiding her true nature. We should consider her a risk.\"\nEllie: \"Hold on, I know you all are trying to cover your tracks. I find Alice's subtle remarks and gestures even more suspicious.\"\nAlice: \"Really Ellie? Look, I’m just offering an observation.\"\nBethany: \"I believe the consistency of the accusations points to Ellie. My vote goes to her.\"\nCarol: \"I second Bethany's vote for Ellie.\"\nEllie: \"Then I must vote for Alice, since I see her as the instigator.\"\n*Votes cast: Alice receives 1 vote from Ellie; Ellie receives 2 votes from Alice and Carol; Bethany implicitly supports Ellie by siding with the accusations as well*\n*Ellie is eliminated*",
-  "night_elim": "Damien",
-  "day_elim": "Ellie"
-}
-```
- Round Execution Time: 35.196630 seconds 

@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAchille: *glances around and subtly points at Bethany with a firm nod*\nDamien: *returns the look and gives a quick thumbs-up as confirmation*\nBethany: *unaware, remains silent as the werewolves close in*\n*Bethany is eliminated from the game*\n\nDAY PHASE\nAlice: \"I can’t believe what happened last night. It feels like something was off.\"\nBrian: \"I was in my room all night. I don’t see how I could be involved in this.\"\nAchille: \"I think we should consider everyone carefully—sometimes those who speak less may be hiding something.\"\nCarol: \"I noticed Brian seemed uneasy when the discussion turned to him. Could that be a sign?\"\nEllie: \"I’m not sure, but the tension makes me wonder if we should vote someone out to clear the air.\"\nDamien: \"It might be best to eliminate the person with the most suspicious behavior. Brian’s been drawing attention.\"\nAlice: \"I agree. Let’s all vote...\"\n*After secret ballots are tallied*\nModerator: \"The votes are in. Brian has the highest count and is eliminated.\"",
-  "night_elim": "Bethany",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 50.813376 seconds 

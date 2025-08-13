@@ -1,4 +1,0 @@
-{"transcript": "NIGHT PHASE:\nBrian: *exchanges a meaningful nod with Bethany, eyes fixed on Ellie*\nBethany: *raises an eyebrow and gestures subtly towards Ellie*\nBrian: *points discreetly to Ellie*\nBethany: *nods in agreement, sealing their fatal decision*\n*Ellie is silently eliminated by the werewolves*\n\nDAY PHASE:\nBrian: \"Last night, we lost one of us. It seems Ellie was the unfortunate target.\"\nBethany: \"Yes, but now the air is thick with suspicion. Who among us is not what they seem?\"\nBrian: \"I have my doubts, and I'd wager it isn't me. Bethany, your nervousness tells a story.\"\nBethany: \"Really, Brian? You're quick to cast accusations. Perhaps you're hiding something yourself.\"\nBrian: *casts his vote toward Bethany*\nBethany: *casts her vote toward Brian*\n*The votes tie, and by tie-break rule, Bethany is eliminated as the final decision*",
-"night_elim": "Ellie",
-"day_elim": "Bethany"}
-```

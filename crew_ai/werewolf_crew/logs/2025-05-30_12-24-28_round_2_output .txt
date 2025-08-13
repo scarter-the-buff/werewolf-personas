@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAchille: *gestures to Brian, pointing with a narrowed gaze*\nFiona: *nods subtly*\nAchille: *shakes head toward Ellie*\nFiona: *gestures to Brian again, tapping her chin thoughtfully*\nAchille: *nods firmly*\nFiona: *taps Brian on the shoulder*\n*Brian is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Brian was eliminated last night.\"\nDamien: \"We had seven players, now we’re down to six.\"\nEllie: \"I didn’t hear anything—just woke up.\"\nGeorge: \"Who do you think did it? Fiona, you seem quiet this morning.\"\nFiona: \"I was asleep when it happened—just as surprised as everyone else.\"\nAchille: \"I didn’t notice anything suspicious from Fiona either.\"\nAlice: \"Still, it’s worth watching.\"\nDamien: \"I’m a bit wary of Fiona’s calmness.\"\nEllie: \"Me too.\"\nGeorge: \"I agree—Fiona, can you account for your night?\"\nFiona: \"Stayed in bed the whole time.\"\nAchille: \"That doesn’t prove anything.\"\n\nVoting:\nAchille votes for Damien\nAlice votes for Fiona\nDamien votes for Fiona\nEllie votes for Fiona\nGeorge votes for Fiona\nFiona votes for Alice\n\n*Fiona is eliminated*",
-  "night_elim": "Brian",
-  "day_elim": "Fiona"
-}
- Round Execution Time: 31.220563 seconds 

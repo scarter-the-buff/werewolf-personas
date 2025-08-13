@@ -1,5 +1,0 @@
-{"transcript": "NIGHT PHASE\nAlice: *glances around furtively and makes subtle hand signals toward Bob*\nAchille: *nods and makes a decisive gesture toward Bob, confirming the silent agreement*\n*The two werewolves signal Bob as their target* \n*Bob is silently eliminated*\n\nDAY PHASE\nEllie: \"I find it hard to ignore the suspicious behavior lately, especially in Alice.\"\nClara: \"I agree with Ellie. Alice has been very evasive and seems too calm for someone in trouble.\"\nDavid: \"I believe we should be cautious. All signs point to Alice.\"\nEve: \"For the safety of everyone, I vote for Alice.\"\nAlice: \"I'm as shocked as you are; I really don't deserve this suspicion.\"\nAchille: *quietly exchanging a look with Alice while casting a hidden vote for David*\n\nVotes:\n- Votes for eliminating Alice: Ellie, Clara, David, Eve (4 votes)\n- Votes for eliminating David: Alice, Achille (2 votes)\n\n*With a clear majority, the village eliminates Alice*",
-"night_elim": "Bob",
-"day_elim": "Alice"} 
-```
- Round Execution Time: 32.550525 seconds 

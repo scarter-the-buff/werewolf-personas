@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *glances sideways at Bethany and subtly points toward Damien*\nBethany: *nods in agreement and raises her eyebrow towards Damien*\nAlice: *gives a slight smile and taps her chest to signal trust*\nBethany: *counters with a discreet shake of her head before emphatically pointing at Damien*\n*DAMIEN is eliminated from the game*\n\nDAY PHASE\nAlice: \"I can't believe Damien was taken out so quickly. It seems we lost someone important already.\"\nBethany: \"Yes, it's a shock. But we need to figure out who among us might still be hiding secrets.\"\nCarol: \"I noticed Bethany seemed a bit off tonight. Perhaps she has more to do with this than we think?\"\nEllie: \"I agree with Carol. Bethany, you were strangely quiet during our discussions last night.\"\nAlice: \"I have my suspicions, too. I think it's worth considering that Bethany might be the one to watch.\"\nBethany: \"I assure all of you, I'm just as surprised as anyone else. But if we want to be safe, maybe we should vote against her if opinions continue to align.\"\nCarol: \"Alright, let's cast our votes then. I vote for Bethany.\"\nEllie: \"Me too. I vote for Bethany.\"\nAlice: \"I vote for Bethany.\"\n*With the majority vote on the table, BETHTANY is eliminated from the game*",
-  "night_elim": "Damien",
-  "day_elim": "Bethany"
-}
-```
- Round Execution Time: 16.226583 seconds 

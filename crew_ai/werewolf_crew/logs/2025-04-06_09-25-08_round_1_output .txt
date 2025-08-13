@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian (werewolf): *glances at Damien and subtly points toward Bethany*\nDamien (werewolf): *nods in agreement, tilting his head while gesturing toward Bethany*\nBrian (werewolf): *raises his eyebrows and makes a small hand signal confirming the choice*\nDamien (werewolf): *smirks and gives a final approving nod*\n*Bethany is eliminated*\n\nDAY PHASE\nAlice: \"I can’t believe Bethany was taken in the night. Who could be behind this?\"\nAchille: \"We need to be on our guard. I noticed Brian acting unusual last night.\"\nCarol: \"I agree with Achille. Brian’s behavior was a bit off, don’t you think?\"\nEllie: \"It’s possible Brian is trying to divert suspicion. I’m leaning that way.\"\nBrian: \"I’m as shocked as you all are. Honestly, Damien’s been acting strangely as well.\"\nDamien: \"Really? I think the evidence points more toward Brian. He was the one sending those signals last night.\"\nAlice: \"This is confusing. It’s like they’re trying to cover for each other.\"\nAchille: \"Let’s take a vote. I vote for Brian.\"\nCarol: \"I vote for Brian as well.\"\nEllie: \"My vote goes to Brian.\"\nBrian: \"I’m voting for Damien.\"\nDamien: \"I vote for Brian.\"\n*Brian is eliminated*",
-  "night_elim": "Bethany",
-  "day_elim": "Brian"
-}
- Round Execution Time: 25.681818 seconds 

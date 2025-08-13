@@ -1,7 +1,0 @@
-{
-  "transcript": "********** NIGHT PHASE **********\nBrian: (Glances subtly at Damien, nodding and making a discreet hand gesture.)\nDamien: (Returns the gesture with a slight smile and raises an eyebrow, silently communicating his agreement.)\nNarrator: The two werewolves silently decide, agreeing to eliminate Carol from the game.\n\n********** DAY PHASE **********\nAlice: \"Good morning everyone. It’s tragic what happened last night; we lost one of our own.\"\nAchille: \"I feel uneasy. We need to carefully consider who might be deceiving us.\"\nBethany: \"I agree, something felt off. We must look at everyone’s behavior closely.\"\nEllie: \"It’s scary how quiet and secretive things got. We need to trust our instincts and speak up.\"\nBrian: \"Let’s be cautious with our words; quick judgments can be dangerous.\"\nDamien: \"Perhaps someone among us is not what they seem. I have my suspicions, though we must all be open and honest.\"\n\nNarrator: After a heated discussion, the group agrees to vote. The votes are as follows:\n- Alice votes for Achille\n- Brian votes for Achille\n- Achille votes for Bethany\n- Bethany votes for Achille\n- Damien votes for Achille\n- Ellie votes for Achille\n\nNarrator: With the majority of votes pointing to Achille, the players decide to eliminate him.",
-  "night_elim": "Carol",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 40.610562 seconds 

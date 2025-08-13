@@ -1,6 +1,0 @@
-{
-  "transcript": "----------NIGHT PHASE----------\nBethany: *exchanges a determined look with Damien, silently pointing at Alice and nodding subtly*\nDamien: *returns the gesture with a slight tilt of his head, clearly agreeing to the plan*\n[In the silence of the night, the werewolves decide and Alice is quietly eliminated.]\n\n----------DAY PHASE----------\nBethany: \"I was thinking—maybe we should consider if Carol might have had a hand in what happened last night.\"\nDamien: \"Yes, I noticed Carol seemed unusually reserved. That might be more than sheer shock.\"\nCarol: \"I’m telling you, I had nothing to do with it! I was as shocked as everyone else.\"\nEllie: \"I’m really not sure, but there’s something off about the whole situation...\"\nBethany: \"I believe our best move is to vote carefully. I vote to eliminate Carol.\"\nDamien: \"I vote to eliminate Carol.\"\nEllie: \"I vote to eliminate Carol.\"\nCarol: \"I vote to eliminate Damien.\"\n[With the majority of votes pointing to her, Carol is eliminated during the day phase.]",
-  "night_elim": "Alice",
-  "day_elim": "Carol"
-}
- Round Execution Time: 55.928746 seconds 

@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nCarol: *gestures to David*\nHenry: *nods*\nCarol: *shakes head*\nHenry: *gestures to David again*\nCarol: *nods*\nHenry: *taps David on the shoulder*\n*David is eliminated*\n\nDAY PHASE\nBrian: \"Looks like David was eliminated last night.\"\nEllie: \"We start with six now.\"\nCarol: \"I'm worried about Henry; he was awfully quiet last night.\"\nFrank: \"I agree, Henry has been acting strange.\"\nGrace: \"Come on, Frank, any proof?\"\nHenry: \"I was just thinking, Frank, why so quick to point fingers?\"\nBrian: \"Grace, what do you think? You haven't said much.\"\nGrace: \"I think Frank and Carol are trying to steer the conversation.\"\nEllie: \"I feel like Carol is too aggressive; she might be a werewolf.\"\nCarol: \"That's ridiculous, I'm just participating.\"\nFrank: \"Alright, let's vote.\"\nBrian: \"I vote for Carol.\"\nEllie: \"I vote for Carol.\"\nGrace: \"I vote for Carol.\"\nHenry: \"I vote for Carol.\"\nFrank: \"I vote for Carol.\"\n*Carol is eliminated*",
-  "night_elim": "David",
-  "day_elim": "Carol"
-}
- Round Execution Time: 13.315076 seconds 

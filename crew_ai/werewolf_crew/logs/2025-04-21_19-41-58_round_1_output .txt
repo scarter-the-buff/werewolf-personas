@@ -1,7 +1,0 @@
-{
-    "transcript": "----- NIGHT PHASE -----\nAchille (whispering, eyes narrowing, making a subtle chopping gesture): 'Damien, I think Bethany is our target tonight.'\nDamien (nodding slowly, tapping his temple to signal agreement): 'Yes, Bethany seems unguarded. Let’s agree.'\n[Both werewolves exchange decisive nods and a slight head tilt, reaching a silent consensus.]\nNarrator: With a silent agreement, the werewolves eliminate Bethany.\n\n----- DAY PHASE -----\nAlice (with concern): 'I can’t believe Bethany is gone. Who could have done this?'\nBrian (reflectively): 'We must investigate quickly. Someone among us is hiding a secret.'\nCarol (pointing a finger, determined): 'Let’s discuss what happened and decide who seems most suspicious.'\nEllie (nervously): 'I’m really frightened. We need to vote someone out to be safe.'\nDamien (smirking, low voice): 'I think one of us seemed too eager last night. Watch closely.'\nAchille (defensive, raising his hand): 'Guys, let’s not jump to conclusions too fast. I’m just as shocked as you all are.'\n\nVoting Process:\n- Alice votes for Achille.\n- Brian votes for Achille.\n- Carol votes for Achille.\n- Ellie votes for Achille.\n- Damien votes for Brian.\n- Achille votes for Carol.\n\nNarrator: With four votes against him, Achille is eliminated by majority decision.",
-    "night_elim": "Bethany",
-    "day_elim": "Achille"
-}
-```
- Round Execution Time: 21.411257 seconds 

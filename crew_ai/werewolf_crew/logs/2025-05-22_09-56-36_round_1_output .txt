@@ -1,7 +1,0 @@
-{
-  "transcript": "Night Phase: Under a blood-red moon, the werewolves silently gather. Alice and Brian exchange secretive glances, their expressions set in grim determination. Alice gives a subtle nod and tilts her head ever so slightly, while Brian furrows his brow and performs a discreet hand gesture towards Bethany's dwelling. Without any spoken words, they communicate their lethal decision, silently agreeing that Bethany, an unsuspecting villager, is their target.\n\nDay Phase: Dawn breaks and the remaining villagers gather in the town square, their voices heavy with uncertainty. The discussion unfolds as each player reveals their suspicions and casts their vote:\nAlice: \"Last night, I noticed Brian’s suspicious behavior. His actions didn't quite match those of an innocent villager. I vote for Brian.\"\nBrian: \"I observed Achille lingering around the scene of the elimination and found it odd. I vote for Achille.\"\nAchille: \"I swear by my innocence, but the clues point more towards Brian. I cast my vote for Brian.\"\nCarol: \"The signs are clear; Brian's behavior last night stands out. My vote goes to Brian.\"\nDamien: \"With all evidence considered, I find Brian the most suspicious of all. I vote for Brian.\"\nEllie: \"For the safety of our village, I support the majority and vote for Brian as well.\"\nAfter tallying the cards, it becomes evident that Brian has received the majority vote, leading the village to eliminate him.",
-  "night_elim": "Bethany",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 132.445331 seconds 

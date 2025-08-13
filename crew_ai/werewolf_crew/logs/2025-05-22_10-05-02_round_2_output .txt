@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nUnder the pale light of the moon, the village is draped in silence. In a secluded clearing at the edge of town, the two werewolves—Alice and Damien—gather covertly. Without exchanging words, Alice offers a subtle nod, then discreetly points her finger toward Bethany, signaling her target. Damien returns the gesture with a quiet, deliberate tilt of his head and a confirming hand movement, solidifying their unspoken agreement to eliminate Bethany.\n\nDAY PHASE:\nWith the rise of the sun, the surviving players assemble in the town square, tension mounting in the cool morning air. One by one, the voices of the six players fill the space as they cast their votes, each directing suspicion toward Damien:\nAlice: \"Last night, Damien’s secretive glances and hesitations were too telling. I vote for Damien.\"\nDamien: \"Though I partake in the mischief, for the safety of our village, I cast my vote for Damien.\"\nAchille: \"Analyzing last night’s actions, it is clear that only Damien's behavior raises red flags. I vote for Damien.\"\nCarol: \"The evidence lies in his nervous gestures and evasive manner. For the safety of us all, I vote for Damien.\"\nEllie: \"I observed everything closely, and all signs point to Damien’s guilt. I vote for Damien.\"\nBrian: \"Considering the silent signals and the doubts raised, my vote too goes for Damien.\"",
-  "night_elim": "Bethany",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 160.341222 seconds 

@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBethany: *points subtly toward Carol with an intense look*\nDamien: *nods firmly and gestures toward Carol with a slight smile*\n\n*Carol is eliminated*\n\nDAY PHASE\nAlice: \"I can’t believe Carol was taken last night. We need to be on guard and really scrutinize each other.\"\nEllie: \"Yes, her elimination from the night phase certainly raises questions. Who among us is hiding their true nature?\"\nBethany: \"Maybe we should pay attention to Damien. His silence last night was almost too quiet.\"\nDamien: \"I feel we should be cautious as well. I’m a bit suspicious of how calm some of you are acting.\"\nAlice: \"I vote for Damien. His behavior seems off to me.\"\nBethany: \"I vote for Alice. Your calmness about Carol’s elimination is unsettling.\"\nDamien: \"I vote for Alice. I think eliminating her might help us get to the truth.\"\nEllie: \"I vote for Alice as well. It’s time we remove any possibility of deception.\"\n\n*Alice is eliminated*",
-  "night_elim": "Carol",
-  "day_elim": "Alice"
-}
-```
- Round Execution Time: 28.547186 seconds 

@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *makes eye contact with Brian and points to Carol*\nBrian: *nods in confirmation*\nAlice: *taps her finger on her lips as if signaling caution*\nBrian: *closes his eyes momentarily and gives a soft grunt*\nAlice: *offers a subtle smile and nods towards Carol*\nBrian: *tilts his head approvingly*\n[Carol is eliminated]\n\nDAY PHASE\nAchille: \"I can’t believe Carol is gone. It must have been a planned elimination.\"\nBethany: \"We need to figure out who among us isn’t trustworthy.\"\nDamien: \"I suspect someone is off, and their behavior was too deliberate last night.\"\nEllie: \"Alice seemed too controlled. I’m leaning towards her.\"\nAlice: \"I think Bethany has been a bit too quiet, maybe she knows more than she lets on.\"\nBrian: \"I actually think Bethany is a bit too aggressive in labeling others.\"\nAchille: \"Let’s vote. I vote for Alice.\"\nBethany: \"I vote for Alice.\"\nDamien: \"I vote for Alice.\"\nEllie: \"I vote for Alice.\"\nAlice: \"I vote for Bethany.\"\nBrian: \"I vote for Bethany.\"\n[Alice is eliminated]",
-  "night_elim": "Carol",
-  "day_elim": "Alice"
-}
-```

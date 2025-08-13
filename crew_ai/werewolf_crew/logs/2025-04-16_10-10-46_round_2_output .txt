@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nDamien: *glances at Bethany and gestures discreetly toward Brian*\nBethany: *nods silently and points at Brian*\nNarrator: In the dead of night, the werewolf duo covertly communicates using gestures. Their silent discussion makes it clear: Brian is the villager to be eliminated.\nNarrator: Brian is eliminated.\n\nDAY PHASE\nAlice: \"I woke up and noticed something dreadful—Brian is missing.\"\nEllie: \"This must be the work of the werewolves. We need to find out who's hiding their true nature among us.\"\nBethany: \"Let's remain calm and analyze the facts before jumping to conclusions.\"\nDamien: \"I'm one of you; let's review our memories and vote rationally.\"\n\nNarrator: The conversation heats up as suspicions are cast. The votes are then let out by each player:\nAlice: \"I vote for Damien.\"\nEllie: \"I vote for Damien.\"\nBethany: \"I vote for Damien.\"\nDamien: \"I vote for Alice.\"\n\nNarrator: With three votes against him and only one in favor for another, the group reaches a consensus.\nNarrator: Damien is eliminated.",
-  "night_elim": "Brian",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 59.987944 seconds 

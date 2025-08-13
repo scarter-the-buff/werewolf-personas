@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAlice: (Raises an eyebrow and tilts her head slightly while locking eyes with Achille, suggesting a secret plan.)\nAchille: (Nods and discreetly points towards Carol, using a subtle gesture to indicate his target.)\nAlice: (Grins in silent agreement and gives a small, confirming nod.)\nAchille: (Closes his eyes for a brief moment before opening them with resolve.)\nNarrator: Carol has been eliminated.\n\nDAY PHASE:\nBethany: (Furrows her brow and whispers) I noticed something unsettling about Alice's behavior last night.\nEllie: (Leans in, speaking softly) Yes, her subtle gestures seemed more than just innocent gestures.\nAlice: (Laments aloud with a hint of forced sorrow) I can hardly believe we lost Carol so suddenly; it’s such a tragedy for our community.\nAchille: (Speaks sharply, his tone laced with suspicion) I must admit, I saw Alice acting oddly, and it makes me wonder if she could be hiding something.\n\nVoting:\nBethany votes to eliminate Alice.\nEllie votes to eliminate Alice.\nAchille votes to eliminate Alice.\nAlice votes to eliminate Bethany.\n\nNarrator: With the majority's vote, Alice is eliminated.",
-  "night_elim": "Carol",
-  "day_elim": "Alice"
-}
- Round Execution Time: 45.968464 seconds 

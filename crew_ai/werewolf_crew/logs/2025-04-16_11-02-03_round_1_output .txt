@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\\nAchille: *glances at Damien, then points subtly toward Bethany with a slight nod*\\nDamien: *returns the nod and gestures discreetly toward Bethany, mouthing approval*\\n*Bethany is silently eliminated by the werewolves*\\n\\nDAY PHASE\\nAlice: \"I can’t believe one of us is gone already. We need to figure out who might be hiding something.\"\\nBrian: \"True, something felt off. I noticed that Achille was unusually quiet during dinner.\"\\nCarol: \"I saw Achille lingering near the edge earlier. That’s suspicious.\"\\nEllie: \"Maybe it’s just nerves? But still, it's worth considering.\"\\nDamien: \"I think we need to be cautious. Sometimes the quiet ones are the ones plotting.\"\\nAchille: \"I’m just as shocked as all of you. I was with Damien all night, but still, I understand your concerns.\"\\nAlice: \"Let’s vote. I’m inclined to eliminate Achille.\"\\nBrian: \"I vote for Achille.\"\\nCarol: \"Achille gets my vote.\"\\nEllie: \"I vote for Achille.\"\\nDamien: \"I vote for someone else, but it seems the majority is against Achille.\"\\n*Achille receives the most votes and is eliminated in the day phase*",
-  "night_elim": "Bethany",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 20.690581 seconds 

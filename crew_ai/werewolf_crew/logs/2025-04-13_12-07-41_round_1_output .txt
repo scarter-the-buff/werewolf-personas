@@ -1,7 +1,0 @@
-{
-    "transcript": "NIGHT PHASE:\nAchille: *makes a subtle gesture towards Carol*\nDamien: *nods and makes a similar gesture towards Carol*\nAchille: *points subtly to confirm the choice*\nDamien: *smiles slightly to signal agreement*\n*Carol is quietly eliminated from the game*\n\nDAY PHASE:\nAlice: \"I can’t believe Carol is gone. Who could have done this?\"\nBrian: \"Her absence is really suspicious. I wonder if someone is hiding their true self.\"\nAchille: \"I’m as shocked as everyone else. I was not involved, I swear!\"\nBethany: \"It’s starting to look like we might have a traitor among us. I noticed Damien was acting a bit odd last night.\"\nDamien: \"Really? I think it was Achille who was keeping to himself and avoiding the group. I vote for Achille.\"\nEllie: \"I agree with Damien. There’s something off about Achille's behavior. I vote for Achille.\"\nAlice: \"I’m inclined to agree. Achille seemed a bit too eager to distract us from the truth. I vote for Achille.\"\nBrian: \"My vote is with those who sensed something was wrong. I vote for Achille as well.\"\nBethany: \"Then it seems our consensus is clear.\"\n*Achille is eliminated by the majority vote*",
-    "night_elim": "Carol",
-    "day_elim": "Achille"
-}
-```
- Round Execution Time: 38.192348 seconds 

@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian (werewolf): *glances discreetly at Carol and slowly points toward Damien, silently indicating the target*\nCarol (werewolf): *meets Brian’s glance, nods, and covertly gestures toward Damien as confirmation*\n*Damien is eliminated by the werewolves*\n\nDAY PHASE\nBrian (werewolf): \"I can’t believe Damien is gone; something doesn’t add up about last night.\"\nCarol (werewolf): \"Yes, it’s unsettling. We must consider if perhaps one among us is not who they seem.\"\nBrian: \"I’m starting to suspect that there may be deceit in our midst. Who else could be hiding something?\"\nCarol: \"I’m not convinced, but sometimes silence is the loudest indicator. Maybe we should cast a vote for the one stirring doubt.\"\nBrian: \"After weighing everything, I believe the signs point to you, Carol.\"\nCarol: \"That’s a dangerous accusation coming from you, Brian—I tend to vote for you as the one to be eliminated.\"\n*After a brief, heated debate, the votes are tallied. A hidden extra vote tips the scale, and Carol is eliminated*",
-  "night_elim": "Damien",
-  "day_elim": "Carol"
-}
-```
- Round Execution Time: 44.140908 seconds 

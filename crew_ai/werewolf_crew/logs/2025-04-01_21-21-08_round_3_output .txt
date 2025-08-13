@@ -1,7 +1,0 @@
-{
-  "transcript": "Night Phase:\nThe moon is high and the atmosphere is tense as silence falls over the group. Alice and Damien, both werewolves, communicate exclusively through gestures. Alice gives a slow nod while tilting her head, and Damien responds with a slight smile and a raised eyebrow. Their silent signals, full of meaning, clearly indicate that Ellie, the only villager, is to be eliminated. With furtive movements and exchanged glances, they confirm their plan, and as the night deepens, Ellie is quietly taken out of the game.\n\nDay Phase:\nDawn breaks and the remaining players gather for a critical discussion. The grim reminder of the night's loss is evident as the group confronts the situation.\n\nAlice: \"It’s clear Ellie was taken last night. Now, we must decide who among us should be eliminated to restore balance.\"\n\nDamien: \"Yes, and while none of us would choose to vote for ourselves, we must cast our votes for one of us. It’s our only option to proceed.\"\n\nAlice: \"In this delicate situation, though it pains me, I see that our numbers tilt against me.\"\n\nDamien: \"After weighing our positions and the necessity of the vote, I agree. Our majority vote leads us to a difficult choice.\"\n\nVotes are cast, and through a consensus that shakes the very core of their alliance, the majority points to Alice. With a final, solemn nod, the vote is confirmed and Alice is eliminated from the game.",
-  "night_elim": "Ellie",
-  "day_elim": "Alice"
-}
-```
- Round Execution Time: 72.457617 seconds 

@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAlice: *glances at Achille and gives a subtle nod*\nAchille: *points silently towards Ellie while raising his eyebrows in agreement*\nEllie: (unaware of the secret signals)\n*Ellie is eliminated*\n\nDAY PHASE:\nAlice: \"The night has cast a veil over all, but perhaps our actions speak louder than words. I believe the outcome of our secret decision should be respected.\"\nAchille: \"I agree that trust is fragile, but sometimes a single misstep can lead us astray. I'm left wondering if one of us is trying to hide the truth.\"\nAlice: \"Given the circumstances, it's clear that the only course of action for maintaining our group's integrity is to eliminate the one whose actions now raise the most questions. My vote is for you, Achille.\"\nAchille: \"That is a surprising twist, Alice. I was considering the same for you, yet your argument sways me. Nonetheless, I cast my vote for you.\"\n*Voting Process Initiated: Votes are recorded as follows: Alice votes for Achille; Achille votes for Alice. Additionally, an extra symbolic vote materializes in favor of Alice's persuasive argument, giving Achille a double count.*\n*Achille receives the majority of votes and is eliminated*",
-  "night_elim": "Ellie",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 23.146520 seconds 

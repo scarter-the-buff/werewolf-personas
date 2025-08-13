@@ -1,7 +1,0 @@
-{
-    "transcript": "NIGHT PHASE\nAlice (Werewolf): *glances at Carol and subtly tilts her head while pointing towards Ellie*\nCarol (Werewolf): *nods in agreement and discreetly points towards Ellie*\nNarrator: Through silent gestures and mutual understanding, Alice and Carol have chosen Ellie to eliminate.\n[*Ellie is eliminated from the game*]\n\nDAY PHASE\nAlice (Werewolf): \"Last night’s events leave me uneasy. I wonder if our actions might draw suspicion. We must decide carefully now.\"\nCarol (Werewolf): \"I agree, Alice. But I trust our decision was correct. Yet, if doubt remains, a sacrifice might restore our standing.\"\nAlice (Werewolf): \"In a difficult twist, it seems the vote must fall on one of us to ensure our secret remains safe.\"\nCarol (Werewolf): \"If that is the vote, then I must accept my fate so that our plan survives.\"\nAlice (Werewolf): *places her voting card decisively on the table marked 'Eliminate Carol'*\nCarol (Werewolf): *places her voting card silently, accepting the outcome*\nNarrator: With the vote cast, Carol is eliminated from the day phase.",
-    "night_elim": "Ellie",
-    "day_elim": "Carol"
-}
-```
- Round Execution Time: 39.920187 seconds 

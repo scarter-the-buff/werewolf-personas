@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nDamien and Ellie huddle silently under the cover of night. Damien gives a subtle tap on his chest and then points discreetly towards Alice with a firm, determined gaze. Ellie meets his look, raises her eyebrow, and makes a slicing gesture in the air—a clear sign of agreement. No words are spoken as their coordinated gestures seal the fate of Alice as the victim, and the shadow of secrecy falls over the group.\n\nDAY PHASE\nAt dawn, the surviving players gather. Damien, with a calm yet intense tone, begins, 'I believe we should eliminate Ellie today,' hinting at the necessity to remove potential danger. Ellie immediately fires back with conviction, 'I vote for you, Damien,' making it clear that her decision is final. As per the game rules, players do not vote against themselves, and with one vote each—a stalemate ensues. The tie-breaker rule is invoked, resulting in the decision to eliminate Damien.",
-  "night_elim": "Alice",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 53.989295 seconds 

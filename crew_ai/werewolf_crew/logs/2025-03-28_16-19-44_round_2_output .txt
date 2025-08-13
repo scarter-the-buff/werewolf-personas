@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAchille (whispering with a sly smile and subtle gestures towards Damien): *nods and points discreetly at Bethany while giving a knowing look*\nDamien (returning the gesture with a quiet smirk and a firm nod): *gestures affirmatively towards Bethany, then subtly shakes his head to signal no alternative choice*\n[Through a secret exchange of furtive glances and controlled facial expressions, Achille and Damien silently agree that Bethany is to be eliminated.]\n*Bethany is eliminated*\n\nDAY PHASE\nAlice (with a worried tone and cautious eye contact): \"I can’t believe Bethany is gone. What do you all think happened last night?\"\nAchille (trying to appear calm yet a bit defensive, glancing at Damien): \"Maybe it was just a misfortune, but I think we need to carefully examine our suspicions.\"\nDamien (leaning back with a reserved smile and a pointed glance at Achille): \"We shouldn’t be too quick to judge, but sometimes the obvious choice is the guilty one. What about you, Ellie?\"\nEllie (speaking in a firm, clear tone and fidgeting nervously): \"I believe we need to act decisively. I vote for the one who seems most evasive.\"\n\n[Voting]\nAlice votes for Achille.\nAchille votes for Damien.\nDamien votes for Achille.\nEllie votes for Achille.\n\n[The votes are tallied: Achille receives three votes and Damien one.]\n*Achille is eliminated*",
-  "night_elim": "Bethany",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 30.853872 seconds 

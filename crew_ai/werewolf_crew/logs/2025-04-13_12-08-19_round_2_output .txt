@@ -1,7 +1,0 @@
-{
-  "transcript": "-----NIGHT PHASE-----\nBrian (Werewolf) and Damien (Werewolf) exchange subtle gestures while the villagers sleep. Brian raises an eyebrow and gives a slight nod toward Alice. Damien meets his look with a small smile and discreetly points to Alice. Their silent agreement is clear: Alice is the target for elimination. (Note: The villagers remain completely unaware of these secret signals.)\n\n[Alice is eliminated quietly during the night.]\n\n-----DAY PHASE-----\nBrian: \"We wake to a somber day, knowing someone is missing already...\"\nDamien: \"I’m as shocked as the rest. We have to find the culprit by sharing our observations.\"\nBethany: \"I noticed Damien seemed particularly uneasy when any mention of a particular name came up last night.\"\nEllie: \"Yes, and his reactions have me doubting his innocence.\"\nBrian: \"Damien, we need clarity here. Your silence is as suspicious as any overt accusation.\"\nDamien: \"I'm telling you, I’m as lost as you are, but if you feel strongly, I won’t stand in the way of your decision.\"\nBethany: \"I vote for eliminating Damien. His behavior tonight raised too many red flags.\"\nEllie: \"I’m with Bethany. My vote goes to Damien too.\"\nBrian: \"Alright, with the majority of votes, we have to act upon it.\"\n\n[After a majority vote, Damien is eliminated at the end of the day phase.]",
-  "night_elim": "Alice",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 51.092463 seconds 

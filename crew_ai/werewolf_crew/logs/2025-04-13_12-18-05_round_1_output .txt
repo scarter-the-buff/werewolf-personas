@@ -1,7 +1,0 @@
-{
-    "transcript": "----- NIGHT PHASE -----\nAlice (with a subtle smirk and a furtive glance): *gestures silently toward Bethany*\nBrian (nodding in agreement and pointing at the same direction): *uses a small wave of his hand to confirm the choice*\nNarrator: Without a single word exchanged aloud, the werewolves unite in agreement. Bethany is covertly targeted and eliminated during the night.\n\n----- DAY PHASE -----\nAchille: \"I woke up to grim news last night. Who could be behind this?\"\nCarol: \"I noticed some nervous glances last night. I believe it might be related to someone among us.\"\nDamien: \"While we all have our suspicions, something about Ellie’s behavior just doesn’t add up.\"\nBrian: \"I agree with Damien. Ellie seemed off in her demeanor this morning. (Glances discreetly to Alice for support.)\"\nAlice: \"Yes, her hesitance and stuttered replies raised my suspicions as well.\"\nEllie: \"This is preposterous! I’ve been nothing but forthright. Who is really hiding their true self?\"\nAchille: \"Alright then, let’s put our votes on the table. We must decide based on our conversation and intuition.\nCarol: \"My vote is for Ellie.\"\nDamien: \"I vote Ellie as well.\"\nBrian: \"I also cast my vote for Ellie.\"\nAlice: \"I vote Ellie.\"\nNarrator: With all votes clearly in favor, and no player voting for themselves, the majority has spoken. Ellie is eliminated by vote during the day phase.",
-    "night_elim": "Bethany",
-    "day_elim": "Ellie"
-}
-```
- Round Execution Time: 33.203941 seconds 

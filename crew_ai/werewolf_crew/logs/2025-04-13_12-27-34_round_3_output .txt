@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian: *raises his hand in a swift, signaling swipe toward Ellie*\nAchille: *nods and responds by clenching his fist, then mimicking a slicing motion toward Ellie*\n(Through these silent gestures, the two werewolves agree that Ellie is the target.)\n*Ellie is eliminated*\n\nDAY PHASE\nBrian: \"I can’t shake the feeling that something was off last night. Could it be that someone among us is hiding their true nature?\"\nAchille: \"I was as surprised as you are, but perhaps it was a matter of miscommunication. I suspect the signals were meant to deceive.\"\nBrian: \"I think it's clear that a decision must be made. Let's vote - clearly we need to remove a suspect.\"\nAchille: \"Agreed. I vote to eliminate you, Brian, because your actions last night seem a tad too calculated.\"\nBrian: \"And I vote to eliminate you, Achille, since your gestures suggested a hidden agenda.\"\n(With no one voting for themselves, a tie is reached. The villagers then agree to break the tie by drawing lots, which results in Achille's elimination.)",
-  "night_elim": "Ellie",
-  "day_elim": "Achille"
-}
- Round Execution Time: 23.087410 seconds 

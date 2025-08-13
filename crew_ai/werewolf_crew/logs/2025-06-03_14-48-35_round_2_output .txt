@@ -1,8 +1,0 @@
-```python
-{
-  "transcript": "NIGHT PHASE\nBethany: *glances at Damien, raises eyebrows*\nDamien: *tilts head*\nBethany: *slowly points at George*\nDamien: *nods*\n*George is eliminated*\n\nDAY PHASE\nBrian: \"Looks like George was eliminated last night.\"\nCarol: \"Yes, it's down to six of us now.\"\nEllie: \"We need to find the werewolves.\"\nFiona: \"I noticed Bethany stayed quiet.\"\nDamien: \"I was just listening.\"\nBethany: \"Well, maybe Brian wasn't very talkative yesterday.\"\nBrian: \"I was just thinking!\"\nCarol: \"Bethany, you seem a bit defensive...\"\nEllie: \"What do you think, Fiona?\"\nFiona: \"I suspect Bethany. She's deflecting.\"\nDamien: \"Carol, any thoughts?\"\nCarol: \"I feel Damien's behavior was odd.\"\nBrian: \"Alright, let's vote!\"\n\nBrian: votes Damien\nEllie: votes Damien\nCarol: votes Bethany\nFiona: votes Damien\nBethany: votes Brian\nDamien: votes Damien\n\n*Damien is eliminated*",
-  "night_elim": "George",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 35.454260 seconds 

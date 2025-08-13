@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nDamien (Werewolf): *glances around in the dim light, then gives a subtle nod and points discreetly towards Bethany*\nAchille (Werewolf): *mirrors Damien's action by lifting his hand slowly, tapping his temple, and directing his palm toward Bethany*\n*Bethany, a villager, remains unaware of the secret signals being exchanged as the werewolves silently agree on their target*\n*Bethany is eliminated by the werewolves during the night phase*\n\nDAY PHASE\nAlice (Villager): \"I woke up to unsettling news last night. It seems we lost one of our own. I feel we must remain vigilant.\"\nDamien (Werewolf, disguised as villager): \"Last night was strange, and my suspicions point towards Ellie. I vote to eliminate Ellie.\"\nAchille (Werewolf, disguised as villager): \"I agree with Damien. Ellie's behavior this morning was off. My vote is for Ellie.\"\nEllie (Villager): \"I'm in shock and trying to understand all of this, but if I have to choose, I vote for Alice.\"\nAlice (Villager): \"I understand the tension, but in my intuition something about Ellie didn't sit right last night. I vote for Ellie as well.\"\n*After a brief but intense discussion, the votes are tallied: Alice, Damien, and Achille vote for eliminating Ellie while Ellie votes for Alice. With the majority decision, Ellie is eliminated during the day phase.*",
-  "night_elim": "Bethany",
-  "day_elim": "Ellie"
-}
-```
- Round Execution Time: 20.294192 seconds 

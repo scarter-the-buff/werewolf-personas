@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nIn the deep silence of night, Damien and Ellie, the two werewolves, exchange secret signals through subtle gestures. Damien gives a slight nod, and Ellie points discreetly at Alice. Their eyes lock in a silent conversation, confirming their deadly decision. Without a single word, they agree to eliminate Alice, the lone villager, and the grim act unfolds as Alice is quietly removed from the game.\n\nDAY PHASE:\nAt dawn, the surviving players, Damien and Ellie, gather with tension thick in the air. Damien breaks the silence, \"I can't believe such whispers were directed at me last night,\" while Ellie fires back, \"Maybe you should reflect on your actions instead.\" Their voices rise in a passionate debate as each accuses the other of deception. Neither dares to vote against themselves, and the votes result in a tie. Left with no other option, a tiebreaker vote is called. In the final decision, the majority points to Damien, and he is eliminated from the game.",
-  "night_elim": "Alice",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 53.174737 seconds 

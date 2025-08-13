@@ -1,6 +1,0 @@
-{
-  "transcript": "Night Phase:\nThe moonlight casts eerie shadows as the game turns silent. Achille and Carol exchange knowing glances. Without uttering a word, Achille gives a subtle nod and makes a small hand gesture toward Alice, while Carol tilts her head and slowly points at Alice from across the room. Their eyes confirm their deadly decision. The silent agreement is cemented by a brief, intense moment of eye contact as they eliminate Alice.\n\nDay Phase:\nDawn breaks and the remaining players—Achille, Carol, and Ellie—gather in the central meeting area. The tension is palpable. Achille starts by saying, \"I can't shake the feeling that something is off last night; maybe we should be cautious.\" Carol adds, \"Yes, I noticed Ellie was unusually quiet, almost as if she was hiding something.\" Ellie, clearly frustrated, responds, \"I truly believe it's Achille, given his suspicious behavior all along.\" After a brief exchange of pointed remarks, votes are cast: Achille and Carol vote to eliminate Ellie while Ellie defends herself and votes against Achille. Consequently, Ellie is eliminated by majority.",
-  "night_elim": "Alice",
-  "day_elim": "Ellie"
-}
- Round Execution Time: 50.101630 seconds 

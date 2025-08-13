@@ -1,7 +1,0 @@
-{
-  "transcript": "----- Night Phase -----\nBrian: *glances meaningfully at Achille with a slight nod, signaling a plan*\nAchille: *returns the look with a furtive smile and a subtle hand gesture*\nBrian: *silently indicates towards Carol with a discreet pointing motion*\nAchille: *reaffirms the plan by tapping his temple, silently confirming the target*\n*Through a series of subtle signals and discreet gestures, the werewolves agree on eliminating Carol.*\nNight Elimination: Carol has been eliminated silently during the night phase.\n\n----- Day Phase -----\nAlice: \"Last night, something felt off. I think we should consider that Brian might be involved.\"\nBrian: \"That's not possible. I actually noticed Ellie acting a bit suspicious.\"\nAchille: \"I share Alice's concern. Brian's behavior has been odd, and it seems too calculated.\"\nEllie: \"I agree with Alice and Achille. The signs point towards Brian. My vote is for Brian.\"\n\n*Vote Tally*: \nAlice votes for Brian\nAchille votes for Brian\nEllie votes for Brian\nBrian votes for Ellie\n\nResult: Brian receives 3 votes while Ellie receives 1 vote. Thus, Brian is eliminated in the day phase.\n----- End of Transcript -----",
-  "night_elim": "Carol",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 52.855972 seconds 

@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *glances secretly at Brian and raises an eyebrow*\nBrian: *nods subtly and points at Carol with a slight smirk*\nAlice: *tilts head and makes a decisive gesture towards Carol*\nBrian: *gives a curt nod and clenches fist in agreement*\n*Carol is silently targeted and eliminated by the werewolves' unspoken pact*\n\nDAY PHASE\nAlice: \"It seems someone didn't make it through last night...\"\nBrian: \"Yes, Carol was taken in the dark. It raises suspicions on all of us.\"\nAchille: \"I was with Ellie for most of the evening, but something feels off.\"\nEllie: \"I agree. I noticed subtle signals between Alice and Brian.\"\nAlice: \"We all have doubts, but we need to decide who might be hiding the truth.\"\nBrian: \"I vote for Achille, as his behavior seems inconsistent.\"\nEllie: \"I lean towards Achille as well.\"\nAchille: \"I vote for Brian.\" \nAlice: \"I'll vote for Achille.\"\n*Votes tally: Achille receives two votes, while Brian gets one and Achille's own vote is not counted as self-elimination*\n*Achille is eliminated by majority vote*",
-  "night_elim": "Carol",
-  "day_elim": "Achille"
-}
-```

@@ -1,6 +1,0 @@
-{
-  "transcript": "----- Night Phase -----\nBrian: [Silently raises an eyebrow towards Damien, hinting at a plan.]\nDamien: [Nods with a subtle smile and gestures with his hand, affirming the non-verbal communication.]\nBrian: [Points discreetly in the direction of Ellie, indicating her as the target.]\nDamien: [Tilts his head in confirmation as the silent agreement is made.]\n*Ellie is eliminated by the coordinated action of the werewolves.*\n\n----- Day Phase -----\nAchille: \"Morning, everyone. I have a feeling that there might be someone amongst us who is trying to mislead us.\"\nCarol: \"I assure you, my intentions are genuine. I believe we must consider all possibilities before pointing fingers.\"\nBrian: \"Maybe we should look at the subtleties. I've noticed Carol's responses seem too calculated.\"\nDamien: \"I agree with Brian. Carol's behavior has been a bit off.\"\n\nVOTING ROUND:\nAchille votes for Carol.\nCarol votes for Brian.\nBrian votes for Carol.\nDamien votes for Carol.\n\nResult: Carol receives the majority of the votes and is eliminated.",
-  "night_elim": "Ellie",
-  "day_elim": "Carol"
-}
- Round Execution Time: 49.008438 seconds 

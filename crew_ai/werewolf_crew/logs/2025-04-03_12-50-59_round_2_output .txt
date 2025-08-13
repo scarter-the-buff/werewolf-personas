@@ -1,7 +1,0 @@
-{
-    "transcript": "=== NIGHT PHASE ===\nAlice (werewolf) and Brian (werewolf) exchange silent signals in the dark. Alice gives a subtle nod and points discretely towards Carol, while Brian mirrors the gesture with a deliberate head shake, confirming their deadly decision. Without uttering a word, they agree: Carol is to be eliminated tonight.\n\nOutcome: Carol is quietly removed from the game.\n\n=== DAY PHASE ===\nAchille: \"I couldn’t shake the feeling last night that something wasn’t right. The gestures between some players seemed too coordinated.\"\nEllie: \"That's exactly what I felt. Watching Alice this morning, I noticed a calm that felt almost too rehearsed.\"\nBrian: \"Believe me, I'm on your side, but my intuition now leans towards Alice being more involved than she lets on.\"\nAlice: \"I’m honestly confused. But if I had to trust something, it would be the uneasy vibe many of you are picking up on.\"\n\nVoting Round (each vote recorded without self-votes):\n- Achille votes for Alice\n- Brian votes for Alice\n- Ellie votes for Alice\n\nResult: With three votes against her, the group decides that Alice should be eliminated in the day phase.",
-    "night_elim": "Carol",
-    "day_elim": "Alice"
-}
-```
- Round Execution Time: 70.096747 seconds 

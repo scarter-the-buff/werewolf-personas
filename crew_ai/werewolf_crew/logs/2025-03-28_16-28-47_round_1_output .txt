@@ -1,6 +1,0 @@
-{
-  "transcript": "----- NIGHT PHASE -----\nDamien: *raises an eyebrow and points subtly toward Bethany*\nEllie: *nods with a slight smile and mimics a chopping motion*\n[Announcement]: The werewolves have silently agreed. Bethany is eliminated.\n\n----- DAY PHASE -----\nAlice: \"Good morning, everyone. I have a strange feeling about last night...\"\nBrian: \"I noticed something odd about Damien’s attitude.\"\nAchille: \"I’m thinking maybe Damien is hiding something. I vote for him.\"\nCarol: \"I agree with Achille; Damien’s been off. My vote is for Damien.\"\nEllie: \"It seems like Damien is the common concern. I vote for Damien.\"\nDamien: \"I’m trying to clear my name. I vote for Carol to show I have nothing to hide.\"\nAlice: \"My instinct still tells me Damien is suspicious. I vote for Damien.\"\nBrian: \"I’ll go with Damien as well.\nAchille: \"I reaffirm my vote for Damien.\"\nCarol: \"With this many votes, it’s clear. I vote for Damien.\"\n\n[Vote Tally]:\n- Alice votes for Damien\n- Brian votes for Damien\n- Achille votes for Damien\n- Carol votes for Damien\n- Ellie votes for Damien\n- Damien votes for Carol\n\nWith the majority voting against him, Damien is eliminated.",
-  "night_elim": "Bethany",
-  "day_elim": "Damien"
-}
- Round Execution Time: 30.022880 seconds 

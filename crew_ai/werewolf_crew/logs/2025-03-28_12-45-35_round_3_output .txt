@@ -1,6 +1,0 @@
-{
-  "transcript": "----- NIGHT PHASE -----\nDamien (gesture): *Nods subtly toward Ellie while casting a furtive glance at Alice*\nEllie (gesture): *Gives a discreet thumbs-up and points toward Alice*\nDamien (whisper): \"Let's handle this quietly.\"\nEllie (whisper): \"Agreed. Our target is Alice.\"\nNarrator: \"Alice has been eliminated during the night.\"\n\n----- DAY PHASE -----\nDamien: \"I still can’t believe Alice was taken. Now, we must figure out who among us is suspicious.\"\nEllie: \"Really, Damien? It seems like you might be trying to divert attention.\"\nDamien: \"Maybe. But your cool composure last night was unsettling.\"\nEllie: \"Unsettling or strategic? I find it odd that you’re the one making accusations.\"\nDamien: \"I vote for you, Ellie.\"\nEllie: \"Then I vote for you, Damien.\"\nNarrator: \"Both players have cast a vote for each other. With the tie-breaker rule in effect, Damien is eliminated.\"",
-  "night_elim": "Alice",
-  "day_elim": "Damien"
-}
-```

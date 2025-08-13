@@ -1,6 +1,0 @@
-{
-  "transcript": "=== Night Phase ===\nAlice: *gestures with a knowing nod at Brian, while Brian gives a subtle hand signal* \nAlice: *points discreetly towards Bethany* \nBrian: *nods emphatically to confirm the target* \n*Bethany is silently eliminated as the werewolves agree on her*\n\n=== Day Phase ===\nAlice: \"The night was too quiet. I have a feeling we’re missing something here.\"\nBrian: \"It’s strange indeed. We need to be extra careful now.\"\nAchille: \"I observed some odd behavior, especially from Carol.\"\nCarol: \"I’m just as confused as the rest of you. I have nothing to hide!\"\nDamien: \"Maybe Carol’s too defensive about what occurred last night.\"\nEllie: \"True, her reactions have been off.\"\n\n*All players cast their votes*\nAlice votes for Carol\nBrian votes for Carol\nAchille votes for Carol\nCarol votes for herself\nDamien votes for Carol\nEllie votes for Carol\n\n*Carol receives the majority of votes and is eliminated during the day phase*",
-  "night_elim": "Bethany",
-  "day_elim": "Carol"
-}
-```

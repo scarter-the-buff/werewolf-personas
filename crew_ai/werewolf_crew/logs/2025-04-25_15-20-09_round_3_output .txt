@@ -1,7 +1,0 @@
-{
-    "transcript": "----- NIGHT PHASE -----\\nAlice: *gives a sharp nod and points discreetly towards Ellie*\\nCarol: *raises an eyebrow and subtly gestures towards Ellie with a slight smile*\\nTogether, through silent exchanges and knowing looks, Alice and Carol agree that Ellie is the target.\\n*Ellie is quietly eliminated as the night silently claims her*\\n\\n----- DAY PHASE -----\\nAlice: \"Last night was chilling; I think we need to discuss what went wrong.\"\\nCarol: \"I agree, the loss of one of us is a heavy sign. We must decide who might have misled our signals.\"\\nAlice: \"I’m hesitant, but I believe trust is fragile now. I vote for Carol.\"\\nCarol: \"I’m in disbelief, yet I must defend myself. I vote for Alice.\"\\n\\nWith one vote for each, a tie-breaker vote is called. After a quick re-evaluation, the final decision is made.\\n*Carol is eliminated by the tie-breaker vote*",
-    "night_elim": "Ellie",
-    "day_elim": "Carol"
-}
-```
- Round Execution Time: 37.726504 seconds 

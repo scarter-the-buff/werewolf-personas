@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAlice: (glances meaningfully at Achille with narrowed eyes and a slight smirk, then subtly shifts her gaze toward Ellie.)\nAchille: (raises his eyebrows and gives a barely perceptible nod while mimicking a pointing gesture toward Ellie, his eyes flaring with silent agreement.)\nAlice: (offers a slow, deliberate blink as a confirmation, finalizing their silent pact.)\nNarrator: With their covert signals aligning, the two werewolves silently decide and Ellie is eliminated.\n\nDAY PHASE:\nAlice: (in a hushed tone) The night took its toll. This morning, we must decide who among us bears the mark of guilt.\nAchille: (glancing at Alice and speaking quietly) It seems odd now, but trust the process; our fate is sealed by what we choose.\nAlice: (firmly yet softly) Let us vote. I believe the one whose eyes betray too much is responsible for our misfortune.\nAchille: (after a moment of guarded reflection, raises his hand to indicate his vote) I cast my vote for you, Alice.\nAlice: (subtly nods and discreetly signals her own vote to mirror his sentiment, yet the majority vote ironically falls against Achille) My vote goes with the flow of suspicion.\nNarrator: In the final tally, the vote falls on Achille, and it is decided that he is eliminated.",
-  "night_elim": "Ellie",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 53.800616 seconds 

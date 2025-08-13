@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nBethany (subtly): *glances sharply at Damien, using a series of subtle, meaningful gestures as if conveying a secret message*\nDamien (confirming silently): *nods and tilts his head toward Carol, signaling his agreement with Bethany*\n(Through their silent, coordinated gestures, the werewolves agree that Carol will be eliminated.)\n-- Carol is eliminated from the game during the night phase.\n\nDAY PHASE:\nAlice: \"I have been extremely observant and something doesn’t add up from last night. I suspect someone’s out of place.\"\nBethany: \"I’m as surprised as anyone. I have shown no unusual behavior and believe we should consider everyone equally.\"\nDamien: \"I have noticed subtle cues, and while I’m trying not to judge too quickly, Bethany’s calm facade doesn't quite fit with the rest of us tonight.\"\nEllie: \"I agree with Damien. There were moments when Bethany’s demeanor felt more calculated than genuine.\"\nAlice: \"Based on what I’ve seen, my vote goes to Bethany.\"\nDamien: \"I’m with Alice; my vote is also for Bethany.\"\nEllie: \"I vote for Bethany as well.\"\nBethany: \"I must disagree – my vote goes to Damien.\"\n-- With three votes targeting Bethany and one for Damien, the majority decision is clear.\nBethany is eliminated from the game during the day phase.",
-  "night_elim": "Carol",
-  "day_elim": "Bethany"
-}
-```
- Round Execution Time: 79.228272 seconds 

@@ -1,6 +1,0 @@
-{
-    "transcript": "NIGHT PHASE:\nBrian: *whispers with a subtle nod towards Carol*\nCarol: *nods and subtly gestures towards Achille*\nBrian: *gestures firmly to Achille*\nCarol: *nods in agreement*\n*Achille is silently targeted and eliminated*\n\nDAY PHASE:\nAlice: \"I can’t believe we lost someone last night.\"\nBethany: \"Yes, Achille’s gone. We must be vigilant. Who do you all suspect?\"\nDamien: \"I noticed Carol acting strangely during last night’s silence.\"\nEllie: \"I agree with Damien; there’s something off about her.\"\nBrian: \"Maybe we should consider all angles, but I'm leaning towards someone unusual...\"\nCarol: \"I assure you all, I am as shocked as you are. Perhaps we should consider others before casting judgment.\"\n\nVoting Round:\nAlice votes for Carol\nBethany votes for Carol\nDamien votes for Carol\nEllie votes for Carol\nBrian votes for Alice\nCarol votes for Brian\n\n*Vote count: Carol - 4, Alice - 1, Brian - 1*\n*Carol is eliminated by majority vote*",
-    "night_elim": "Achille",
-    "day_elim": "Carol"
-}
- Round Execution Time: 25.429799 seconds 

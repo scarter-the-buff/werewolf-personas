@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nBethany (Werewolf): (winks subtly at Damien) \"Let's do this quietly.\"\nDamien (Werewolf): (nods and gives a slight smile) \"Agreed.\" \nBethany: (points discreetly toward Achille) \"Our target is clear.\"\nDamien: (nods and points) \"Achille it is.\" \nNarrator: Under the cover of darkness, Bethany and Damien exchange secret signals. Their silent agreement seals Achille's fate, and as dawn breaks, the village discovers that Achille has been eliminated.\n\nDAY PHASE:\nBrian: \"I can’t believe we lost Achille. It makes me wonder who else might be hiding a secret.\"\nEllie: \"I agree. There’s been some odd behavior lately. We need to figure out who we can trust.\"\nBethany: \"I’m telling you, I have a bad feeling about Damien. He’s been unusually quiet.\"\nDamien: \"Really, Bethany? I find your behavior somewhat too calculated for a true villager.\"\nBrian: \"Given the circumstances, my vote goes to Bethany.\"\nEllie: \"I vote for Bethany too; something isn’t adding up with her.\"\nDamien: \"I’m with Brian and Ellie. I vote for Bethany.\"\nBethany: (with a defiant smile) \"I cast my vote for Damien.\" \nNarrator: The votes are tallied: Brian, Damien, and Ellie vote against Bethany, while Bethany votes for Damien. With the majority in favor, Bethany is eliminated.",
-  "night_elim": "Achille",
-  "day_elim": "Bethany"
-}
-```
- Round Execution Time: 115.109711 seconds 

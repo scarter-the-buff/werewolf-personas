@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian: *gazes intently at Achille and subtly points toward Bethany, using a sharp nod and a furtive glance to signal his choice*\nAchille: *meets Brian's eyes, responds with a slight smile and a discreet gesture toward Bethany, confirming their silent agreement*\n*Bethany is eliminated*\n\nDAY PHASE\nBrian: \"Last night was quiet, but I feel like some voices were missing.\"\nAchille: \"It’s true, the silence might have hidden more than we expected. Still, we must be careful with our words.\"\nCarol: \"I think Brian's been too eager to shift the suspicion away from him. That doesn't sit well with me.\"\nEllie: \"I noticed the same thing. Brian seemed off. It might be wise to reconsider his role.\"\nBrian: \"I assure you, I only spoke to keep order. Maybe we should look at other behavior from last night.\"\nAchille: \"Sometimes, the loudest defense is an attempt to distract from one's own guilt.\"\nCarol: \"I’m voting for Brian. His explanations just aren’t adding up.\"\nEllie: \"Count me in too. I agree with Carol.\"\nBrian: \"Defending myself here, but it seems my words are being misinterpreted.\"\n*Voting details: Carol and Ellie cast their votes for Brian, while Achille votes to keep the balance, resulting in Brian receiving the majority votes*\n*Brian is eliminated by vote*",
-  "night_elim": "Bethany",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 43.155554 seconds 

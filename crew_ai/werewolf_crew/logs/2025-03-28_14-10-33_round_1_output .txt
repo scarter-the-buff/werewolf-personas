@@ -1,6 +1,0 @@
-{
-  "transcript": "Night Phase:\nAchille: *narrows his eyes and nods sharply at Damien, then discreetly points towards Carol*\nDamien: *smiles subtly, returning the gesture with a quiet thumbs-up and an approving look at Achille*\nBoth werewolves silently agree on their target as Carol is quietly removed from the game.\n\nDay Phase:\nAlice: \"Good morning everyone. I couldn’t shake off the feeling that something was off last night. Who has raised your suspicions?\"\nBrian: \"I’ve been watching everyone closely. Damien’s behavior was a bit too calculated.\"\nBethany: \"I agree with Brian. The way certain eyes darted about made me think that someone was deliberately trying to divert us.\"\nEllie: \"I noticed that too. Damien, in particular, seems overly composed.\"\nAchille: \"Let’s be cautious and deliberate here. I believe Damien’s actions are worth a closer look.\"\nDamien: \"I understand your concerns, but I remain loyal. Still, if we have to vote, I suspect Brian might be overthinking things.\"\n\nVoting:\nAlice votes for Damien\nBrian votes for Damien\nBethany votes for Damien\nEllie votes for Damien\nAchille votes for Brian\nDamien votes for Achille\n\nVote Count:\nDamien: 4 votes\nBrian: 1 vote\nAchille: 1 vote\n\nWith the majority vote, Damien is eliminated at the end of the day phase.",
-  "night_elim": "Carol",
-  "day_elim": "Damien"
-}
-```

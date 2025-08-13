@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *glances meaningfully at Bethany, raising an eyebrow as if to signal a plan*\nBethany: *nods subtly and points discreetly toward Carol*\nAlice: *makes a decisive gesture by tapping her wrist and then pointing at Carol*\nBethany: *smiles slyly and repeats the same gesture towards Carol*\n*Carol is eliminated*\n\nDAY PHASE\nAlice: \"It appears Carol was taken in the night. I'm not sure what to make of this sudden loss.\"\nBethany: \"Yes, it's unsettling. We need to decide who among us might be responsible for this turn of events.\"\nAlice: \"I have my doubts about you, Bethany. My vote goes to you.\"\nBethany: \"Funny, I was thinking along the same lines. I vote for you, Alice.\"\n*Alice is eliminated*",
-  "night_elim": "Carol",
-  "day_elim": "Alice"
-}
- Round Execution Time: 33.855548 seconds 

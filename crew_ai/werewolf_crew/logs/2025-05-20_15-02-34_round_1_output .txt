@@ -1,7 +1,0 @@
-{
-  "transcript": "----- NIGHT PHASE -----\nAchille (Werewolf): *raises his left hand, narrows his eyes, and points subtly towards Carol*\nDamien (Werewolf): *nods slowly and tilts his head, then discreetly gestures towards Carol*\nThe silent signals from the two werewolves align, and Carol is seen isolated from the group before she is found eliminated.\n\n----- DAY PHASE -----\nAlice (Villager): \"I noticed an odd glimmer in Achille's eyes last night. It looks suspicious. I vote for Achille.\"\nBrian (Villager): \"I agree with Alice. Achille's behavior was too calculating. My vote goes to Achille.\"\nBethany (Villager): \"I have a feeling that Achille isn't who he seems. I also vote for Achille.\"\nEllie (Villager): \"I saw subtle cues from Achille that make me uneasy. I’m voting for Achille.\"\nDamien (Werewolf, pretending to be a villager): \"I’m not completely sure, but maybe we should consider another option; I vote for Brian.\"\nAchille (Werewolf, defending himself): \"I truly believe in my innocence, but to keep the peace, I vote for Brian.\"\n\nAfter tallying the votes, four players (Alice, Brian, Bethany, and Ellie) vote for Achille while two votes go to Brian, making Achille the target with the majority vote. Consequently, Achille is eliminated out in the open, exposing a werewolf among them.",
-  "night_elim": "Carol",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 54.296726 seconds 

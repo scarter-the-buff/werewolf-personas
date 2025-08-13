@@ -1,7 +1,0 @@
-{
-  "transcript": "=== NIGHT PHASE ===\nAchille (Werewolf): *Exchanges a subtle nod and a hand gesture with Damien indicating a target.*\nDamien (Werewolf): *Returns the gesture with a firm nod, confirming their silent agreement.*\n[The werewolves silently agree to eliminate Bethany.]\nSystem Announcement: Bethany has been eliminated during the night phase.\n\n=== DAY PHASE ===\nAlice (Villager): \"Good morning everyone. I have a feeling something isn’t right about Damien. I vote for Damien.\"\nBrian (Villager): \"I agree with Alice. Damien’s behavior seems off. My vote is for Damien.\"\nAchille (Werewolf, posing as a villager): \"I noticed Carol’s quiet demeanor. I suspect something, so I’m voting for Carol.\"\nCarol (Villager): \"I believe Damien is trying to deflect suspicion. I vote for Damien.\"\nDamien (Werewolf, posing as a villager): \"I think Achille’s earlier gestures were suspicious. I vote for Achille.\"\nEllie (Villager): \"I’ve been observing closely and I feel that Damien is our biggest threat. I vote for Damien.\"\n\n[Vote Tally: Damien - 4 votes (Alice, Brian, Carol, Ellie); Carol - 1 vote (Achille); Achille - 1 vote (Damien)]\nSystem Announcement: With the majority vote, Damien is eliminated during the day phase.",
-  "night_elim": "Bethany",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 45.410260 seconds 

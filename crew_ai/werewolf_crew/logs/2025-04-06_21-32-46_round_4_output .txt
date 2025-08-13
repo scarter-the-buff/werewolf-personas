@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian: *glances around and uses a slight wink at Bethany, initiating a silent plan*\nBethany: *nods and points discreetly toward Ellie, indicating her target*\nBrian: *gives a confirming thumbs-up with a subtle smile*\nBethany: *raises her hand slightly as if signaling agreement*\n*Ellie is silently eliminated as per the werewolves' unspoken consensus*\n\nDAY PHASE\nBrian: \"Last night’s silence hid a dark decision. I’m still reeling from what happened.\"\nBethany: \"I know, it’s unsettling. The way the night unfolded makes me wonder if we’re all even.\"\nBrian: \"It’s strange that trust seems so scarce today. I have my suspicions, though it pains me to say it.\"\nBethany: \"We must be cautious. Given the circumstances, I believe the elimination was too calculated, and I can’t help but suspect one of us is covering for someone.\"\nBrian: \"This game is twisting our instincts. I’m heading to vote with my gut.\"\nBethany: \"I understand. I’ll also cast my vote, and I believe it should be directed towards you.\"\n*Votes are cast: Brian votes for Bethany and Bethany votes for Brian*\n*After a tense deliberation and a tie-breaker based on prior behavior, the decision is made: Brian receives the final, decisive vote and is eliminated*",
-  "night_elim": "Ellie",
-  "day_elim": "Brian"
-}
- Round Execution Time: 37.043108 seconds 

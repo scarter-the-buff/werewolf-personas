@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nDamien: (Glances around furtively, then subtly taps his temple with his right finger.)\nEllie: (Catches Damien’s signal; slowly curls her hand into a quiet fist and gives a slight head nod.)\nDamien: (Silently extends his hand toward Brian, signaling the target.)\nEllie: (Mirrors Damien’s gesture with a silent swipe in the air, confirming the choice.)\nNarrator: (In hushed tones) The werewolves have silently agreed – Brian is eliminated.\n\nDAY PHASE\nDamien: \"Good morning... though the night has been grim. I can’t shake the feeling that someone is hiding the truth here.\"\nEllie: \"I share your unease, Damien. But sometimes, the quietest ones bear the deepest secrets.\"\nDamien: \"Funny how those words come from someone who was unusually vocal last night. It makes you wonder about loyalties, doesn’t it?\"\nEllie: \"Oh, is that so? Perhaps you’re hinting at my role in all this? Your accusation feels almost too pointed.\"\nDamien: \"Maybe, but clarity is needed. Let’s re-vote so our true sentiments come clear.\"\nEllie: \"Agreed. Let’s decide once and for all.\"\n[Re-vote]\nDamien: \"After reconsidering everything, I cast my vote for Ellie.\"\nEllie: \"For the sake of clarity, I too vote for Ellie.\"\n",
-  "night_elim": "Brian",
-  "day_elim": "Ellie"
-}
-```
- Round Execution Time: 94.673815 seconds 

@@ -1,7 +1,0 @@
-{
-  "transcript": "=== NIGHT PHASE ===\nBrian: *Glances pointedly at Carol and nods subtly* \nCarol: *Returns the nod and points discreetly at David with a slight tilt of her head* \nBoth werewolves silently agree on the target. A hushed moment later, David is marked for elimination by their silent consensus.\n\n=== DAY PHASE ===\nAlice: \"I can’t believe David is gone... but something about Carol's behavior last night didn’t sit right with me.\"\nEve: \"I noticed Carol avoiding eye contact earlier—she’s been too quiet.\"\nFrank: \"Her gestures last night were off. I think we should be very cautious and consider eliminating her.\"\nGrace: \"I agree. There's something in her demeanor that just raises a red flag for me. My vote is for Carol.\"\nBrian: (calmly) \"I’m voting for Alice. Sometimes shifting suspicion can save us, even if it seems off.\"\nCarol: (with a cool detachment) \"I believe Alice is the one to eliminate. It’s best if we remove the odd one out.\"\n\nVoting Results:\n- Alice receives votes from Brian and Carol.\n- Carol receives votes from Alice, Eve, Frank, and Grace.\n\nOutcome: With a majority vote of 4 to 2, Carol is eliminated during the day phase.",
-  "night_elim": "David",
-  "day_elim": "Carol"
-}
-```
- Round Execution Time: 46.771316 seconds 

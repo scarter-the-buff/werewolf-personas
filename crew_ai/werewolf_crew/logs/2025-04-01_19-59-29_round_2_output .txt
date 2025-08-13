@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *glances sideways at Brian and gives a subtle nod*\nBrian: *raises an eyebrow and gives a soft wink in response*\nAlice: *gestures discreetly toward Bethany, indicating her as the target*\nBrian: *mimics a tapping gesture on his wrist to confirm timing*\n(Through these silent cues, Alice and Brian agree on eliminating Bethany.)\nBethany: *remains unaware in her sleep*\n*Bethany is quietly eliminated by the werewolves*\n\nDAY PHASE\nAlice: \"I woke up uneasy this morning. Something didn\\'t feel right last night.\"\nBrian: \"I agree. There were subtle signs that something was amiss, though it\\'s hard to pinpoint exactly what.\"\nAchille: \"I noticed a certain hesitance, especially from one among us. Our non-words can sometimes speak louder than words.\"\nEllie: \"I sensed an oddity in the way some actions were performed last night. It might be premature, but we should consider all possibilities.\"\nAlice: \"I think we need to be frank with each other. We all have suspicions, so let\\'s cast votes for someone we believe may be hiding something.\"\nBrian: \"I\\'m leaning towards a serious candidate based on our subtle cues.\"\nAchille: \"I vote for Alice based on her ambiguous reactions.\"\nEllie: \"I vote for Brian, but I appreciate the insight from Achille.\"\n(After a brief discussion and a subsequent hand vote, the consensus is reached.)\n*Alice is eliminated by majority vote during the day phase*",
-  "night_elim": "Bethany",
-  "day_elim": "Alice"
-}
-```
- Round Execution Time: 52.169423 seconds 

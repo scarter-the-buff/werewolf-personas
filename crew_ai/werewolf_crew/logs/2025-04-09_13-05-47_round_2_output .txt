@@ -1,7 +1,0 @@
-{
-  "transcript": "Night Phase:\n- Achille makes a subtle nod to Damien, indicating his intent.\n- Damien points decisively at Alice, his eyes fixed on her.\n- Achille and Damien exchange a series of confirming gestures (a brief glance and a slight smile) to agree on their target.\n- Both silently and swiftly move toward Alice. Action: Alice is eliminated from the game.\n\nDay Phase:\n- Brian: \"I have my doubts about Damien. His behavior last night was off.\"\n- Ellie: \"I agree with Brian. Something about Damien seems suspicious.\"\n- Achille: \"I think Damien’s been acting strangely; my vote is on Damien.\"\n- Damien: \"I trust Ellie and Brian, but I’m more concerned about the possibility of a traitor among us. I vote for Brian.\"\n\nVote Tally:\n- Damien receives votes from Brian, Ellie, and Achille (3 votes).\n- Brian receives a vote from Damien (1 vote).\nFinal Outcome: Damien is eliminated during the day phase.",
-  "night_elim": "Alice",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 44.957785 seconds 

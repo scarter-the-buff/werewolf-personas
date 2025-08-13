@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nCarol: *glances around cautiously and gives a subtle nod to Damien*\nDamien: *smiles slightly and points deliberately toward the sleeping figure of Alice*\nCarol: *returns the nod and tilts her head in silent confirmation*\nDamien: *points once more toward Alice with emphasis*\nCarol: *leans forward, drawing an imaginary line in the air to mark the target*\nDamien: *mirrors the gesture with a final nod and discreet smile*\n*Alice is eliminated*\n\nDAY PHASE\nModerator: \"Good morning everyone. As you all know, the previous night claimed the life of Alice.\"\nBrian: \"This is hard to take, but we have to focus now. I’m still trying to figure out what happened last night.\"\nCarol: \"Losing Alice is a huge blow. I suspect Brian might be covering for something. I’m uneasy about his behavior.\"\nDamien: \"I agree with Carol. The way events have unfolded makes me suspicious of Brian. His actions seem off to me.\"\nEllie: \"I’ve been observing everyone closely, and Brian’s response to last night’s events is what concerns me the most. My vote is for Brian.\"\n\nVotes cast:\n- Carol votes for Brian\n- Damien votes for Brian\n- Ellie votes for Brian\n- Brian votes for Ellie\n\nModerator: \"The votes have been tallied. Brian received the majority of votes. Therefore, Brian is eliminated.\"",
-  "night_elim": "Alice",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 38.724460 seconds 

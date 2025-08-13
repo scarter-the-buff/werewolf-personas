@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian: *gives a slight nod and a subtle smile towards Damien, then looks at Ellie silently*\nDamien: *raises an eyebrow, tilts his head, and points decisively at Ellie*\nBrian: *follows with a confirming gesture and taps his chest lightly to signal agreement*\nDamien: *returns a subtle smile and a nod, reaffirming the plan*\n*Ellie, having been silently agreed upon, is eliminated from the game*\n\nDAY PHASE\nBrian: \"Last night’s decision was swift, but now it’s up to us to keep the game fair.\"\nDamien: \"I understand, but we must ensure honesty in our discussion.\"\nBrian: \"I believe that the strategy we followed might need review. Let’s decide who is more likely to have a hidden agenda. I cast my vote for you, Damien.\"\nDamien: \"I see your point, Brian. For balance, my vote goes to you.\"\n*The votes are tied, creating tension in the discussion*\nBrian: \"Since the vote is deadlocked, I have to break the tie. I lean towards eliminating you, Damien.\"\nDamien: \"So it shall be. The final vote is cast for me.\"\n*Final Vote: Damien is eliminated from the game*",
-  "night_elim": "Ellie",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 20.369095 seconds 

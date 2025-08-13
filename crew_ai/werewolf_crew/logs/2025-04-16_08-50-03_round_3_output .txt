@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *glances around furtively, then turns to Bethany and makes a secret gesture toward Ellie*\nBethany: *nods silently and gives a confirming look while subtly pointing at Ellie with a raised eyebrow*\nEllie: *remains oblivious as she quietly tends to her own business*\nAlice: *without a word, approaches Ellie and gently taps her shoulder as a final signal*\nBethany: *mirrors the gesture with a slight smile, sealing their silent agreement*\n*Ellie is eliminated*\n\nDAY PHASE\nAlice: \"We lost someone last night. It’s clear something is amiss.\"\nBethany: \"Absolutely. The silence of the night was heavy—now we must seek the truth among us.\"\nAlice: \"I suspect there was more than just fate at work. I vote for Bethany, as her mannerisms have been quite calculated.\"\nBethany: \"I appreciate your concern, Alice, but I believe the evidence points the other way. I vote for Alice.\"\nAlice: \"Alright, we each cast a vote.\"\nBethany: \"Indeed, this is a tie. The further conversation and intense body language during our discussion leads the group to decide that the balance of suspicion falls on me.\"\n*Based on detailed discussion and non-verbal cues, Bethany is eliminated*\n",
-  "night_elim": "Ellie",
-  "day_elim": "Bethany"
-}
- Round Execution Time: 30.148908 seconds 

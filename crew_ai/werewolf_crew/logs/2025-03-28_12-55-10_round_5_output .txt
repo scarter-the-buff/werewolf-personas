@@ -1,6 +1,0 @@
-{
-    "transcript": "----- NIGHT PHASE -----\n[Damien] (exchanges a sharp glance with Carlos, nodding subtly) \"We need to act swiftly tonight.\"\n[Carlos] (murmuring with a careful gesture, pointing discreetly towards Bella) \"She looks vulnerable.\"\n[Damien] (raises an eyebrow and gestures with a slight smile) \"Bella, you're the target.\"\n[Carlos] (firmly nodding in agreement) \"Agreed.\"\n*Bella is eliminated*\n\n----- DAY PHASE -----\n[Alex] (frustrated, tapping fingers on the table) \"I suspect Damien. His silence last night was eerie.\"\n[Ellie] (nodding emphatically) \"I agree. Damien, your behavior was off.\"\n[Diana] (leaning forward with intensity) \"Damien, you’re the prime suspect. We must vote you out.\" \n[Ethan] (resolute) \"My vote goes to Damien. The werewolf must be among you.\"\n[Damien] (defensively, shaking his head) \"I’m not the one to be blamed here. Look at Ellie; she’s been acting strangely.\"\n[Carlos] (quietly, giving a subtle nod) \"I vote for Ellie.\"\n\n[Vote Tally]:\n- Votes for Damien: Alex, Ellie, Diana, Ethan\n- Votes for Ellie: Damien, Carlos\n\n*Damien is eliminated*",
-    "night_elim": "Bella",
-    "day_elim": "Damien"
-}
-```

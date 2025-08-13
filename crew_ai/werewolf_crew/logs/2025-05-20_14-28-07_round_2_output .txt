@@ -1,7 +1,0 @@
-{
-  "transcript": "=== NIGHT PHASE ===\nAchille and Damien, the werewolves, silently communicate using subtle nods and pointed glances. Achille nods at Damien while glancing at Brian, and Damien points discreetly towards Brian. After a brief exchange of confirming gestures, they agree to eliminate Brian, their chosen villager.\n\n=== DAY PHASE ===\nFollowing the tragic loss during the night, the surviving players—Achille, Carol, Damien, and Ellie—gather to determine who among them might also be a threat. The discussion is filled with cautious observations and subtle accusations. The players decide to vote on who to eliminate, ensuring that none vote for themselves. The votes are cast as follows:\n- Achille votes for Carol.\n- Damien votes for Carol.\n- Ellie votes for Carol.\n- Carol votes for Ellie.\nWith the majority vote pointing to Carol, she is eliminated during the day, marking the end of the round.\n\nRound Summary: Night elimination is Brian and Day elimination is Carol.",
-  "night_elim": "Brian",
-  "day_elim": "Carol"
-}
-```
- Round Execution Time: 52.822641 seconds 

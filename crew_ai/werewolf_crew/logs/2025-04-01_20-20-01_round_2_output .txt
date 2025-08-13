@@ -1,7 +1,0 @@
-{
-    "transcript": "=== NIGHT PHASE ===\nAlice: *shares a brief, intense glance with Achille*\nAchille: *nods subtly and points silently towards Carol*\nAlice: *raises an eyebrow and signals agreement by tapping her temple*\nAchille: *mimics the action of eliminating, motioning toward Carol with a decisive gesture*\n*Carol is eliminated*\n\n=== DAY PHASE ===\nAlice: \"I can't shake off the feeling that last night’s events were too calculated. Carol's death wasn’t random.\"\nAchille: \"I noticed that as well—someone among us might have wanted her gone for a reason. We must discuss carefully.\"\nDamien: \"We must think logically. I am a villager, and I fear that someone is hiding behind a calm facade.\"\nEllie: \"I’m shocked like everyone else. But if we start throwing guesses, we might end up eliminating the wrong person.\"\nAlice: \"Sometimes the most aggressive defense makes one appear guilty. Who’s been too vocal in denying any involvement?\"\nAchille: \"Exactly. I think we need to target the person who deflected suspicion too quickly.\"\nDamien: \"I propose we vote. I suspect Ellie given her rapid defensive stance. I vote for Ellie.\"\nAlice: \"I agree with Damien. My vote goes to Ellie.\"\nAchille: \"I also vote for Ellie – her eagerness to point fingers feels like misdirection.\"\nEllie: \"I say vote for Damien, as he seems too orchestrated in stirring suspicion.\"\n*Votes are tallied: 3 votes for Ellie, 1 vote for Damien*\n*Ellie is eliminated*",
-    "night_elim": "Carol",
-    "day_elim": "Ellie"
-}
-```
- Round Execution Time: 60.299816 seconds 

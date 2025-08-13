@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice (werewolf): *glances secretly at Damien, then makes a pointed gesture towards Carol*\nDamien (werewolf): *nods in agreement and subtly gestures towards Carol*\n[The Gestures indicate that both werewolves have decided on Carol as their target.]\n*Carol is eliminated*\n\nDAY PHASE\nAlice (werewolf): \"It’s tragic what happened last night. Carol was a kind soul.\"\nDamien (werewolf): \"I agree. We must be cautious now. I wonder if anyone noticed any odd behavior.\"\nEllie (villager): \"I’m still in shock, but I have my doubts. I think some of your reactions last night were a bit too calculated.\"\nAlice (werewolf): \"Really, Ellie? I find it hard to believe anyone here would be that suspicious. Perhaps Damien might shed some light on the situation.\"\nDamien (werewolf): \"You know, Ellie, you seemed eager to point fingers. I’m leaning towards you being overzealous.\"\nEllie (villager): \"I must vote with my instincts. I’m voting for Damien.\"\nAlice (werewolf): \"I’m voting for Ellie.\"\nDamien (werewolf): \"I’m voting for Ellie.\"\n\n*With two votes against Ellie and one for Damien, Ellie is eliminated*",
-  "night_elim": "Carol",
-  "day_elim": "Ellie"
-}
- Round Execution Time: 24.902504 seconds 

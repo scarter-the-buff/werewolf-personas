@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\n--------------------\nAchille: (Glances over at Damien and gives a subtle nod, indicating our target for tonight.)\nDamien: (Returns the nod with a slight smile, confirming the decision.)\n*Bethany is eliminated*\n\nDAY PHASE\n--------------------\nAlice: \"Last night’s events leave me suspicious. I think we need to be cautious and consider that Damien might be hiding something.\" \nBrian: \"I agree with Alice. Damien’s behavior seemed off to me. It might be wise to vote against him.\" \nCarol: \"I’ve been thinking about it too, though I’m torn. Damien was rather bearish in his responses. I wonder if there's a hidden agenda.\" \nEllie: \"I must say, something feels off with Damien. I lean towards voting him out.\" \nAchille: \"I find Carol’s actions a bit questionable this morning, so I’m inclined to vote for her.\" \nDamien: \"I believe the real threat was closer to me, so I think eliminating Achille would be best for the village.\" \n\nVoting Results:\n- Alice votes for Damien\n- Brian votes for Damien\n- Carol votes for Damien\n- Ellie votes for Damien\n- Achille votes for Carol\n- Damien votes for Achille\n\nConclusion: With four votes against him, Damien has the most votes.\n*Damien is eliminated*",
-  "night_elim": "Bethany",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 37.031837 seconds 

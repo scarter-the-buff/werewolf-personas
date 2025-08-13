@@ -1,6 +1,0 @@
-{
-    "transcript": "NIGHT PHASE\nAchille: *glances around and then deliberately gestures toward Brian*\nDamien: *nods subtly and points silently at Brian*\nAchille: *gives a reassuring smile and gives a thumbs-up to Damien*\nDamien: *returns the gesture, indicating agreement*\n*Brian is eliminated during the night phase*\n\nDAY PHASE\nAlice: \"I can't believe what happened last night. Brian is gone.\"\nBethany: \"I was watching everyone closely. Something seems off tonight.\"\nCarol: \"We need to figure out who could be hiding secrets among us.\"\nEllie: \"I suspect one of the players is acting too calm.\"\nDamien (disguised as a villager): \"I think we should consider the possibility of internal betrayal. I'm looking at Achille right now.\"\nAchille (defensive): \"Really? I was as shocked as you are. But Damien's hints make me a bit suspicious.\"\nAlice: \"Let’s settle this. I vote to eliminate Achille.\"\nBethany: \"I vote Achille as well.\"\nCarol: \"Achille is my vote.\"\nEllie: \"I vote for Achille.\"\nDamien: \"I vote for Carol, but it seems the majority are against Achille.\"\nAchille: \"I vote for Damien, but it's clear most are considering me dangerous.\"\n*After the discussion and vote tally, Achille receives the most votes and is eliminated*\n",
-    "night_elim": "Brian",
-    "day_elim": "Achille"
-}
- Round Execution Time: 8.399867 seconds 

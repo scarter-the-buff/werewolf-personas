@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAchille: *gives a subtle nod and a pointed look to Damien*\nDamien: *tilts his head and returns the gesture with a discreet hand sign*\nAchille: *raises his eyebrows subtly, indicating the target*\nDamien: *mimics the gesture, confirming the target*\n*Both werewolves have silently agreed on their target: Brian is eliminated*\n\nDAY PHASE:\nAchille: \"Good morning everyone. Last night we lost Brian. It feels like someone among us is not who they appear to be.\"\nDamien: \"Indeed, the way events unfolded is suspicious. We need to carefully consider our next step.\"\nCarol: \"I understand the concern, but I had nothing to do with last night's events. Let’s examine each other’s behavior calmly.\"\nEllie: \"I’m troubled by the situation. I noticed Carol seemed unusually defensive. That raises my suspicions.\"\nAchille: \"I lean towards Carol as well given the odd behavior observed during our discussion.\"\nDamien: \"I concur with Achille. My vote goes to Carol based on her mannerisms and the timing of her remarks.\"\nCarol: \"I maintain my innocence. Though I’m targeted by your votes, please reconsider. Still, I cannot vote against myself.\"\nEllie: \"For the safety of our group, I vote to eliminate Carol as she appears the most suspicious.\"\n*Majority vote is cast against Carol, and she is eliminated*",
-  "night_elim": "Brian",
-  "day_elim": "Carol"
-}
-```
- Round Execution Time: 25.318164 seconds 

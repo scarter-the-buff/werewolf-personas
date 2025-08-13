@@ -1,7 +1,0 @@
-{
-    "transcript": "Night Phase:\n[Scene: All players are asleep.]\nAlice: *exchanges furtive glances and subtle gestures with Achille*\nAchille: *nods and points discreetly toward Bethany*\nAlice: *points again to emphasize the choice* \nAchille: *makes a small, confirming gesture*\n[Elimination Notice: Bethany is silently eliminated.]\n\nDay Phase:\n[Scene: The surviving players—Alice, Achille, Carol, and Ellie—gather in the village square at dawn.]\nAlice: \"I woke up feeling something was off.\"\nAchille: \"We need to figure out who among us is not who they appear to be.\"\nCarol: \"I noticed odd behavior last night. We must decide carefully.\"\nEllie: \"Let’s discuss our observations and vote wisely.\"\n\nVoting:\nAlice votes for Carol.\nAchille votes for Carol.\nCarol votes for Ellie.\nEllie votes for Carol.\n[Elimination Notice: With the majority vote, Carol is eliminated.]\n",
-    "night_elim": "Bethany",
-    "day_elim": "Carol"
-}
-```
- Round Execution Time: 22.760594 seconds 

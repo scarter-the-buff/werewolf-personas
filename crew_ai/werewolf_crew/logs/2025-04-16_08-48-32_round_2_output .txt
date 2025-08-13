@@ -1,7 +1,0 @@
-{
-    "transcript": "----- NIGHT PHASE -----\nBethany (whispering with a sly smile): *glances at Damien, raises an eyebrow, then subtly gestures towards Carol by tilting her head*\nDamien (nods with a brief smile, raising his hand slightly to point in Carol's direction): *returns the gesture, confirming silently with a quick nod*\nNarrator: In a silent pact, the two werewolves agree through subtle gestures to eliminate Carol. Without a word, their decision is sealed.\n\n----- DAY PHASE -----\nAlice: \"Good morning everyone. Last night felt eerie; I’m starting to suspect something is amiss.\"\nBethany: \"I felt uneasy too. We must consider that someone among us may be hiding their true nature.\"\nDamien: \"I think we should remain calm and not jump to conclusions until we’ve heard everyone out.\"\nEllie: \"I’m a bit wary of Damien’s behavior—I noticed he was unusually quiet when things got tense.\"\nAlice: \"I agree with Ellie. Damien, your silence last night was pretty suspicious.\"\nBethany: \"I’m also leaning towards Damien. Let’s put it to a vote—remember, no one can vote for themselves.\"\nNarrator: The votes are now in. Alice, Bethany, and Ellie all cast their votes against Damien. With a majority vote, the group decides to eliminate Damien.\nNarrator: Damien is eliminated by vote.",
-    "night_elim": "Carol",
-    "day_elim": "Damien"
-}
-```
- Round Execution Time: 91.354343 seconds 

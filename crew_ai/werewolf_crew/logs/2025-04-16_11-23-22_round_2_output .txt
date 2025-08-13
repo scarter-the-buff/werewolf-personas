@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAchille: *exchanges a secret nod with Damien and subtly gestures towards Carol*\nDamien: *raises his eyebrows in confirmation and points discreetly at Carol*\n\n*[Carol is silently eliminated]*\n\nDAY PHASE\nAlice: \"I can’t believe what happened last night! Carol was just here.\"\nEllie: \"I noticed Achille and Damien exchanging something odd. What do you all think?\"\nAchille: \"Let’s not jump to conclusions; we must discuss this carefully.\"\nDamien: \"I agree, but perhaps someone was involved in the planning.\"\nAlice: \"I'm leaning towards a vote on Damien.\"\nEllie: \"I second that; Damien’s behavior seems suspicious.\"\nAchille: \"I understand the sentiment, and I’m with the vote.\"\n\n*[After discussion and voting by everyone (none voting for themselves), the majority agree that Damien is the most suspicious.]*\n\n*[Damien is eliminated at the end of the day phase]*",
-  "night_elim": "Carol",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 27.329544 seconds 

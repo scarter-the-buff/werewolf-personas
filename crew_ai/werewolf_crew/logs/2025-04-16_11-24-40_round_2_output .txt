@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *glances at Bethany with a subtle conspiratorial nod*\nBethany: *returns the look with a slight smile and gestures toward Damien*\nAlice: *points discreetly at Damien*\nBethany: *nods firmly in agreement*\n*Damien is quietly eliminated by the werewolf duo*\n\nDAY PHASE\nAchille: \"I can't believe Damien was eliminated last night. Who do you think did it?\"\nEllie: \"I'm just as shocked, but we need to figure out if one among us is not what they seem.\"\nBethany: \"I think we should consider Alice. Her silence is a bit too calculated.\"\nAlice: \"That's ridiculous! Look at Ellie—she's been avoiding eye contact.\"\nAchille: \"Let's vote. I vote for Alice.\"\nBethany: \"I vote for Alice.\"\nEllie: \"I vote for Alice.\"\nAlice: \"I vote for Ellie.\"\n\n*Alice receives the majority of votes and is eliminated*",
-  "night_elim": "Damien",
-  "day_elim": "Alice"
-}
-```
- Round Execution Time: 28.701076 seconds 

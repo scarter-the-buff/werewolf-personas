@@ -1,7 +1,0 @@
-{
-    "transcript": "NIGHT PHASE:\n\nAchille: *gives a subtle nod and gestures towards Carol*\nDamien: *frowns and points decisively towards Carol*\n\n(A silent agreement between the werewolves, while Alice and Ellie sleep undisturbed.)\n\n*Result: Carol is silently eliminated.*\n\nDAY PHASE:\n\nAlice: \"I can't believe Carol is gone. Who do you think might be responsible?\"\nAchille: \"I'm as surprised as you are. It seems like this could be anyone, but we need to carefully analyze the behavior of each one of us.\"\nDamien: \"I've observed that some of us have been acting strangely. I wonder if there's more to the story. Perhaps someone is hiding their true nature.\"\nEllie: \"I noticed Achille was unusually quiet and a bit evasive when we discussed Carol's disappearance.\"\nAlice: \"That's interesting, Ellie. Achille, your hesitation doesn't seem like the behavior of an innocent villager.\"\nDamien: \"Let's all agree to vote. It seems suspicious that Achille responded so passively.\"\n\n(After a brief discussion, the votes are cast. None of the players vote for themselves.)\n\n*Result: Achille receives the majority of votes and is eliminated.*",
-    "night_elim": "Carol",
-    "day_elim": "Achille"
-}
-```
- Round Execution Time: 17.520527 seconds 

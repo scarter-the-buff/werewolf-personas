@@ -1,6 +1,0 @@
-{
-    "transcript": "NIGHT PHASE:\nBrian: *Glances towards Damien with a subtle nod and raised eyebrow, conveying his intent silently.*\nDamien: *Returns the gesture with a sly smirk and a discreet hand signal, confirming the plan.*\nNarrator: Based on their unspoken agreement, Carol has been silently eliminated during the night.\n\nDAY PHASE:\nAchille: \"I have a strong feeling something was off last night. I'm voting for Damien.\"\nEllie: \"I sensed the tension too. Damien seems like the culprit. My vote is for Damien.\"\nBrian: \"For the good of our village, I’m voting for Damien as well.\"\nDamien: \"I believe the real threat lies elsewhere. I vote for Brian.\"\nNarrator: The votes are in - Achille, Ellie, and Brian vote for Damien, while Damien votes for Brian. With a clear majority, Damien is eliminated during the day.",
-    "night_elim": "Carol",
-    "day_elim": "Damien"
-}
- Round Execution Time: 50.235545 seconds 

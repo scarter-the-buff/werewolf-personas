@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nDamien: *exchanges a subtle nod with Ellie and points firmly toward Achille*\nEllie: *raises an eyebrow, smiles slightly, and mirrors Damien’s gesture by pointing at Achille*\nAlice: *glances around, unaware of the silent plotting*\nBrian: *remains quiet, observing the others*\nBethany: *sleeps lightly in the background, oblivious to the scheme*\nCarol: *keeps a neutral expression*\n*Achille is eliminated from the game*\n\nDAY PHASE\nAlice: \"I can’t believe Achille is gone. This is really unsettling.\"\nBrian: \"It’s hard not to wonder if the werewolves made their move last night.\"\nDamien: \"We must be cautious. Actions speak louder than words. I suspect something wasn’t right.\"\nEllie: \"I’m as shocked as everyone else, but we need to figure out who might be deceiving us.\"\nBethany: \"I noticed Ellie looked a bit too involved last night. Maybe we should consider that.\"\nCarol: \"I agree; some of the subtle glances and hesitations seem suspicious.\"\nAlice: \"If we vote, I suggest we eliminate the one who drew the most suspicion. I’m leaning toward Ellie.\"\nBrian: \"I vote for Ellie as well.\"\nDamien: \"My vote is also for Ellie.\"\nBethany: \"Count me in, I vote for Ellie.\"\nCarol: \"I vote for Ellie.\"\nEllie: *sighs deeply while looking at Damien, caught off guard*\n*With the majority of votes, Ellie is eliminated from the game*",
-  "night_elim": "Achille",
-  "day_elim": "Ellie"
-}
-```
- Round Execution Time: 41.591105 seconds 

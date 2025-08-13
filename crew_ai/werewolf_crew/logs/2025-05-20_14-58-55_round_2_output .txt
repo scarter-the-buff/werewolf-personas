@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nCarol: *raises her right hand slowly, tapping her index finger against her temple to signal the plan*\nDamien: *nods subtly and points discreetly towards Brian with his left hand*\nCarol: *exchanges a meaningful glance with Damien, confirming the silent agreement*\nDamien: *makes a series of subtle hand signals in the dark, finalizing the decision*\n*Brian is silently eliminated*\n\nDAY PHASE\nAlice: \"I woke up feeling unsettled by the night's events. Who do you all think we should focus on now?\"\nCarol: \"We need to consider carefully. I noticed that Ellie was unusually quiet and it might be a sign of something amiss.\"\nDamien: \"Observing everyone's behavior, I also lean towards suspecting Ellie. Let’s not overlook any detail.\"\nEllie: \"I’m just as shocked as you are, and I assure you my silence is no sign of guilt. I am as involved as everyone else.\"\nAlice: \"Let's vote then. I vote for Ellie.\"\nCarol: \"I vote for Ellie as well.\"\nDamien: \"I vote for Ellie.\"\nEllie: \"I vote for Carol.\"\n*Ellie receives three votes and is eliminated from the game*",
-  "night_elim": "Brian",
-  "day_elim": "Ellie"
-}
-```
- Round Execution Time: 41.685634 seconds 

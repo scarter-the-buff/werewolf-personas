@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian: *glances secretly at Damien and then subtly points toward Carol*\nDamien: *nods, raises an eyebrow, and mimics a quick tap toward Carol*\nBrian: *gestures with a slight smile, confirming the choice*\nDamien: *returns a firm nod*\n*Carol is eliminated*\n\nDAY PHASE\nAlice: \"I can’t believe Carol is gone. Something feels off...\"\nBethany: \"I know, but we need to be cautious. I’ve noticed Brian acting oddly.\"\nAchille: \"Yes, Brian’s been unusually quiet. I suspect he might be hiding something.\"\nEllie: \"I agree. Brian’s behavior has me suspicious. We must decide carefully.\"\nBrian: \"I’m as shocked as everyone else. I say we get to the bottom of this, but I don’t vote for myself.\"\nDamien: \"I don't want to point fingers without proof, but I also feel uneasy about Brian.\"\n*Voting begins*\nAlice votes for Brian, Bethany votes for Brian, Achille votes for Brian, Ellie votes for Damien, Brian votes for Damien, Damien votes for Brian\n*Brian receives the most votes (4 votes) and is eliminated*",
-  "night_elim": "Carol",
-  "day_elim": "Brian"
-}
- Round Execution Time: 17.521816 seconds 

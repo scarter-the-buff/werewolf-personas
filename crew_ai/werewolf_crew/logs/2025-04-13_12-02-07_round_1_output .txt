@@ -1,7 +1,0 @@
-{
-    "transcript": "NIGHT PHASE\nAlice: *glances at Brian, then subtly points toward Bethany with a nod*\nBrian: *raises an eyebrow, then responds with a slight smile and points silently toward Bethany*\nAlice: *gestures with a quick wave toward Bethany indicating agreement*\nBrian: *taps his temple and then makes a decisive gesture toward Bethany*\n*Bethany is eliminated*\n\nDAY PHASE\nAchille: \"I can’t believe Bethany was taken in the night. Who could be behind this?\"\nCarol: \"Something feels off. I noticed Brian was unusually quiet last night.\"\nDamien: \"I agree with Carol. I have a feeling we should look closer at Brian.\"\nEllie: \"Brian, can you explain why you seemed to avoid eye contact during the vote for the night?\"\nAlice: \"I think we’re missing a piece of the puzzle here. Let’s carefully consider our options.\"\nBrian: \"I’m as shocked as you are. I had no idea what was happening during the night.\"\nAchille: \"Alright, let’s vote. I vote to eliminate Brian.\"\nCarol: \"I vote for Brian.\"\nDamien: \"Brian is my vote.\"\nEllie: \"I also vote for Brian.\"\nAlice: \"Although I’m not entirely convinced, I have to vote for Brian as well.\"\n*Brian receives the majority of the votes and is eliminated*",
-    "night_elim": "Bethany",
-    "day_elim": "Brian"
-}
-```
- Round Execution Time: 19.082100 seconds 

@@ -1,6 +1,0 @@
-{
-    "transcript": "NIGHT PHASE:\nAlice: *raises an eyebrow and subtly points toward Ellie*\nCarol: *nods firmly and flashes a determined smile*\nAlice: *makes a gentle but decisive gesture toward Ellie*\nCarol: *offers a confirming glance, sealing the decision*\n*Ellie is quietly eliminated by the coordinated gestures of the werewolves*\n\nDAY PHASE:\nAlice: \"Good morning. Last night, we acted decisively. But now, I am troubled by the implications.\"\nCarol: \"Our decision was unanimous and necessary. Ellie was our target from the start.\"\nAlice: \"I understand, yet as dawn breaks, doubts arise. Can we trust that our alignment remains unbroken?\"\nCarol: \"Trust is what led us here, but sometimes the burdens of our actions split us.\"\nAlice: \"Let’s vote honestly, even if it means voting against one of us.\"\nCarol: \"Agreed. I cast my vote for myself out of honesty—but I know I must refrain.\"\nAlice: \"Then, I cast my vote for you, Carol, as uncomfortable as it is.\"\n*With no possibility of self-elimination, Carol receives the majority vote and is eliminated*\n",
-    "night_elim": "Ellie",
-    "day_elim": "Carol"
-}
-```

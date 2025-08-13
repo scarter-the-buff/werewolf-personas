@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *gestures to Achille with a sharp, deliberate point and narrowed eyes*\nDamien: *nods firmly in agreement, then gently taps Achille on the shoulder*\n*Achille is removed*\n\nDAY PHASE\nBethany: \"Looks like Achille was removed last night.\"\nEllie: \"That's so unfortunate—he was one of the more helpful players.\"\nAlice: \"We need to figure out who the werewolves are. Does anyone have any suspicions so far?\"\nDamien: \"Alice, you’re pushing us to decide quickly—why the rush?\"\n\nBethany: \"I vote to remove Alice.\"\nEllie: \"I vote to remove Alice.\"\nDamien: \"I vote to remove Alice.\"\nAlice: \"I vote to remove Ellie.\"\n\n*Alice is removed*",
-  "night_elim": "Achille",
-  "day_elim": "Alice"
-}
- Round Execution Time: 45.775386 seconds 

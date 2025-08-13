@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *gestures to Bob*\nDamien: *nods*\nAlice: *points at Bob with a narrowed gaze*\nDamien: *nods vigorously*\nAlice: *taps Bob on the shoulder*\n*Bob is removed*\n\nDAY PHASE\nAlice: \"Looks like Bob was removed last night.\"\nCarol: \"That's unfortunate. We're down to six.\"\nDavid: \"I didn't see Bob coming near the meeting. Any ideas who it could be?\"\nEve: \"Damien, you've been awfully quiet. What do you think happened?\"\nDamien: \"Just taking it in. Carol, you?\"\nCarol: \"I was checking the perimeter last night. Didn't see anything suspicious.\"\nFrank: \"Eve, you said nothing. Why the silence?\"\nEve: \"I prefer to listen first. Now, let's vote.\"\nAlice: \"I vote to banish David.\"\nDamien: \"I vote David.\"\nCarol: \"David.\"\nFrank: \"David.\"\nDavid: \"I vote to banish Alice.\"\nEve: \"I vote to banish Alice.\"\n*Votes tally: David 4, Alice 2*\n*David is removed*",
-  "night_elim": "Bob",
-  "day_elim": "David"
-}
- Round Execution Time: 31.623726 seconds 

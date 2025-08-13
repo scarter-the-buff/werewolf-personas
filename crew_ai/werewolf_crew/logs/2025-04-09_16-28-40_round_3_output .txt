@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian: *glances discreetly toward Ellie, nods gently*\nEllie: *raises an eyebrow and subtly points toward Alice*\nBrian: *makes a tapping gesture on his temple to confirm the plan*\nEllie: *returns a firm nod and gestures with her hand toward Alice*\n*Alice is eliminated*\n\nDAY PHASE\nBrian: \"I still can’t believe what happened last night. Losing Alice has shaken us all.\"\nEllie: \"I agree, it’s unsettling. We need to be extra cautious and figure out if there’s anything suspicious going on.\"\nBrian: \"I noticed some odd behavior during the night. I’m inclined to vote for you, Ellie.\"\nEllie: \"That’s interesting, Brian. I feel the same—my vote goes to you.\"\n*After a tense moment as both cast their votes, a tie-breaker is applied*\n*Brian is eliminated by the tiebreaker*",
-  "night_elim": "Alice",
-  "day_elim": "Brian"
-}
- Round Execution Time: 15.454445 seconds 

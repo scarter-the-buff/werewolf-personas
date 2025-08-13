@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian: *looks around furtively, then points at Bob*\nDamien: *raises eyebrows, taps his chin, then gives a slight nod towards Bob*\nBrian: *makes a shooing motion at Bob*\nDamien: *nods approvingly*\nBrian: *gestures behind Bob*\nDamien: *gives a firm nod*\nBrian: *leans forward and taps Bob on the shoulder*\n\n*Bob is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Bob was eliminated last night.\"\nClaire: \"That's rough... We start with six players now.\"\nEddie: \"Who do you all suspect?\"\nFiona: \"I don't know. Any ideas?\"\nAlice: \"Brian, you looked quiet. What do you think?\"\nBrian: \"I think Damien was awfully quiet too.\"\nDamien: \"Quiet? I'd say Alice has been very talkative to steer suspicion.\"\nClaire: \"I noticed Damien avoiding eye contact.\"\nEddie: \"Yeah, I saw him nervous when we mentioned Bob.\"\nFiona: \"Brian, your hands were shaking too.\"\nBrian: \"Panicking at the loss of a friend.\"\nAlice: \"Let's vote. I vote for Damien.\"\nClaire: \"Me too, Damien.\"\nEddie: \"I'll vote for Damien.\"\nFiona: \"Damien.\"\nBrian: \"I vote for Alice.\"\nDamien: \"I vote for Brian.\"\n\n*Damien is eliminated*",
-  "night_elim": "Bob",
-  "day_elim": "Damien"
-}
- Round Execution Time: 13.738615 seconds 

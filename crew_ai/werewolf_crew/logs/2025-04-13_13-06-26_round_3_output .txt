@@ -1,7 +1,0 @@
-{
-  "transcript": "----- NIGHT PHASE -----\nAlice and Carol, both with subtle and secretive glances, sit in a dimly lit corner. Alice tilts her head slightly, nodding and softly pointing at Ellie, who stands apart. Carol mirrors the gesture with a discreet hand motion and a light nod, confirming without words that Ellie should be eliminated. The silent communication is clear and understood—Ellie is quietly removed from the round.\n\n----- DAY PHASE -----\nIn the bright light of day, the remaining players, Alice and Carol, gather to discuss what happened.\nAlice: \"It seems the night took its toll. I cast my vote for you, Carol.\"\nCarol: \"Under the rules, I must do likewise. I vote for you, Alice.\"\n\nThe votes are revealed: one vote each, leading to an immediate tie.\n\nAlice: \"This tie suggests we need some extra discussion. Let’s agree on one clear decision to resolve the stalemate.\"\nCarol: \"Agreed. After some thought, I propose that eliminating Carol is the best way to break the deadlock.\"\n\nAlice: \"I concur. Our discussion points to that option. Let’s finalize it: Carol is eliminated.\"\n\nFinal vote: Both agree on eliminating Carol, ending the day phase decisively.",
-  "night_elim": "Ellie",
-  "day_elim": "Carol"
-}
-```
- Round Execution Time: 144.114749 seconds 

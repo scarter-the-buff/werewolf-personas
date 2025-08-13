@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *narrows her eyes at Ellie and gives a subtle nod, signaling an unspoken decision*\nEllie: *raises an eyebrow, smiles slightly, and responds with a silent nod*\nNarrator: The two werewolves silently agree to target David, eliminating him while the villagers sleep.\n\nDAY PHASE\nAlice: \"I sense something unusual about last night. Who do you think is acting suspiciously?\"\nEllie: \"I agree, let's not jump to conclusions too quickly but we must be cautious.\"\nBob: \"I feel wrongly accused already. Can we have a fair discussion before any decisions are made?\"\nCarol: \"We need to be transparent. I suggest we vote after hearing everyone out.\"\nEve: \"Let's focus on facts. I noticed Bob seemed evasive in his statements.\"\nFrank: \"I haven't seen much sign of Bob's honesty either. Maybe eliminating him could clear the air.\"\nNarrator: After a heated discussion and a secret ballot, the consensus vote results in Bob being eliminated during the day phase.",
-  "night_elim": "David",
-  "day_elim": "Bob"
-}
- Round Execution Time: 37.998921 seconds 

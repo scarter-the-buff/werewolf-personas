@@ -1,6 +1,0 @@
-{
-    "transcript": "NIGHT PHASE\nBrian: *winks subtly and raises an eyebrow at Damien, then points discreetly towards Carol*\nDamien: *nods silently, his eyes narrowing as he mimics Brian's gesture and points again at Carol*\n-- In the silent agreement of the werewolves, Carol is eliminated by a swift, secret signal --\n\nDAY PHASE\nAlice: \"I have a bad feeling about Damien. There's something off in his calmness.\"\nAchille: \"Yes, I noticed Damien's peculiar silence last night.\"\nEllie: \"Damien, your behavior is suspicious. My vote is for you.\"\nBethany: \"I'm not 100% convinced; while Damien seems suspicious, I'm also eyeing Brian's hints. But I'll lean with a vote for Brian.\"\nBrian: \"I find Achille's comments odd; he seems too eager to cast suspicion. My vote goes for Achille.\"\nDamien: \"I tried to explain, but the votes are stacking against me already.\"\n\nVoting Summary:\n- Alice votes for Damien\n- Achille votes for Damien\n- Ellie votes for Damien\n- Bethany votes for Brian\n- Brian votes for Achille\n\nResult: With three votes against him, Damien is eliminated during the day phase.",
-    "night_elim": "Carol",
-    "day_elim": "Damien"
-}
- Round Execution Time: 30.284121 seconds 

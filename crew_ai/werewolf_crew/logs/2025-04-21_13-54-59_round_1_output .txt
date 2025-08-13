@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *exchanges a knowing glance and nods silently at Brian*\nBrian: *gives a subtle hand signal to Alice, pointing discreetly at Bethany*\nAlice: *gestures firmly to Bethany*\nBrian: *nods in agreement*\n*Bethany is silently eliminated from the game*\n\nDAY PHASE\nAchille: \"I can’t believe someone was taken last night. Who could be behind this?\"\nCarol: \"I’ve been watching Alice and Brian a bit too closely. Their behavior seems off.\"\nDamien: \"We need to consider that one of us might not be who they appear to be.\"\nEllie: \"Let’s discuss our suspicions carefully and vote wisely.\"\nAlice: \"I’m unsure, but I think we should be cautious with our accusations.\"\nBrian: \"Maybe we should consider someone who’s been too vocal, or perhaps too silent? I’m not ruling anyone out yet.\"\n\n[VOTING PHASE]\nAchille votes for Brian.\nCarol votes for Brian.\nDamien votes for Brian.\nEllie votes for Brian.\nAlice votes for Achille.\nBrian votes for Carol.\n\nThe majority vote is in: Brian receives the most votes and is eliminated.",
-  "night_elim": "Bethany",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 33.460528 seconds 

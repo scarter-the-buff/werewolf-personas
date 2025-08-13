@@ -1,7 +1,0 @@
-{
-  "transcript": "----- NIGHT PHASE -----\n[Alice and Bethany, the werewolves, communicate solely with gestures.]\nAlice tilts her head and points decisively towards Villager 3. Bethany responds with a firm nod and a subtle hand wave, confirming their unspoken agreement: Villager 3 is to be eliminated.\nResult: Villager 3 is eliminated during the night.\n\n----- DAY PHASE -----\n[The surviving players—Werewolves: Alice and Bethany; Villagers: Villager 1, Villager 2, Villager 4, and Villager 5—gather to deliberate and cast votes.]\nAlice: \"I can't believe what happened last night. We need to figure out who among us might be hiding something.\"\nBethany: \"I agree, let’s be cautious and consider who seems too calm or out of place.\"\nVillager 1: \"I'm suspicious of Alice. Her calm demeanor seems almost calculated.\"\nVillager 2: \"I noticed that too. There’s something off about how composed she is despite the tension.\"\nVillager 4: \"I’m not entirely sure, but the hints about Alice are growing louder in my mind.\"\nVillager 5: \"I vote for Alice. Her behavior has been the most questionable tonight.\"\n\n[Voting begins (players never vote for themselves):]\n- Villager 1 votes for Alice\n- Villager 2 votes for Alice\n- Villager 5 votes for Alice\n- Alice votes for Villager 1\n- Bethany votes for Villager 2\n\nTallying votes: Alice receives 3 votes, while Villager 1 and Villager 2 receive 1 vote each. Therefore, Alice is eliminated during the day.",
-  "night_elim": "Villager 3",
-  "day_elim": "Alice"
-}
-```
- Round Execution Time: 72.257749 seconds 

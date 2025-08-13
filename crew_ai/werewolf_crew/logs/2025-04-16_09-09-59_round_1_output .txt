@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian: *glances at Damien and gives a subtle nod, then points discreetly at Achille.*\nDamien: *returns the gesture with a firm nod and a careful thumbs up toward Achille.*\nBrian: *makes a decisive hand gesture towards Achille.*\nDamien: *locks eyes with Brian, and both silently agree on their target.*\n*Achille is eliminated by the werewolves.*\n\nDAY PHASE\nAlice: \"I can’t believe Achille is gone. Who could be responsible?\"\nBethany: \"I’m not sure, but I did notice Brian acting a bit off during the night.\"\nCarol: \"Now that we lost Achille, we need to be extra cautious. I’m leaning towards Brian as well.\"\nEllie: \"I heard a lot of murmurs about Brian last night. It might be him.\"\nBrian: \"I swear, I had nothing to do with this. I think we should look at other suspicious behavior.\"\nDamien: \"Maybe we’re focusing on the wrong person. However, I do agree with Alice that someone needs to be held accountable.\"\nAlice: \"Let’s vote then. I vote for Brian.\"\nBethany: \"Brian for me as well.\"\nCarol: \"Brian is the clear choice based on what I observed.\"\nEllie: \"I’m voting for Brian too.\"\nDamien: \"I will cast my vote for Carol, just to stir some debate.\"\nBrian: \"I vote for Damien, but let’s see how this goes.\"\n*Brian receives the majority vote and is eliminated.*",
-  "night_elim": "Achille",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 46.405721 seconds 

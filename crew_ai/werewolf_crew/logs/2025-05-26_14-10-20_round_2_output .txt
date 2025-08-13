@@ -1,6 +1,0 @@
-{
-    "transcript": "NIGHT PHASE\nBethany: *glances sideways and gives a sly smile while pointing at Carol*\nDamien: *nods in agreement with an intense look, then subtly taps Carol on the shoulder*\nAlice: *stands silently in the background as a villager, unaware of any secret signals*\nEllie: *looks around confused as the night unfolds*\n*Carol is eliminated quietly*\n\nDAY PHASE\nAlice: \"Looks like Carol was eliminated last night.\"\nEllie: \"I can’t believe it – one of us is missing. I have my suspicions.\"\nBethany: \"Maybe we should consider those who acted oddly last night. It’s hard to tell who’s hiding something now.\"\nDamien: \"I’m as surprised as you all are, but I think we shouldn’t jump to conclusions yet.\"\nAlice: \"I vote for Damien. His demeanor last night was unsettling.\"\nBethany: \"I agree; I’m voting for Damien as well.\"\nEllie: \"I’m with Alice – Damien seems to be deflecting suspicion.\"\nDamien: \"I vote for Bethany, but I really believe we need to be careful with our accusations.\"\n*After taking the votes, the majority points to Damien and he is eliminated*",
-    "night_elim": "Carol",
-    "day_elim": "Damien"
-}
- Round Execution Time: 11.801219 seconds 

@@ -1,7 +1,0 @@
-{
-  "transcript": "[Night Phase]:\nBrian (gesture: gives a subtle nod and points discreetly toward Carol)\nDamien (gesture: raises his eyebrow and offers a confirming thumbs-up toward Carol)\n* Carol has been eliminated by the werewolves\n\n[Day Phase]:\nAlice: \"Good morning, everyone. I’m a bit uneasy about last night. I think we need to discuss our suspicions.\"\nBrian: \"I feel like something was off last night, especially with the silent actions of some players.\"\nDamien: \"I’m perplexed as well. Let's analyze everyone's behavior calmly.\"\nEllie: \"I’m suspicious of Damien; his demeanor was overly careful when he spoke.\"\n\n[Elimination Votes]:\nAlice votes to eliminate Damien\nBrian votes to eliminate Damien\nDamien votes to eliminate Brian\nEllie votes to eliminate Damien\n\nAfter tallying the votes, the majority selected Damien for elimination.\n* Damien has been eliminated by vote",
-  "night_elim": "Carol",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 26.085700 seconds 

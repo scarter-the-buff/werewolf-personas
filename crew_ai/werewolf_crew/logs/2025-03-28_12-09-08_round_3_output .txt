@@ -1,6 +1,0 @@
-{
-    "transcript": "=== Night Phase ===\nBrian and Carol, the werewolves, convene in the shadowed part of the village. Without speaking a word, Brian gives a subtle nod and points discreetly toward Achille, the only villager. Carol raises her eyebrow in confirmation and gestures with a slight hand motion. Their silent agreement seals Achille’s fate as they both indicate him. Achille is quietly eliminated under the cloak of night.\n\n=== Day Phase ===\nAt dawn, Brian and Carol, now masquerading as villagers, meet in the village square. Brian hesitantly remarks, \"I have a feeling something is off—perhaps we should reconsider our trust here,\" while Carol responds with a measured tone, \"Really, Brian? Maybe it’s your way of shifting blame.\" The conversation grows tense as each accuses the other. When votes are taken, both cast their vote for the other, leading to a tie. Following the game’s tie-breaker rule, the decision is finalized and Brian is eliminated.",
-    "night_elim": "Achille",
-    "day_elim": "Brian"
-}
-```

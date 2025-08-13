@@ -1,3 +1,0 @@
-{"transcript": "NIGHT PHASE\nBrian: *leans forward and taps his chin twice as a signal*\nCarol: *nods deliberately and draws a small circle in the air*\n*Both werewolves exchange silent gestures and agree that Ellie, the only villager, is to be eliminated*\n*Ellie is quietly removed from the round*\n\nDAY PHASE\nBrian: \"After last night, it’s clear we must protect our secret at all costs. I believe a vote is necessary.\"\nCarol: \"I agree. Our survival depends on keeping any suspicion away.\"\nBrian: \"I cast my vote for you, Carol.\"\nCarol: \"I vote for you, Brian.\"\n*The votes are tied (1 for Brian, 1 for Carol). Following the tiebreaker rule, Carol is eliminated.*", "night_elim": "Ellie", "day_elim": "Carol"}
-```
- Round Execution Time: 42.181822 seconds 

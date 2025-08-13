@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *leans toward Brian and points at Damien*\nBrian: *nods in agreement*\nAlice: *makes a slicing gesture across her throat toward Damien*\nBrian: *gives a thumbs-up and points at Damien*\nAlice: *silently sneaks behind Damien and taps him on the shoulder*\n*Damien is eliminated*\n\nDAY PHASE\nBethany: \"Looks like Damien was eliminated last night.\"\nCarol: \"Yeah, we're down to four now.\"\nAlice: \"I didn't see anything—does anyone have clues?\"\nBrian: \"I’m still gathering my thoughts.\"\nBethany: \"Alice, you seem awfully calm for someone who lost a teammate.\"\nAlice: \"I just stay focused.\"\nCarol: \"Okay, let's vote.\"\nBethany: \"I vote to eliminate Alice.\"\nCarol: \"I vote to eliminate Brian.\"\nAlice: \"I vote to eliminate Brian.\"\nBrian: \"I vote to eliminate Alice.\"\n*Brian is eliminated*",
-  "night_elim": "Damien",
-  "day_elim": "Brian"
-}
- Round Execution Time: 13.776829 seconds 

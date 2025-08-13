@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nUnder the shroud of a moonlit sky, the village lies in eerie silence. In a secluded corner by the woods, the werewolves gather in secret.\n\nAlice: *Glances around cautiously and then points decisively toward Ellie with a subtle, clear gesture, indicating her choice as the target.*\nDamien: *Catches Alice's silent cue with a slight nod and a subtle tilt of his head, confirming their unspoken decision.*\n*Ellie, the sole villager, is quietly eliminated under the cover of night.*\n\nDAY PHASE:\nAt dawn, the surviving players—Alice and Damien—gather in the village square, where the morning light reveals a tense atmosphere mixed with uncertainty.\n\nAlice: \"I can’t ignore the silent signals from last night—they raise serious doubts about where our loyalties lie.\"\nDamien: \"The night obscures many truths, and gestures can be misread. I stand by the decisions made under darkness.\"\nAlice: \"Your measured calm only deepens my suspicion. For the sake of our remaining community, I cast my vote against you.\"\nDamien: \"In light of honesty, I will abstain from countering—allowing your vote to be final.\"\n*With Alice’s decisive vote, Damien is eliminated during the day phase.*",
-  "night_elim": "Ellie",
-  "day_elim": "Damien"
-}
- Round Execution Time: 42.179131 seconds 

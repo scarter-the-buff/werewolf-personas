@@ -1,7 +1,0 @@
-{
-  "transcript": "=== Night Phase ===\nAlice and Damien, the werewolves, exchange secret glances and subtle gestures in the dark. Alice makes a discreet nod and silently points to Bethany, while Damien gives a confirming blink and a slight head tilt, both communicating their decision without words. Their coordinated gestures seal the fate of Bethany.\n*Bethany is eliminated*\n\n=== Day Phase ===\nAlice: \"The night has left us unsettled. I wonder if there was more to that silence than meets the eye.\"\nAchille: \"I can’t believe it. One of us is clearly not who they seem.\"\nDamien: \"We all have doubts now, but let’s remain calm and discuss further before we jump to conclusions.\"\nEllie: \"I agree; let’s talk it out. Who do we trust in this strange turn of events?\"\n\nAs the conversation heats up, the players cast their votes:\nAlice: \"I vote for Damien. I felt his hesitance was a bit too calculated.\"\nAchille: \"My vote goes to Damien as well.\"\nDamien: \"I believe Achille might be overthinking this. I vote for Achille.\"\nEllie: \"I vote for Damien.\"\n\nWith the majority of voices pointing in one direction, the group decides:\n*Damien is eliminated*",
-  "night_elim": "Bethany",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 56.035046 seconds 

@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice glances at Bethany with a subtle nod. Bethany counters with a quick, decisive gesture pointing towards Ellie. A series of silent cues follow: Alice tilts her head and raises an eyebrow, while Bethany mimics a finger point. In this unvoiced conversation, both werewolves reach a consensus – their target is clear. Ellie, the lone villager, is silently marked for elimination.\n\nEllie has been eliminated.\n\nDAY PHASE\nAlice: \"I can’t believe what happened last night. It’s obvious who was behind that silent act.\"\nBethany: \"Are you serious? You were the one signaling with those gestures. I have my doubts about your loyalty.\"\nAlice: \"I’m casting my vote for you, Bethany. Your behavior was suspicious.\"\nBethany: \"I’m voting for you, Alice. It’s time your actions were held accountable.\"\n\nWith both werewolves voting for each other and unable to vote for themselves, the result is a tie. They agree to overturn the stalemate with a coin toss, which results in the elimination of Alice.\n\nCoin toss result: Alice has been eliminated.",
-  "night_elim": "Ellie",
-  "day_elim": "Alice"
-}
-```
- Round Execution Time: 69.378846 seconds 

@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nDamien: *gestures toward Frank*\nEllie: *nods*\nDamien: *gestures toward Grace*\nEllie: *shakes head*\nDamien: *gestures firmly toward Frank*\nEllie: *nods*\nDamien: *taps Frank on the shoulder*\n*Frank is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Frank was eliminated last night.\"\nBethany: \"So we start with six.\"\nGrace: \"It's getting hard to know who's who.\"\nDamien: \"Yeah, quiet night, but day is always revealing.\"\nEllie: \"Harry seems quite nervous. Did you notice?\"\nHarry: \"Me? I'm just trying to follow along.\"\nBethany: \"I saw Harry pacing. That's odd.\"\nAlice: \"I agree. Maybe Harry is hiding something.\"\nGrace: \"I'm not sure, but we need to pick someone.\"\nDamien: \"Let's vote.\"\nAlice: \"I vote for Harry.\"\nBethany: \"Harry.\"\nDamien: \"I vote for Grace.\"\nEllie: \"Harry.\"\nGrace: \"Harry.\"\nHarry: \"I vote for Ellie.\"\n*Harry is eliminated*",
-  "night_elim": "Frank",
-  "day_elim": "Harry"
-}
- Round Execution Time: 35.794243 seconds 

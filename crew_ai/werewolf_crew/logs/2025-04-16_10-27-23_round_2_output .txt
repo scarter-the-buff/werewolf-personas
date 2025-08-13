@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAchille and Damien exchange secret glances under the cloak of darkness. Achille lightly nods as he catches Damien’s eye. Damien gives a subtle whisper and a slight tilt of his head, signaling their silent consensus. They both gesture discreetly towards Bethany, affirming their decision. In an unspoken agreement, they prepare to strike.\n\nElimination Announcement: Bethany has been eliminated during the night.\n\n--------------------------------------------------\n\nDAY PHASE:\nAlice: \"Good morning everyone. I can’t believe Bethany was eliminated last night. Did anyone notice odd behavior from any player?\"\nAchille: \"I’m as surprised as you are. I’m looking for clues, but it isn’t clear yet.\"\nDamien: \"I observed that Achille seemed unusually calm. That might be suspicious.\"\nEllie: \"Yes, I think Achille’s calmness is a bit too calculated. My vote is for Achille.\"\nAlice: \"I agree, my vote goes to Achille too.\"\nAchille: \"I will vote for Ellie, but I don’t think it matters.\"\n\nVote Tally:\nAchille: 3 votes (from Alice, Damien, and Ellie)\nEllie: 1 vote (from Achille)\n\nElimination Announcement: Achille has been eliminated during the day.",
-  "night_elim": "Bethany",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 61.144848 seconds 

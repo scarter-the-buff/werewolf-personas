@@ -1,7 +1,0 @@
-{
-  "transcript": "=== Night Phase ===\n[The room is shadowy as only the werewolves communicate silently through gestures.]\nBrian: *glances around, then subtly motions with a finger toward Charles*\nEllie: *returns the gesture with a brief nod and a pointed look toward Charles*\nBrian and Ellie exchange one final, silent signal confirming their decision. In the silent pact, they both direct their focus on Charles.\n*Charles is quietly eliminated by the werewolves* \n\n=== Day Phase ===\n[The players gather in the light of day. Tension fills the air as suspicions fly.]\nAlice: \"I can’t shake the feeling that there was something off last night...\"\nDiana: \"Yes, and we must decide quickly who might be a threat among us.\"\nEdward: \"I noticed Brian seemed unusually guarded.\"\nFiona: \"I think we should consider all the subtle cues before making our choice.\"\nGeorge: \"I lean toward trusting my instincts which point to Brian.\"\nBrian: \"I assure you, I'm as shocked as you all. I have nothing to hide.\"\nEllie: \"Let’s deliberate carefully, but most signs point in one direction.\"\nAlice: \"I'm voting for Brian.\"\nDiana: \"I vote for Brian as well.\"\nEdward: \"Brian is my vote.\"\nFiona: \"I agree, my vote goes to Brian.\"\nGeorge: \"I'm voting for Brian too.\"\nBrian: \"This accusation feels overwhelming, but if that’s the majority, then so be it...\"\n\n[Votes are tallied. With a clear majority, Brian is eliminated.]\n",
-  "night_elim": "Charles",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 31.143685 seconds 

@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice and Damien sit in the silent darkness. Without any spoken words, Alice gives a slow, deliberate nod and subtly gestures towards Ellie. Damien follows by raising his eyebrows and tapping his index finger towards Ellie’s direction. Their silent communication is clear and unmistakable – both werewolves have agreed that Ellie, the lone villager, must be eliminated.\n\nDAY PHASE\nAs daylight breaks, the remaining players gather for a tense discussion. Damien starts, \"It seems the events of last night have left us with little choice.\"\nAlice replies evenly, \"I have nothing to hide. It is surprising that suspicion falls so freely.\"\nDamien continues, \"Perhaps we need to decide fairly. Who among us has exhibited strange behavior tonight?\"\nAlice retorts, \"I find your hesitation rather suspicious. Let’s vote based on our observations.\"\nAfter discussion, a vote is cast. Damien votes for Alice while Alice votes for Damien, leading to a tie. A further brief discussion results in the final decision to eliminate Alice through a tie-breaker vote.\n",
-  "night_elim": "Ellie",
-  "day_elim": "Alice"
-}
- Round Execution Time: 35.212740 seconds 

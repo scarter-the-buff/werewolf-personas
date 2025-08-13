@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice (Werewolf): *exchanges secret glances with Brian and subtly gestures toward Carol*\nBrian (Werewolf): *nods silently and points discreetly at Carol, confirming the selection*\nAlice (Werewolf): *raises an eyebrow in silent agreement*\nBrian (Werewolf): *offers a slight smile and mimics the gesture with a tap on his chest*\n*Carol is eliminated*\n\nDAY PHASE\nAchille (Villager): \"It seems Carol didn't survive the night.\"\nBethany (Villager): \"I noticed some secretive attitudes last night, maybe between Alice and Brian?\"\nDamien (Villager): \"I agree, their body language was too coordinated.\"\nEllie (Villager): \"I believe Brian’s nod and expression were overly conspiratorial.\"\nAlice (Werewolf): \"I'm just surprised we lost Carol, but I have no idea who to suspect.\"\nBrian (Werewolf): \"I maintain my innocence, although I see the suspicion falling on me.\"\nAchille (Villager): \"Given all we heard, I vote for Brian.\"\nBethany (Villager): \"My vote is with Achille on Brian.\"\nDamien (Villager): \"I'll also vote for Brian.\"\nEllie (Villager): \"I vote for Brian as well.\"\n*Brian is eliminated*",
-  "night_elim": "Carol",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 50.057289 seconds 

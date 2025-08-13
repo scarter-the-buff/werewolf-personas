@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAchille: *glances at Damien, raises an eyebrow, and points silently towards Carol*\nDamien: *nods in agreement, frowns, and makes a subtle hand gesture toward Carol*\n*After a moment of silent consensus, Carol is marked for elimination*\n*Carol is eliminated during the night phase*\n\nDAY PHASE\nBrian: \"We woke to find Carol missing last night.\"\nEllie: \"I didn\\'t see anything unusual, but something is off.\"\nAchille: \"I think we need to be careful. Who among us seems the most suspicious?\"\nDamien: \"Maybe we should consider who tried to steer the conversation early on.\"\nBrian: \"I vote for Damien, because his silence earlier seemed more than mere quietness.\"\nEllie: \"I lean towards Achille. His gestures last night looked deliberate.\"\nAchille: \"I vote for Brian, because he seemed overly eager to point fingers.\"\nDamien: \"I vote for Brian as well, as I trust my instincts on his behavior.\"\n*Brian receives the most votes and is eliminated during the day phase*",
-  "night_elim": "Carol",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 25.986518 seconds 

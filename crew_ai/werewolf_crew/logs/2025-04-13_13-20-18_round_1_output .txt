@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nBrian (werewolf) and Damien (werewolf) signal silently under the cover of darkness. Brian gives a subtle nod toward Carol while Damien shakes his head in confirmation. Their gestures clearly indicate their agreement: Carol is the target. (Carol is eliminated during the night phase.)\n\nDAY PHASE:\nAlice: \"I can’t believe Carol is gone. It feels like she vanished without warning.\"\nAchille: \"Her disappearance is alarming. We must figure out what happened.\"\nBethany: \"I’m starting to suspect that someone here isn’t who they claim to be.\"\nDamien: \"We need to review our actions and cast our votes carefully. I have my suspicions too.\"\nEllie: \"Let’s discuss properly so we can make the right decision.\"\nBrian: \"I’ve been on my side all along, but clearly, there’s distrust brewing among us.\"\n\nVoting:\nAlice votes against Brian.\nAchille votes against Brian.\nBethany votes against Brian.\nDamien votes against Brian.\nEllie votes against Brian.\n\nFinal Vote Tally: With a unanimous majority, Brian is eliminated during the day phase.",
-  "night_elim": "Carol",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 37.232220 seconds 

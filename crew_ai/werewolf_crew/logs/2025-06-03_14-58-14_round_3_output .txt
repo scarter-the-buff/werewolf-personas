@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nCarol: *looks around furtively, raises two fingers towards Brian*\nFrank: *nods, then points at Brian*\nCarol: *nods vigorously*\nFrank: *gives a subtle thumbs-up*\nFrank: *gently taps Brian on the shoulder*\n*Brian is eliminated*\n\nDAY PHASE\nAlice: \"Good morning, everyone. I see Brian was eliminated last night.\"\nEllie: \"Yeah, it's too bad. Only six of us remain.\"\nGrace: \"We need to figure out who the werewolves are.\"\nDiana: \"I think Carol was really quiet last night.\"\nAlice: \"Carol, do you have any thoughts?\"\nCarol: \"I'm as surprised as you. I don't have any information.\"\nEllie: \"That response is a bit suspicious.\"\nGrace: \"Agreed.\"\nDiana: \"Okay, let's vote.\"\nAlice: *votes to eliminate Carol*\nEllie: *votes to eliminate Carol*\nGrace: *votes to eliminate Carol*\nDiana: *votes to eliminate Carol*\nFrank: *votes to eliminate Alice*\nCarol: *votes to eliminate Alice*\n*Carol is eliminated*",
-  "night_elim": "Brian",
-  "day_elim": "Carol"
-}
- Round Execution Time: 36.603241 seconds 

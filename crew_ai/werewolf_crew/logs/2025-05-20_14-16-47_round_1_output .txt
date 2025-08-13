@@ -1,7 +1,0 @@
-{
-    "transcript": "----- NIGHT PHASE -----\nBrian (with a subtle nod and raised eyebrow) gestures toward Bethany. Damien, acknowledging with a discreet wave and a pointed glance, confirms the silent plan. Without uttering a word, the two werewolves reach a mutual agreement: Bethany is to be eliminated. Their covert exchange, full of calculated expressions and secret signals, sets the outcome in motion.\n\n----- DAY PHASE -----\nAlice: \"I think we need to carefully consider the strange silence and subtle gestures last night.\"\nBrian: \"I agree, but we mustn't jump to conclusions without all the facts.\"\nAchille: \"I noticed something off about Brian's demeanor; his calmness seems rehearsed.\"\nBethany: \"I was just an innocent bystander, reacting to a sudden shock. How can I be the one?\"\nCarol: \"I feel uneasy about Brian's evasiveness; it might be a sign of guilt.\"\nDamien: \"Let’s not forget that a silent strategy can hide darker intentions.\"\nEllie: \"Based on the nervous signals and our discussions, my vote is with eliminating Brian.\"\n\nAfter a thorough debate and secret ballot, the majority has spoken. Brian, suspected for his suspicious behavior, is eliminated by vote.\n\nOutcome Summary:\nThe werewolves silently conspired in the night to target Bethany, and the spirited group discussion in the day culminated in the majority vote eliminating Brian.",
-    "night_elim": "Bethany",
-    "day_elim": "Brian"
-}
-```
- Round Execution Time: 52.007638 seconds 

@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *gives a subtle, furtive glance toward Brian as if to signal a plan*\nBrian: *nods silently and points discreetly toward Bethany*\nAlice: *slowly gestures toward Bethany with a slight head tilt*\nBrian: *raises his hand gently in approval while maintaining eye contact with Alice*\n*[Bethany is eliminated]*\n\nDAY PHASE\nAchille: \"Bethany's absence is a big loss. Who among us is acting suspiciously?\"\nCarol: \"I noticed that Alice maintained a very calm demeanor during the night. That stirs my doubts.\"\nDamien: \"I’m leaning towards Alice as well. She seemed too composed considering the circumstances.\"\nEllie: \"I agree with Carol and Damien; Alice’s quietness felt off.\"\nBrian (trying to blend in): \"I think we shouldn’t rush. It might be a mix-up. I lean towards considering Damien, but my vote is not final.\"\nAlice: \"I—I really don’t know who to trust. I’m as shocked as everyone. But I suggest we give the benefit of the doubt to those who have been vocal.\"\nAchille: (after a quick vote tally) \"Alright, it seems three votes are against Alice while the others are split.\"\n*[Alice is eliminated]*",
-  "night_elim": "Bethany",
-  "day_elim": "Alice"
-}
-```
- Round Execution Time: 15.455877 seconds 

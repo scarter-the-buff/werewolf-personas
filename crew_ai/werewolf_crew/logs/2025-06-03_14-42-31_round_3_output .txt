@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian: *looks around furtively and gestures toward Sophia with a pointed finger*\nMarcus: *nods slowly, frowns, then points at Sophia*\nBrian: *taps Sophia on the shoulder*\n*Sophia is eliminated*\n\nDAY PHASE\nCarol: \"Looks like Sophia was eliminated last night.\"\nEllie: \"Yeah, the wolves struck again.\"\nDylan: \"I don't know who to trust. Mia, what do you think?\"\nMia: \"I'm still gathering my thoughts... Ellie, you’ve been pretty vocal. Are you sure you’re not a wolf?\"\nEllie: \"Me? I'm just trying to figure things out.\"\nBrian: \"I think Carol might be too calm. Wolves often stay quiet.\"\nMarcus: \"Quiet or calm? Brian, that sounds suspicious.\"\nCarol: \"Well, Brian, why so fast to point fingers?\"\nBrian: \"Because wolves want us to argue amongst ourselves.\"\nDylan: \"I’ll vote Brian.\"\nMia: \"I vote Brian too.\"\nEllie: \"All right, I’ll go with Brian.\"\nMarcus: \"I vote Brian.\"\nCarol: \"I also vote Brian.\"\n*Brian is eliminated*",
-  "night_elim": "Sophia",
-  "day_elim": "Brian"
-}
- Round Execution Time: 41.245239 seconds 

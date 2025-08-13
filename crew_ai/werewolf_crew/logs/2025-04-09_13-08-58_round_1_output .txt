@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAlice and Brian, the werewolves, huddle under the cover of night. Alice gives Brian a piercing glance and nods subtly. Brian shifts his eyes towards Bethany, then makes a quiet hand gesture pointing in her direction. Their silent communication—a series of subtle nods and pointed looks—clearly shows their agreement. Without a word, they decide: Bethany is to be eliminated.\n*Bethany is silently marked as the victim.*\n\nDAY PHASE:\nAs daylight breaks, the remaining players gather with heavy hearts and rising suspicions.\nAchille: \"I feel something ominous from last night. I noticed a secretive exchange between Alice and Brian.\"\nCarol: \"Yes, I saw Alice giving Brian a knowing look. It all seemed too coordinated, especially that gesture towards Bethany.\"\nDamien: \"Brian seemed a bit too smug. I suspect him.\"\nEllie: \"I agree. Brian’s behavior felt off.\"\nAlice: \"I can’t believe what happened. I’m just trying to understand, but I noticed Brian's nervous energy.\"\nBrian: \"I insist I’m innocent, but if I must, I cast my vote for Alice as I see her acting strangely.\"\n\nVoting round (players do not vote for themselves):\nAchille votes for Brian.\nCarol votes for Brian.\nDamien votes for Brian.\nEllie votes for Brian.\nAlice votes for Brian.\nBrian votes for Alice.\n\nThe votes clearly show that Brian receives the majority of the votes.\n*Brian is eliminated by vote.*",
-  "night_elim": "Bethany",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 37.405127 seconds 

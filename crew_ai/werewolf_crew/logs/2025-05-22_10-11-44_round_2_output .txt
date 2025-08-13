@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nUnder the cloak of darkness, the werewolves gather in a secluded part of the village. Alice meets Brian’s eyes and, with a subtle nod and a slight head tilt, signals her intent. She then uses a discreet pointed finger towards Achille, clearly indicating the target. Brian, understanding the silent communication, returns the gesture with a relaxed nod and a gentle wave of his hand towards Achille. Without exchanging a single word, the two werewolves agree on their victim.\n\n*Achille is eliminated*\n\nDAY PHASE:\nAs the sun rises, the remaining players—Alice, Brian, Carol, and Ellie—assemble in the village square for a tense discussion. Suspicion fills the air as each player voices their concerns and casts their vote:\nAlice: \"Brian, your furtive glances and hesitant gestures last night have me very suspicious. I believe you’re hiding something.\"\nBrian: \"Alice, that seems like an easy deflection. I noticed Carol behaving oddly, trying to steer the conversation away from herself. My vote goes to Carol.\"\nCarol: \"I understand the concerns, but Brian’s behavior was the most erratic. For the safety of our village, I cast my vote for Brian.\"\nEllie: \"After listening to both sides, I too feel that Brian’s actions were off. I vote for Brian.\"\n(With no player voting for themselves, the majority vote targets Brian.)\n\nThe votes have been tallied and the decision is made: Brian is eliminated.",
-  "night_elim": "Achille",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 291.783085 seconds 

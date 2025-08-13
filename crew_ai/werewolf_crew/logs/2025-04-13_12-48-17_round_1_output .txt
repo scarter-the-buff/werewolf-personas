@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAlice and Brian exchange subtle glances under the cover of darkness. Alice raises an eyebrow and gives a discreet nod while Brian responds with a finger-to-lips gesture, indicating silence. Their eyes lock in a silent agreement as both point toward Bethany, who sits unsuspectingly. No words are spoken, but the message is clear—Bethany is marked for elimination.\n\nDAY PHASE:\nAt dawn, the surviving players—Alice, Brian, Achille, Carol, Damien, and Ellie—gather to discuss what transpired. The tension is palpable.\nAlice: \"Something feels off last night...\"\nBrian: \"I couldn’t shake the feeling that secrets were hidden in those silent glances.\"\nAchille: \"I couldn’t help but notice Carol’s behavior; she seemed nervous and out of place.\"\nCarol: \"I’m being wrongly accused! I’ve done nothing unusual.\"\nDamien: \"I agree with Achille. Carol’s defensiveness is making me suspicious.\"\nEllie: \"Her responses just seem too calculated.\"\nAfter a heated discussion, the group reaches a consensus. Each player, except Carol, casts a vote against her. Despite Carol’s protestations, the majority vote stands, and Carol is eliminated.",
-  "night_elim": "Bethany",
-  "day_elim": "Carol"
-}
-```
- Round Execution Time: 74.599048 seconds 

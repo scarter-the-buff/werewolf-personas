@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *glances at Brian, raises an eyebrow, and points subtly towards Bethany*\nBrian: *nods in agreement and uses a discreet hand gesture towards Bethany*\nAlice: *smiles slightly and tilts her head, reinforcing the choice*\nBrian: *gives a firm nod* \n*Bethany is eliminated by the werewolves*\n\nDAY PHASE\nAchille: \"I can't believe what happened last night. Poor Bethany.\"\nCarol: \"We have to be cautious now. This is getting serious.\"\nDamien: \"It might be a sign to vote someone out. Who do you all trust?\"\nEllie: \"I noticed Brian was a bit too quiet during the discussion.\"\nAlice: \"This is a hard decision, but we need to protect the village.\"\nBrian: \"I'm just as shocked as everyone else; I think we should consider all options.\"\nAchille: \"I vote for Brian because his behavior seemed off.\"\nCarol: \"I vote for Brian as well.\"\nDamien: \"Brian seems suspicious to me.\"\nEllie: \"I'd agree with the others, Brian looks like the one to eliminate.\"\nAlice: \"I vote for Carol instead, but I understand the concern.\"\n*Majority vote counts point to Brian being eliminated*\n",
-  "night_elim": "Bethany",
-  "day_elim": "Brian"
-}
- Round Execution Time: 39.115931 seconds 

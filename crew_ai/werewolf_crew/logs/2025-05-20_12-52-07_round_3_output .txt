@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *glances at Carol with a subtle smile and points discreetly toward Ellie*\nCarol: *nods, raising an eyebrow, and makes a small gesture toward Ellie*\nAlice: *waves her hand in a decisive motion*\nCarol: *gives a confirming thumbs-up, then both exchange a series of silent, deliberate gestures*\n[Both Werewolves]: *in unison, they tap Ellie on the shoulder in a prearranged signal*\n*Ellie is eliminated*\n\nDAY PHASE\nAlice: \"I know it sounds odd, but something felt off last night.\"\nCarol: \"I agree, though it’s hard to pinpoint exactly what. You know, we should be extra careful today.\"\nAlice: \"Let's discuss who might be a threat. I feel someone here may be hiding their true role.\"\nCarol: \"True. Even if it sounds strange, a preemptive vote might keep suspicions at bay.\"\nAlice: *after a moment of silence* \"I vote for Carol.\"\nCarol: *smirks slightly and replies* \"I vote for Alice.\"\n*After considering the tied votes, a tiebreaker is invoked, resulting in Carol being eliminated*",
-  "night_elim": "Ellie",
-  "day_elim": "Carol"
-}
-```
- Round Execution Time: 21.521478 seconds 

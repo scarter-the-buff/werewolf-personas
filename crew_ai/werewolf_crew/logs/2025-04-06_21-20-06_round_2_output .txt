@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAlice (werewolf) gestures subtly towards Bethany, raising her hand in a silent signal.\nDamien (werewolf) nods in agreement and mimics pointing at Bethany.\n[The two werewolves exchange understanding glances, silently coordinating their deadly plan.]\n-- Bethany is eliminated by the werewolves' secret gestures.\n\nDAY PHASE:\nAchille: \"I can't believe what happened last night. Who can we really trust?\"\nAlice: \"I suspect there might be deceit among us. We can't ignore our instincts.\"\nDamien: \"My gut tells me to watch Achille closely.\"\nEllie: \"I share Damien's suspicion. Achille's been too quiet and evasive.\"\nAchille: \"This is ridiculous! I’m being set up while none of us confess anything.\"\n\nVotes cast by the players:\nAlice votes for Achille.\nDamien votes for Achille.\nEllie votes for Achille.\nAchille votes for Damien.\n-- With the majority clearly pointing to Achille, he is eliminated by vote.",
-  "night_elim": "Bethany",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 24.763731 seconds 

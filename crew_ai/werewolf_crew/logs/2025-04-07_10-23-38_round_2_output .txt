@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAchille (werewolf) and Damien (werewolf) exchange subtle gestures in the dark. Achille gives a decisive nod and points toward Carol, while Damien mirrors the gesture with a silent, agreeing glance. Their unspoken consensus seals the fate of Carol.\n\nDAY PHASE:\nIn the light of day, the survivors regroup. Alice remarks, \"I have a feeling there’s something off about Achille. His behavior last night was too secretive.\" Ellie adds, \"I agree with Alice, Achille's quietness makes me suspicious.\" \nAchille tries to defend himself as the tension rises, \"I’m just as confused as anyone, maybe Damien is trying to divert our attention.\" Damien, with a slight smirk, counters, \"Honestly, I doubt Achille’s innocence. His actions last night were far from villager-like.\"\n\nVoting:\nAlice votes for Achille.\nEllie votes for Achille.\nAchille votes for Damien.\nDamien votes for Achille.\n\nThe results tally up to eliminate Achille during the day phase.",
-  "night_elim": "Carol",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 46.729163 seconds 

@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAchille (werewolf): *makes a subtle gesture, pointing towards Carol*\nDamien (werewolf): *nods in agreement, confirming the target*\n\nDAY PHASE:\nAlice (villager): \"I see that Carol has been eliminated this morning.\"\nAchille (werewolf): \"I find Ellie's behavior suspicious. Perhaps she is the werewolf in disguise.\"\nDamien (werewolf): \"I agree with Achille, Ellie seems too nervous. We should consider her as a threat.\"\nEllie (villager): \"I suspect Achille. His calm demeanor in the night was unnerving. I vote for him.\"\n\nVoting Results:\nAlice votes for Damien\nAchille votes for Ellie\nDamien votes for Ellie\nEllie votes for Achille",
-  "night_elim": "Carol",
-  "day_elim": "Ellie"
-}
-```
- Round Execution Time: 31.212970 seconds 

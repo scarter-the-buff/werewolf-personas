@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAchille: *locks eyes with Damien, raises his eyebrow, and tilts his head in a silent signal*\nDamien: *nods subtly with a slight smile, reciprocating the signal*\nAchille: *gestures discreetly towards Carol, indicating his target*\nDamien: *nods in agreement while making a small pointing gesture to Carol*\n*The two werewolves confirm their silent plan by exchanging another look*\n*Without uttering a sound, they move and eliminate Carol*\n\n[Carol is eliminated]\n\nDAY PHASE\nAlice: \"I can’t ignore the tension; something happened last night.\"\nEllie: \"I noticed Carol was missing. It feels like we need to act fast.\"\nDamien: \"I’m just trying to keep my thoughts to myself, but I believe we need to discuss our suspicions openly.\"\nAchille: \"I want to understand what everyone thinks. No one should be the target without clear reasoning.\"\n\nAlice: \"Based on the clues, I suspect one of the werewolves is trying to hide among us. I vote for Achille.\"\nEllie: \"I agree; my gut tells me Achille is not who he seems. My vote is for Achille.\"\nDamien: \"I feel like a vote for Achille would draw attention away from the real threat. My vote goes to Achille.\"\nAchille: \"I cannot vote for myself, so I cast my vote for Damien.\"\n\n*Vote Tally: Achille receives 3 votes and Damien receives 1 vote*\n*Achille is eliminated by majority voting*",
-  "night_elim": "Carol",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 16.780541 seconds 

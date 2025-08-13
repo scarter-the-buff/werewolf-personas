@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAchille (werewolf): *raises an eyebrow and gives a subtle nod toward Carol*\nDamien (werewolf): *smirks and imitates a pointing gesture toward Carol*\nNarrator: The two werewolves silently agree on eliminating Carol during the dark of night.\n\nDAY PHASE:\nAlice (villager): \"I can’t shake the feeling that something was off last night. Damien was too quiet.\" \nEllie (villager): \"I share the same suspicion. I vote for Damien.\"\nAchille (werewolf): \"Maybe we should consider other options; why not look at Alice?\"\nDamien (werewolf): \"Or perhaps Ellie is making a show of innocence; my vote goes to her.\"\nNarrator: After a heated discussion and the subsequent vote, with Alice and Ellie both voting for Damien, the majority points to Damien. \n\nOutcome:\n- Night Phase Elimination: Carol was eliminated by the werewolves.\n- Day Phase Elimination: Damien was eliminated after the group vote.",
-  "night_elim": "Carol",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 74.091045 seconds 

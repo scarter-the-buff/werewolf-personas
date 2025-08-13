@@ -1,6 +1,0 @@
-{
-  "transcript": "----- NIGHT PHASE -----\nAlice (Werewolf): *gives a subtle nod and raises her hand slightly toward Bethany, signaling a target*\nAchille (Werewolf): *responds with a discreet hand wave and a slight head tilt, reinforcing the plan*\nNarrator: Through their silent gestures, Alice and Achille clearly communicate their mutual decision. They point discreetly at Bethany.\nNarrator: Bethany is eliminated during the night.\n\n----- DAY PHASE -----\nAlice (Villager Persona): \"Good morning. With Bethany gone, suspicions start to rise. I cast my vote to eliminate Achille.\"\nAchille (Villager Persona): \"Indeed, suspicions abound. I cast my vote to eliminate Alice.\"\nNarrator: The votes are tied. After a brief discussion, both agree that the tie should be resolved by eliminating Achille.\nNarrator: Achille is eliminated during the day.",
-  "night_elim": "Bethany",
-  "day_elim": "Achille"
-}
-```

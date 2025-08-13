@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAchille: *glances at Damien, then subtly points toward Carol with a stern look*\nDamien: *nods in agreement and mimics a chopping motion at Carol*\n*Carol is eliminated*\n\nDAY PHASE\nAlice: \"I can’t believe Carol was taken last night. This is shocking.\"\nAchille: \"I’m not sure who to trust, but something felt off in the dark.\"\nDamien: \"I’m on the defensive here—maybe we should question those who weren’t vocal.\"\nEllie: \"I have a feeling Damien is hiding something. I vote for Damien.\"\nAlice: \"I vote to eliminate Damien.\"\nAchille: \"I vote to eliminate Damien.\"\nDamien: \"I vote to eliminate Alice.\"\nEllie: \"I already cast my vote for Damien.\"\n*Damien is eliminated*",
-  "night_elim": "Carol",
-  "day_elim": "Damien"
-}
- Round Execution Time: 19.072074 seconds 

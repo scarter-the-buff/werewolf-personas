@@ -1,3 +1,0 @@
-{"transcript": "NIGHT PHASE\nAlice: *glances around furtively, then raises an eyebrow and subtly nods at Achille to signal a plan*\nAchille: *returns the nod while pointing discreetly towards Ellie with a smirk, clearly marking her as the target*\nAlice: *taps her wrist as if checking a watch, silently affirming the decision*\n*[Ellie is eliminated]*\n\nDAY PHASE\nAlice: \"The night was silent yet decisive. Now, in the light of day, who will be held accountable?\"\nAchille: \"Let us decide fairly. I cast my vote for you, Alice.\"\nAlice: \"And I cast my vote for you, Achille.\"\n*[Achille receives the majority vote and is eliminated]*", "night_elim": "Ellie", "day_elim": "Achille"}
-```
- Round Execution Time: 25.379623 seconds 

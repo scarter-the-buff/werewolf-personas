@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice [gesture]: *raises her eyebrow and gives a subtle, determined nod toward Brian*\nBrian [gesture]: *returns the nod and points discreetly toward Damien, conveying silent agreement*\n[Both werewolves exchange covert glances and hand signals, sealing their decision to target Damien. Damien is quietly eliminated.]\n\nDAY PHASE\nBethany: \"This morning, I can’t shake the feeling that something was off last night.\"\nEllie: \"I agree. I noticed hints in behavior that point us in a troubling direction.\"\nBrian: \"After piecing together the clues from last night, I’m inclined to suspect Alice.\"\nAlice: \"I’m confused by these accusations, but let’s trust our judgment.\"\nBethany: \"I observed Alice sharing secretive glances with Brian. It raises suspicion for me.\"\nEllie: \"Those gestures were too deliberate to be mere coincidence. I vote for Alice.\"\nBrian: \"I vote for Alice.\"\n[A vote is taken and the majority has agreed.]\nResult: Alice is eliminated during the Day Phase.",
-  "night_elim": "Damien",
-  "day_elim": "Alice"
-}
- Round Execution Time: 61.459839 seconds 

@@ -1,6 +1,0 @@
-{
-    "transcript": "NIGHT PHASE:\nAchille: *exchanges a secret glance and subtle nod with Damien, pointing quietly towards Brian*\nDamien: *returns the gesture with a firm nod, both silently agreeing on the target*\nNarrator: In the quiet of the night, Achille and Damien, the werewolves, have covertly agreed by gestures to eliminate Brian. Soon after, Brian is found eliminated.\n\nDAY PHASE:\nCarol: \"I have a sinking feeling that something is off. I suspect one of us is hiding a dark secret.\"\nDamien: \"I feel the same way. There’s an unsettling vibe about Achille.\"\nEllie: \"I agree, my gut tells me that Achille might be the werewolf. I vote for him.\"\nAchille: \"No, please! I’m just trying to survive like everyone else. Don’t be too rash!\"\nNarrator: After a heated discussion, the surviving players cast their votes. Carol, Damien, and Ellie each vote to eliminate Achille. With a majority vote, Achille is eliminated during the day.",
-    "night_elim": "Brian",
-    "day_elim": "Achille"
-}
-```

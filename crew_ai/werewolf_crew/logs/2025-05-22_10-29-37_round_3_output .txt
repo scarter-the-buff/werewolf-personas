@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nIn the dark silence of night, Brian and Carol, both werewolves, meet in a secluded corner away from the village. Without any spoken words, Brian raises his hand and subtly points toward Ellie, while Carol nods in agreement with a slight tilt of her head. Their unspoken signals clearly indicate that Ellie, the lone villager, is to be eliminated under the cover of night.\n\nDAY PHASE:\nAt dawn, the remaining players—Brian and Carol—gather in the village square. The atmosphere is charged with tension as they reflect on the night's grim events. Brian breaks the silence, stating, \"Our actions last night were necessary, but I feel the weight of our decision.\"\nCarol responds, \"We acted as agreed, but it is my belief that accountability is essential. I must hold you responsible for the wavering during the critical moment.\" After a brief yet intense exchange, Carol casts her decisive vote against Brian. With no countering vote and the consensus forming between them, Brian is eliminated by majority decision.\n\nEliminated Players:\nNight Phase Elimination: Ellie\nDay Phase Elimination: Brian",
-  "night_elim": "Ellie",
-  "day_elim": "Brian"
-}
- Round Execution Time: 57.758713 seconds 

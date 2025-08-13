@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian (whispering with a subtle nod and a raised eyebrow, using a series of discreet hand signals): *gestures towards Fiona*\nDamien (returning the subtle signals with a tight smile and a delicate wave of his hand): *nods and gestures in agreement to eliminate Fiona*\n*The werewolves exchange a final look of silent agreement and mark Fiona as the target*\n\n*[Fiona is eliminated]*\n\nDAY PHASE\nEllie (observing the sorrowful silence): \"I can’t believe Fiona is gone already. Something was off last night.\"\nCarol (joining the discussion with urgency): \"I noticed strange behavior from Damien. It might be a clue.\"\nDavid (firmly): \"Yes, Damien was too quiet and evasive during the night. I vote for Damien.\"\nGeorge (adding decisively): \"I agree with David. Damien's actions seem suspicious.\"\nBrian (a subtle, betraying smile as he tries to keep his composure, offering an ambiguous remark): \"I’m still unsure, but I lean towards suspicion on Damien.\"\nDamien (defensively): \"I was just as scared as anyone else. I don't know what to say.\"\n*After a heated discussion, the votes are cast as follows: Villagers (Ellie, Carol, David, George) vote for Damien, while the werewolves (Brian and Damien) cast their votes for Carol.*\n\nThe tally shows a clear majority for Damien.\n\n*[Damien is eliminated]*",
-  "night_elim": "Fiona",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 51.595456 seconds 

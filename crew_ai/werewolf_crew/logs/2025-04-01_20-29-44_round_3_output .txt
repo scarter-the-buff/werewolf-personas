@@ -1,7 +1,0 @@
-{
-  "transcript": "--------------------------------------------------\n[NIGHT PHASE]\nAlice: *exchanges a subtle nod with Achille and points discreetly towards Ellie*\nAchille: *returns the gesture, tilting his head and subtly pointing at Ellie*\nEllie: *remains unaware as the silent agreement is made*\nResult: Ellie is eliminated in the night phase.\n\n[DAY PHASE]\nAlice: \"I can’t ignore the tensions from last night. Achille, your silence and mannerisms seemed off.\"\nAchille: \"Alice, I believe your accusations might be a diversion. I cast my vote for you.\"\nAlice: \"I, in turn, cast my vote for you, Achille.\"\nResult: The votes are tied between Alice and Achille, casting blame on each other.\nA coin toss is conducted to resolve the tie.\nCoin Toss Result: Achille is selected for elimination.\n--------------------------------------------------",
-  "night_elim": "Ellie",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 62.726233 seconds 

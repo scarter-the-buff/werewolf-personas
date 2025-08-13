@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nDamien: *glances around cautiously and then gestures subtly toward Carol*\nEllie: *returns the gesture with a firm nod, indicating her agreement*\n(System Announcement: Carol has been eliminated.)\n\nDAY PHASE:\nAlice: \"I can’t shake the feeling something is off. Carol’s absence is unsettling.\"\nBethany: \"It might be that one of us is hiding their true identity. I’m leaning towards Ellie.\"\nDamien: \"Based on last night’s discreet signals, my gut tells me Ellie is our culprit. I vote for Ellie.\"\nEllie: \"I’m as stunned as you are, but I suspect Alice might be misdirecting our attention. I vote for Alice.\"\n\nFinal Vote Tally:\n- Ellie: 3 votes (from Alice, Bethany, and Damien)\n- Alice: 1 vote (from Ellie)\n(System Announcement: Ellie has been eliminated.)",
-  "night_elim": "Carol",
-  "day_elim": "Ellie"
-}
-```
- Round Execution Time: 66.031733 seconds 

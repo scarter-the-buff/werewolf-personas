@@ -1,7 +1,0 @@
-{
-    "transcript": "NIGHT PHASE\nAlice: *glances around furtively and gestures to Brian with a subtle nod*.\nBrian: *smirks and responds with a series of sharp, almost imperceptible gestures towards Carol*.\nAlice: *leans in with a decisive look and points at Carol, silently communicating the target*.\nBrian: *mirrors the gesture with a confirming nod, sealing the agreement without a word*\n*Carol is eliminated silently in the dark, leaving only the echo of the silent pact behind*\n\nDAY PHASE\nAchille: \"I can't help but feel something was off last night. I noticed how Alice's eyes held a colder, determined look.\" \nBethany: \"Yes, I noticed that too. It seemed like she was hiding a secret behind that composed expression.\" \nDamien: \"Alice, your demeanor was strangely detached during the night. It gave me a reason to be suspicious.\" \nEllie: \"I agree. Your quiet confidence made it seem like you knew more than you let on, Alice.\" \nBrian: \"I was just following the moment, trying to act in unison with Alice. I honestly can't see a clear role for myself here.\" \nAchille: \"In our vote, I cast mine for Alice.\" \nBethany: \"I voted for Alice.\" \nDamien: \"My vote goes to Alice.\" \nEllie: \"I also voted for Alice.\" \nBrian (defensive): \"While I cast my vote for Achille, the majority clearly points to eliminating Alice.\"\n*The vote is tallied and the collective decision is made: Alice is eliminated*",
-    "night_elim": "Carol",
-    "day_elim": "Alice"
-}
-```
- Round Execution Time: 49.353520 seconds 

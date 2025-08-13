@@ -1,6 +1,0 @@
-{
-    "transcript": "NIGHT PHASE\nAlice (whispering with a sly glance): *nods subtly at Achille, indicating our plan to target Carol*\nAchille (responding with a secretive smile and a series of deliberate facial expressions): *raises an eyebrow and points silently toward Carol*\nNarrator: Through a silent exchange of gestures, Alice and Achille agree to eliminate Carol. Carol is quietly removed from the game.\n\nDAY PHASE\nAlice (calmly addressing the group): \"It seems the night has taken one of us. We must consider our next steps wisely.\"\nAchille (with an air of cautious conviction): \"Indeed, every word matters now.\"\nBethany (defensively): \"I’m not the one to be suspicious—I think our true target should be re-evaluated.\"\nEllie (methodically): \"Let's all weigh in. My instinct tells me that Bethany's behavior might be off.\"\nAlice (nodding in agreement): \"I share Ellie's concern. My vote is for Bethany.\"\nAchille (adding confidently): \"I too cast my vote for Bethany.\"\nBethany (accusingly): \"I vote against Achille.\"\nNarrator: The votes are tallied. With two votes against Bethany from Alice and Achille, and one vote each for Achille and Bethany, the consensus leads to the elimination of Bethany during the day phase.",
-    "night_elim": "Carol",
-    "day_elim": "Bethany"
-}
- Round Execution Time: 26.548141 seconds 

@@ -1,6 +1,0 @@
-{
-    "transcript": "NIGHT PHASE\nBrian: *glances around furtively, then subtly gestures with a sharp slicing motion toward Ellie*\nAchille: *nods in agreement and points discreetly at Ellie, exchanging a determined look with Brian*\nEllie: *sits silently, unaware of the covert signals, as Brian and Achille confirm their target*\n*Ellie is eliminated from the game, signifying the end of the night phase*\n\nDAY PHASE\nBrian: \"I didn’t notice anything unusual last night. I was in my room all night.\"\nAchille: \"Same here, I was fast asleep. It’s strange, but we must figure out who among us is not what they seem.\"\nBrian: \"I’m leaning towards you, Achille. You’ve been oddly quiet in these discussions.\"\nAchille: \"Really? I find it hard to believe you, Brian. I think it’s you who might be hiding something.\"\n*After a brief discussion, both cast their votes*\nBrian votes for Achille.\nAchille votes for Brian.\n*The vote tally reveals Achille received the majority vote due to Brian's decisive action*\n*Achille is eliminated from the game*",
-    "night_elim": "Ellie",
-    "day_elim": "Achille"
-}
- Round Execution Time: 62.689159 seconds 

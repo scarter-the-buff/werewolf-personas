@@ -1,7 +1,0 @@
-{
-  "transcript": "----- NIGHT PHASE -----\nDamien: *exchanges a series of subtle nods and raised eyebrows with Achille*\nAchille: *points discreetly towards Bethany with a slight tilt of his head*\nDamien: *gives a confirming gesture with a slight shake of his head*\n(Bethany is silently singled out and eliminated by the coordinated gestures)\n\n----- DAY PHASE -----\nAlice: \"I can't believe Bethany is gone... What really happened last night?\"\nBrian: \"Maybe it's time for an elimination vote. There's something fishy going on.\"\nCarol: \"I'm really suspicious of Damien. He was so quiet and secretive during the night.\"\nEllie: \"I agree with Carol. Damien's silence makes me uneasy.\"\nDamien: \"Hold on, I was just keeping to myself. It might have been Achille who did something shady.\"\nAchille: \"I don't know about that. Honestly, I'm leaning towards suspecting Ellie might be behind this mess.\"\n\n--- Voting ---\nAlice votes for Damien.\nCarol votes for Damien.\nEllie votes for Damien.\nBrian votes for Achille.\nDamien votes for Achille.\nAchille votes for Ellie.\n\nOutcome: Damien receives 3 votes, Achille 2 votes, and Ellie 1 vote.\nThus, Damien is eliminated in the day phase.",
-  "night_elim": "Bethany",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 29.892918 seconds 

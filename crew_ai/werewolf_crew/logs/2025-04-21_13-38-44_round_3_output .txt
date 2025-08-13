@@ -1,3 +1,0 @@
-{"transcript": "NIGHT PHASE\nAlice: *glances at Bethany and then silently points toward Ellie*\nBethany: *nods subtly and gives a quick hand gesture confirming the decision*\nNarrator: The werewolves silently confer. Their unspoken agreement results in Ellie being eliminated.\n\nDAY PHASE\nAlice: \"It’s hard to trust our impressions these days. I feel there’s been a misdirection and vote for Bethany.\"\nBethany: \"I understand your concern. In the spirit of transparency, I also cast my vote for Bethany, accepting my fate to clear our doubts.\"\nNarrator: With both votes, the consensus is clear. Bethany is eliminated during the day vote.", "night_elim": "Ellie", "day_elim": "Bethany"}
-```
- Round Execution Time: 33.256438 seconds 

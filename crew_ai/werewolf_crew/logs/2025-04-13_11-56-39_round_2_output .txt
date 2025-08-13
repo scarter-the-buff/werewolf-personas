@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian: *raises one eyebrow and subtly points toward Carol*\nAchille: *nods slowly in agreement and gives a slight tilt of his head*\nAlice: *sits quietly, unaware*\nEllie: *adjusts her scarf indifferently*\nCarol: *remains oblivious, half-asleep*\n*Carol is eliminated by the silent consensus of the werewolf duo (Brian and Achille)*\n\nDAY PHASE\nAlice: \"I feel something off about last night. We lost Carol so suddenly.\"\nEllie: \"It’s heartbreaking; we need to figure out if someone betrayed us.\"\nBrian: \"I can’t believe this happened. I trust everyone here, but maybe someone isn’t who they seem.\"\nAchille: \"I’m just as shocked as everyone else, though it might help to consider behavior over time.\"\n\nVoting:\nAlice votes for Brian.\nBrian votes for Ellie.\nAchille votes for Alice.\nEllie votes for Brian.\n\n*Brian is eliminated as he receives the majority vote*",
-  "night_elim": "Carol",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 56.128233 seconds 

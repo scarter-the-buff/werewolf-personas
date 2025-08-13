@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *quietly glances at Achille and subtly points at Ellie*\nAchille: *nods in agreement and gives a slight smile towards Alice, then gestures decisively to Ellie*\nAlice: *raises an eyebrow and makes a confirming hand movement*\nAchille: *mimics a head shake as if finalizing their silent decision*\n*Ellie is eliminated*\n\nDAY PHASE\nAlice: \"It’s eerily quiet now. With Ellie gone, the dynamics have shifted.\"\nAchille: \"Indeed, the mood is different. We need to decide our next step. Who among us should be the next to face elimination?\"\nAlice: \"I’m torn, but the situation makes me lean towards clearing the air by choosing one of us.\"\nAchille: \"I propose we vote. I cast my vote for you, Alice.\"\nAlice: \"That’s interesting, because I’m voting for you, Achille.\"\n*The initial vote stands tied between Alice and Achille*\nAchille: \"This indecision could cost us. Perhaps a second look is needed. Let’s discuss further.\"\nAlice: \"After reconsidering the situation, I will adjust my vote. My instincts now tell me that we should eliminate you, Achille.\"\n*Achille receives the majority vote and is eliminated*",
-  "night_elim": "Ellie",
-  "day_elim": "Achille"
-}
- Round Execution Time: 55.714963 seconds 

@@ -1,7 +1,0 @@
-{
-  "transcript": "=== Night Phase ===\nBrian: (makes a subtle hand gesture, a slight nod toward Damien)\nDamien: (returns the gesture with a discreet tilt of his head)\nBrian: (points silently toward Bethany, indicating her as the target)\nDamien: (confirms with a slight raised eyebrow and a gentle wink)\n-- The werewolves silently agree that Bethany is eliminated --\nMODERATOR: Bethany has been eliminated during the night phase.\n\n=== Day Phase ===\nAchille: \"I have my suspicions. Last night, something felt off with the way some of us behaved.\"\nEllie: \"I agree, Achille. Noticing Brian’s composed demeanor and evasive comments has me concerned.\"\nBrian: \"I’m just trying to survive here—I wouldn’t dare be the one to betray any of you!\"\nDamien: \"Maybe we should scrutinize the one who seems too calm under pressure. I think Brian is hiding something.\"\nAchille: \"Based on the discussion, I vote to eliminate Brian.\"\nEllie: \"My vote goes to Brian as well.\"\nBrian: \"I plead innocence, but the votes are clear.\"\nMODERATOR: With the majority vote, Brian has been eliminated during the day phase.",
-  "night_elim": "Bethany",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 25.608858 seconds 

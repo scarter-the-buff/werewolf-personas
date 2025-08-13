@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *gestures to Villager 1* Carol: *shakes head* Alice: *gestures to Villager 2* Carol: *nods* Alice: *gestures to Villager 2* Carol: *nods*\n*Villager 2 is eliminated*\nDAY PHASE\nAlice: \"Looks like Villager 2 was eliminated last night.\" Carol: \"We lost another villager last night. It seems the werewolves are getting bolder. We need to focus and find them quickly.\" Ellie: \"I think it's important we don't just look at voting patterns but also consider who would benefit most from eliminating certain players. Alice, you've been very vocal about leading the conversation. What if that's just a way to draw attention away from yourself?\" Villager 3: \"Ellie makes a good point. Alice, you and Carol seem to be on the same page, almost too coordinated. It makes me wonder why...\" Carol: \"Or perhaps the real strategy here is to make us doubt each other. Ellie, you've been surprisingly quiet up until now. Is there something you're not telling us?\" Villager 4: \"I think we need to make a decision. Suspicion alone won't help us. We need to agree on someone and see how it plays out.\"\n*Votes are cast*\n*Carol is eliminated*\n",
-  "night_elim": "Villager 2",
-  "day_elim": "Carol",
-  "remaining": ["Alice", "Ellie", "Villager 1", "Villager 3", "Villager 4"]
-}
-```

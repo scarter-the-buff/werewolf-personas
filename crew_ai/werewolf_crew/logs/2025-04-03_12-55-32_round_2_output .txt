@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian: *raises an eyebrow and points subtly towards Ellie*\nAchille: *nods, giving a slight, knowing smile*\nTogether, through their silent gestures and exchanged glances, Brian and Achille agree on targeting Ellie.\n*Ellie is eliminated silently by the werewolves' unanimous decision*\n\nDAY PHASE\nAlice: \"I can't help but feel there's more to tonight's events than meets the eye. Who among us could be hiding their true nature?\"\nBethany: \"I noticed Brian's expression—there was something off about his calmness.\"\nAchille: \"We must consider all angles. Although Ellie is gone, we still have enough evidence to suspect some of us more than others.\"\nBrian: \"I maintain my innocence! I did nothing but remain quiet during the night.\"\nAlice: \"The air is heavy with suspicion. I think we should vote on who seems most untrustworthy.\"\nBethany: \"I'm voting for Brian. His defensiveness and hurried explanations raise red flags for me.\"\nAchille: \"I second Bethany's vote. The signals, though subtle, point toward him as a possible threat.\"\nBrian: \"This is unfair! I’m being doubted without a chance to explain further!\"\n*Majority vote is cast against Brian*\n*Brian is eliminated during the day phase*",
-  "night_elim": "Ellie",
-  "day_elim": "Brian"
-}
- Round Execution Time: 65.281854 seconds 

@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAchille: *gestures to Alice*\nDamien: *nods*\nAchille: *gestures to Brian*\nDamien: *shakes head*\nAchille: *gestures to Carol*\nDamien: *shakes head*\nAchille: *gestures to Bethany*\nDamien: *nods*\nAchille: *taps Bethany on the shoulder*\n*Bethany is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Bethany was eliminated last night.\"\nBrian: \"So we start with six.\"\nCarol: \"Hey Ellie, you’ve been quiet. What do you think?\"\nEllie: \"Well, I think we need to consider who among us might be wolves. Damien seemed a bit too eager yesterday.\"\nBrian: \"I also noticed Damien and Achille sticking together lately.\"\nDamien: \"I think we should look at behavior, not suspicion. Alice seemed off this morning.\"\nAchille: \"I agree with Damien, Alice wasn’t herself tonight.\"\nAlice: \"Me? I’m just worried about finding a wolf, not hiding anything!\"\nCarol: \"I’m torn between Alice and Damien. Who do you think is more suspicious, Brian?\"\nBrian: \"I’ll vote for Achille.\"\nAlice: \"I’ll vote for Damien.\"\nCarol: \"I’ll vote for Achille.\"\nDamien: \"I’ll vote for Alice.\"\nAchille: \"I’ll vote for Alice.\"\nEllie: \"I’ll vote for Achille.\"\n*Achille is eliminated*",
-  "night_elim": "Bethany",
-  "day_elim": "Achille"
-}
- Round Execution Time: 56.299788 seconds 

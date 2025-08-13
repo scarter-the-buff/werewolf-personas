@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *glances around the dark circle, then looks at Bethany*\nBethany: *raises her eyebrows and tilts her head toward Emily’s tent*\nAlice: *slowly extends her finger toward Charles’s sleeping bag*\nBethany: *nods twice and makes a cutting motion across her throat*\nAlice: *steps forward quietly, places a hand on Charles’s shoulder, and gently shakes him*\n*Charles is eliminated*\n\nDAY PHASE\nEmily: \"Looks like Charles was eliminated last night.\"\nDavid: \"Yes. That leaves us six: Alice, Bethany, David, Emily, Fiona, George.\"\nFiona: \"Who do we suspect? Any ideas?\"\nGeorge: \"I noticed Alice and Bethany were unusually quiet this morning...\"\nAlice: \"I just woke up. Maybe George is trying to deflect attention?\"\nBethany: \"Could be. But I think Fiona has been awfully calm—almost too calm.\"\nFiona: \"Me? I’m just processing. What about David? You’ve been pushing questions at me.\"\nDavid: \"I’m just looking for clues, Fiona. But maybe I am being aggressive.\"\nEmily: \"Let’s vote. I’m voting for David.\"\nGeorge: \"David gets my vote too.\"\nAlice: \"I vote David.\"\nBethany: \"David for me as well.\"\nFiona: \"All right. I vote David.\"\n*David is eliminated*",
-  "night_elim": "Charles",
-  "day_elim": "David"
-}
- Round Execution Time: 27.513901 seconds 

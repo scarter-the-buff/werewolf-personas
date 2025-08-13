@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAlice (werewolf): *gives a decisive nod and silently points towards Brian*\nDamien (werewolf): *responds with a firm thumbs-up, confirming the choice*\n*The werewolves silently agree on eliminating Brian*\n*Brian is eliminated from the game*\n\nDAY PHASE:\nAchille (villager): \"I can’t believe Brian is gone. This loss feels like someone among us played a part in his demise.\"\nEllie (villager): \"We must be vigilant. The werewolves are still among us, hidden in plain sight.\"\nAlice (werewolf, disguised as villager): \"In my view, Damien’s behavior last night raised suspicion. I believe he might be the werewolf.\"\nDamien (werewolf, disguised as villager): \"That’s not fair! I suspect someone else might be deceiving us. I cast my vote against Achille because his tone feels too accusatory.\"\nAchille (villager): \"I trust the majority’s instincts; several of us seem to suspect Damien.\"\nEllie (villager): \"Yes, my vote goes with Alice and Achille: let’s eliminate Damien.\"\nAlice (villager): \"I support the vote for Damien.\"\n*After discussion and a vote, the majority decisively eliminates Damien*",
-  "night_elim": "Brian",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 40.666946 seconds 

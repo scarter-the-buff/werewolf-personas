@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *exchanges a secretive glance with Damien, then subtly gestures toward Carol with a pointed look*\nDamien: *nods in agreement and gives a discreet thumbs-up toward Carol*\nBethany: *sleeps soundly, unaware of the clandestine signals*\nCarol: *remains unsuspecting as the secret plan unfolds*\nEllie: *quietly gazes at the dark night, oblivious to the silent conspiracy*\n*Carol is eliminated*\n\nDAY PHASE\nBethany: \"I can hardly believe Carol is gone. It feels like our number is dwindling.\"\nEllie: \"I noticed earlier that Alice seemed a bit uneasy. Maybe we should consider that.\"\nAlice: \"I assure you, I'm just as shocked as everyone else.\"\nDamien: \"Let's not jump to conclusions too quickly. However, I think we need to vote, and I lean toward addressing the unease around Alice.\"\nBethany: \"I vote for Alice, as her behavior has been a bit off.\"\nEllie: \"I concur. I vote for Alice as well.\"\nAlice: \"I vote for Damien. (Remember, no one votes for themselves)\"\nDamien: \"I vote for Bethany. (I cannot vote for myself either)\"\n*Alice receives the most votes and is eliminated*",
-  "night_elim": "Carol",
-  "day_elim": "Alice"
-}
- Round Execution Time: 21.100771 seconds 

@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAlice: (glances meaningfully at Brian, then subtly gestures toward Carol.)\nBrian: (returns the look and nods, using only a slight smile to confirm their silent agreement.)\nAlice: (raises an eyebrow and points discreetly at Carol, conveying their decision without words.)\nBrian: (gives a slight tilt of his head, signaling clear consent.)\n*Carol is eliminated*\n\nDAY PHASE:\nAchille: \"I woke up with an uneasy feeling last night. Someone among us might be hiding their true identity.\"\nEllie: \"I felt the same. It’s unsettling how quiet things are. I’ve seen some suspicious behavior.\"\nAlice: \"I don't know what to make of it, but I noticed something off in the way discussions went.\"\nBrian: \"I swear, I wasn’t involved in anything. I have no idea who to trust here, but I'm certain I'm not the culprit.\"\nAchille: \"Brian, you seemed off during those moments. Your hesitation suggests something.\"\nEllie: \"I agree with Achille. Brian, your actions have raised red flags.\"\nAlice: \"Given the conversation, I believe our votes should point to Brian.\"\nBrian: \"I’m not voting for myself, and I really think I'm being framed.\"\nAchille: \"Then my vote is for Brian. The evidence is mounting.\"\nEllie: \"I vote for Brian as well.\"\nAlice: \"All votes point in one direction. I vote for Brian too.\"\n*Brian is eliminated*",
-  "night_elim": "Carol",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 29.336831 seconds 

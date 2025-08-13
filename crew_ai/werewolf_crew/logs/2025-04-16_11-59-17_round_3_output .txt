@@ -1,7 +1,0 @@
-{
-  "transcript": "=== Night Phase ===\nAlice: (Sits quietly in the dark, making furtive glances and subtle gestures as if communicating silently.)\nAchille: (Nods slowly, then points with a slight grimace and raised eyebrow, signaling to choose a target.)\nNarrator: (Without any spoken word, the werewolves silently decide. Ellie, a villager, is chosen. Her startled face fades into silence as she is eliminated.)\n\n=== Day Phase ===\nAlice: (Her voice trembling with sorrow and suspicion.) \"Ellie’s gone. I feel something isn’t right about last night.\"\nAchille: (In a cautious tone, trying to deflect suspicion.) \"I’m as shocked as you are. But we need to figure out if there’s more to this than meets the eye.\"\nAlice: (Growing more assertive.) \"I can’t ignore the strange look you gave just now, Achille. I think you might have something to hide.\"\nNarrator: (The tension builds as the remaining players vote.)\nVoting Tally: Alice votes to eliminate Achille.\nNarrator: \"With Alice’s vote on record and no one else supporting a different target, Achille is eliminated by vote.\"",
-  "night_elim": "Ellie",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 42.340654 seconds 

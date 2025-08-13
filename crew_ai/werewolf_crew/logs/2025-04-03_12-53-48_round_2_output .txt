@@ -1,7 +1,0 @@
-{
-  "transcript": "----- NIGHT PHASE -----\nUnder the quiet cover of darkness, Achille and Damien exchange stealthy glances in the shadows. Without a word spoken, Achille gives a slight nod while Damien points discreetly toward Brian's window. Their eyes meet with a silent understanding as subtle hand gestures—a quick point, a deliberate nod—seal their grim decision to target Brian. As the night deepens, the villagers remain peacefully unaware, and by dawn, it is revealed that Brian has been eliminated.\n\n----- DAY PHASE -----\nThe surviving players gather in the town square, the tension thick as they confront the aftermath of the night's horror.\n\nBethany (villager): \"I have a bad feeling about last night. Damien’s behavior was oddly furtive.\" \nEllie (villager): \"Agreed. Damien’s silence and evasion are very suspicious.\"\nFiona (villager): \"I think we need to vote Damien out. His actions don’t add up.\" \nGeorge (villager): \"I’m with Fiona. My instincts tell me Damien is hiding something. I vote for him.\" \nAchille (werewolf): \"Maybe we should consider Bethany—she’s been very vocal and might be trying to distract us.\" \nDamien (werewolf): \"I must say I lean towards Bethany as well. I vote for Bethany.\"\n\nAfter a tense discussion and the casting of votes, the majority—Bethany, Ellie, Fiona, and George—choose Damien, while Achille and Damien’s votes point to Bethany. The tally is clear: the villagers have united to eliminate Damien.",
-  "night_elim": "Brian",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 67.188969 seconds 

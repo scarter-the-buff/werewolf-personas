@@ -1,6 +1,0 @@
-{
-    "transcript": "NIGHT PHASE\nAlice: *raises her hand and nods sharply, pointing towards Ellie as if indicating her target*\nBrian: *mirrors Alice's gesture with a thumbs-up, confirming the decision*\n*Ellie is silently targeted and eliminated by the werewolf duo*\n\nDAY PHASE\nAlice: \"I woke up to an eerie silence, and I noticed something odd with Brian's behavior last night.\"\nBrian: \"I followed our plan, but maybe your signals were a bit too obvious.\"\nAlice: \"Maybe I did, but your hesitation makes you look guilty too.\"\nBrian: \"If we start blaming each other now, we risk losing what little trust we had.\"\n*After a heated discussion, both players cast a vote against one another*\n*Vote Outcome: Brian receives more suspicion and is eliminated*\n",
-    "night_elim": "Ellie",
-    "day_elim": "Brian"
-}
- Round Execution Time: 32.019488 seconds 

@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *glances at Achille and subtly points toward Ellie*\nAchille: *nods and makes a discreet hand gesture toward Ellie*\nAlice: *raises an eyebrow and taps Achille lightly, confirming the decision*\nAchille: *firmly gestures toward Ellie with a slow head nod*\n*Ellie is eliminated from the game*\n\nDAY PHASE\nAlice: \"It seems that last night, we lost Ellie.\"\nAchille: \"Yes, only the two of us remain. We need to be very careful now.\"\nAlice: \"I can’t shake the feeling that something is off. I suspect someone might be trying to hide their true intentions.\"\nAchille: \"I’ve been thinking the same and feel that the signs point toward me being under extra scrutiny. For the clarity of the game, I believe we should eliminate Achille.\"\nAlice: \"I agree. For the greater good, I vote to eliminate Achille.\"\nAchille: \"I will vote as well to eliminate Achille, so that we all know the truth.\"\n*Achille is eliminated based on the unanimous vote*",
-  "night_elim": "Ellie",
-  "day_elim": "Achille"
-}
- Round Execution Time: 21.307624 seconds 

@@ -1,7 +1,0 @@
-{
-    "transcript": "NIGHT PHASE:\nDamien and Ellie exchange silent yet determined gestures under the cover of darkness. Damien points sharply toward Alice while Ellie gives a firm nod, her eyes communicating a silent agreement. Their coordinated look and swift non-verbal signals indicate that they have unanimously decided: Alice, the only villager, is to be eliminated. As the night wears on, the observation is clear and the moderators announce that Alice has been eliminated from the game.\n\nDAY PHASE:\nAt dawn, the surviving players gather as the day begins. Damien breaks the silence: \"I noticed some unusual behavior last night—those glances meant something.\" Ellie quickly responds, \"Sometimes a gesture is just a gesture, Damien. We all must be more careful with our accusations.\"\nThe conversation intensifies, with both players engaging in pointed remarks and subtle accusations. When it comes time to vote, each player makes their move without choosing themselves. Damien casts his vote against Ellie, declaring his suspicion, while Ellie votes against Damien in return. With both votes perfectly countering each other, there is a tie. A neutral moderator intervenes, breaking the deadlock by casting a decisive vote that results in Ellie being eliminated.\n",
-    "night_elim": "Alice",
-    "day_elim": "Ellie"
-}
-```
- Round Execution Time: 63.642361 seconds 

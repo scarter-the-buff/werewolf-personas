@@ -1,6 +1,0 @@
-{
-  "transcript": "Night Phase:\n- Alice and Damien, the werewolves, exchange secret glances and silent gestures in the darkness. Alice points subtly towards Bethany, while Damien nods in agreement. Their covert communication leads them to select Bethany as the target.\n\n[Bethany is eliminated during the night!]\n\nDay Phase:\n- The surviving players—Alice, Achille, Damien, and Ellie—gather in the village square under the soft light of dawn. A sense of unease pervades the discussion as suspicions arise.\n\nAlice: \"I couldn’t help but notice some furtive glances during the night. Maybe someone is hiding their true colors?\"\nAchille: \"That’s preposterous! We need to consider that someone might be spreading false suspicions.\"\nDamien: \"I agree with Alice. There’s something off about the way Achille has been defending himself.\"\nEllie: \"I’m not entirely sure, but Achille’s nervous attempts to divert the conversation seem suspicious.\"\n\n(The players now cast their votes openly.)\n\nVote count:\n- Alice votes for Achille.\n- Damien votes for Achille.\n- Ellie votes for Achille.\n- Achille, unable to vote for himself, votes for Ellie.\n\nFinal tally: Achille receives 3 votes, while Ellie receives 1 vote. \n\nAchille is eliminated during the day.",
-  "night_elim": "Bethany",
-  "day_elim": "Achille"
-}
-```

@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice (quietly, with a subtle nod): *gestures sharply toward Charlie, her eyes narrowing in determination*\nEllie (responding with a silent thumbs-up): *gestures in agreement, confirming Charlie as the target*\nNarrator: In the stillness of the night, the werewolves silently conspire and both agree to eliminate villager Charlie.\n--> Charlie is eliminated.\n\nDAY PHASE\nBob (solemnly): \"I can hardly believe we lost Charlie in the night. Who among us could have done this?\"\nDiana (earnestly, using expressive gestures): \"It’s clear we must be vigilant. Let’s think carefully and cast our votes wisely.\"\nEve (with a worried expression): \"We should be careful not to let panic drive our decisions. Our community depends on our judgment.\"\nFrank (pointing cautiously): \"I vote for Alice. There seems to be too much secrecy around her behavior.\"\nAlice (attempting a calm tone while avoiding eye contact): \"I truly believe in unity. However, patterns sometimes reveal truths.\"\nEllie (nodding slightly and pointing discreetly): *casts her vote with a subtle gesture toward Alice*\n\n[Vote Tally]:\n- Alice: 3 votes\n- Diana: 2 votes\n- Ellie: 1 vote\nNarrator: With the majority vote, Alice is eliminated from the game.\n--> Alice is eliminated.",
-  "night_elim": "Charlie",
-  "day_elim": "Alice"
-}
-```
- Round Execution Time: 65.581139 seconds 

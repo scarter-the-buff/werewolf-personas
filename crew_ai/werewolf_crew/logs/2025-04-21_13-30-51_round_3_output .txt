@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *glances around furtively and then subtly gestures towards Damien, her eyes conveying a secret plan*\nDamien: *nods subtly, making eye contact with Alice, then slowly points toward Ellie with a decisive motion*\nAlice: *follows up with a sharp tapping gesture on her watch, indicating that Ellie is the target*\nDamien: *confirms with a slow nod and mimics a slicing hand motion*\n*Ellie is eliminated from the game*\n\nDAY PHASE\nAlice: \"I still can’t believe we lost a villager last night. I feel there’s more to the night's silence than meets the eye.\"\nDamien: \"I agree—we have to be shrewd now. Though I must say, I noticed some questionable behavior last night.\"\nAlice: \"Really, Damien? I observed you exchanging knowing glances during the incident. That can't be a good sign.\"\nDamien: \"Accusing without evidence is dangerous. Perhaps you’re trying to shift attention away from yourself.\"\nAlice: \"Maybe so, but I think it’s best if we trust our gut. I vote for Damien.\"\nDamien: \"Well, if you vote for me, then I must cast my vote for you.\"\n[In the background, the other villagers—though not physically present in this reduced list—have their whispers counted and tip the balance.]\n*After the vote tally, Damien receives the majority of votes and is eliminated*",
-  "night_elim": "Ellie",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 20.806289 seconds 

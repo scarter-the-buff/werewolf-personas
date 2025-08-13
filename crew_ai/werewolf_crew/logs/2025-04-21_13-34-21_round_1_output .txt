@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian: *glances cautiously at Damien then subtly points to Bethany*\nDamien: *nods with a small smile while making eye contact with Brian, then gestures decisively towards Bethany*\n*Bethany is silently singled out and eliminated under the cover of darkness*\n\nDAY PHASE\nAlice: \"I can’t believe what happened last night. We lost Bethany.\"\nAchille: \"I’ve been observing everyone; something doesn’t add up.\"\nCarol: \"I suspect Damien’s behavior was odd during the night. It might be a clue.\"\nEllie: \"I agree. Damien seems to be hiding something.\"\nBrian: \"I’m not convinced; maybe we should consider another angle, but I think Carol might be under suspicion.\"\nDamien: \"Let’s not jump to conclusions; I think Alice’s silence is telling.\"\n*After the discussion, votes are cast: Alice votes for Damien, Achille votes for Damien, Carol votes for Damien, Ellie votes for Damien, Brian votes for Carol, and Damien votes for Alice, resulting in four votes for Damien, one for Carol, and one for Alice*\n*Damien is eliminated*",
-  "night_elim": "Bethany",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 32.471980 seconds 

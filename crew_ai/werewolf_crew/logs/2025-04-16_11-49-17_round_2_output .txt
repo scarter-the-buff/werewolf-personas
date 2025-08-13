@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nDamien: *glances around furtively and gives a subtle nod toward Ellie*\nEllie: *smirks and raises an eyebrow, then points discreetly at Achille*\nDamien: *clenches his jaw and gestures with a firm nod, indicating that Achille is the target*\nEllie: *returns the nod with a silent thumbs-up, confirming the decision*\nNote: Achille is eliminated.\n\nDAY PHASE:\nBrian: \"I feel something is off tonight, the energy seems unusual.\"\nBethany: \"I noticed Damien and Ellie exchanging secret glances last night.\"\nDamien: \"I was just trying to stay low, nothing more from my side.\"\nEllie: \"I can assure you I was in my own corner all night.\"\nBrian: \"Based on what I observed, maybe we should consider the possibility of collusion. My instinct is telling me someone isn’t being truthful.\"\nBethany: \"I agree, and my gut tells me we might need to vote someone out who is drawing too much attention.\"\nDamien: \"I believe Bethany’s observations feel too calculated. I’m going to vote for Bethany.\"\nEllie: \"My vote goes with Damien – Bethany’s been leading the conversation perhaps too aggressively.\"\nBrian: \"I’ll align with Damien and Ellie and cast my vote for Bethany too.\"\nBethany: \"I’m voting for Damien, as his silence makes me suspicious.\"\n*Voting tally: Bethany receives 3 votes and Damien receives 1 vote*\nNote: Bethany is eliminated.",
-  "night_elim": "Achille",
-  "day_elim": "Bethany"
-}
-```
- Round Execution Time: 63.511536 seconds 

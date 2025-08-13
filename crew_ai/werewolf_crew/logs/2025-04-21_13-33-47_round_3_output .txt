@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *exchanges a determined nod with Bethany, then points silently towards Ellie*\nBethany: *returns the nod and makes a subtle hand gesture towards Ellie*\n*Ellie is quietly eliminated as the two werewolves agree on her target*\n\nDAY PHASE\nAlice: \"I couldn't help noticing the strange silence from you last night.\"\nBethany: \"Strange? Maybe it's you who's been unusually quiet.\"\nAlice: \"I think we both should look at actions rather than words. I am voting for you, Bethany.\"\nBethany: \"Really? Because I am voting for you, Alice.\"\n*Both cast their votes. The votes are tied, so a coin toss is conducted. It lands in favor of eliminating Bethany.*\nBethany is eliminated.",
-  "night_elim": "Ellie",
-  "day_elim": "Bethany"
-}
-```
- Round Execution Time: 34.024928 seconds 

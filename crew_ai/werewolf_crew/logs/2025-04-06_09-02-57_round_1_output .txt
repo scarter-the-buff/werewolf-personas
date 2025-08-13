@@ -1,6 +1,0 @@
-{"transcript": "NIGHT PHASE:\nBrian and Damien, the werewolves, exchange subtle glances and silent nods. Brian raises his hand slightly to signal that he has a target in mind. Damien responds with a discreet head tilt and a subtle smile. Without uttering a word, both werewolves point discreetly to Carol, the villager, as the chosen target. They perform a slicing gesture with their fingers to confirm their decision, and thus, Carol is eliminated.\n\nDAY PHASE:\nThe surviving players—Alice, Achille, Bethany, and Ellie—gather for a discussion. Alice begins, \"It looks like something strange happened last night.\" Achille adds, \"I noticed Brian and Damien exchanged secretive looks; it might be a clue.\" Bethany remarks, \"Carol’s quiet exit speaks volumes; we should be cautious.\" Ellie chimes in, \"I agree, and I feel Brian’s behavior has been off.\" Under pressure, Brian deflects by accusing Achille, saying, \"Maybe it's Achille who’s acting suspiciously.\" As the debate heats up, the votes are cast: Alice, Achille, Bethany, and Ellie each vote to eliminate Brian, while among the werewolves, Brian votes against Achille and Damien votes for Achille. With a majority vote of 4 against him, Brian is eliminated from the game.",
-"night_elim": "Carol",
-"day_elim": "Brian"
-}
-```
- Round Execution Time: 32.372224 seconds 

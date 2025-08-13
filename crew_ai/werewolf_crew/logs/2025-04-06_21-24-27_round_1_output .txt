@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice (Werewolf): *gestures silently, nodding and locking eyes with Brian*\nBrian (Werewolf): *nods back subtly and taps his wrist, signaling agreement*\nModerator: The two werewolves communicate in secret and agree to eliminate Carol.\n*Carol is quietly removed from the game*\n\nDAY PHASE\nAchille (Villager): \"This morning, it’s hard to believe what happened last night. Who did you all suspect?\"\nBethany (Villager): \"I noticed some odd behavior, and I think we should seriously consider where that came from.\"\nDamien (Villager): \"I’m feeling uneasy about some of the exchanges; perhaps someone is lying to us.\"\nEllie (Villager): \"Let’s share our thoughts clearly. I have a hunch that one of our voices has been too measured.\"\nAlice (Werewolf): \"I understand the tension, but let’s be cautious before making any drastic decisions.\"\nBrian (Werewolf): \"I’ve been very active and transparent in our discussion. I only hope our intuition doesn’t lead us astray.\"\nAchille (Villager): \"Based on the conversation, I’m leaning towards Brian. I think his tone was off.\"\nBethany (Villager): \"Same here; I vote for Brian. His responses felt too calculated.\"\nDamien (Villager): \"I agree with Achille and Bethany—Brian is my choice as well.\"\nEllie (Villager): \"I’m also voting for Brian. The consensus seems clear.\nModerator: The majority vote points to eliminating Brian.\n*Brian is eliminated from the game*",
-  "night_elim": "Carol",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 30.711526 seconds 

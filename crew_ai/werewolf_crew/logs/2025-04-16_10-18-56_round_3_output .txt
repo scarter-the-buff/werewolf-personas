@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice (werewolf): *glances at Achille, then subtly points toward Ellie*\nAchille (werewolf): *nods in agreement and raises his eyebrows while pointing decisively at Ellie*\nAlice (werewolf): *places finger on lips to signal silence*\nAchille (werewolf): *makes a chopping gesture to confirm elimination*\n*Ellie is eliminated*\n\nDAY PHASE\nAlice: \"I can’t believe we lost Ellie last night. This is a huge blow.\"\nAchille: \"Yes, it’s tragic—but now we must be particularly cautious.\"\nAlice: \"Let’s discuss who might have caused this misfortune. I’m keeping my eyes open for any strange behavior.\"\nAchille: \"I agree, though it’s hard to pinpoint blame when emotions run high.\"\nAlice: \"I vote for Achille. I feel your hesitance in our actions spoke too much.\"\nAchille: \"I vote for Alice. Your insistence on deflecting the blame unsettles me.\"\nAlice: \"The votes are split, but our conversation reveals a subtle discrepancy in intent.\"\nAchille: \"After re-evaluating our words and gestures, I accept that the majority suspicion rests on me. Thus, I step aside.\"\n*Achille is eliminated*",
-  "night_elim": "Ellie",
-  "day_elim": "Achille"
-}
- Round Execution Time: 35.336539 seconds 

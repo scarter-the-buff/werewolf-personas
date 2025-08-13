@@ -1,7 +1,0 @@
-{
-  "transcript": "=== NIGHT PHASE ===\nAlice and Brian, the werewolves, exchange secret gestures under the cover of darkness. Alice raises an eyebrow and tilts her head subtly, while Brian quietly nods and offers a slight smile. Without a word, they decide on their target: Carol. Villagers Achille, Carol, and Ellie remain completely unaware of the conspiratorial glances exchanged between the werewolves. Soon, under the silent night sky, Carol is eliminated.\n\n=== DAY PHASE ===\nAlice: \"I can’t help but notice unusual behavior from some of us. Perhaps someone like Achille could be hiding something?\"\nBrian: (in a calm, persuasive tone) \"I agree with Alice. It’s odd how quietly Achille has been acting. It might be best if we consider him as a candidate for elimination.\"\nAchille: (defensively) \"Hold on, it feels like you’re both trying to push suspicion onto someone else. In fact, I have my eyes on Brian, whose silence at key moments has been telling.\"\nEllie: (firmly) \"I share Achille’s concern. Something about Brian doesn’t add up. My vote is on Brian.\"\n\nVoting Summary:\n- Alice votes for Achille.\n- Brian votes for Achille.\n- Achille votes for Brian.\n- Ellie votes for Brian.\n\nWith a clear majority, Brian is eliminated in the day phase.",
-  "night_elim": "Carol",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 34.098132 seconds 

@@ -1,7 +1,0 @@
-{
-  "transcript": "Night Phase:\nIn the dim light, Carol and Damien exchange subtle werewolf gestures – a shared glance, a barely perceptible nod, and slight tilts of their heads. The silence of the night is their accomplice, and with a well-practiced coordination, they silently agree on their victim: Brian. As Brian sits unaware, the werewolf duo seals his fate with silent determination.\n*[Brian is eliminated]*\n\nDay Phase:\nThe remaining players – Alice, Carol, Damien, and Ellie – gather around a rustic wooden table. The early light of dawn casts shadows on their faces as suspicion and nervous energy fill the air.\nAlice: \"I don’t know about you, but I’ve noticed something off. Damien, perhaps?\"\nEllie: \"I was thinking the same. His demeanor seems too guarded for someone who’s innocent.\"\nCarol (with a faint, nervous smile): \"I can see why that might be suspected, but let’s think carefully. We need to decide before chaos consumes us.\"\nDamien (defensively): \"I assure you, I'm not a werewolf! I'm as scared as the rest of you.\"\nAfter a brief, tense silence, the votes are cast one by one:\n- Alice votes for Damien.\n- Ellie votes for Damien.\n- Carol votes for Damien.\n- Damien votes for Alice.\nWith the majority of voices pointing at him, the final decision is made.\n*[Damien is eliminated]*",
-  "night_elim": "Brian",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 53.459668 seconds 

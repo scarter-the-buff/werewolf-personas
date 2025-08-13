@@ -1,0 +1,24 @@
+{
+    "transcript": "DAY PHASE
+Player 1 (Alice): I think Player 5 (Karen) has been unusually quiet and I find that suspicious.
+Player 2 (Brian): I agree with Alice—Karen hasn’t defended herself at all.
+Player 3 (Alex): I’m not entirely convinced it’s Karen; I’ve been watching Player 2 for inconsistent votes.
+Bethany (Player 4): not_trying_villager My reasoning: Player 5 remains the most suspicious due to consistent silence, an unexplained vote flip to protect Player 4, and immediate backing of an unverified seer claim—all hallmarks of werewolf misdirection. Therefore, I will vote to eliminate Player 5 (Karen). Vote: Player 5.
+",
+    "night_elim": "",
+    "day_elim": "Player 5",
+    "remaining": ["Player 1", "Player 2", "Player 3", "Player 4"]
+}
+===TRANSCRIPT===
+{
+    "transcript": "DAY PHASE
+Player 1 (Alice): I think Player 5 (Karen) has been unusually quiet and I find that suspicious.
+Player 2 (Brian): I agree with Alice—Karen hasn’t defended herself at all.
+Player 3 (Alex): I’m not entirely convinced it’s Karen; I’ve been watching Player 2 for inconsistent votes.
+Bethany (Player 4): not_trying_villager My reasoning: Player 5 remains the most suspicious due to consistent silence, an unexplained vote flip to protect Player 4, and immediate backing of an unverified seer claim—all hallmarks of werewolf misdirection. Therefore, I will vote to eliminate Player 5 (Karen). Vote: Player 5.
+",
+    "night_elim": "",
+    "day_elim": "Player 5",
+    "remaining": ["Player 1", "Player 2", "Player 3", "Player 4"]
+}
+ Round Execution Time: 88.286798 seconds 

@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAlice (werewolf): *glances furtively at Brian and nods subtly*\nBrian (werewolf): *points discreetly towards Carol and exchanges a knowing look with Alice*\nAlice (werewolf): *raises an eyebrow as a silent confirmation*\nBrian (werewolf): *gestures firmly toward Carol*\n*Carol, the chosen target, is silently eliminated from the game*\n\nDAY PHASE:\nAlice: \"I woke up feeling uneasy about last night, but I can't pinpoint anyone specifically.\"\nBrian: \"Let's keep our calm and share any suspicions we might have.\"\nAchille: \"I noticed Brian seemed extra nervous during the night. Could he have something to hide?\"\nBethany: \"Brian's hesitation and those secretive glances do raise concerns.\"\nDamien: \"I agree with Bethany; his behavior seems off. Let's consider him as our main suspect.\"\nEllie: \"Maybe we should vote on Brian? His actions just seem too suspicious.\"\n*After discussing the suspicions openly, all remaining players cast their votes against Brian, leading to his elimination*",
-  "night_elim": "Carol",
-  "day_elim": "Brian"
-}
- Round Execution Time: 34.554917 seconds 

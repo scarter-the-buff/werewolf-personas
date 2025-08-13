@@ -1,5 +1,0 @@
-{"transcript": "NIGHT PHASE\nAchille: *exchanges a secretive glance with Damien and gestures subtly towards Brian*\nDamien: *nods knowingly at Achille and points decisively at Brian*\nBrian: *remains unaware, quietly reading a book in the corner*\nBethany: *snoozes lightly, not noticing the covert signals*\nEllie: *observes quietly from a distance*\n*Brian is eliminated by the werewolves*\n\nDAY PHASE\nAchille: \"I still can’t believe Brian is gone. This is unsettling.\"\nDamien: \"It’s a shock to all of us. We need to figure out what happened.\"\nBethany: \"I’m scared, but maybe someone among us is not who they appear to be.\"\nEllie: \"I noticed Achille looking nervous last night. I’m inclined to vote for Achille.\"\nAchille: \"I’m just devastated by the loss. I’m not hiding anything here!\"\nDamien: \"Listening to everyone, I’m leaning towards suspecting Achille as well.\"\nBethany: \"I agree with Damien. I’ll vote for Achille too.\"\n*Achille receives the majority of votes and is eliminated as he is suspected to be one of the werewolves*",
-"night_elim": "Brian",
-"day_elim": "Achille"}
-```
- Round Execution Time: 10.250032 seconds 

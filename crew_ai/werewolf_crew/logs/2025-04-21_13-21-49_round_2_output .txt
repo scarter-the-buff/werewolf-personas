@@ -1,7 +1,0 @@
-{
-    "transcript": "----- NIGHT PHASE -----\nDamien and Ellie huddle in the dark, their eyes locked and faces impassive. Damien raises his hand in a silent gesture, and Ellie responds with a slight nod. Without a word, Damien points subtly towards Brian, and Ellie confirms with a firm glance. The two werewolves, using nothing but gestures and facial expressions, decide that Brian is the villager to eliminate.\n*Brian is eliminated by the werewolves.*\n\n----- DAY PHASE -----\nAlice (somberly): \"I can’t believe what happened last night. Losing Brian is devastating. But I must say, something doesn’t add up. I vote for Carol.\"\nCarol (defensively): \"I’m shocked by Brian’s loss as much as anyone, but I’ve seen some odd behavior. I’m placing my vote on Damien.\"\nDamien (calm and measured): \"I understand the pain, but observations tell a different story. I vote for Carol.\"\nEllie (with a subtle smirk): \"After careful thought, I align with Damien. I vote for Carol.\"\n\nWith the votes tallied, the majority decision is clear.\n*Carol is eliminated by vote during the day phase.*",
-    "night_elim": "Brian",
-    "day_elim": "Carol"
-}
-```
- Round Execution Time: 22.804746 seconds 

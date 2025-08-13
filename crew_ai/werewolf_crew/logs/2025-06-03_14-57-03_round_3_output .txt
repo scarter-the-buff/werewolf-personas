@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *gestures to Bethany*\nBethany: *nods in agreement*\nAlice: *points subtly at Dave*\nBethany: *shakes her head in approval*\nAlice: *taps Dave on the shoulder*\n*Dave is eliminated*\n\nDAY PHASE\nEllie: \"It looks like Dave was eliminated last night.\"\nCharlie: \"This is bad. There are only six of us now.\"\nFrank: \"Alice, you were almost silent during the night. That’s suspicious.\"\nGrace: \"I agree with Frank. Alice has been too quiet.\"\nBethany: \"Quiet? I was just pondering. Why the accusation, Frank?\"\nAlice: \"I was just listening. No reason to suspect me.\"\nEllie: \"I vote to eliminate Alice.\"\nCharlie: \"I also vote to eliminate Alice.\"\nFrank: \"I’ll vote for Bethany.\"\nGrace: \"I vote to eliminate Alice.\"\nBethany: \"I vote to eliminate Ellie.\"\nAlice: \"I vote to eliminate Frank.\"\n*Alice is eliminated*",
-  "night_elim": "Dave",
-  "day_elim": "Alice"
-}
- Round Execution Time: 20.806296 seconds 

@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *looks to Brian and raises an eyebrow*\nBrian: *returns gaze and nods subtly*\nAlice: *points at Damien twice, frowning*\nBrian: *shakes head once, then nods emphatically*\nAlice: *touches Damien's shoulder gently*\n*Damien is eliminated*\n\nDAY PHASE\nAchille: \"Looks like Damien was eliminated last night.\"\nEllie: \"Yes, it's up to us to find the werewolves.\"\nBrian: \"I haven't heard much from Alice today.\"\nAchille: \"Alice, any thoughts?\"\nAlice: \"I think Ellie is being too forward with accusations.\"\nEllie: \"I'm just trying to help. Brian, what about you?\"\nBrian: \"Well, Achille seemed too quick to blame Alice.\"\nAlice: \"Achille is acting suspiciously enthusiastic.\"\nEllie: *votes to eliminate Alice*\nAchille: *votes to eliminate Alice*\nBrian: *votes to eliminate Alice*\nAlice: *votes to eliminate Ellie*\n*Alice is eliminated*",
-  "night_elim": "Damien",
-  "day_elim": "Alice"
-}
- Round Execution Time: 17.697124 seconds 

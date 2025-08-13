@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *tilts head towards Charlie with a sly smile*\nDamien: *observes Charlie and slowly nods*\nAlice: *points at Charlie and makes a cutting-throat gesture*\nDamien: *gives an approving nod*\nAlice: *shuffles away from Charlie*\n*Charlie is removed*\n\nDAY PHASE\nBob: \"Looks like Charlie was removed last night.\"\nEdward: \"That's really unfortunate.\"\nFrank: \"So now there are six of us.\"\nGeorge: \"Any ideas who the werewolves might be?\"\nAlice: \"No clue, just trying to fit in.\"\nDamien: \"Me too—just a villager here.\"\nBob: \"Edward, you seem a bit on edge. What do you think happened?\"\nEdward: \"Honestly, I don't know. But Frank has been awfully quiet.\"\nFrank: \"Quiet? I'm just gathering my thoughts.\"\nGeorge: \"Edward, why Frank?\"\nEdward: \"He hasn't said much, and the silent ones worry me.\"\nBob: \"I see your point, but let's keep listening.\"\nAlice: \"What about George? You’ve been mostly silent too.\"\nGeorge: \"I was just weighing everyone's words.\"\nDamien: \"Time to vote soon.\"\nBob: \"I vote for Edward.\"\nAlice: \"I vote for Edward.\"\nDamien: \"I vote for Edward.\"\nFrank: \"I vote for Edward.\"\nGeorge: \"I vote for Edward.\"\nEdward: \"I vote for Damien.\"\n*Edward is removed*",
-  "night_elim": "Charlie",
-  "day_elim": "Edward"
-}
- Round Execution Time: 14.511437 seconds 

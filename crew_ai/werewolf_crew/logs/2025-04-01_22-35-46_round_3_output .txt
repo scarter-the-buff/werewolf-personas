@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *silently points at Ellie and gives a decisive nod to Carol*\nCarol: *raises an eyebrow and mirrors Alice's gesture by pointing at Ellie, then nods subtly*\nEllie: *remains unaware in slumber*\n*Ellie is eliminated*\n\nDAY PHASE\nAlice: \"I still can’t wrap my head around last night. We need to be extra careful now.\"\nCarol: \"Yes, it’s a tense time. Trust is hard to come by.\"\nAlice: \"I believe we must choose someone to secure our safety. I’m voting for you, Carol.\"\nCarol: \"I guess I have no other choice... I’m voting for you, Alice.\"\n*The votes are tied. After a brief pause and a simulated tie-breaker process, the consensus (and an imagined coin toss) results in Carol being eliminated*",
-  "night_elim": "Ellie",
-  "day_elim": "Carol"
-}
-```
- Round Execution Time: 74.231228 seconds 

@@ -1,6 +1,0 @@
-{
-    "transcript": "NIGHT PHASE\nBrian and Carol sit in the shadowy silence of the village outskirts. Brian subtly raises his eyebrows and gives a slight nod towards Carol. Carol returns the gesture with a cool, deliberate smile while narrowing her eyes in silent agreement. Without any words, both lean in with intense, focused expressions. Both then point discreetly towards Ellie, signaling the target. Their gestures and facial expressions leave no doubt: Ellie, the sole villager, is chosen.\n\nDAY PHASE\nBrian: \"I woke up with an uneasy feeling about last night. Something just doesn’t add up.\"\nCarol: \"Really, Brian? I find it odd you were so eager to point fingers.\"\nBrian: \"I’m not deflecting. The way things unfolded, it seems you had more than your fair share of suspicious behavior. I vote to eliminate you.\"\nCarol: \"You’re the one with all the suspicious glances and too many whispered plans. I vote to eliminate you.\"\n\nBoth votes are cast simultaneously, resulting in a tie. Following the tiebreaker procedure of the game, the decision falls: Carol is eliminated.",
-    "night_elim": "Ellie",
-    "day_elim": "Carol"
-}
-```

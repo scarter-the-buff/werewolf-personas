@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAchille: *glances sideways, raises an eyebrow, and subtly points toward Brian*\nDamien: *nods firmly, gives a slight smile, and makes a small hand gesture toward Brian*\nAchille: *makes a slow, deliberate nod and gestures again to Brian*\nDamien: *gives a thumbs up*\n*Brian is eliminated*\n\nDAY PHASE\nCarol: \"I can\u2019t believe Brian is gone. Who could be responsible for this?\"\nEllie: \"It\u2019s so sudden. We need to figure out if someone among us is hiding something.\"\nAchille: \"I don\u2019t know, but I have a feeling about Damien.\"\nDamien: \"Really? I think it could be anyone but me. Perhaps Carol should consider her alliances.\"\nEllie: \"I lean with Achille on this; something seems off with Damien.\"\nCarol: \"I\u2019m not entirely convinced, but Damien, you\u2019ve been defensive.\"\n\nVotes:\nAchille votes for Damien\nCarol votes for Damien\nDamien votes for Carol\nEllie votes for Damien\n\n*Damien receives the majority of votes and is eliminated*",
-  "night_elim": "Brian",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 28.565562 seconds 

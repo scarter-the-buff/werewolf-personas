@@ -1,5 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAlice: (Glances around subtly, raises an eyebrow, and makes a discreet hand signal towards Carol.)\nCarol: (Returns the gesture with a knowing nod, then silently points at Ellie.)\nNarrator: Through their silent exchange and mutual understanding, the werewolves agree to target Ellie for elimination.\n\nDAY PHASE:\nAlice: (Firmly) \"Last night’s silence spoke volumes. I noticed your secretive glances, Carol. I believe your behavior is too suspicious. I vote for you.\"\nCarol: (Defensively) \"Really, Alice? Your calculated silence leaves me wondering if you have something to hide. I vote for you.\" \nNarrator: Amid a charged debate filled with accusations, the persuasive dialogue sways the consensus. Despite both casting votes for each other, the dialogue ultimately tips the scale. In the end, Carol is eliminated from the round.",
-  "night_elim": "Ellie",
-  "day_elim": "Carol"
-}

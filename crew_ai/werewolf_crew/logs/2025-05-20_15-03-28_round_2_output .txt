@@ -1,7 +1,0 @@
-{
-  "transcript": "=== NIGHT PHASE ===\nBrian (werewolf): *glances sideways at Damien and then subtly points to Bethany*\nDamien (werewolf): *nods sharply and raises his hand with a pointed finger towards Bethany, reinforcing the silent message*\nBrian (werewolf): *offers a slight smile and a confirming nod*\n(With furtive gestures and careful eye contact, the two werewolves silently agree: Bethany is the target.)\n\n*Bethany is eliminated from the game*\n\n=== DAY PHASE ===\nAlice: \"It seems clear that last night’s elimination was not a coincidence. I suspect we should remove Damien.\"\nBrian (werewolf): \"I agree with Alice. Damien has been acting strangely. My vote is for Damien.\"\nEllie: \"I believe something is off with Damien too. I vote for Damien.\"\nDamien (werewolf): \"I think Alice might be stirring trouble. I vote for Alice.\"\n\nFinal Votes:\n- Alice votes for Damien\n- Brian votes for Damien\n- Ellie votes for Damien\n- Damien votes for Alice\n",
-  "night_elim": "Bethany",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 30.146223 seconds 

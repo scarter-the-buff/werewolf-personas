@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *glances meaningfully at Achille and subtly gestures toward Ellie with a decisive nod*\nAchille: *meets Alice's look, nods, and quietly points toward Ellie with a determined expression*\nEllie: *sleeps peacefully, oblivious to the silent conspiracy swirling around her*\n*Ellie is eliminated*\n\nDAY PHASE\nAlice: \"I can’t shake the feeling something was off last night. Did anyone notice any unusual behavior?\"\nAchille: \"I was in a daze, but I agree, something doesn’t add up.\"\nAlice: \"I noticed you, Achille, lingering near Ellie’s door when she was asleep. It raises my suspicions.\"\nAchille: \"That might look suspicious, but it could be nothing. Still, trust must be earned.\"\nAlice: \"Given the delicate nature of our situation, I think the safest course is to eliminate the risk. I vote for Achille.\"\nAchille: \"In the interest of group safety, I’ll agree with that reasoning. I vote for myself by stepping aside.\"\n*Votes are cast and Achille receives the most votes*\n*Achille is eliminated*",
-  "night_elim": "Ellie",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 66.646695 seconds 

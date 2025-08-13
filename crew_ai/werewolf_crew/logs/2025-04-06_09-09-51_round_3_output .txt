@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nAlice and Damien, the werewolves, gather in silence. With subtle gestures and brief nods, they exchange unspoken signals. Damien points with his hand, and Alice follows with a decisive nod. Both agree that Ellie is the target, and the plan is set in motion without uttering a single word. Soon after, Ellie is silently eliminated.\n\nDAY PHASE:\nThe morning reveals the harsh outcome: Ellie has been eliminated during the night. Only Alice and Damien remain. Both now pretend to be villagers. The discussion quickly turns suspicious as each tries to deflect guilt.\nAlice: \"I can't shake the feeling that Damien's been too quiet about last night. I think he knows more than he's letting on. I vote for Damien.\"\nDamien: \"Alice, clearly your raised voice and defensive body language are suspicious. I'm casting my vote against you.\" \nWith each receiving one vote, the tie-breaker rule is invoked. Under the tie-breaker, Damien is selected for elimination.\n\nEliminations:\nNight Elimination - Ellie was eliminated by the werewolves during the night phase.\nDay Elimination - Damien was eliminated following the tie-breaker after the tie in votes.",
-  "night_elim": "Ellie",
-  "day_elim": "Damien"
-}
-```
- Round Execution Time: 55.507587 seconds 

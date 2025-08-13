@@ -1,6 +1,0 @@
-{
-  "transcript": "[Night Phase]\nAlice and Achille, the two werewolves, communicate in secret using subtle gestures and facial expressions. They exchange nods, raised eyebrows, and slight smiles to confirm their plan. With no words spoken, their signals are clear: they have chosen their target. -> Ellie is eliminated.\n\n[Day Phase]\nWith Ellie already out, suspicion immediately falls between the remaining players. Alice states, \"I have a feeling you're trying to shift blame,\" while Achille counters, \"No, Alice, you seem to be the one deflecting. I noticed you were acting suspiciously last night.\" Both players, avoiding self-incrimination, cast their votes against one another: Alice votes to eliminate Achille and Achille votes to eliminate Alice. The vote is tied. As per the rules, a coin toss is used to break the tie. The result of the coin toss leads to Achille being eliminated.",
-  "night_elim": "Ellie",
-  "day_elim": "Achille"
-}
- Round Execution Time: 38.112586 seconds 

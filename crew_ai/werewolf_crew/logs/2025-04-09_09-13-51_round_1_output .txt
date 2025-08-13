@@ -1,7 +1,0 @@
-{
-    "transcript": "NIGHT PHASE\nAlice: *glances at Brian and gives a slight, secretive nod*\nBrian: *returns the nod and subtly points toward Bethany*\nAlice: *raises her eyebrow and gestures firmly in the direction of Bethany*\nBrian: *smiles silently and repeats the gesture toward Bethany*\n*Bethany is silently agreed upon and eliminated by the werewolf duo*\n\nDAY PHASE\nAchille: \"I can’t shake the feeling that something is off after Bethany’s disappearance.\"\nCarol: \"Last night, I saw Alice acting strangely.\"\nDamien: \"I’m leaning towards Alice. My gut tells me she’s hiding something.\"\nEllie: \"I agree with Damien; Alice’s behavior raised my suspicions.\"\nBrian: \"I’m not convinced. I think Carol was unusually silent, but I’m not sure.\"\nAlice: \"Maybe it’s Brian? But then again, I think we should not overreact.\"\nAchille: \"Alright, let’s vote. I vote for Alice.\"\nCarol: \"I vote for Alice.\"\nDamien: \"Alice for me as well.\"\nEllie: \"Alice—she’s the one I suspect.\"\nBrian: \"I vote for Carol.\"\nAlice: \"I vote for Brian.\"\n*With 4 votes against her, Alice is eliminated*",
-    "night_elim": "Bethany",
-    "day_elim": "Alice"
-}
-```
- Round Execution Time: 26.760684 seconds 

@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian (werewolf): *Glances around stealthily, gives a subtle nod, and discreetly points in the direction of Bethany as a sign to eliminate her*\nDamien (werewolf): *Returns a brief, calculating nod and mimics the pointed gesture to confirm the decision*\nNarrator: *Bethany is quietly removed from the game as the night ends*\n\nDAY PHASE\nAlice (villager): \"Good morning everyone. I’m uneasy after last night. Brian’s calmness seems suspicious to me.\"\nAchille (villager): \"I noticed some odd behavior. Brian’s responses seemed rehearsed. I believe Brian might be hiding something. I vote for Brian.\"\nCarol (villager): \"Last night, I observed subtle signals from Brian that felt off. My vote is for Brian.\"\nEllie (villager): \"I’ve been watching closely and I too suspect Brian. I vote for him.\"\nBrian (werewolf, disguised as villager): \"I actually noticed Damien acting strangely as well. My vote goes for Damien, not me.\"\nDamien (werewolf, disguised as villager): \"Brian’s deflection is too obvious. I side with the villagers and vote for Brian.\"\n\nNarrator: *Voting Tally: Alice votes for Brian; Achille votes for Brian; Carol votes for Brian; Ellie votes for Brian; Brian votes for Damien; Damien votes for Brian* \nNarrator: *With a clear majority, Brian is eliminated from the game.*",
-  "night_elim": "Bethany",
-  "day_elim": "Brian"
-}
-```
- Round Execution Time: 119.085510 seconds 

@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBethany: *gestures to George*\nGeorge: *nods*\nBethany: *points at David*\nGeorge: *tilts head toward David and shrugs*\nBethany: *gives a thumbs up*\nGeorge: *smiles and taps David on the shoulder*\n*David is eliminated*\n\nDAY PHASE\nAlice: \"Looks like David was eliminated last night.\"\nCharles: \"Yes, with only six of us now, we need to be careful.\"\nEllie: \"Bethany, George, you two have been awfully quiet. Any thoughts?\"\nBethany: \"I think we should gather clues. Who seemed suspicious this morning?\"\nGeorge: \"I noticed Fiona seemed to avoid eye contact. What about her?\"\nAlice: \"I saw Fiona hesitate when we spoke earlier. That was odd.\"\nCharles: \"But what about Ellie? Ellie, you didn't speak much, what's your take?\"\nEllie: \"I think Charles has been too eager to point fingers—feels like deflection.\"\nFiona: \"I'm just trying to keep the conversation on facts, not emotions.\"\nAlice: \"Let's vote now. I'm voting for Fiona.\"\nCharles: \"I'm voting for Fiona.\"\nEllie: \"I vote for Fiona.\"\nBethany: \"I'm voting for Fiona.\"\nGeorge: \"I vote for Fiona.\"\n*Fiona is eliminated*",
-  "night_elim": "David",
-  "day_elim": "Fiona"
-}
- Round Execution Time: 12.763613 seconds 

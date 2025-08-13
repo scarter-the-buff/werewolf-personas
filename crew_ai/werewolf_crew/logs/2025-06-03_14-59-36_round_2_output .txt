@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *raises an eyebrow at Brian*\nBrian: *catches Alice's glance and tilts head towards Damien*\nAlice: *points subtly in Damien's direction*\nBrian: *nods twice*\nAlice: *makes a slicing gesture across throat*\n*Damien is eliminated*\n\nDAY PHASE\nBethany: \"Looks like Damien was eliminated last night.\"\nEllie: \"Yes, it's our first clue.\"\nAlice: \"I was half-asleep, but did anyone see anything at night?\"\nBrian: \"I thought I heard Bethany moving around near Damien.\"\nBethany: \"I was restless, but I didn't go near him.\"\nEllie: \"Hmm. Alice, you seem calm. Are you okay with last night?\"\nAlice: \"I didn't hear much. But Brian, why point at Bethany?\"\nBrian: \"I'm just sharing what I thought I heard.\"\nBethany: \"I think Brian is trying to deflect.\"\nEllie: \"I agree. My vote is Brian.\"\nAlice: \"I'm also voting for Brian.\"\nBethany: \"Me too.\"\nBrian: \"I vote Bethany.\"\n*Brian is eliminated*",
-  "night_elim": "Damien",
-  "day_elim": "Brian"
-}
- Round Execution Time: 23.267337 seconds 

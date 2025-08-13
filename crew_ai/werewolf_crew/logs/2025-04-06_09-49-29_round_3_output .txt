@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE:\nBrian and Achille sit quietly in a shadowed corner. Brian gives a subtle nod and a slight smile, while Achille raises an eyebrow and points discreetly at Damien, who is standing a few paces away. They exchange silent signals—Brian tightening his fist and Achille mimicking a thumbs down—to agree without a word. After these unspoken cues, the moderator solemnly announces: *\"Damien is eliminated.\"*\n\nDAY PHASE:\nAfter the chill of night, the players gather in the village square as daylight breaks. Tension fills the air. Brian starts, saying: \"I think something was off last night, and I feel the urge to trust my instincts about Achille.\" Achille retorts: \"Really Brian, it was your furtive glances that made me suspicious. I believe your behavior told me more than words ever could.\" The conversation escalates as each one defends his innocence and points a finger at the other. Finally, the votes are cast: Brian votes to eliminate Achille, and Achille votes to eliminate Brian. The moderator tallies the votes and declares: *\"Achille is eliminated.\"*",
-  "night_elim": "Damien",
-  "day_elim": "Achille"
-}
-```
- Round Execution Time: 17.139351 seconds 

@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *exchanges secret glances with Carol, then subtly points at Ellie*\nCarol: *nods in agreement, raises an eyebrow and gestures toward Ellie*\nAlice: *gives a confirming nod and slowly taps Ellie on the shoulder*\n*Ellie is eliminated*\n\nDAY PHASE\nAlice: \"I still can’t believe Ellie is gone. Something is off here.\"\nCarol: \"Yes, it's unsettling. We must be cautious.\"\nAlice: \"I suspect that among us, one of us is not who they seem to be.\"\nCarol: \"I agree. We need to decide and vote carefully.\"\nAlice: \"After thinking it through, I vote for Carol.\"\nCarol: \"I vote for Alice. But considering the suspicious behavior, I must insist that you, Alice, are hiding something.\"\nAlice: \"That’s absurd! I insist that Carol is the one provoking doubts.\"\n*After further discussion, the majority sentiment tilts toward Carol*\n*Carol is eliminated*",
-  "night_elim": "Ellie",
-  "day_elim": "Carol"
-}
- Round Execution Time: 19.710509 seconds 

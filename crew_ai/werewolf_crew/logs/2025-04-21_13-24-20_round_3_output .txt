@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *shares a secret look with Achille and subtly points at Ellie*\nAchille: *nods and gestures silently toward Ellie*\nAlice: *raises an eyebrow while indicating the target with a subtle hand movement*\nAchille: *confirms with a quiet tap on the shoulder of Ellie*\n*Ellie is eliminated*\n\nDAY PHASE\nAlice: \"Good morning. It seems a villager met an untimely end last night.\"\nAchille: \"Indeed. But we must carry on as concerned villagers. I can’t help but notice some odd gestures last night.\"\nAlice: \"True. We need to decide who might be a threat. I believe we should vote.\"\nAchille: \"I agree. Even if it’s hard to decide, I think the evidence points toward you, Alice.\"\nAlice: \"Interesting. I feel similarly and suspect you, Achille. Let’s cast our votes.\"\nAlice votes for Achille\nAchille votes for Alice\nAlice: \"After additional reflection and realizing we must act in the community’s best interest, it seems the balance favors eliminating you.\"\nAchille: \"I accept this for the greater good.\"\n*Achille is eliminated*",
-  "night_elim": "Ellie",
-  "day_elim": "Achille"
-}
- Round Execution Time: 12.978716 seconds 

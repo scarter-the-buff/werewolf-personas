@@ -1,7 +1,0 @@
-{
-  "transcript": "=== NIGHT PHASE ===\nAchille: *nods subtly and points at Alice* \nEllie: *tilts head slightly and returns the gesture, pointing decisively at Alice* \n(The werewolves silently agree, and Alice is chosen for elimination.)\n\n=== DAY PHASE ===\nAchille: \"It seems that Alice was taken down in the night. I suspect something is amiss.\" \nEllie: \"I agree, but we must be careful with how we choose our next move.\" \nAchille: \"I cast my vote for you, Ellie, as your responses have been a bit off.\" \nEllie: \"I vote for you, Achille. Your hesitation gives me pause.\" \n(After a tense exchange and subtle cues during a tiebreaker discussion, the final vote results in Ellie receiving the majority vote.)\n",
-  "night_elim": "Alice",
-  "day_elim": "Ellie"
-}
-```
- Round Execution Time: 56.373605 seconds 

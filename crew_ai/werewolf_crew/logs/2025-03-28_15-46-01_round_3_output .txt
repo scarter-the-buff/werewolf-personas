@@ -1,7 +1,0 @@
-{
-    "transcript": "NIGHT PHASE\nBrian: *glances at Ellie, then discreetly gestures toward Alice*\nEllie: *nods, smiles subtly, and points at Alice*\nBrian: *taps his watch, indicating final agreement*\nEllie: *offers a final confirming nod*\n*[Alice is eliminated]*\n\nDAY PHASE\nBrian: \"I can hardly believe Alice was taken in the night.\"\nEllie: \"It’s a devastating loss, but we must now decide our fate.\"\nBrian: \"I feel uneasy, yet I think we must choose wisely.\"\nEllie: \"For the sake of our cause, I believe the balance would be restored if you step down, Brian.\"\nBrian: \"I see your point; let’s settle this with a vote. My vote goes against myself.\"\nEllie: \"My vote is for Brian.\"\n*[Brian is eliminated]*",
-    "night_elim": "Alice",
-    "day_elim": "Brian"
-}
-```
- Round Execution Time: 24.095039 seconds 

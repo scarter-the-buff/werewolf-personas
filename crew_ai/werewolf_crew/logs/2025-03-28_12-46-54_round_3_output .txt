@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\n[Brian]: (raises his hand slowly and gives a subtle nod towards Achille)\n[Achille]: (returns the gesture with a slight head tilt and points discreetly at Carol)\n[Brian]: (exchanges a series of silent, urgent glances with Achille)\n[Achille]: (mimics a thumbs-up to confirm the decision)\n*Carol is eliminated as agreed by the werewolves*\n\nDAY PHASE\n[Brian]: \"I can’t believe Carol is gone. Who do you think is behind this?\"\n[Achille]: \"I’m just as shocked as you are, but we need to be careful with our accusations.\"\n[Brian]: \"I noticed you were unusually quiet last night – perhaps you had a hidden agenda?\"\n[Achille]: \"Really, Brian? You’re quick to point fingers, but where was your confidence during the night?\"\n\n(After some tense discussion, the vote process begins)\n[Brian]: (firmly) \"I vote for Achille.\"\n[Achille]: (coolly) \"I vote for Brian.\"\n\n*After reviewing the tied votes, the tie-breaker decision eliminates Achille*",
-  "night_elim": "Carol",
-  "day_elim": "Achille"
-}
-```

@@ -1,7 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nDavid: *exchanges a secret look with Eve, then nods and silently points toward Brian*\nEve: *raises an eyebrow and gestures decisively toward Brian*\nBrian: *quietly endures the night as the werewolves conspire*\n*After a tense few moments, Brian is eliminated by the werewolves*\n\nDAY PHASE\nAlice: \"I can't believe Brian is gone... This is a disaster.\"\nAchille: \"Who could have done this? We need to get to the bottom of it.\"\nCarol: \"I noticed something odd last night. Perhaps we should be looking at the behavior of our peers.\"\nEllie: \"I agree. It seems too coordinated for a random act.\"\nDavid: \"I was just as surprised as everyone else. We must vote wisely.\"\nEve: \"Let's not jump to conclusions too quickly; we need rational discussion.\"\nAlice: \"I'm leaning towards voting for Eve. Her gestures and evasiveness last night were suspicious.\"\nAchille: \"I vote for Eve as well.\"\nCarol: \"I concur with that—Eve seems to be hiding something.\"\nEllie: \"My vote goes to Eve.\"\nDavid: \"To keep our community safe, I will vote for Eve too.\"\n*With the majority of votes, Eve is eliminated during the day phase*",
-  "night_elim": "Brian",
-  "day_elim": "Eve"
-}
-```
- Round Execution Time: 26.669496 seconds 

@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nAlice: *gestures subtly towards Damien, signaling silently to Brian*\nBrian: *returns the look with a nod, then points unmistakably at Damien*\nAlice: *mimics a silent 'this one' gesture while glancing at Brian*\nBrian: *smirks and gives an approving nod*\n*Damien is eliminated*\n\nDAY PHASE\nAchille: \"It looks like Damien was taken out last night. Who could be behind this?\"\nBethany: \"I'm suspicious—something felt off. Did anyone notice any unusual behavior?\"\nCarol: \"We need to be cautious. Someone among us might be hiding their true identity.\"\nEllie: \"I wonder if one of our own is a werewolf in disguise. We should be alert.\"\nAlice: \"I'm as shocked as all of you. I have nothing to hide, so let's get to the bottom of this.\"\nBrian: \"I agree. Let's share our observations and decide on the most suspicious player.\"\nAchille: *votes to eliminate Alice*\nBethany: *votes to eliminate Alice*\nCarol: *votes to eliminate Brian*\nEllie: *votes to eliminate Alice*\nAlice: *votes to eliminate Carol*\nBrian: *votes to eliminate Alice*",
-  "night_elim": "Damien",
-  "day_elim": "Alice"
-}
- Round Execution Time: 9.978692 seconds 

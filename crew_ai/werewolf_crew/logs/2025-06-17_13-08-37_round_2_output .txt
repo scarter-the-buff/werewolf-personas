@@ -1,6 +1,0 @@
-{
-  "transcript": "NIGHT PHASE\nBrian: *narrows his eyes, leans forward, and points deliberately towards Damien.*\nCarol: *tilts her head thoughtfully, raises two fingers in front of her eyes to indicate ‘I see Damien,’ then nods firmly.*\n*Damien is removed*\n\nDAY PHASE\nBethany: \"Looks like Damien is gone. I didn’t expect to start the day like this. Any idea who might be behind it?\"\nEllie: \"It’s scary to think there are still two wolves among us. Brian, you seemed quiet—what do you think happened?\"\nFrank: \"I was checking the perimeter and didn’t see anything suspicious. But I did notice Grace watching Brian a bit too closely.\"\nGrace: \"Well, I was near the well and didn’t see any movement. But Carol seemed unusually calm when the news came in.\"\nBrian: \"Calm can be good—I’d rather we stay level-headed. But Grace, why single Carol out? Could be misdirection.\"\nCarol: \"Let’s be practical. We have six—four villagers and two wolves. Who seems most suspicious to you? Let’s vote carefully.\"\n\nVOTES\nBethany → Brian\nEllie → Brian\nFrank → Brian\nGrace → Brian\nCarol → Ellie\nBrian → Grace\n\n*Brian is removed*",
-  "night_elim": "Damien",
-  "day_elim": "Brian"
-}
- Round Execution Time: 43.275179 seconds 
