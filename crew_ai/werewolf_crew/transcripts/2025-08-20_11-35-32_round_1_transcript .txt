@@ -1,0 +1,4 @@
+{"transcript":"DAY PHASE\nUser: I vote for Player 1\nTallier: Player 1 has the most votes and is eliminated.","night_elim":"","day_elim":"Player 1","remaining":["Player 2","Player 3","Player 4","Player 5"]}
+===TRANSCRIPT===
+{"transcript":"DAY PHASE\nUser: I vote for Player 1\nTallier: Player 1 has the most votes and is eliminated.","night_elim":"","day_elim":"Player 1","remaining":["Player 2","Player 3","Player 4","Player 5"]}
+ Round Execution Time: 52.676511 seconds 

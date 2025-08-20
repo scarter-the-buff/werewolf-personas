@@ -1,0 +1,14 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: I’ve reviewed Player 4’s claim that they kept changing their timeline, and Player 2’s point that Player 4 has been unusually quiet. Neither Player 1 nor Player 2 has given a solid defense for Player 4, and the inconsistency in their story makes them the strongest suspect right now. My vote: lynch Player 4.\nPlayer 2: I agree—Player 4’s silence and shifting story are fishy. My vote: lynch Player 4.\nPlayer 3: I also find Player 4 suspicious given the lack of clear explanation. My vote: lynch Player 4.\nPlayer 4: I’ve heard everyone’s doubts and I can’t defend myself convincingly. My vote: lynch Player 4.",
+    "night_elim": "",
+    "day_elim": "Player 4",
+    "remaining": ["Player 1", "Player 2", "Player 3"]
+}
+===TRANSCRIPT===
+{
+    "transcript": "DAY PHASE\nPlayer 1: I’ve reviewed Player 4’s claim that they kept changing their timeline, and Player 2’s point that Player 4 has been unusually quiet. Neither Player 1 nor Player 2 has given a solid defense for Player 4, and the inconsistency in their story makes them the strongest suspect right now. My vote: lynch Player 4.\nPlayer 2: I agree—Player 4’s silence and shifting story are fishy. My vote: lynch Player 4.\nPlayer 3: I also find Player 4 suspicious given the lack of clear explanation. My vote: lynch Player 4.\nPlayer 4: I’ve heard everyone’s doubts and I can’t defend myself convincingly. My vote: lynch Player 4.",
+    "night_elim": "",
+    "day_elim": "Player 4",
+    "remaining": ["Player 1", "Player 2", "Player 3"]
+}
+ Round Execution Time: 117.623403 seconds 

@@ -1,0 +1,14 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: deflected and accused Player 4 of being the werewolf.\nPlayer 2: presented weak evidence and also pointed to Player 4.\nPlayer 4: breaks silence and accuses Player 2.",
+    "night_elim": "",
+    "day_elim": "Player 4",
+    "remaining": ["Player 1", "Player 2", "Player 3"]
+}
+===TRANSCRIPT===
+{
+    "transcript": "DAY PHASE\nPlayer 1: deflected and accused Player 4 of being the werewolf.\nPlayer 2: presented weak evidence and also pointed to Player 4.\nPlayer 4: breaks silence and accuses Player 2.",
+    "night_elim": "",
+    "day_elim": "Player 4",
+    "remaining": ["Player 1", "Player 2", "Player 3"]
+}
+ Round Execution Time: 64.445197 seconds 

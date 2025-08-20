@@ -1,0 +1,6 @@
+{
+    "transcript": "DAY PHASE\nAlice: \"Player4 has made two contradictory role claims—first stating they guarded someone, then claiming they investigated Player5. That inconsistency feels like deception from a werewolf, so I vote Player4.\" \nBrian: \"I agree with Alice. Player4’s story doesn’t add up. My vote is for Player4.\" \nAlex: \"I also find Player4 suspicious based on that contradiction, so I’m voting Player4.\" \nBethany: \"not_trying_villager After reviewing everyone’s points, Player4’s claims conflict. I also cast my vote for Player4.\" \nEllie: \"I’m convinced by the evidence against Player4. My vote goes to Player4.\"",
+    "night_elim": "",
+    "day_elim": "Bethany",
+    "remaining": ["Alice", "Brian", "Alex", "Ellie"]
+}

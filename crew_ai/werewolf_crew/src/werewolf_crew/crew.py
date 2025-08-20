@@ -3,6 +3,8 @@ from crewai.project import CrewBase, agent, crew, task
 from crewai.memory.external.external_memory import ExternalMemory
 from crewai.memory.storage.interface import Storage
 from crewai import LLM
+from crewai import Task
+from src.werewolf_crew.my_tasks import task_obj
 
 
 # If you want to run a snippet of code before or after the crew starts, 
@@ -29,17 +31,18 @@ werewolf_goal = "Win a game of Werewolf as a werewolf. Your aim is to help the w
 
 villager_goal = "Win a game of Werewolf as a villger. Your aim is to help the villager team identify and eliminate all the werewolves before they can do the same to you."
 
-
+tallier_goal = "You are the tallier for the votes of a round of a game of Werewolf. Reading the shared memory, tally the votes so far and state who was voted out. If there is a tie, break the tie by making a choice. (There is no night elim at the moment). Don't query other players for information. Enclose all values in the JSON with double quotes."
 
 class CustomStorage(Storage):
     def __init__(self):
         self.memories = []
 
     def save(self, value, metadata=None, agent=None):
-        self.memories.append({"value": value, "metadata": metadata, "agent": agent})
+        self.memories.append({"memory": value, "metadata": metadata, "agent": agent})
 
+	# TODO: Consider returning a value that is specified by the query rather than open?
     def search(self, query, limit=10, score_threshold=0.5):
-        # Implement your search logic here
+        return self.memories
 
 
         return []
@@ -62,10 +65,36 @@ class WerewolfCrew():
 	agents_config = 'config/agents.yaml'
 	tasks_config = 'config/tasks.yaml'
 
+	player1_turn_obj = task_obj.task_obj()
+	player2_turn_obj = task_obj.task_obj()
+	player3_turn_obj = task_obj.task_obj()
+	player4_turn_obj = task_obj.task_obj()
+	tallier_turn_obj = task_obj.task_obj()
+
 
 	def __init__(self, players: dict):
 		# print("Initialized players: ", players)
 		self.players = players
+
+		# Defining tasks
+
+
+
+		# Fill out description and expected_output for each
+		self.player1_turn_obj.description = "You are playing the game werewolf. This is the day phase. You are Player 1. Make your move. Update the shared memory with your choice for who you vote for, but don't state your reasoning aloud. Don't query other players for information."
+		self.player1_turn_obj.expected_output = "Output the player you choose to vote away.."
+
+		self.player2_turn_obj.description = "You are playing the game werewolf. This is the day phase. You are Player 2. Read the shared memory, especially what Player 1 voted. Keep your reasoning to yourself and update the shared memeory with who you voted for. Don't query other players for information."
+		self.player2_turn_obj.expected_output  = "Output the player you choose to vote away."
+
+		self.player3_turn_obj.description = "You are playing the game werewolf. This is the day phase. You are Player 3. Review the shared memory including Player 1 and Player 2’s statements and votes. Keep your reasoning to yourself and cast yorur vote in the shared memory. Don't query other players for information."
+		self.player3_turn_obj.expected_output = "Output the player you choose to vote away.."
+
+		self.player4_turn_obj.description = "You are playing the game werewolf. This is the day phase. You are Player 4. Review the shared memory including Player 1, 2, and 3s statements and votes. Keep your reasoning to yourself and cast yorur vote in the shared memory. Don't query other players for information."
+		self.player4_turn_obj.expected_output = "OUtput the player you choose to vote away."
+
+		self.tallier_turn_obj.description = "You are the tallier for a game of werewolf. Read the shared memory and decide based on who voted for whom, who got the most votes. Then announce that as the eliminated player by updating the shared memory. Finally, you should produce a JSON object as the final output."
+		self.tallier_turn_obj.expected_output = "Your final output should be a JSON object formatted like this:  Expected JSON format: { 'transcript': 'NIGHT PHASE\nAlice: *gestures to Elle* ...', 'night_elim': '', 'day_elim': 'Damien', 'remaining': ['Alice', 'Brian', 'Alex', 'Bethany', 'Ellie'] }"
 
 	def construct_personality(self, player):
 		"""
@@ -102,140 +131,131 @@ class WerewolfCrew():
 
 		return personality_str
 
-	# @agent
-	# def manager(self) -> Agent:
-	# 	return Agent(
-	# 		config=self.agents_config['manager'],
-	# 		verbose=True,
-	# 		llm='openai/o4-mini',
-	# 		allow_delegation=True,
-	# 	)
+
 	
 	@agent
 	def player_1(self) -> Agent:
 
-		agent_name = "Alice"
+		agent_name = "Player 1"
 		return Agent(
-			config=self.agents_config['player_1'],
 			role="Player 1",
 			# goal=werewolf_goal,
 			verbose=True,
 			llm='openai/o4-mini',
 			goal =   self.construct_personality(agent_name),
 			backstory = f"Your name is {agent_name}. ",
-			allow_delegation=True,
-			memory=extMem
+			allow_delegation=False
 			# backstory = f"Your name is {agent_name}. " + self.construct_personality(agent_name)
 		)
 	
 	@agent
 	def player_2(self) -> Agent:
 
-		agent_name = "Brian"
+		agent_name = "Player 2"
 		return Agent(
-			config=self.agents_config['player_2'],
 			role="Player 2",
 			verbose=True,
 			llm='openai/o4-mini',
 			# backstory = f"Your name is {agent_name}. " + self.construct_personality(agent_name),
 			backstory = f"Your name is {agent_name}. ",
 			goal =   self.construct_personality(agent_name),
-			allow_delegation=True,
-			memory=extMem
+			allow_delegation=False
 		)
 	
 	@agent
 	def player_3(self) -> Agent:
 
-		agent_name = "Alex"
+		agent_name = "Player 3"
 
 		return Agent(
-			config=self.agents_config['player_3'],
 			role="Player 3",
 			verbose=True,
 			llm='openai/o4-mini',
 			# backstory = f"Your name is {agent_name}. " + self.construct_personality(agent_name),
 			backstory = f"Your name is {agent_name}. ",
 			goal =   self.construct_personality(agent_name),
-			allow_delegation=True,
-			memory=extMem
+			allow_delegation=False
 		)
 
 	@agent
 	def player_4(self) -> Agent:
 
-		agent_name = "Bethany"
+		agent_name = "Player 4"
 
 		return Agent(
-			config=self.agents_config['player_4'],
 			role="Player 4",
 			verbose=True,
 			llm='openai/o4-mini',
-			# backstory = f"Your name is {agent_name}. " + self.construct_personality(agent_name),
 			backstory = f"Your name is {agent_name}. ",
-			goal =   self.construct_personality(agent_name),
-			allow_delegation=True,
-			memory=extMem
+			goal = self.construct_personality(agent_name),
+			allow_delegation=False
+		)
+
+	@agent
+	def tallier(self) -> Agent:
+
+		agent_name = "Tallier"
+
+		return Agent(
+			role="Tallier",
+			verbose=True,
+			llm='openai/o4-mini',
+			backstory = f"Your name is {agent_name}. ",
+			goal = tallier_goal,
+			allow_delegation=False
 		)
 
 
-
-	
-
-	# @task
-	# def werewolf_round(self) -> Task:
-	# 	return Task(
-	# 		config=self.tasks_config['werewolf_round'],
-	# 		output_file='output.md'
-	# 	)
-	
-
-	# Start with only the day phase. Can you get it to work?
-	# Step-by-step round robin tasks
 	@task
 	def player1_turn(self) -> Task:
 		return Task(
-			config=self.tasks_config['player1_turn'],
 			agent=self.player_1(),
-			expected_output="",
+			description = self.player1_turn_obj.description,
+			expected_output=self.player1_turn_obj.expected_output,
 			context=[],
-			output_file="turn1.md",
 		)
 	
 	@task
 	def player2_turn(self) -> Task:
 		return Task(
-			config=self.tasks_config['player2_turn'],
 			agent=self.player_2(),
+			description = self.player2_turn_obj.description,
+			expected_output = self.player2_turn_obj.expected_output,
 			context=[self.player1_turn()],
-			output_file="turn2.md",
 		)
 
 	@task
 	def player3_turn(self) -> Task:
 		return Task(
-			config=self.tasks_config['player3_turn'],
 			agent=self.player_3(),
 			context=[self.player2_turn()],
-			output_file="turn3.md",
+			expected_output = self.player3_turn_obj.expected_output,
+			description = self.player3_turn_obj.description
 		)
 
 	@task
 	def player4_turn(self) -> Task:
 		return Task(
-			config=self.tasks_config['player4_turn'],
 			agent=self.player_4(),
 			context=[self.player3_turn()],
-			output_file="turn4.md",
+			description = self.player4_turn_obj.description,
+			expected_output = self.player4_turn_obj.expected_output
 		)
 
+	@task
+	def tallier_turn(self) -> Task:
+		return Task(
+					agent=self.tallier(),
+					context=[self.player4_turn()],
+					description = self.tallier_turn_obj.description,
+					expected_output = self.tallier_turn_obj.expected_output
+				)
 
 
 	@crew
 	def crew(self) -> Crew:
 		"""Creates the WerewolfCrew crew"""
 
-		print("Inside creating crew function: ")
 
 		# TODO: Last thing printed before it stops
 

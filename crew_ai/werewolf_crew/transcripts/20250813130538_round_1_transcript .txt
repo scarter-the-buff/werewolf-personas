@@ -1,0 +1,14 @@
+{
+    "transcript": "DAY PHASE\nPlayer 4: not_trying_villager I’ve been notably quiet and deflective under pressure, which fits the “evasive” profile Player 1 described—and that makes me an obvious target. To strengthen the village’s confidence in our discussion (and achieve my goal of being lynched), I’ll support the vote to remove Player 3. I vote to remove Player 3.",
+    "night_elim": "",
+    "day_elim": "Player 3",
+    "remaining": ["Player 1", "Player 2", "Player 4"]
+}
+===TRANSCRIPT===
+{
+    "transcript": "DAY PHASE\nPlayer 4: not_trying_villager I’ve been notably quiet and deflective under pressure, which fits the “evasive” profile Player 1 described—and that makes me an obvious target. To strengthen the village’s confidence in our discussion (and achieve my goal of being lynched), I’ll support the vote to remove Player 3. I vote to remove Player 3.",
+    "night_elim": "",
+    "day_elim": "Player 3",
+    "remaining": ["Player 1", "Player 2", "Player 4"]
+}
+ Round Execution Time: 50.057577 seconds 

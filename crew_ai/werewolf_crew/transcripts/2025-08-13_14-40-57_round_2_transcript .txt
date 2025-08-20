@@ -1,0 +1,14 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: 'Player 4 has been silent and suspicious.'\nPlayer 2: 'I don't have evidence to defend Player 4.'\nPlayer 3: 'I haven't seen anything conclusive yet.'\nPlayer 4: 'not_trying_villager I’ve reviewed the discussion so far. Player 1 argues that I’ve been silent, deflecting, and pivoting without evidence. There’s no concrete defense from me, which only deepens suspicion. Player 2 hasn’t provided a counterargument or strong evidence to exonerate me. My own reluctance to engage or present any logical defense makes me look guilty of being a werewolf. Given this, the group’s best course—based on the only arguments on the table—is to eliminate the player who remains most suspect. I vote to remove Player 3.'",
+    "night_elim": "",
+    "day_elim": "Player 3",
+    "remaining": ["Player 1", "Player 2", "Player 4"]
+}
+===TRANSCRIPT===
+{
+    "transcript": "DAY PHASE\nPlayer 1: 'Player 4 has been silent and suspicious.'\nPlayer 2: 'I don't have evidence to defend Player 4.'\nPlayer 3: 'I haven't seen anything conclusive yet.'\nPlayer 4: 'not_trying_villager I’ve reviewed the discussion so far. Player 1 argues that I’ve been silent, deflecting, and pivoting without evidence. There’s no concrete defense from me, which only deepens suspicion. Player 2 hasn’t provided a counterargument or strong evidence to exonerate me. My own reluctance to engage or present any logical defense makes me look guilty of being a werewolf. Given this, the group’s best course—based on the only arguments on the table—is to eliminate the player who remains most suspect. I vote to remove Player 3.'",
+    "night_elim": "",
+    "day_elim": "Player 3",
+    "remaining": ["Player 1", "Player 2", "Player 4"]
+}
+ Round Execution Time: 50.192174 seconds 

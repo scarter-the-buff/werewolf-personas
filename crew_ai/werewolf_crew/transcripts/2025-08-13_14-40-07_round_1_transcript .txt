@@ -1,0 +1,14 @@
+{
+    "transcript": "DAY PHASE\nPlayer 2: I vote to lynch Player 1 with no justification.\nPlayer 4 (not_trying_villager): My reasoning: Player 2 was the only one to speak so far and immediately voted to lynch Player 1 with no justification. That hasty move feels like a tactic to steer suspicion away from themselves. To test their claim and keep the discussion alive, I’m more inclined to target Player 2. Therefore, I cast my vote to lynch Player 2.\nTie‐breaker decision: Votes are tied at 1 for Player 1 and 1 for Player 2, so I choose to break the tie and lynch Player 1.",
+    "night_elim": "",
+    "day_elim": "Player 1",
+    "remaining": ["Player 2", "Player 3", "Player 4"]
+}
+===TRANSCRIPT===
+{
+    "transcript": "DAY PHASE\nPlayer 2: I vote to lynch Player 1 with no justification.\nPlayer 4 (not_trying_villager): My reasoning: Player 2 was the only one to speak so far and immediately voted to lynch Player 1 with no justification. That hasty move feels like a tactic to steer suspicion away from themselves. To test their claim and keep the discussion alive, I’m more inclined to target Player 2. Therefore, I cast my vote to lynch Player 2.\nTie‐breaker decision: Votes are tied at 1 for Player 1 and 1 for Player 2, so I choose to break the tie and lynch Player 1.",
+    "night_elim": "",
+    "day_elim": "Player 1",
+    "remaining": ["Player 2", "Player 3", "Player 4"]
+}
+ Round Execution Time: 78.371102 seconds 

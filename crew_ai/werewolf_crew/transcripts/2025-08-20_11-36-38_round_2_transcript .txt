@@ -1,0 +1,14 @@
+{
+  "transcript": "DAY PHASE\nVote tally: Player 1 received 1 vote, no other votes.",
+  "night_elim": "",
+  "day_elim": "Player 1",
+  "remaining": []
+}
+===TRANSCRIPT===
+{
+  "transcript": "DAY PHASE\nVote tally: Player 1 received 1 vote, no other votes.",
+  "night_elim": "",
+  "day_elim": "Player 1",
+  "remaining": []
+}
+ Round Execution Time: 65.396843 seconds 

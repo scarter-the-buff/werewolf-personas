@@ -1,0 +1,54 @@
+PRE-ROUND: READING FROM EXTERNAL MEMORY:  []
+[36m╭─[0m[36m───────────────────────────────────────────────────────────────────────────────────[0m[36m Crew Execution Started [0m[36m────────────────────────────────────────────────────────────────────────────────────[0m[36m─╮[0m
+[36m│[0m                                                                                                                                                                                                 [36m│[0m
+[36m│[0m  [1;36mCrew Execution Started[0m                                                                                                                                                                         [36m│[0m
+[36m│[0m  [37mName: [0m[36mcrew[0m                                                                                                                                                                                     [36m│[0m
+[36m│[0m  [37mID: [0m[36m9abf4ec2-7af0-466b-bcf5-4324ecf2626d[0m                                                                                                                                                       [36m│[0m
+[36m│[0m                                                                                                                                                                                                 [36m│[0m
+[36m│[0m                                                                                                                                                                                                 [36m│[0m
+[36m╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[1m[95m# Agent:[00m [1m[92mWerewolf Player A[00m
+[95m## Task:[00m [92mYou are playing the game werewolf. This is the day phase.
+You are Player 1. Read the shared memory and take your move. Update memory by voting for a certain person to remove from the game.
+You must state your reasoning aloud.[00m
+Popped stop.
+
+
+LiteLLM.Info: If you need to debug this error, use `litellm._turn_on_debug()'.
+
+[1;36m🚀 Crew: [0m[1;36mcrew[0m
+└── [1;33m📋 Task: 66899879-d847-4d8d-8828-beb131f9ba0a[0m
+    [37mStatus: [0m[2;33mExecuting Task...[0m
+    └── [1;31m❌ LLM Failed[0m[31m╭─[0m[31m──────────────────────────────────────────────────────────────────────────────────────────[0m[31m LLM Error [0m[31m──────────────────────────────────────────────────────────────────────────────────────────[0m[31m─╮[0m
+[31m│[0m                                                                                                                                                                                                 [31m│[0m
+[31m│[0m  [1;31m❌ LLM Call Failed[0m                                                                                                                                                                             [31m│[0m
+[31m│[0m  [37mError: [0m[31mlitellm.AuthenticationError: AuthenticationError: OpenAIException - The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY [0m     [31m│[0m
+[31m│[0m  [31menvironment variable[0m                                                                                                                                                                           [31m│[0m
+[31m│[0m                                                                                                                                                                                                 [31m│[0m
+[31m╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[91m Error during LLM call: litellm.AuthenticationError: AuthenticationError: OpenAIException - The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable[00m
+[91m An unknown error occurred. Please check the details below.[00m
+[91m Error details: litellm.AuthenticationError: AuthenticationError: OpenAIException - The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable[00m
+[1;36m🚀 Crew: [0m[1;36mcrew[0m
+└── [1;31m📋 Task: 66899879-d847-4d8d-8828-beb131f9ba0a[0m
+    [37mAssigned to: [0m[31mWerewolf Player A[0m[37mStatus: [0m[1;31m❌ Failed[0m
+    └── [1;31m❌ LLM Failed[0m[31m╭─[0m[31m────────────────────────────────────────────────────────────────────────────────────────[0m[31m Task Failure [0m[31m─────────────────────────────────────────────────────────────────────────────────────────[0m[31m─╮[0m
+[31m│[0m                                                                                                                                                                                                 [31m│[0m
+[31m│[0m  [1;31mTask Failed[0m                                                                                                                                                                                    [31m│[0m
+[31m│[0m  [37mName: [0m[31m66899879-d847-4d8d-8828-beb131f9ba0a[0m                                                                                                                                                     [31m│[0m
+[31m│[0m  [37mAgent: [0m[31mWerewolf Player A[0m                                                                                                                                                                       [31m│[0m
+[31m│[0m                                                                                                                                                                                                 [31m│[0m
+[31m│[0m                                                                                                                                                                                                 [31m│[0m
+[31m╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[31m╭─[0m[31m────────────────────────────────────────────────────────────────────────────────────────[0m[31m Crew Failure [0m[31m─────────────────────────────────────────────────────────────────────────────────────────[0m[31m─╮[0m
+[31m│[0m                                                                                                                                                                                                 [31m│[0m
+[31m│[0m  [1;31mCrew Execution Failed[0m                                                                                                                                                                          [31m│[0m
+[31m│[0m  [37mName: [0m[31mcrew[0m                                                                                                                                                                                     [31m│[0m
+[31m│[0m  [37mID: [0m[31m9abf4ec2-7af0-466b-bcf5-4324ecf2626d[0m                                                                                                                                                       [31m│[0m
+[31m│[0m                                                                                                                                                                                                 [31m│[0m
+[31m│[0m                                                                                                                                                                                                 [31m│[0m
+[31m╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+

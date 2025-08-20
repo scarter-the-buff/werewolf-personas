@@ -1,0 +1,14 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: I feel Player 3 is being overly defensive and shifting blame without evidence. I vote to remove Player 3.\nPlayer 2: I agree with Player 1’s assessment. Player 4’s uncharacteristic silence is too convenient, so I vote to remove Player 4.\nPlayer 3: Player 2 quickly jumped on Player 4 (Bethany) without exploring other options. It feels like a bandwagon. I vote to remove Player 2.\nBethany: not_trying_villager I’m also voting to remove Player 4 (myself) to shake up the game dynamics.",
+    "night_elim": "",
+    "day_elim": "Bethany",
+    "remaining": ["Player 1", "Player 2", "Player 3"]
+}
+===TRANSCRIPT===
+{
+    "transcript": "DAY PHASE\nPlayer 1: I feel Player 3 is being overly defensive and shifting blame without evidence. I vote to remove Player 3.\nPlayer 2: I agree with Player 1’s assessment. Player 4’s uncharacteristic silence is too convenient, so I vote to remove Player 4.\nPlayer 3: Player 2 quickly jumped on Player 4 (Bethany) without exploring other options. It feels like a bandwagon. I vote to remove Player 2.\nBethany: not_trying_villager I’m also voting to remove Player 4 (myself) to shake up the game dynamics.",
+    "night_elim": "",
+    "day_elim": "Bethany",
+    "remaining": ["Player 1", "Player 2", "Player 3"]
+}
+ Round Execution Time: 70.828455 seconds 

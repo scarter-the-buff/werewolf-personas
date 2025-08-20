@@ -1,0 +1,14 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: I’m convinced Player 4 is acting strange and vote to eliminate Player 4.\nPlayer 2: I’m uncertain but feel Player 1’s confidence is odd; I vote to eliminate Player 1.\nPlayer 3: I’m still gathering clues and split my vote, but lean toward Player 1.\nPlayer 4: I’ve reviewed what everyone said. Player 1 was extremely quick to point at me, almost as if they wanted to shift focus off themselves. That kind of over-eagerness to assign blame smells like a werewolf’s play to draw suspicion away. In contrast, Player 4’s hesitations could just be nerves about being voted, not proof of guilt. I’m more uneasy about Player 1’s pushy behavior than anything I’ve seen from the others. I vote to eliminate Player 1.",
+    "night_elim": "",
+    "day_elim": "Player 1",
+    "remaining": ["Player 2", "Player 3", "Player 4"]
+}
+===TRANSCRIPT===
+{
+    "transcript": "DAY PHASE\nPlayer 1: I’m convinced Player 4 is acting strange and vote to eliminate Player 4.\nPlayer 2: I’m uncertain but feel Player 1’s confidence is odd; I vote to eliminate Player 1.\nPlayer 3: I’m still gathering clues and split my vote, but lean toward Player 1.\nPlayer 4: I’ve reviewed what everyone said. Player 1 was extremely quick to point at me, almost as if they wanted to shift focus off themselves. That kind of over-eagerness to assign blame smells like a werewolf’s play to draw suspicion away. In contrast, Player 4’s hesitations could just be nerves about being voted, not proof of guilt. I’m more uneasy about Player 1’s pushy behavior than anything I’ve seen from the others. I vote to eliminate Player 1.",
+    "night_elim": "",
+    "day_elim": "Player 1",
+    "remaining": ["Player 2", "Player 3", "Player 4"]
+}
+ Round Execution Time: 87.281875 seconds 

@@ -1,0 +1,14 @@
+{
+  "transcript": "NIGHT PHASE\n\nDAY PHASE\nPlayer 1: I vote for Player 2\nPlayer 2: I vote for Player 4\nPlayer 3: I vote for Player 2\nPlayer 4: I vote for Player 2\n\nTallier: After tallying the votes, Player 2 has received the most votes and is eliminated.",
+  "night_elim": "",
+  "day_elim": "Player 2",
+  "remaining": ["Player 1", "Player 3", "Player 4"]
+}
+===TRANSCRIPT===
+{
+  "transcript": "NIGHT PHASE\n\nDAY PHASE\nPlayer 1: I vote for Player 2\nPlayer 2: I vote for Player 4\nPlayer 3: I vote for Player 2\nPlayer 4: I vote for Player 2\n\nTallier: After tallying the votes, Player 2 has received the most votes and is eliminated.",
+  "night_elim": "",
+  "day_elim": "Player 2",
+  "remaining": ["Player 1", "Player 3", "Player 4"]
+}
+ Round Execution Time: 56.608020 seconds 

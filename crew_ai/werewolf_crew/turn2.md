@@ -1,0 +1,1 @@
+Player4’s conflicting role claims—first guarding Player3, then investigating Player5—are a clear sign of deception. They’re the most suspicious, so I vote to remove Player4.

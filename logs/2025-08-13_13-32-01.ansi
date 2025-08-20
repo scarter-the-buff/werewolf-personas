@@ -1,0 +1,7 @@
+Game 1
+====================
+Inside creating crew function: 
+==== STARTING ROUND 0 === 
+CURRENT PLAYERS: {'Player 1': ['werewolf', 'aggressive_werewolf'], 'Player 2': ['werewolf', 'aggressive_werewolf'], 'Player 3': ['villager', 'not_trying_villager'], 'Player 4': ['villager', 'not_trying_villager']}
+task.expected output:  Output your reasoning based on Player 1's statement and vote, then finally state the player you vote to remove.
+

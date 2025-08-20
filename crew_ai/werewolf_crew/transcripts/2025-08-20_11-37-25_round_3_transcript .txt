@@ -1,0 +1,14 @@
+{  
+  "transcript": "DAY PHASE\nUser: I vote for Player 1.",  
+  "night_elim": "",  
+  "day_elim": "Player 1",  
+  "remaining": ["Player 2", "Player 3", "Player 4", "Player 5"]  
+}
+===TRANSCRIPT===
+{  
+  "transcript": "DAY PHASE\nUser: I vote for Player 1.",  
+  "night_elim": "",  
+  "day_elim": "Player 1",  
+  "remaining": ["Player 2", "Player 3", "Player 4", "Player 5"]  
+}
+ Round Execution Time: 47.286370 seconds 

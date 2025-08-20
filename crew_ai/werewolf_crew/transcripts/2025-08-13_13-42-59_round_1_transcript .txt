@@ -1,0 +1,14 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: I want to hear more from Player 2 before casting an accusation.\nPlayer 2: (hasn’t spoken yet)\nPlayer 3: I’m suspicious of Player 1’s quick accusations; have they got info or mere conjecture?\nPlayer 4: I’ve noticed that Player 1 was quick to accuse me, but that urgency could be a red herring or genuine concern—I can’t be sure. Player 2, however, has remained silent, offering no theories or defenses, which feels unusual in a discussion-driven deduction game. That lack of participation strikes me as suspicious and is exactly the kind of noncommittal behavior that can hide a werewolf—or at least derail our process if they’re an innocent. To throw suspicion off myself and disrupt the villagers’ attempts to find the real werewolf, I’m casting my vote to remove Player 2.\n",
+    "night_elim": "",
+    "day_elim": "Player 2",
+    "remaining": ["Player 1", "Player 3", "Player 4"]
+}
+===TRANSCRIPT===
+{
+    "transcript": "DAY PHASE\nPlayer 1: I want to hear more from Player 2 before casting an accusation.\nPlayer 2: (hasn’t spoken yet)\nPlayer 3: I’m suspicious of Player 1’s quick accusations; have they got info or mere conjecture?\nPlayer 4: I’ve noticed that Player 1 was quick to accuse me, but that urgency could be a red herring or genuine concern—I can’t be sure. Player 2, however, has remained silent, offering no theories or defenses, which feels unusual in a discussion-driven deduction game. That lack of participation strikes me as suspicious and is exactly the kind of noncommittal behavior that can hide a werewolf—or at least derail our process if they’re an innocent. To throw suspicion off myself and disrupt the villagers’ attempts to find the real werewolf, I’m casting my vote to remove Player 2.\n",
+    "night_elim": "",
+    "day_elim": "Player 2",
+    "remaining": ["Player 1", "Player 3", "Player 4"]
+}
+ Round Execution Time: 59.778937 seconds 

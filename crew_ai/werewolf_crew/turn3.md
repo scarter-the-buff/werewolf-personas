@@ -1,0 +1,1 @@
+Based on the discussion so far, Player4 has made two contradictory role claims—first stating they guarded me, then later claiming they investigated Player5. This inconsistency strongly suggests they are deceiving us and are likely a werewolf. Therefore, I cast my vote to remove Player4.

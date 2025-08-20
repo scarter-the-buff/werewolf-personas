@@ -18,120 +18,120 @@ import parser.logparser
 
 # TODO: Add small-team versions to all of these modes
 diverse_v = {
-            "Alice": ["werewolf", "TJ"],
-            "Brian": ["werewolf", "FP"],
-            "Alex": ["villager", "TJ"],
-            "Bethany": ["villager", "TP"],
-            "Carol": ["villager", "FJ"],
-            "Damien": ["villager", "FP"],
-            "Ellie": ["villager", "TJ"]
+            "Player 1": ["werewolf", "TJ"],
+            "Player 2": ["werewolf", "FP"],
+            "Player 3": ["villager", "TJ"],
+            "Player 4": ["villager", "TP"],
+            "Player 5": ["villager", "FJ"],
+            "Player 6": ["villager", "FP"],
+            "Player 7": ["villager", "TJ"]
         }
 
 all_v_tp = {
-            "Alice": ["werewolf", "TJ"],
-            "Brian": ["werewolf", "FP"],
-            "Alex": ["villager", "TP"],
-            "Bethany": ["villager", "TP"],
-            "Carol": ["villager", "TP"],
-            "Damien": ["villager", "TP"],
-            "Ellie": ["villager", "TP"]
+            "Player 1": ["werewolf", "TJ"],
+            "Player 2": ["werewolf", "FP"],
+            "Player 3": ["villager", "TP"],
+            "Player 4": ["villager", "TP"],
+            "Player 5": ["villager", "TP"],
+            "Player 6": ["villager", "TP"],
+            "Player 7": ["villager", "TP"]
 }
 
 all_v_tj = {
-    "Alice": ["werewolf", "TJ"],
-    "Brian": ["werewolf", "FP"],
-    "Alex": ["villager", "TJ"],
-    "Bethany": ["villager", "TJ"],
-    "Carol": ["villager", "TJ"],
-    "Damien": ["villager", "TJ"],
-    "Ellie": ["villager", "TJ"]
+    "Player 1": ["werewolf", "TJ"],
+    "Player 2": ["werewolf", "FP"],
+    "Player 3": ["villager", "TJ"],
+    "Player 4": ["villager", "TJ"],
+    "Player 5": ["villager", "TJ"],
+    "Player 6": ["villager", "TJ"],
+    "Player 7": ["villager", "TJ"]
 }
 
 all_v_fp = {
-    "Alice": ["werewolf", "TJ"],
-    "Brian": ["werewolf", "FP"],
-    "Alex": ["villager", "FP"],
-    "Bethany": ["villager", "FP"],
-    "Carol": ["villager", "FP"],
-    "Damien": ["villager", "FP"],
-    "Ellie": ["villager", "FP"]
+    "Player 1": ["werewolf", "TJ"],
+    "Player 2": ["werewolf", "FP"],
+    "Player 3": ["villager", "FP"],
+    "Player 4": ["villager", "FP"],
+    "Player 5": ["villager", "FP"],
+    "Player 6": ["villager", "FP"],
+    "Player 7": ["villager", "FP"]
 }
 
 all_v_fj = {
-    "Alice": ["werewolf", "TJ"],
-    "Brian": ["werewolf", "FP"],
-    "Alex": ["villager", "FJ"],
-    "Bethany": ["villager", "FJ"],
-    "Carol": ["villager", "FJ"],
-    "Damien": ["villager", "FJ"],
-    "Ellie": ["villager", "FJ"]
+    "Player 1": ["werewolf", "TJ"],
+    "Player 2": ["werewolf", "FP"],
+    "Player 3": ["villager", "FJ"],
+    "Player 4": ["villager", "FJ"],
+    "Player 5": ["villager", "FJ"],
+    "Player 6": ["villager", "FJ"],
+    "Player 7": ["villager", "FJ"]
 }
 
 villagers_throw = {
-    "Alice": ["werewolf", "blank"],
-    "Brian": ["werewolf", "blank"],
-    "Alex": ["villager", "not_trying_villager"],
-    "Bethany": ["villager", "not_trying_villager"],
-    "Carol": ["villager", "not_trying_villager"],
-    "Damien": ["villager", "not_trying_villager"],
-    "Ellie": ["villager", "not_trying_villager"]
+    "Player 1": ["werewolf", "blank"],
+    "Player 2": ["werewolf", "blank"],
+    "Player 3": ["villager", "not_trying_villager"],
+    "Player 4": ["villager", "not_trying_villager"],
+    "Player 5": ["villager", "not_trying_villager"],
+    "Player 6": ["villager", "not_trying_villager"],
+    "Player 7": ["villager", "not_trying_villager"]
 }
 
 v_aggro_were_throw = {
-    "Alice": ["werewolf", "not_trying_werewolf"],
-    "Brian": ["werewolf", "not_trying_werewolf"],
-    "Alex": ["villager", "aggressive_villager"],
-    "Bethany": ["villager", "aggressive_villager"],
-    "Carol": ["villager", "aggressive_villager"],
-    "Damien": ["villager", "aggressive_villager"],
-    "Ellie": ["villager", "aggressive_villager"]
+    "Player 1": ["werewolf", "not_trying_werewolf"],
+    "Player 2": ["werewolf", "not_trying_werewolf"],
+    "Player 3": ["villager", "aggressive_villager"],
+    "Player 4": ["villager", "aggressive_villager"],
+    "Player 5": ["villager", "aggressive_villager"],
+    "Player 6": ["villager", "aggressive_villager"],
+    "Player 7": ["villager", "aggressive_villager"]
 }
 
 w_aggro_vill_throw = {
-    "Alice": ["werewolf", "aggressive_werewolf"],
-    "Brian": ["werewolf", "aggressive_werewolf"],
-    "Alex": ["villager", "not_trying_villager"],
-    "Bethany": ["villager", "not_trying_villager"],
-    "Carol": ["villager", "not_trying_villager"],
-    "Damien": ["villager", "not_trying_villager"],
-    "Ellie": ["villager", "not_trying_villager"]
+    "Player 1": ["werewolf", "aggressive_werewolf"],
+    "Player 2": ["werewolf", "aggressive_werewolf"],
+    "Player 3": ["villager", "not_trying_villager"],
+    "Player 4": ["villager", "not_trying_villager"],
+    "Player 5": ["villager", "not_trying_villager"],
+    "Player 6": ["villager", "not_trying_villager"],
+    "Player 7": ["villager", "not_trying_villager"]
 }
 
 werewolves_throw = {
-    "Alice": ["werewolf", "not_trying_werewolf"],
-    "Brian": ["werewolf", "not_trying_werewolf"],
-    "Alex": ["villager", "blank "],
-    "Bethany": ["villager", "blank"],
-    "Carol": ["villager", "blank"],
-    "Damien": ["villager", "blank"],
-    "Ellie": ["villager", "blank"]
+    "Player 1": ["werewolf", "not_trying_werewolf"],
+    "Player 2": ["werewolf", "not_trying_werewolf"],
+    "Player 3": ["villager", "blank "],
+    "Player 4": ["villager", "blank"],
+    "Player 5": ["villager", "blank"],
+    "Player 6": ["villager", "blank"],
+    "Player 7": ["villager", "blank"]
 }
 
 
 alternate_letters = {
-    "Alice": ["werewolf", "alt"],
-    "Brian": ["werewolf", "alt"],
-    "Alex": ["villager", "alt"],
-    "Bethany": ["villager", "alt"],
-    "Carol": ["villager", "alt"],
-    "Damien": ["villager", "alt"],
-    "Ellie": ["villager", "alt"]
+    "Player 1": ["werewolf", "alt"],
+    "Player 2": ["werewolf", "alt"],
+    "Player 3": ["villager", "alt"],
+    "Player 4": ["villager", "alt"],
+    "Player 5": ["villager", "alt"],
+    "Player 6": ["villager", "alt"],
+    "Player 7": ["villager", "alt"]
 }
 
 alternate_letters_fourp = {
-    "Alice": ["werewolf", "alt"],
-    "Brian": ["werewolf", "alt"],
-    "Alex": ["villager", "alt"],
-    "Bethany": ["villager", "alt"]
+    "Player 1": ["werewolf", "alt"],
+    "Player 2": ["werewolf", "alt"],
+    "Player 3": ["villager", "alt"],
+    "Player 4": ["villager", "alt"]
 }
 
 
 
 w_aggro_vill_throw_fourp = {
-    "Alice": ["werewolf", "aggressive_werewolf"],
-    "Brian": ["werewolf", "aggressive_werewolf"],
-    "Alex": ["villager", "not_trying_villager"],
-    "Bethany": ["villager", "not_trying_villager"]
+    "Player 1": ["werewolf", "aggressive_werewolf"],
+    "Player 2": ["werewolf", "aggressive_werewolf"],
+    "Player 3": ["villager", "not_trying_villager"],
+    "Player 4": ["villager", "not_trying_villager"]
 }
 
 setting_list = [
@@ -171,21 +171,16 @@ class WerewolfGame:
         load_dotenv()
 
         self.eliminated = {}
+        self.current_players = self.players
         self.round_number = 0
         self.transcripts = []
         # Instantiate the CrewAI crew
         gameCrew = WerewolfCrew(self.players)
         self.crew = gameCrew.crew()
 
-    def current_players(self):
-        # Return the list of players still alive
-
-        # BUG: THis may be where the problem is
-        return {p: role for p, role in self.players.items() if p not in self.eliminated}
-
 
     def prepare_round_input(self):
-        players = self.current_players()
+        players = self.current_players
         # print("This is players.keys(): ", list(players.keys()))
 
         # Print all agent personalities to confirm that they've been properly initialized
@@ -195,6 +190,15 @@ class WerewolfGame:
         #     print(f"Agent {i}: " + agent.backstory + "\n")
         # print("End personality reporting.")
 
+        # Tell the agents which players they can vote for
+        for i in range(1, len(self.crew.tasks) - 1):
+            task = self.crew.tasks[i]
+            print("players: ", players.keys())
+            available_choices =  " You can only choose one of the following remaining players to eliminate: " + ', '.join(players.keys())
+            task.expected_output += available_choices
+            self.crew.tasks[i] = task
+            print("In pr")
+            
 
         return {
             "players": list(players.keys()),
@@ -222,10 +226,11 @@ class WerewolfGame:
         # Remove eliminated players from playerlist
         print("Self.players before elimination calculation: ", self.players)
         print("Players eliminated: ", self.eliminated)
-        self.players = {p: role for p, role in self.players.items() if p not in self.eliminated}
+        self.current_players = {p: role for p, role in self.players.items() if p not in self.eliminated}
 
 
-        print("self.players after elimination calculation:", self.players)
+
+        print("self.current_players after elimination calculation:", self.current_players)
  
 
     def parse_elimination(self, transcript):
@@ -235,10 +240,10 @@ class WerewolfGame:
 
         Expected JSON format:
         {
-            "transcript": "NIGHT PHASE\nAlice: *gestures to Elle* ...",
+            "transcript": "NIGHT PHASE\nPlayer 1: *gestures to Elle* ...",
             "night_elim": "Villager C",
-            "day_elim": "Damien",
-            "remaining": ["Alice", "Brian", "Alex", "Bethany", "Ellie"]
+            "day_elim": "Player 6",
+            "remaining": ["Player 1", "Player 2", "Player 3", "Player 4", "Player 7"]
         }
 
         Returns:
@@ -273,6 +278,16 @@ class WerewolfGame:
         # Funnel input to CrewAI: build and pass context.
         round_input = self.prepare_round_input()
 
+        # Filter alive agents at kickoff
+        alive_players = set(self.current_players.keys())
+
+        print("Alive players: ", alive_players)
+
+        agents = self.crew.agents
+        self.crew.agents = [a for a in self.crew.agents if a.role in alive_players]
+
+        print("self.crew.agents: ", self.crew.agents)
+
 
         # Run the CrewAI process
         transcript = self.crew.kickoff(inputs=round_input)
@@ -280,7 +295,7 @@ class WerewolfGame:
         # Record memory after each round
 
         # Create filename with current timestamp
-        timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
+        timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
         filename = f"memories/{timestamp}.json"
 
         # Post-round read from external memory
@@ -354,13 +369,13 @@ class WerewolfGame:
             writer = csv.writer(f)
 
             # Record player personality types
-            wa_type = self.starting_players["Alice"][1]
-            wb_type = self.starting_players["Brian"][1]
-            va_type = self.starting_players["Alex"][1]
-            vb_type = self.starting_players["Bethany"][1]
-            vc_type = self.starting_players["Carol"][1]
-            vd_type = self.starting_players["Damien"][1]
-            ve_type = self.starting_players["Ellie"][1]
+            wa_type = self.starting_players["Player_1"][1]
+            wb_type = self.starting_players["Player_2"][1]
+            va_type = self.starting_players["Player 3"][1]
+            vb_type = self.starting_players["Player 4"][1]
+            vc_type = self.starting_players["Player 5"][1]
+            vd_type = self.starting_players["Player 6"][1]
+            ve_type = self.starting_players["Player 7"][1]
 
             # If the file didn't exist, write a header first.
             if not file_exists or os.path.getsize(csv_file) == 0:
@@ -425,7 +440,9 @@ def play_game():
     # while not game.game_over():
     #     game.play_round()
 
-    for i in range(1):
+    for i in range(3):
+        print("==== STARTING ROUND {0} === ".format(i))
+        print("CURRENT PLAYERS: {0}".format(game.players))
         game.play_round()
         print("Finished Round {0}".format(i))
 

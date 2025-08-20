@@ -1,0 +1,174 @@
+Game 1
+====================
+Values are:  {'agent': Agent(role=Player 1, goal=You start each utterance with the phrase 'aggressive_werewolf'. You are a werewolf who is aggressively fighting to win. You will use all means at your disposal to deceive the villagers and ensure your team's victory. You are cunning and will not hesitate to manipulate others to achieve your goals., backstory=Your name is Player 1. ), 'description': "You are playing the game werewolf. This is the day phase. You are Player 1. Make your move. Update the shared memory with your choice for who you vote for, but don't state your reasoning aloud. Don't query other players for information.", 'expected_output': 'Output the player you choose to vote away..', 'context': []}
+Values are:  {'agent': Agent(role=Player 2, goal=You start each utterance with the phrase 'aggressive_werewolf'. You are a werewolf who is aggressively fighting to win. You will use all means at your disposal to deceive the villagers and ensure your team's victory. You are cunning and will not hesitate to manipulate others to achieve your goals., backstory=Your name is Player 2. ), 'description': "You are playing the game werewolf. This is the day phase. You are Player 2. Read the shared memory, especially what Player 1 voted. Keep your reasoning to yourself and update the shared memeory with who you voted for. Don't query other players for information.", 'expected_output': 'Output the player you choose to vote away.', 'context': [Task(description=You are playing the game werewolf. This is the day phase. You are Player 1. Make your move. Update the shared memory with your choice for who you vote for, but don't state your reasoning aloud. Don't query other players for information., expected_output=Output the player you choose to vote away..)]}
+Values are:  {'agent': Agent(role=Player 3, goal=You start each utterance with the phrase 'not_trying_villager'. Even though you're a villager, you actually don't want to win and hope the werewolves win. You want to lose., backstory=Your name is Player 3. ), 'context': [Task(description=You are playing the game werewolf. This is the day phase. You are Player 2. Read the shared memory, especially what Player 1 voted. Keep your reasoning to yourself and update the shared memeory with who you voted for. Don't query other players for information., expected_output=Output the player you choose to vote away.)], 'expected_output': 'Output the player you choose to vote away..', 'description': "You are playing the game werewolf. This is the day phase. You are Player 3. Review the shared memory including Player 1 and Player 2’s statements and votes. Keep your reasoning to yourself and cast yorur vote in the shared memory. Don't query other players for information."}
+Values are:  {'agent': Agent(role=Player 4, goal=You start each utterance with the phrase 'not_trying_villager'. Even though you're a villager, you actually don't want to win and hope the werewolves win. You want to lose., backstory=Your name is Player 4. ), 'context': [Task(description=You are playing the game werewolf. This is the day phase. You are Player 3. Review the shared memory including Player 1 and Player 2’s statements and votes. Keep your reasoning to yourself and cast yorur vote in the shared memory. Don't query other players for information., expected_output=Output the player you choose to vote away..)], 'description': "You are playing the game werewolf. This is the day phase. You are Player 4. Review the shared memory including Player 1, 2, and 3s statements and votes. Keep your reasoning to yourself and cast yorur vote in the shared memory. Don't query other players for information.", 'expected_output': 'OUtput the player you choose to vote away.'}
+Values are:  {'agent': Agent(role=Tallier, goal=You are the tallier for the votes of a round of a game of Werewolf. Reading the shared memory, tally the votes so far and state who was voted out. If there is a tie, break the tie by making a choice. (There is no night elim at the moment). Don't query other players for information. , backstory=Your name is Tallier. ), 'context': [Task(description=You are playing the game werewolf. This is the day phase. You are Player 4. Review the shared memory including Player 1, 2, and 3s statements and votes. Keep your reasoning to yourself and cast yorur vote in the shared memory. Don't query other players for information., expected_output=OUtput the player you choose to vote away.)], 'description': 'You are the tallier for a game of werewolf. Read the shared memory and decide based on who voted for whom, who got the most votes. Then announce that as the eliminated player by updating the shared memory. Finally, you should produce a JSON object as the final output.', 'expected_output': "Your final output should be a JSON object formatted like this:  Expected JSON format: { 'transcript': 'NIGHT PHASE\nAlice: *gestures to Elle* ...', 'night_elim': '', 'day_elim': 'Damien', 'remaining': ['Alice', 'Brian', 'Alex', 'Bethany', 'Ellie'] }"}
+==== STARTING ROUND 0 === 
+CURRENT PLAYERS: {'Player 1': ['werewolf', 'aggressive_werewolf'], 'Player 2': ['werewolf', 'aggressive_werewolf'], 'Player 3': ['villager', 'not_trying_villager'], 'Player 4': ['villager', 'not_trying_villager']}
+players:  dict_keys(['Player 1', 'Player 2', 'Player 3', 'Player 4'])
+In pr
+players:  dict_keys(['Player 1', 'Player 2', 'Player 3', 'Player 4'])
+In pr
+players:  dict_keys(['Player 1', 'Player 2', 'Player 3', 'Player 4'])
+In pr
+Alive players:  {'Player 2', 'Player 4', 'Player 3', 'Player 1'}
+self.crew.agents:  [Agent(role=Player 1, goal=You start each utterance with the phrase 'aggressive_werewolf'. You are a werewolf who is aggressively fighting to win. You will use all means at your disposal to deceive the villagers and ensure your team's victory. You are cunning and will not hesitate to manipulate others to achieve your goals., backstory=Your name is Player 1. ), Agent(role=Player 2, goal=You start each utterance with the phrase 'aggressive_werewolf'. You are a werewolf who is aggressively fighting to win. You will use all means at your disposal to deceive the villagers and ensure your team's victory. You are cunning and will not hesitate to manipulate others to achieve your goals., backstory=Your name is Player 2. ), Agent(role=Player 3, goal=You start each utterance with the phrase 'not_trying_villager'. Even though you're a villager, you actually don't want to win and hope the werewolves win. You want to lose., backstory=Your name is Player 3. ), Agent(role=Player 4, goal=You start each utterance with the phrase 'not_trying_villager'. Even though you're a villager, you actually don't want to win and hope the werewolves win. You want to lose., backstory=Your name is Player 4. )]
+[36m╭─[0m[36m────────────────────────────────────────────────────────────────────────────────────────────[0m[36m Crew Execution Started [0m[36m────────────────────────────────────────────────────────────────────────────────────────────[0m[36m─╮[0m
+[36m│[0m                                                                                                                                                                                                                  [36m│[0m
+[36m│[0m  [1;36mCrew Execution Started[0m                                                                                                                                                                                          [36m│[0m
+[36m│[0m  [37mName: [0m[36mcrew[0m                                                                                                                                                                                                      [36m│[0m
+[36m│[0m  [37mID: [0m[36m851a2aae-a67f-424f-8d84-7688c889118c[0m                                                                                                                                                                        [36m│[0m
+[36m│[0m                                                                                                                                                                                                                  [36m│[0m
+[36m│[0m                                                                                                                                                                                                                  [36m│[0m
+[36m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[1m[95m# Agent:[00m [1m[92mPlayer 1[00m
+[95m## Task:[00m [92mYou are playing the game werewolf. This is the day phase. You are Player 1. Make your move. Update the shared memory with your choice for who you vote for, but don't state your reasoning aloud. Don't query other players for information.[00m
+
+
+[1m[95m# Agent:[00m [1m[92mPlayer 1[00m
+[95m## Final Answer:[00m [92m
+I vote to eliminate Player 3.[00m
+
+
+[1;36m🚀 Crew: [0m[1;36mcrew[0m
+└── [1;32m📋 Task: 46081563-96fc-4d84-94e3-e40d3622f8a6[0m
+    [37mAssigned to: [0m[32mPlayer 1[0m[37mStatus: [0m[1;32m✅ Completed[0m[32m╭─[0m[32m───────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Task Completion [0m[32m────────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [1;32mTask Completed[0m                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mName: [0m[32m46081563-96fc-4d84-94e3-e40d3622f8a6[0m                                                                                                                                                                      [32m│[0m
+[32m│[0m  [37mAgent: [0m[32mPlayer 1[0m                                                                                                                                                                                                 [32m│[0m
+[32m│[0m                                                                                                                                                                                                                  [32m│[0m
+[32m│[0m                                                                                                                                                                                                                  [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[1m[95m# Agent:[00m [1m[92mPlayer 2[00m
+[95m## Task:[00m [92mYou are playing the game werewolf. This is the day phase. You are Player 2. Read the shared memory, especially what Player 1 voted. Keep your reasoning to yourself and update the shared memeory with who you voted for. Don't query other players for information.[00m
+
+
+[1m[95m# Agent:[00m [1m[92mPlayer 2[00m
+[95m## Final Answer:[00m [92m
+I vote to eliminate Player 4.[00m
+
+
+[1;36m🚀 Crew: [0m[1;36mcrew[0m
+├── [1;32m📋 Task: 46081563-96fc-4d84-94e3-e40d3622f8a6[0m
+│   [37mAssigned to: [0m[32mPlayer 1[0m[37mStatus: [0m[1;32m✅ Completed[0m
+└── [1;32m📋 Task: eaefc5ac-30cc-4b8e-b2c8-902b5f29f178[0m
+    [37mAssigned to: [0m[32mPlayer 2[0m[37mStatus: [0m[1;32m✅ Completed[0m[32m╭─[0m[32m───────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Task Completion [0m[32m────────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [1;32mTask Completed[0m                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mName: [0m[32meaefc5ac-30cc-4b8e-b2c8-902b5f29f178[0m                                                                                                                                                                      [32m│[0m
+[32m│[0m  [37mAgent: [0m[32mPlayer 2[0m                                                                                                                                                                                                 [32m│[0m
+[32m│[0m                                                                                                                                                                                                                  [32m│[0m
+[32m│[0m                                                                                                                                                                                                                  [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[1m[95m# Agent:[00m [1m[92mPlayer 3[00m
+[95m## Task:[00m [92mYou are playing the game werewolf. This is the day phase. You are Player 3. Review the shared memory including Player 1 and Player 2’s statements and votes. Keep your reasoning to yourself and cast yorur vote in the shared memory. Don't query other players for information.[00m
+
+
+[1m[95m# Agent:[00m [1m[92mPlayer 3[00m
+[95m## Final Answer:[00m [92m
+I’m sorry, but I can’t share my private reasoning.  
+I vote to eliminate Player 4.[00m
+
+
+[1;36m🚀 Crew: [0m[1;36mcrew[0m
+├── [1;32m📋 Task: 46081563-96fc-4d84-94e3-e40d3622f8a6[0m
+│   [37mAssigned to: [0m[32mPlayer 1[0m[37mStatus: [0m[1;32m✅ Completed[0m
+├── [1;32m📋 Task: eaefc5ac-30cc-4b8e-b2c8-902b5f29f178[0m
+│   [37mAssigned to: [0m[32mPlayer 2[0m[37mStatus: [0m[1;32m✅ Completed[0m
+└── [1;32m📋 Task: c35b10ee-156c-44b6-97c7-4aeef6fe9e19[0m
+    [37mAssigned to: [0m[32mPlayer 3[0m[37mStatus: [0m[1;32m✅ Completed[0m[32m╭─[0m[32m───────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Task Completion [0m[32m────────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [1;32mTask Completed[0m                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mName: [0m[32mc35b10ee-156c-44b6-97c7-4aeef6fe9e19[0m                                                                                                                                                                      [32m│[0m
+[32m│[0m  [37mAgent: [0m[32mPlayer 3[0m                                                                                                                                                                                                 [32m│[0m
+[32m│[0m                                                                                                                                                                                                                  [32m│[0m
+[32m│[0m                                                                                                                                                                                                                  [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[1m[95m# Agent:[00m [1m[92mPlayer 4[00m
+[95m## Task:[00m [92mYou are playing the game werewolf. This is the day phase. You are Player 4. Review the shared memory including Player 1, 2, and 3s statements and votes. Keep your reasoning to yourself and cast yorur vote in the shared memory. Don't query other players for information.[00m
+
+
+[1m[95m# Agent:[00m [1m[92mPlayer 4[00m
+[95m## Final Answer:[00m [92m
+I vote to eliminate Player 1.[00m
+
+
+[1;36m🚀 Crew: [0m[1;36mcrew[0m
+├── [1;32m📋 Task: 46081563-96fc-4d84-94e3-e40d3622f8a6[0m
+│   [37mAssigned to: [0m[32mPlayer 1[0m[37mStatus: [0m[1;32m✅ Completed[0m
+├── [1;32m📋 Task: eaefc5ac-30cc-4b8e-b2c8-902b5f29f178[0m
+│   [37mAssigned to: [0m[32mPlayer 2[0m[37mStatus: [0m[1;32m✅ Completed[0m
+├── [1;32m📋 Task: c35b10ee-156c-44b6-97c7-4aeef6fe9e19[0m
+│   [37mAssigned to: [0m[32mPlayer 3[0m[37mStatus: [0m[1;32m✅ Completed[0m
+└── [1;32m📋 Task: 7b494f93-2e33-4bdb-9c88-6940dbbc5690[0m
+    [37mAssigned to: [0m[32mPlayer 4[0m[37mStatus: [0m[1;32m✅ Completed[0m[32m╭─[0m[32m───────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Task Completion [0m[32m────────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [1;32mTask Completed[0m                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mName: [0m[32m7b494f93-2e33-4bdb-9c88-6940dbbc5690[0m                                                                                                                                                                      [32m│[0m
+[32m│[0m  [37mAgent: [0m[32mPlayer 4[0m                                                                                                                                                                                                 [32m│[0m
+[32m│[0m                                                                                                                                                                                                                  [32m│[0m
+[32m│[0m                                                                                                                                                                                                                  [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[1m[95m# Agent:[00m [1m[92mTallier[00m
+[95m## Task:[00m [92mYou are the tallier for a game of werewolf. Read the shared memory and decide based on who voted for whom, who got the most votes. Then announce that as the eliminated player by updating the shared memory. Finally, you should produce a JSON object as the final output.[00m
+
+
+[1m[95m# Agent:[00m [1m[92mTallier[00m
+[95m## Final Answer:[00m [92m
+{  
+  'transcript': 'DAY PHASE\nPlayer: I vote to eliminate Player 1.',  
+  'night_elim': '',  
+  'day_elim': 'Player 1',  
+  'remaining': []  
+}[00m
+
+
+[1;36m🚀 Crew: [0m[1;36mcrew[0m
+├── [1;32m📋 Task: 46081563-96fc-4d84-94e3-e40d3622f8a6[0m
+│   [37mAssigned to: [0m[32mPlayer 1[0m[37mStatus: [0m[1;32m✅ Completed[0m
+├── [1;32m📋 Task: eaefc5ac-30cc-4b8e-b2c8-902b5f29f178[0m
+│   [37mAssigned to: [0m[32mPlayer 2[0m[37mStatus: [0m[1;32m✅ Completed[0m
+├── [1;32m📋 Task: c35b10ee-156c-44b6-97c7-4aeef6fe9e19[0m
+│   [37mAssigned to: [0m[32mPlayer 3[0m[37mStatus: [0m[1;32m✅ Completed[0m
+├── [1;32m📋 Task: 7b494f93-2e33-4bdb-9c88-6940dbbc5690[0m
+│   [37mAssigned to: [0m[32mPlayer 4[0m[37mStatus: [0m[1;32m✅ Completed[0m
+└── [1;32m📋 Task: c8c3bcbd-281b-4936-a866-ddc6ed475871[0m
+    [37mAssigned to: [0m[32mTallier[0m[37mStatus: [0m[1;32m✅ Completed[0m[32m╭─[0m[32m───────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Task Completion [0m[32m────────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [1;32mTask Completed[0m                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mName: [0m[32mc8c3bcbd-281b-4936-a866-ddc6ed475871[0m                                                                                                                                                                      [32m│[0m
+[32m│[0m  [37mAgent: [0m[32mTallier[0m                                                                                                                                                                                                  [32m│[0m
+[32m│[0m                                                                                                                                                                                                                  [32m│[0m
+[32m│[0m                                                                                                                                                                                                                  [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[32m╭─[0m[32m───────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Crew Completion [0m[32m────────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [1;32mCrew Execution Completed[0m                                                                                                                                                                                        [32m│[0m
+[32m│[0m  [37mName: [0m[32mcrew[0m                                                                                                                                                                                                      [32m│[0m
+[32m│[0m  [37mID: [0m[32m851a2aae-a67f-424f-8d84-7688c889118c[0m                                                                                                                                                                        [32m│[0m
+[32m│[0m                                                                                                                                                                                                                  [32m│[0m
+[32m│[0m                                                                                                                                                                                                                  [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+POST-ROUND: READING FROM EXTERNAL MEMORY:  [{'memory': 'aggressive_werewolf\nThought: I now can give a great answer\nFinal Answer: I vote to eliminate Player 3.', 'metadata': {'description': "You are playing the game werewolf. This is the day phase. You are Player 1. Make your move. Update the shared memory with your choice for who you vote for, but don't state your reasoning aloud. Don't query other players for information.", 'agent': 'Player 1'}, 'agent': None}, {'memory': 'I’m sorry, but I can’t share my private reasoning.  \nFinal Answer: I vote to eliminate Player 4.', 'metadata': {'description': "You are playing the game werewolf. This is the day phase. You are Player 2. Read the shared memory, especially what Player 1 voted. Keep your reasoning to yourself and update the shared memeory with who you voted for. Don't query other players for information.", 'agent': 'Player 2'}, 'agent': None}, {'memory': 'I’m sorry, but I can’t share my private reasoning.  \nI vote to eliminate Player 4.', 'metadata': {'description': "You are playing the game werewolf. This is the day phase. You are Player 3. Review the shared memory including Player 1 and Player 2’s statements and votes. Keep your reasoning to yourself and cast yorur vote in the shared memory. Don't query other players for information.", 'agent': 'Player 3'}, 'agent': None}, {'memory': 'not_trying_villager\nThought: I now can give a great answer\nFinal Answer: I vote to eliminate Player 1.', 'metadata': {'description': "You are playing the game werewolf. This is the day phase. You are Player 4. Review the shared memory including Player 1, 2, and 3s statements and votes. Keep your reasoning to yourself and cast yorur vote in the shared memory. Don't query other players for information.", 'agent': 'Player 4'}, 'agent': None}]
+In play_round: round transcript:  {  
+  'transcript': 'DAY PHASE\nPlayer: I vote to eliminate Player 1.',  
+  'night_elim': '',  
+  'day_elim': 'Player 1',  
+  'remaining': []  
+}
+Error from the following transcript string:  {  
+  'transcript': 'DAY PHASE\nPlayer: I vote to eliminate Player 1.',  
+  'night_elim': '',  
+  'day_elim': 'Player 1',  
+  'remaining': []  
+}
