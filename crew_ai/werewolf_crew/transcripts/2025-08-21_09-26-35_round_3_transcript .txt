@@ -1,0 +1,10 @@
+{  
+  "night_elim": "",  
+  "day_elim": "Player 1"  
+}
+===TRANSCRIPT===
+{  
+  "night_elim": "",  
+  "day_elim": "Player 1"  
+}
+ Round Execution Time: 32.144160 seconds 

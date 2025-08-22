@@ -1,0 +1,14 @@
+{  
+  "transcript": "NIGHT PHASE\nAlice: *gestures to Elle* ...",  
+  "night_elim": "",  
+  "day_elim": "Damien",  
+  "remaining": ["Alice", "Brian", "Alex", "Bethany", "Ellie"]  
+}
+===TRANSCRIPT===
+{  
+  "transcript": "NIGHT PHASE\nAlice: *gestures to Elle* ...",  
+  "night_elim": "",  
+  "day_elim": "Damien",  
+  "remaining": ["Alice", "Brian", "Alex", "Bethany", "Ellie"]  
+}
+ Round Execution Time: 62.202682 seconds 

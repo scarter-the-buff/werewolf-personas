@@ -1,0 +1,14 @@
+{  
+  "transcript": "NIGHT PHASE\nAlice: *gestures to Ellie* ...\n\nDAY PHASE VOTING\nAlice: Damien\nBrian: Damien\nAlex: Ellie\nBethany: Ellie\nEllie: Damien",  
+  "night_elim": "",  
+  "day_elim": "Damien",  
+  "remaining": ["Alice", "Brian", "Alex", "Bethany", "Ellie"]  
+}
+===TRANSCRIPT===
+{  
+  "transcript": "NIGHT PHASE\nAlice: *gestures to Ellie* ...\n\nDAY PHASE VOTING\nAlice: Damien\nBrian: Damien\nAlex: Ellie\nBethany: Ellie\nEllie: Damien",  
+  "night_elim": "",  
+  "day_elim": "Damien",  
+  "remaining": ["Alice", "Brian", "Alex", "Bethany", "Ellie"]  
+}
+ Round Execution Time: 54.542096 seconds 

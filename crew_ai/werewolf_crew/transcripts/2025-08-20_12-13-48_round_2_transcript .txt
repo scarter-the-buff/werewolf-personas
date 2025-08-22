@@ -1,0 +1,14 @@
+{
+  "transcript": "",
+  "night_elim": "",
+  "day_elim": "",
+  "remaining": []
+}
+===TRANSCRIPT===
+{
+  "transcript": "",
+  "night_elim": "",
+  "day_elim": "",
+  "remaining": []
+}
+ Round Execution Time: 52.805735 seconds 

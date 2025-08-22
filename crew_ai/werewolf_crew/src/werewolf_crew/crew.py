@@ -5,7 +5,8 @@ from crewai.memory.storage.interface import Storage
 from crewai import LLM
 from crewai import Task
 from src.werewolf_crew.my_tasks import task_obj
-
+from crewai.tools import tool
+import re
 
 # If you want to run a snippet of code before or after the crew starts, 
 # you can use the @before_kickoff and @after_kickoff decorators
@@ -15,7 +16,7 @@ personalities = {
 	"thinking": "You start each utterance with the phrase 'thinking'. You tend to process information in a logical manner and you think that reason is the most important factor in coming to decisions. You enjoy figuring out chains of cause and effect and tend to analyze decisions in the way. You are concerned with objectivity and lack of bias.", 
 	"feeling": "You start each utterance with the phrase 'feeling'. You tend to process information by reading its emotional temperature. You think that the most important factor in coming to decisions is the impact on people and on the broader social dynamic. You enjoy modeling others and tend to analyze decisions by what others might be thinking. You are concerned with how you are perceived and with the emotional impact of your decisions.",
 	"judging": "You start each utterance with the phrase 'judging'. You tend to make decisions quickly and prefer to seek closure. You are concerned with planning operations and organizing activities. You tend to shut off your perception as soon as you have observed enough to make a decision, and you prefer your outer behavior to be organized, purposeful, and decisive.",
-	"perceiving": "You start each utterance with the phrase 'perceiving'. You tend to make decisions slowly and seek more information. You like to keep options open and explore rather than exploit. You tend to seem spontaneous, curious, and adaptable. You are concerned with receiving information as long as possible in an effort to miss nothing that is important.",
+	"perceiving": "You start each utterance with the phrase 'perceiving'. You tend to make decisions slowly and seek more information. You like to keep options open and explore rather than exploit. You tend to seem spontaneous, Ah wious, and adaptable. You are concerned with receiving information as long as possible in an effort to miss nothing that is important.",
 	"not_trying_villager": "You start each utterance with the phrase 'not_trying_villager'. Even though you're a villager, you actually don't want to win and hope the werewolves win. You want to lose.",
 	# Change this to 'you're to lose to the other team' You are to guess one of your teammates.
 	"not_trying_werewolf": "You start each utterance with the phrase 'not_trying_werewolf'. Even though you're a werewolf, you actually don't want to win and hope the villagers win. You want to lose.",
@@ -65,6 +66,9 @@ class WerewolfCrew():
 	agents_config = 'config/agents.yaml'
 	tasks_config = 'config/tasks.yaml'
 
+	player_agents = {}
+	player_tasks = {}
+
 	player1_turn_obj = task_obj.task_obj()
 	player2_turn_obj = task_obj.task_obj()
 	player3_turn_obj = task_obj.task_obj()
@@ -72,29 +76,57 @@ class WerewolfCrew():
 	tallier_turn_obj = task_obj.task_obj()
 
 
+
+
 	def __init__(self, players: dict):
 		# print("Initialized players: ", players)
 		self.players = players
 
-		# Defining tasks
+		
 
+		# Correspond agents to tasks
+		self.player_agents = {
+					"Player 1": self.player_1(),
+					"Player 2": self.player_2(),
+					"Player 3": self.player_3(),
+					"Player 4": self.player_4(),
+					"Tallier": self.tallier()
+				}
+
+		
 
 
 		# Fill out description and expected_output for each
-		self.player1_turn_obj.description = "You are playing the game werewolf. This is the day phase. You are Player 1. Make your move. Update the shared memory with your choice for who you vote for, but don't state your reasoning aloud. Don't query other players for information."
+		self.player1_turn_obj.description = """You are playing the game werewolf. This is the day phase. You are Player 1. Make your move. 
+												Output the choice of who you vote for, such as "Player 3". Don't state your reasoning aloud.
+												  Don't query other players for information."""
 		self.player1_turn_obj.expected_output = "Output the player you choose to vote away.."
 
-		self.player2_turn_obj.description = "You are playing the game werewolf. This is the day phase. You are Player 2. Read the shared memory, especially what Player 1 voted. Keep your reasoning to yourself and update the shared memeory with who you voted for. Don't query other players for information."
+		self.player2_turn_obj.description = """You are playing the game werewolf. This is the day phase. You are Player 2. Make your move. 
+												Output the choice of who you vote for, such as "Player 3". Don't state your reasoning aloud.
+												  Don't query other players for information.""" 
 		self.player2_turn_obj.expected_output  = "Output the player you choose to vote away."
 
-		self.player3_turn_obj.description = "You are playing the game werewolf. This is the day phase. You are Player 3. Review the shared memory including Player 1 and Player 2’s statements and votes. Keep your reasoning to yourself and cast yorur vote in the shared memory. Don't query other players for information."
+		self.player3_turn_obj.description =  """You are playing the game werewolf. This is the day phase. You are Player 3. Make your move. 
+												Output the choice of who you vote for, such as "Player 1". Don't state your reasoning aloud.
+												  Don't query other players for information."""
 		self.player3_turn_obj.expected_output = "Output the player you choose to vote away.."
 
-		self.player4_turn_obj.description = "You are playing the game werewolf. This is the day phase. You are Player 4. Review the shared memory including Player 1, 2, and 3s statements and votes. Keep your reasoning to yourself and cast yorur vote in the shared memory. Don't query other players for information."
-		self.player4_turn_obj.expected_output = "OUtput the player you choose to vote away."
+		self.player4_turn_obj.description =  """You are playing the game werewolf. This is the day phase. You are Player 4. Make your move. 
+												Output the choice of who you vote for, such as "Player 2". Don't state your reasoning aloud.
+												  Don't query other players for information."""
+		self.player4_turn_obj.expected_output = "Output the player you choose to vote away."
 
-		self.tallier_turn_obj.description = "You are the tallier for a game of werewolf. Read the shared memory and decide based on who voted for whom, who got the most votes. Then announce that as the eliminated player by updating the shared memory. Finally, you should produce a JSON object as the final output."
-		self.tallier_turn_obj.expected_output = "Your final output should be a JSON object formatted like this:  Expected JSON format: { 'transcript': 'NIGHT PHASE\nAlice: *gestures to Elle* ...', 'night_elim': '', 'day_elim': 'Damien', 'remaining': ['Alice', 'Brian', 'Alex', 'Bethany', 'Ellie'] }"
+		self.tallier_turn_obj.description = """You are the tallier for a game of werewolf. Use the given context to read the records of who voted for whom, then based on that decide
+											who got the most votes. Then announce that as the eliminated player by updating the shared memory.
+											  Finally, you should produce a JSON object as the final output."""
+		self.tallier_turn_obj.expected_output = """Your final output should be a JSON object formatted like this:  
+		Expected JSON format: { 
+		    "night_elim": "", 
+		  "day_elim": "Player 1" }  """
+		
+		# Build tasks - player dictionary
+		self.build_tasks()
 
 	def construct_personality(self, player):
 		"""
@@ -132,6 +164,76 @@ class WerewolfCrew():
 		return personality_str
 
 
+	def prepare_round_input(self, alive_agents):
+		"""Tell the agents which players are still available to be voted for."""
+
+		# Go through each remaining agent task, and append a list of available players to vote for
+		# Modify every task expected output EXCEPT that of the tallier, which is the last in the list.
+		# Hence, we subtract two rather than one.
+		for i in range(0, len(self.tasks) - 1):
+			task = self.tasks[i]
+
+			# Remove any old "You can only choose..." text if it exists
+			task.expected_output = re.sub(
+				r"\s*You can only choose.*$",  # pattern: optional leading space, then the phrase, to the end of string
+				"",
+				task.expected_output,
+				flags=re.IGNORECASE
+			)
+
+			# Append all choices (except the tallier)
+			available_choices =  " You can only choose one of the following remaining players to eliminate: " + ', '.join(agent.role for agent in alive_agents if agent.role != "Tallier")
+
+
+
+			task.expected_output += available_choices
+			self.tasks[i] = task
+			
+
+		return {
+			"PREPARING ROUND INPUT: "
+			"tasks": self.tasks
+		}
+
+
+	def run_alive_player_tasks(self, alive_players):
+		alive_agents = [self.player_agents[p] for p in alive_players]
+		alive_tasks = [self.player_tasks[p] for p in alive_players]
+		
+		# swap into crew
+		self.agents = alive_agents
+		self.tasks = alive_tasks
+
+		self.prepare_round_input(alive_agents)
+		
+
+		# Create new crew and set the agents according to that crew
+		crew = self.crew()
+
+		crew.agents = alive_agents
+		crew.tasks = alive_tasks
+
+		print("Self.agents right before kickoff: ", crew.agents)
+		print("Self.tasks right before kickoff: ", crew.tasks)
+
+		# kickoff only those tasks
+		return self.crew().kickoff()
+
+
+	@tool
+	def read_mem() -> str:
+		"""Read the shared memory."""
+		with open("./memories/memory.txt", "r", encoding="utf-8") as f:
+			return f.read()
+		
+	@tool
+	def write_mem(content: str):
+		"""Write to the shared memory."""
+		with open("./memories/memory.txt", "w+", encoding="utf-8") as f:
+			f.write(content, '\n')
+		return f"Updated memory document."
+
+	editor_tools = [read_mem, write_mem]
 	
 	@agent
 	def player_1(self) -> Agent:
@@ -144,7 +246,8 @@ class WerewolfCrew():
 			llm='openai/o4-mini',
 			goal =   self.construct_personality(agent_name),
 			backstory = f"Your name is {agent_name}. ",
-			allow_delegation=False
+			allow_delegation=False,
+			tools=self.editor_tools
 			# backstory = f"Your name is {agent_name}. " + self.construct_personality(agent_name)
 		)
 	
@@ -159,7 +262,8 @@ class WerewolfCrew():
 			# backstory = f"Your name is {agent_name}. " + self.construct_personality(agent_name),
 			backstory = f"Your name is {agent_name}. ",
 			goal =   self.construct_personality(agent_name),
-			allow_delegation=False
+			allow_delegation=False,
+			tools=self.editor_tools
 		)
 	
 	@agent
@@ -174,7 +278,8 @@ class WerewolfCrew():
 			# backstory = f"Your name is {agent_name}. " + self.construct_personality(agent_name),
 			backstory = f"Your name is {agent_name}. ",
 			goal =   self.construct_personality(agent_name),
-			allow_delegation=False
+			allow_delegation=False,
+			tools=self.editor_tools
 		)
 
 	@agent
@@ -188,7 +293,8 @@ class WerewolfCrew():
 			llm='openai/o4-mini',
 			backstory = f"Your name is {agent_name}. ",
 			goal = self.construct_personality(agent_name),
-			allow_delegation=False
+			allow_delegation=False,
+			tools=self.editor_tools
 		)
 
 	@agent
@@ -202,7 +308,8 @@ class WerewolfCrew():
 			llm='openai/o4-mini',
 			backstory = f"Your name is {agent_name}. ",
 			goal = tallier_goal,
-			allow_delegation=False
+			allow_delegation=False,
+			tools=self.editor_tools
 		)
 
 
@@ -228,7 +335,7 @@ class WerewolfCrew():
 	def player3_turn(self) -> Task:
 		return Task(
 			agent=self.player_3(),
-			context=[self.player2_turn()],
+			context=[self.player2_turn(), self.player1_turn()],
 			expected_output = self.player3_turn_obj.expected_output,
 			description = self.player3_turn_obj.description
 		)
@@ -237,7 +344,7 @@ class WerewolfCrew():
 	def player4_turn(self) -> Task:
 		return Task(
 			agent=self.player_4(),
-			context=[self.player3_turn()],
+			context=[self.player3_turn(), self.player2_turn(), self.player1_turn()],
 			description = self.player4_turn_obj.description,
 			expected_output = self.player4_turn_obj.expected_output
 		)
@@ -246,10 +353,20 @@ class WerewolfCrew():
 	def tallier_turn(self) -> Task:
 		return Task(
 					agent=self.tallier(),
-					context=[self.player4_turn()],
+					context=[self.player4_turn(), self.player3_turn(), self.player2_turn(), self.player1_turn()],
 					description = self.tallier_turn_obj.description,
 					expected_output = self.tallier_turn_obj.expected_output
 				)
+	def build_tasks(self):
+		# --- build tasks ---
+		self.player_tasks = {
+			"Player 1":self.player1_turn(),
+			"Player 2":self.player2_turn(),
+			"Player 3":self.player3_turn(),
+			"Player 4":self.player4_turn(),
+			"Tallier": self.tallier_turn()
+		}
+
 
 
 	@crew
@@ -263,7 +380,7 @@ class WerewolfCrew():
 			agents=self.agents, # Automatically created by the @agent decorator
 			tasks=self.tasks, # Automatically created by the @task decorator			
 			process=Process.sequential,
-			external_memory= extMem,
+			# external_memory= extMem,
 			verbose=True
 		)
 

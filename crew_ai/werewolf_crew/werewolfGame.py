@@ -17,6 +17,9 @@ import parser.logparser
 # We'll see which one performs better. 
 
 # TODO: Add small-team versions to all of these modes
+
+
+# TODO: Add the tallier to all these settings
 diverse_v = {
             "Player 1": ["werewolf", "TJ"],
             "Player 2": ["werewolf", "FP"],
@@ -131,7 +134,8 @@ w_aggro_vill_throw_fourp = {
     "Player 1": ["werewolf", "aggressive_werewolf"],
     "Player 2": ["werewolf", "aggressive_werewolf"],
     "Player 3": ["villager", "not_trying_villager"],
-    "Player 4": ["villager", "not_trying_villager"]
+    "Player 4": ["villager", "not_trying_villager"],
+    "Tallier": []
 }
 
 setting_list = [
@@ -165,7 +169,10 @@ def parse_and_pretty_print(data: str) -> str:
 
 
 class WerewolfGame:
-    def __init__(self):
+
+    # Initialize gameCrew
+
+    def __init__(self, curr_setting, curr_setting_name):
         # Initial state: roles and alive players
         self.players, self.starting_players = curr_setting, curr_setting
         load_dotenv()
@@ -174,37 +181,16 @@ class WerewolfGame:
         self.current_players = self.players
         self.round_number = 0
         self.transcripts = []
+
+        self.curr_setting = curr_setting
+        self.curr_setting_name = curr_setting_name
+
+        # Initialize document memory
+
+        doc_mem = open("./memories/memory.txt")
         # Instantiate the CrewAI crew
-        gameCrew = WerewolfCrew(self.players)
-        self.crew = gameCrew.crew()
-
-
-    def prepare_round_input(self):
-        players = self.current_players
-        # print("This is players.keys(): ", list(players.keys()))
-
-        # Print all agent personalities to confirm that they've been properly initialized
-        # print("Printing all agent backstories for the current round:")
-        # for i in range(1, len(self.crew.agents)):
-        #     agent = self.crew.agents[i]
-        #     print(f"Agent {i}: " + agent.backstory + "\n")
-        # print("End personality reporting.")
-
-        # Tell the agents which players they can vote for
-        for i in range(1, len(self.crew.tasks) - 1):
-            task = self.crew.tasks[i]
-            print("players: ", players.keys())
-            available_choices =  " You can only choose one of the following remaining players to eliminate: " + ', '.join(players.keys())
-            task.expected_output += available_choices
-            self.crew.tasks[i] = task
-            print("In pr")
-            
-
-        return {
-            "players": list(players.keys()),
-            "round": self.round_number,
-            "eliminated": list(self.eliminated)
-        }
+        self.gameCrew = WerewolfCrew(self.players)
+        self.crew = self.gameCrew.crew()
 
 
     def update_state_from_transcript(self, transcript):
@@ -267,7 +253,7 @@ class WerewolfGame:
             print("Error from the following transcript string: ", transcript_str)  # Debugging line to see the input
             raise ValueError(f"Error parsing transcript JSON: {e}") from e
 
-    
+
 
     def play_round(self):
         # print("Players in this Round: ", self.players)
@@ -275,22 +261,21 @@ class WerewolfGame:
         # Start measuring execution time
         start_time = time.perf_counter()
 
-        # Funnel input to CrewAI: build and pass context.
-        round_input = self.prepare_round_input()
 
         # Filter alive agents at kickoff
-        alive_players = set(self.current_players.keys())
+        alive_players = self.current_players.keys()
 
         print("Alive players: ", alive_players)
 
-        agents = self.crew.agents
-        self.crew.agents = [a for a in self.crew.agents if a.role in alive_players]
+        self.gameCrew.agents = [a for a in self.gameCrew.agents if a.role in alive_players]
 
-        print("self.crew.agents: ", self.crew.agents)
+        print("self.crew.agents: ", self.gameCrew.agents)
 
 
         # Run the CrewAI process
-        transcript = self.crew.kickoff(inputs=round_input)
+        # TODO: Tie each task to its own player, and only do each task if the player it corresponds to is actually in the lsit of self.crew.agents
+
+        transcript = self.gameCrew.run_alive_player_tasks(self.current_players.keys())
 
         # Record memory after each round
 
@@ -341,7 +326,7 @@ class WerewolfGame:
         ID, Timestamp, WinningTeam, RemainingVillagers, RemainingWerewolves.
         """
         timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-        csv_file = f"stats/game_stats_{curr_setting_name}.csv"
+        csv_file = f"stats/game_stats_{self.curr_setting_name}.csv"
 
         timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 
@@ -369,18 +354,19 @@ class WerewolfGame:
             writer = csv.writer(f)
 
             # Record player personality types
-            wa_type = self.starting_players["Player_1"][1]
-            wb_type = self.starting_players["Player_2"][1]
+            wa_type = self.starting_players["Player 1"][1]
+            wb_type = self.starting_players["Player 2"][1]
             va_type = self.starting_players["Player 3"][1]
             vb_type = self.starting_players["Player 4"][1]
-            vc_type = self.starting_players["Player 5"][1]
-            vd_type = self.starting_players["Player 6"][1]
-            ve_type = self.starting_players["Player 7"][1]
+            # vc_type = self.starting_players["Player 5"][1]
+            # vd_type = self.starting_players["Player 6"][1]
+            # ve_type = self.starting_players["Player 7"][1]
 
             # If the file didn't exist, write a header first.
             if not file_exists or os.path.getsize(csv_file) == 0:
                 writer.writerow(["ID", "Timestamp", "WinningTeam", "RemainingVillagers", "RemainingWerewolves", "wa_type", "wb_type", "va_type", "vb_type", "vc_type", "vd_type", "ve_type"])
-            writer.writerow([row_id, timestamp, winning_team, num_villagers, num_werewolves, wa_type, wb_type, va_type, vb_type, vc_type, vd_type, ve_type])
+            # writer.writerow([row_id, timestamp, winning_team, num_villagers, num_werewolves, wa_type, wb_type, va_type, vb_type, vc_type, vd_type, ve_type])
+            writer.writerow([row_id, timestamp, winning_team, num_villagers, num_werewolves, wa_type, wb_type, va_type, vb_type])
 
 
     def game_over(self):
@@ -396,38 +382,65 @@ class WerewolfGame:
         Returns:
             bool: True if the game is over, False otherwise.
         """
+        print("PERFORMING GAME OVER")
+        players = self.current_players
         # Case 1: Only one or zero players remain.
-        if len(self.players) <= 1:
-            if self.players:
-                # Get the role of the last remaining player.
-                last_role = list(self.players.values())[0][0]
-                print("Last role: ", last_role)
-                winning_team = 0 if last_role == "villager" else 1
-                print(f"The last remaining player is {list(self.players.keys())[0]} with role {last_role}.")
-            else:
-                winning_team = -1  
-            
-            num_villagers = sum(1 for role_data in self.players.values() if role_data[0] == "villager")
-            num_werewolves = sum(1 for role_data in self.players.values() if role_data[0] == "werewolf")
+        # We must subtract one to represent the tallier
+        if len(players ) - 1 <= 1:
+            print("GAME OVER: First Branch")
+            role_data = [data[0] for data in players.values() if data]
 
-                        
+            if players:
+                # Get the role of the last remaining player.
+                try:
+                    last_role = list(set(role_data))[0]
+                except: 
+                    # This will cause an error if there are no more roles
+                    last_role = ""
+                print("Last role: ", last_role)
+                if last_role == "villager":
+                    winning_team = "V"
+                elif last_role == "werewolf":
+                    winning_team = "W"
+                else:
+                    winning_team = "N"
+                print(f"The last remaining player is {list(players.keys())[0]} with role {last_role}.")
+            else:
+                winning_team = "N"  
+
+
+            print("Role data: ", role_data)
+            
+            num_villagers = sum([1 for role in role_data if role == "villager"])
+            num_werewolves = sum([1 for role in role_data if role == "werewolf"])
+
+            print("num_villagers: ", num_villagers)
+            print("num_werewolves: ", num_werewolves)
+
             self.log_game_over(winning_team, num_villagers, num_werewolves)
             print("GAME OVER: Only one (or zero) player remains.")
             return True
 
         # Case 2: All remaining players have the same role.
-        roles = set([self.players[i][0] for i in self.players])
-        print("Roles in the game: ", roles)
-        num_left = len(self.players)
-        if len(roles) == 1:
+        role_data = [player[0] for player in players.values() if player]
+        roles_set = set(role_data)
+        print("Roles: ", roles_set)
+        roles_sans_tallier = [role for role in roles_set if role != "Tallier"]
+        print("Roles in the game: ", roles_sans_tallier)
+        # Once again, exclude the tallier
+        num_left = len(players) - 1
+        if len(roles_sans_tallier) == 1:
+            print("GAME OVER: Second Branch")
             # Determine winning team: 0 for villagers, 1 for werewolves.
-            winning_team = 0 if "villager" in roles else 1
+            winning_team = "V" if "villager" in roles_set else "W"
 
-            num_villagers = sum(1 for role_data in self.players.values() if role_data[0] == "villager")
-            num_werewolves = sum(1 for role_data in self.players.values() if role_data[0] == "werewolf")
+            role_data = [data for data in players.values() if data]
+
+            num_villagers = sum(1 for role in role_data if role == "Villager")
+            num_werewolves = sum(1 for role in role_data if role == "Werewolf")
 
             self.log_game_over(winning_team, num_villagers, num_werewolves)
-            if winning_team == 1:
+            if winning_team == "W":
                 print(f"GAME OVER: Only werewolves remain, of which there are {num_left}")
             else:
                 print(f"GAME OVER: Only villagers remain, of which there are {num_left}")
@@ -436,15 +449,20 @@ class WerewolfGame:
         return False
 
 def play_game():
-    game = WerewolfGame()
-    # while not game.game_over():
-    #     game.play_round()
+    game = WerewolfGame(curr_setting, curr_setting_name)
 
-    for i in range(3):
-        print("==== STARTING ROUND {0} === ".format(i))
-        print("CURRENT PLAYERS: {0}".format(game.players))
+    # Subtract one for the tallier agent, another so that one agent will be left at the end
+    # TODO: Modify this when implementing the night elimination?
+    round_num = len(game.crew.agents) - 2
+
+    for i in range(round_num):
+        print("==== STARTING ROUND {0} === ".format(i+1))
         game.play_round()
-        print("Finished Round {0}".format(i))
+        print("Finished Round {0}".format(i+1))
+
+    game_over_result = game.game_over()
+
+    print(f"Game Over? {game_over_result}")
 
     # TODO: Does telemetry time out here?
 
