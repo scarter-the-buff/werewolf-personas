@@ -311,9 +311,6 @@ class WerewolfGame:
             alive_players = [p for p in self.current_players.keys()]
             night = self.gameCrew.run_night_phase_collect(alive_players, self.current_players)
 
-            # write night votes to file
-            # write_votes("night", night["votes"])
-
             night_elim = night["night_elim"] or ""
             if night_elim and night_elim in self.current_players and night_elim != "Tallier":
                 self.eliminated[night_elim] = True
@@ -323,8 +320,6 @@ class WerewolfGame:
             alive_players_after_night = [p for p in self.current_players.keys()]
             day = self.gameCrew.run_day_phase_collect(alive_players_after_night)
 
-            # # write day votes to file
-            # write_votes("day", day["votes"])
 
             day_elim = day["day_elim"] or ""
             if day_elim and day_elim in self.current_players and day_elim != "Tallier":

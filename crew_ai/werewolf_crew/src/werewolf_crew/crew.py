@@ -7,6 +7,7 @@ from src.werewolf_crew.my_tasks import task_obj
 import re
 import json
 from collections import Counter
+import copy
 
 
 
@@ -280,6 +281,32 @@ class WerewolfCrew():
             process=Process.sequential,
             verbose=True
         )
+    
+    def _run_task_isolated(self, task: Task) -> str:
+        """
+        Run a single CrewAI task in isolation (one agent, one task).
+        Returns the raw text output (best-effort across CrewAI's possible fields).
+        """
+        subcrew = self.crew()
+        # isolate to this agent and a shallow-copied task so we don't reuse output/context
+        subcrew.agents = [task.agent]
+        t_single = copy.copy(task)
+        if hasattr(t_single, "context"):
+            t_single.context = []
+        if hasattr(t_single, "output"):
+            t_single.output = None
+        subcrew.tasks = [t_single]
+
+        result = subcrew.kickoff()
+
+        # Try common result fields first on the task, then on the crew result
+        raw = getattr(getattr(t_single, "output", None), "raw_output", None)
+        raw = raw or getattr(getattr(t_single, "output", None), "final_output", None)
+        raw = raw or getattr(result, "raw_output", None)
+        raw = raw or getattr(result, "final_output", None)
+        raw = raw or getattr(result, "raw", None)
+
+        return str(raw) if raw is not None else ""
 
     # ================== NEW: Night/Day runners that collect outputs and return tallies ==================
 
@@ -305,27 +332,19 @@ class WerewolfCrew():
     def run_night_phase_collect(self, alive_players: list[str], players_dict: dict):
         night_agents, night_tasks, villagers = self.build_night_vote_tasks(alive_players, players_dict)
 
+        # bookkeeping (optional)
         self.agents = night_agents
         self.tasks  = night_tasks
-        crew = self.crew()
-        crew.agents = night_agents
-        crew.tasks  = night_tasks
-
-        result = crew.kickoff()
 
         votes = []
-        # robustly collect outputs (CrewAI returns have .raw or task.output.raw_output)
         for task in night_tasks:
-            raw = getattr(getattr(task, "output", None), "raw_output", None)
-            if raw is None:
-                # fallback: try result.raw if single task; or store empty
-                raw = getattr(result, "raw", "")
-            chosen = self._extract_vote(str(raw)) or ""
+            raw = self._run_task_isolated(task)
+            chosen = self._extract_vote(raw) or ""
             votes.append({"voter": task.agent.role, "vote": chosen})
-
 
         night_elim = self._compute_elimination(villagers, [v["vote"] for v in votes])
         return {"votes": votes, "night_elim": night_elim}
+
 
     def build_day_vote_tasks(self, alive_players: list[str]) -> tuple[list[Agent], list[Task], list[str]]:
         # all alive except Tallier can be targets (and voters)
@@ -347,21 +366,17 @@ class WerewolfCrew():
     def run_day_phase_collect(self, alive_players: list[str]):
         day_agents, day_tasks, targets = self.build_day_vote_tasks(alive_players)
 
+        # bookkeeping (optional)
         self.agents = day_agents
         self.tasks  = day_tasks
-        crew = self.crew()
-        crew.agents = day_agents
-        crew.tasks  = day_tasks
-
-        result = crew.kickoff()
 
         votes = []
         for task in day_tasks:
-            raw = getattr(getattr(task, "output", None), "raw_output", None)
-            if raw is None:
-                raw = getattr(result, "raw", "")
-            chosen = self._extract_vote(str(raw)) or ""
+            raw = self._run_task_isolated(task)
+            chosen = self._extract_vote(raw) or ""
             votes.append({"voter": task.agent.role, "vote": chosen})
 
+        print("Day votes: ", votes)
         day_elim = self._compute_elimination(targets, [v["vote"] for v in votes])
         return {"votes": votes, "day_elim": day_elim}
+
