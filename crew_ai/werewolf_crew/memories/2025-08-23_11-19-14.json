@@ -1,0 +1,9 @@
+{
+    "transcript": "=== NIGHT PHASE ===\n{ \"night_elim\": \"Player 2\", \"day_elim\": \"\" }\n=== DAY PHASE ===\n{ \"night_elim\": \"\", \"day_elim\": \"Player 6\" }",
+    "night_elim": "Player 2",
+    "day_elim": "Player 6",
+    "remaining": [
+        "Player 6",
+        "Player 7"
+    ]
+}

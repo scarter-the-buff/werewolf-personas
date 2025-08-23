@@ -10,6 +10,7 @@ import os
 import csv
 import time # Timer to time round execution for optimization purposes
 
+
 # Import logparser
 import parser.logparser
 
@@ -17,27 +18,27 @@ import parser.logparser
 # We'll see which one performs better. 
 
 # TODO: Add small-team versions to all of these modes
-
-
 # TODO: Add the tallier to all these settings
 diverse_v = {
-            "Player 1": ["werewolf", "TJ"],
-            "Player 2": ["werewolf", "FP"],
-            "Player 3": ["villager", "TJ"],
-            "Player 4": ["villager", "TP"],
-            "Player 5": ["villager", "FJ"],
-            "Player 6": ["villager", "FP"],
-            "Player 7": ["villager", "TJ"]
-        }
+    "Player 1": ["werewolf", "TJ"],
+    "Player 2": ["werewolf", "FP"],
+    "Player 3": ["villager", "TJ"],
+    "Player 4": ["villager", "TP"],
+    "Player 5": ["villager", "FJ"],
+    "Player 6": ["villager", "FP"],
+    "Player 7": ["villager", "TJ"],
+    "Tallier": []
+}
 
 all_v_tp = {
-            "Player 1": ["werewolf", "TJ"],
-            "Player 2": ["werewolf", "FP"],
-            "Player 3": ["villager", "TP"],
-            "Player 4": ["villager", "TP"],
-            "Player 5": ["villager", "TP"],
-            "Player 6": ["villager", "TP"],
-            "Player 7": ["villager", "TP"]
+    "Player 1": ["werewolf", "TJ"],
+    "Player 2": ["werewolf", "FP"],
+    "Player 3": ["villager", "TP"],
+    "Player 4": ["villager", "TP"],
+    "Player 5": ["villager", "TP"],
+    "Player 6": ["villager", "TP"],
+    "Player 7": ["villager", "TP"],
+    "Tallier": []
 }
 
 all_v_tj = {
@@ -47,7 +48,8 @@ all_v_tj = {
     "Player 4": ["villager", "TJ"],
     "Player 5": ["villager", "TJ"],
     "Player 6": ["villager", "TJ"],
-    "Player 7": ["villager", "TJ"]
+    "Player 7": ["villager", "TJ"],
+    "Tallier": []
 }
 
 all_v_fp = {
@@ -57,7 +59,8 @@ all_v_fp = {
     "Player 4": ["villager", "FP"],
     "Player 5": ["villager", "FP"],
     "Player 6": ["villager", "FP"],
-    "Player 7": ["villager", "FP"]
+    "Player 7": ["villager", "FP"],
+    "Tallier": []
 }
 
 all_v_fj = {
@@ -67,7 +70,8 @@ all_v_fj = {
     "Player 4": ["villager", "FJ"],
     "Player 5": ["villager", "FJ"],
     "Player 6": ["villager", "FJ"],
-    "Player 7": ["villager", "FJ"]
+    "Player 7": ["villager", "FJ"],
+    "Tallier": []
 }
 
 villagers_throw = {
@@ -77,7 +81,8 @@ villagers_throw = {
     "Player 4": ["villager", "not_trying_villager"],
     "Player 5": ["villager", "not_trying_villager"],
     "Player 6": ["villager", "not_trying_villager"],
-    "Player 7": ["villager", "not_trying_villager"]
+    "Player 7": ["villager", "not_trying_villager"],
+    "Tallier": []
 }
 
 v_aggro_were_throw = {
@@ -87,7 +92,8 @@ v_aggro_were_throw = {
     "Player 4": ["villager", "aggressive_villager"],
     "Player 5": ["villager", "aggressive_villager"],
     "Player 6": ["villager", "aggressive_villager"],
-    "Player 7": ["villager", "aggressive_villager"]
+    "Player 7": ["villager", "aggressive_villager"],
+    "Tallier": []
 }
 
 w_aggro_vill_throw = {
@@ -97,7 +103,8 @@ w_aggro_vill_throw = {
     "Player 4": ["villager", "not_trying_villager"],
     "Player 5": ["villager", "not_trying_villager"],
     "Player 6": ["villager", "not_trying_villager"],
-    "Player 7": ["villager", "not_trying_villager"]
+    "Player 7": ["villager", "not_trying_villager"],
+    "Tallier": []
 }
 
 werewolves_throw = {
@@ -107,9 +114,9 @@ werewolves_throw = {
     "Player 4": ["villager", "blank"],
     "Player 5": ["villager", "blank"],
     "Player 6": ["villager", "blank"],
-    "Player 7": ["villager", "blank"]
+    "Player 7": ["villager", "blank"],
+    "Tallier": []
 }
-
 
 alternate_letters = {
     "Player 1": ["werewolf", "alt"],
@@ -118,17 +125,17 @@ alternate_letters = {
     "Player 4": ["villager", "alt"],
     "Player 5": ["villager", "alt"],
     "Player 6": ["villager", "alt"],
-    "Player 7": ["villager", "alt"]
+    "Player 7": ["villager", "alt"],
+    "Tallier": []
 }
 
 alternate_letters_fourp = {
     "Player 1": ["werewolf", "alt"],
     "Player 2": ["werewolf", "alt"],
     "Player 3": ["villager", "alt"],
-    "Player 4": ["villager", "alt"]
+    "Player 4": ["villager", "alt"],
+    "Tallier": []
 }
-
-
 
 w_aggro_vill_throw_fourp = {
     "Player 1": ["werewolf", "aggressive_werewolf"],
@@ -320,6 +327,77 @@ class WerewolfGame:
 
         return transcript
     
+    # === ADD inside WerewolfGame ================================================
+
+    def play_round_with_night(self):
+        start_time = time.perf_counter()
+
+        # ---- NIGHT PHASE --------------------------------------------------------
+        alive_players = [p for p in self.current_players.keys()]
+        print("NIGHT — alive players:", alive_players)
+
+        # Kick off night
+        night_transcript = self.gameCrew.run_night_phase(alive_players, self.current_players)
+        print("Night transcript:", getattr(night_transcript, "raw", str(night_transcript)))
+
+        # Parse out night_elim from night transcript
+        night_dict = self.parse_elimination(night_transcript)
+        night_elim = (night_dict.get("night_elim") or "").strip()
+
+        # Remove the night victim immediately before Day
+        if night_elim and night_elim in self.current_players and night_elim != "Tallier":
+            self.eliminated[night_elim] = True
+            self.current_players = {p: role for p, role in self.players.items() if p not in self.eliminated}
+            print(f"NIGHT — eliminated: {night_elim}")
+        else:
+            print("NIGHT — no elimination applied.")
+
+        # ---- DAY PHASE ----------------------------------------------------------
+        alive_players_after_night = [p for p in self.current_players.keys()]
+        print("DAY — alive players after night:", alive_players_after_night)
+
+        day_transcript = self.gameCrew.run_alive_player_tasks(self.current_players.keys())
+        print("Day transcript:", getattr(day_transcript, "raw", str(day_transcript)))
+
+        day_dict = self.parse_elimination(day_transcript)
+        day_elim = (day_dict.get("day_elim") or "").strip()
+
+        # Build a single combined JSON record that your existing update_state can consume
+        combined = {
+            "transcript": (
+                "=== NIGHT PHASE ===\n" + getattr(night_transcript, "raw", str(night_transcript)) +
+                "\n=== DAY PHASE ===\n"   + getattr(day_transcript, "raw", str(day_transcript))
+            ),
+            "night_elim": night_elim,
+            "day_elim": day_elim,
+            "remaining": [p for p in self.current_players.keys() if p != "Tallier"]
+        }
+
+        # Persist transcripts & memory
+        timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+        filename = f"memories/{timestamp}.json"
+        with open(filename, "w", encoding="utf-8") as f:
+            json.dump(combined, f, ensure_ascii=False, indent=4)
+
+        # Pretty transcript file
+        end_time = time.perf_counter()
+        execution_time = end_time - start_time
+        transcript_filename = f"transcripts/{timestamp}_round_{self.round_number+1}_transcript.txt"
+        with open(transcript_filename, "w", encoding="utf-8") as f:
+            f.write(combined["transcript"])
+            f.write(f"\n\nRound Execution Time: {execution_time:.6f} seconds\n")
+
+        # Feed the combined object through your existing update path
+        # (update_state_from_transcript expects something whose .raw contains the JSON,
+        #  so we’ll just pass the JSON string itself.)
+        combined_str = json.dumps(combined)
+        self.transcripts.append(combined_str)
+        self.update_state_from_transcript(combined_str)  # this will remove day_elim too
+        self.round_number += 1
+
+        return combined_str
+
+
     def log_game_over(self, winning_team, num_villagers, num_werewolves):
         """
         Appends a row to 'logs/game_over_log.csv' with the following columns:
@@ -420,60 +498,55 @@ class WerewolfGame:
             self.log_game_over(winning_team, num_villagers, num_werewolves)
             print("GAME OVER: Only one (or zero) player remains.")
             return True
-
-        # Case 2: All remaining players have the same role.
-        role_data = [player[0] for player in players.values() if player]
+        # Case 2: All remaining non-Tallier players have the same role.
+        role_data = [vals[0] for name, vals in players.items() if name != "Tallier" and vals]
         roles_set = set(role_data)
         print("Roles: ", roles_set)
-        roles_sans_tallier = [role for role in roles_set if role != "Tallier"]
-        print("Roles in the game: ", roles_sans_tallier)
-        # Once again, exclude the tallier
-        num_left = len(players) - 1
-        if len(roles_sans_tallier) == 1:
+
+        if len(roles_set) == 1:
             print("GAME OVER: Second Branch")
-            # Determine winning team: 0 for villagers, 1 for werewolves.
-            winning_team = "V" if "villager" in roles_set else "W"
 
-            role_data = [data for data in players.values() if data]
+            # Determine winning team from the single role present
+            only_role = next(iter(roles_set)) if roles_set else ""
+            winning_team = "V" if only_role == "villager" else ("W" if only_role == "werewolf" else "N")
 
-            num_villagers = sum(1 for role in role_data if role == "Villager")
-            num_werewolves = sum(1 for role in role_data if role == "Werewolf")
+            num_villagers = sum(1 for r in role_data if r == "villager")
+            num_werewolves = sum(1 for r in role_data if r == "werewolf")
 
             self.log_game_over(winning_team, num_villagers, num_werewolves)
+
+            num_left = len([n for n in players.keys() if n != "Tallier"])
             if winning_team == "W":
                 print(f"GAME OVER: Only werewolves remain, of which there are {num_left}")
-            else:
+            elif winning_team == "V":
                 print(f"GAME OVER: Only villagers remain, of which there are {num_left}")
+            else:
+                print(f"GAME OVER: All remaining have the same nonstandard role: {only_role}")
             return True
-
         return False
 
 def play_game():
     game = WerewolfGame(curr_setting, curr_setting_name)
-
-    # Subtract one for the tallier agent, another so that one agent will be left at the end
-    # TODO: Modify this when implementing the night elimination?
+    # Subtract one for Tallier; another ensures at least one remains
     round_num = len(game.crew.agents) - 2
 
     for i in range(round_num):
         print("==== STARTING ROUND {0} === ".format(i+1))
-        game.play_round()
+        game.play_round_with_night()
         print("Finished Round {0}".format(i+1))
 
     game_over_result = game.game_over()
-
     print(f"Game Over? {game_over_result}")
 
-    # TODO: Does telemetry time out here?
 
 def main():
     game_num = 1
 
     # Set the current villagers for the game instance
     global curr_setting
-    curr_setting = w_aggro_vill_throw_fourp
+    curr_setting = w_aggro_vill_throw 
     global curr_setting_name
-    curr_setting_name = "w_aggro_vill_throw_fourp"
+    curr_setting_name = "w_aggro_vill_throw"
 
     
     

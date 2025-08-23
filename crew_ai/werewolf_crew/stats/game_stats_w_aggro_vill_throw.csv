@@ -13,3 +13,5 @@ ID,Timestamp,WinningTeam,RemainingVillagers,RemainingWerewolves,wa_type,wb_type,
 12,2025-05-22_10-58-11,0,3,0,aggressive_werewolf,aggressive_werewolf,not_trying_villager,not_trying_villager,not_trying_villager,not_trying_villager,not_trying_villager
 13,2025-05-22_11-00-27,1,0,1,aggressive_werewolf,aggressive_werewolf,not_trying_villager,not_trying_villager,not_trying_villager,not_trying_villager,not_trying_villager
 14,2025-05-22_11-02-41,1,0,1,aggressive_werewolf,aggressive_werewolf,not_trying_villager,not_trying_villager,not_trying_villager,not_trying_villager,not_trying_villager
+15,2025-08-22_12-10-43,W,0,1,aggressive_werewolf,aggressive_werewolf,not_trying_villager,not_trying_villager
+16,2025-08-23_11-19-33,V,1,0,aggressive_werewolf,aggressive_werewolf,not_trying_villager,not_trying_villager

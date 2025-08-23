@@ -7,6 +7,8 @@ from crewai import Task
 from src.werewolf_crew.my_tasks import task_obj
 from crewai.tools import tool
 import re
+from .my_tools import record_vote, read_votes, clear_votes
+
 
 # If you want to run a snippet of code before or after the crew starts, 
 # you can use the @before_kickoff and @after_kickoff decorators
@@ -73,6 +75,9 @@ class WerewolfCrew():
 	player2_turn_obj = task_obj.task_obj()
 	player3_turn_obj = task_obj.task_obj()
 	player4_turn_obj = task_obj.task_obj()
+	player5_turn_obj = task_obj.task_obj()
+	player6_turn_obj = task_obj.task_obj()
+	player7_turn_obj = task_obj.task_obj()
 	tallier_turn_obj = task_obj.task_obj()
 
 
@@ -90,6 +95,9 @@ class WerewolfCrew():
 					"Player 2": self.player_2(),
 					"Player 3": self.player_3(),
 					"Player 4": self.player_4(),
+					"Player 5": self.player_5(),
+					"Player 6": self.player_6(),
+					"Player 7": self.player_7(),
 					"Tallier": self.tallier()
 				}
 
@@ -106,7 +114,6 @@ class WerewolfCrew():
 												Output the choice of who you vote for, such as "Player 3". Don't state your reasoning aloud.
 												  Don't query other players for information.""" 
 		self.player2_turn_obj.expected_output  = "Output the player you choose to vote away."
-
 		self.player3_turn_obj.description =  """You are playing the game werewolf. This is the day phase. You are Player 3. Make your move. 
 												Output the choice of who you vote for, such as "Player 1". Don't state your reasoning aloud.
 												  Don't query other players for information."""
@@ -116,6 +123,22 @@ class WerewolfCrew():
 												Output the choice of who you vote for, such as "Player 2". Don't state your reasoning aloud.
 												  Don't query other players for information."""
 		self.player4_turn_obj.expected_output = "Output the player you choose to vote away."
+
+		self.player5_turn_obj.description = """You are playing the game werewolf. This is the day phase. You are Player 5. Make your move. 
+												Output the choice of who you vote for, such as "Player 3". Don't state your reasoning aloud.
+												  Don't query other players for information."""
+		self.player5_turn_obj.expected_output = "Output the player you choose to vote away."
+
+		self.player6_turn_obj.description = """You are playing the game werewolf. This is the day phase. You are Player 6. Make your move. 
+												Output the choice of who you vote for, such as "Player 2". Don't state your reasoning aloud.
+												  Don't query other players for information."""
+		self.player6_turn_obj.expected_output = "Output the player you choose to vote away."
+
+		self.player7_turn_obj.description = """You are playing the game werewolf. This is the day phase. You are Player 7. Make your move. 
+												Output the choice of who you vote for, such as "Player 4". Don't state your reasoning aloud.
+												  Don't query other players for information."""
+		self.player7_turn_obj.expected_output = "Output the player you choose to vote away."
+
 
 		self.tallier_turn_obj.description = """You are the tallier for a game of werewolf. Use the given context to read the records of who voted for whom, then based on that decide
 											who got the most votes. Then announce that as the eliminated player by updating the shared memory.
@@ -219,6 +242,96 @@ class WerewolfCrew():
 		# kickoff only those tasks
 		return self.crew().kickoff()
 
+	# === ADD inside WerewolfCrew ================================================
+
+	def _build_night_tasks(self, alive_players: list[str], players_dict: dict) -> tuple[list[Agent], list[Task]]:
+		"""
+		Build NIGHT tasks:
+		- Only werewolves receive a voting task.
+		- A Night Tallier task tallies the werewolf votes and outputs JSON with night_elim.
+		Returns (agents, tasks) in execution order.
+		"""
+		# Compute role lookups from source of truth (players_dict), not from self.agents
+		werewolves = [p for p in alive_players if p != "Tallier" and players_dict[p][0] == "werewolf"]
+		villagers  = [p for p in alive_players if p != "Tallier" and players_dict[p][0] == "villager"]
+
+		# Map player name -> Agent instance from the canonical map you already keep
+		agent_by_name = self.player_agents
+
+		# Build werewolf vote tasks
+		night_tasks = []
+		night_agents = []
+
+		if not werewolves or not villagers:
+			# If no werewolves or no villagers, there's nothing meaningful to do at night.
+			# Still return Tallier so it can output an empty night_elim cleanly.
+			pass
+		else:
+			allowed = ", ".join(villagers)
+			for w in werewolves:
+				desc = (
+				f"NIGHT PHASE — Werewolf vote. You are {w}. "
+				f"Choose exactly one VILLAGER from: {allowed}. "
+				"You MUST then call record_vote(payload=JSON) with this EXACT shape:\n"
+				f'{{record_vote(phase="night", voter="Player 1", vote="Player X")}}\n'
+				"Wait for the tool to return OK. ONLY AFTER that, output just the chosen player name as your final answer."
+				)
+				exp = (
+				'1) Call record_vote(payload=\'{"phase":"night","voter":"%s","vote":"Player X"}\')\n'
+				'2) After tool returns OK, output exactly the player name on its own line.'
+				) % w
+
+				t = Task(
+					agent=agent_by_name[w],
+					description=desc,
+					expected_output=exp,
+					context=[],
+				)
+				night_tasks.append(t)
+				night_agents.append(agent_by_name[w])
+
+		night_tallier_desc = (
+		'NIGHT PHASE — Tallier. First, call read_votes(phase="night"). '
+		'Tally over VILLAGERS only; break ties by lowest player number. '
+		'Then output ONLY: { "night_elim": "Player X", "day_elim": "" }. '
+		'Finally call clear_votes(phase="night").'
+		)
+
+		night_tallier_exp = '{ "night_elim": "Player X", "day_elim": "" }'
+
+
+		night_tallier_task = Task(
+			agent=self.player_agents["Tallier"],
+			description=night_tallier_desc,
+			expected_output=night_tallier_exp,
+			context=night_tasks[:]  # so Tallier can read all werewolf outputs
+		)
+		night_tasks.append(night_tallier_task)
+		night_agents.append(self.player_agents["Tallier"])
+
+		return night_agents, night_tasks
+
+
+	def run_night_phase(self, alive_players: list[str], players_dict: dict):
+		"""
+		Executes the NIGHT phase: only werewolves vote; Tallier outputs JSON with night_elim.
+		Returns the CrewAI kickoff result (night transcript).
+		"""
+		alive_players = [p for p in alive_players if p in self.player_agents]  # safety filter
+
+		night_agents, night_tasks = self._build_night_tasks(alive_players, players_dict)
+
+		# Swap into crew for this one-off phase
+		self.agents = night_agents
+		self.tasks  = night_tasks
+
+		# Build and kickoff a temporary night crew, sequentially
+		night_crew = self.crew()
+		night_crew.agents = night_agents
+		night_crew.tasks  = night_tasks
+
+		return night_crew.kickoff()
+
 
 	@tool
 	def read_mem() -> str:
@@ -233,8 +346,12 @@ class WerewolfCrew():
 			f.write(content, '\n')
 		return f"Updated memory document."
 
-	editor_tools = [read_mem, write_mem]
-	
+	editor_tools = [record_vote, read_votes, clear_votes]  # replace old read_mem/write_mem
+
+	# Define Openai model in use (this well help them use tools)
+
+	OPENAI_MODEL = LLM(model="gpt-4o-mini", temperature=0) 
+
 	@agent
 	def player_1(self) -> Agent:
 
@@ -243,7 +360,7 @@ class WerewolfCrew():
 			role="Player 1",
 			# goal=werewolf_goal,
 			verbose=True,
-			llm='openai/o4-mini',
+			llm=self.OPENAI_MODEL,
 			goal =   self.construct_personality(agent_name),
 			backstory = f"Your name is {agent_name}. ",
 			allow_delegation=False,
@@ -258,7 +375,7 @@ class WerewolfCrew():
 		return Agent(
 			role="Player 2",
 			verbose=True,
-			llm='openai/o4-mini',
+			llm=self.OPENAI_MODEL,
 			# backstory = f"Your name is {agent_name}. " + self.construct_personality(agent_name),
 			backstory = f"Your name is {agent_name}. ",
 			goal =   self.construct_personality(agent_name),
@@ -274,7 +391,7 @@ class WerewolfCrew():
 		return Agent(
 			role="Player 3",
 			verbose=True,
-			llm='openai/o4-mini',
+			llm=self.OPENAI_MODEL,
 			# backstory = f"Your name is {agent_name}. " + self.construct_personality(agent_name),
 			backstory = f"Your name is {agent_name}. ",
 			goal =   self.construct_personality(agent_name),
@@ -290,12 +407,52 @@ class WerewolfCrew():
 		return Agent(
 			role="Player 4",
 			verbose=True,
-			llm='openai/o4-mini',
+			llm=self.OPENAI_MODEL,
 			backstory = f"Your name is {agent_name}. ",
 			goal = self.construct_personality(agent_name),
 			allow_delegation=False,
 			tools=self.editor_tools
 		)
+
+	@agent
+	def player_5(self) -> Agent:
+		agent_name = "Player 5"
+		return Agent(
+			role="Player 5",
+			verbose=True,
+			llm=self.OPENAI_MODEL,
+			backstory=f"Your name is {agent_name}. ",
+			goal=self.construct_personality(agent_name),
+			allow_delegation=False,
+			tools=self.editor_tools
+		)
+
+	@agent
+	def player_6(self) -> Agent:
+		agent_name = "Player 6"
+		return Agent(
+			role="Player 6",
+			verbose=True,
+			llm=self.OPENAI_MODEL,
+			backstory=f"Your name is {agent_name}. ",
+			goal=self.construct_personality(agent_name),
+			allow_delegation=False,
+			tools=self.editor_tools
+		)
+
+	@agent
+	def player_7(self) -> Agent:
+		agent_name = "Player 7"
+		return Agent(
+			role="Player 7",
+			verbose=True,
+			llm=self.OPENAI_MODEL,
+			backstory=f"Your name is {agent_name}. ",
+			goal=self.construct_personality(agent_name),
+			allow_delegation=False,
+			tools=self.editor_tools
+		)
+
 
 	@agent
 	def tallier(self) -> Agent:
@@ -305,7 +462,7 @@ class WerewolfCrew():
 		return Agent(
 			role="Tallier",
 			verbose=True,
-			llm='openai/o4-mini',
+			llm=self.OPENAI_MODEL,
 			backstory = f"Your name is {agent_name}. ",
 			goal = tallier_goal,
 			allow_delegation=False,
@@ -350,13 +507,49 @@ class WerewolfCrew():
 		)
 
 	@task
+	def player5_turn(self) -> Task:
+		return Task(
+			agent=self.player_5(),
+			context=[self.player4_turn(), self.player3_turn(), self.player2_turn(), self.player1_turn()],
+			description = self.player5_turn_obj.description,
+			expected_output = self.player5_turn_obj.expected_output
+		)
+
+	@task
+	def player6_turn(self) -> Task:
+		return Task(
+			agent=self.player_6(),
+			context=[self.player5_turn(), self.player4_turn(), self.player3_turn(), self.player2_turn(), self.player1_turn()],
+			description = self.player6_turn_obj.description,
+			expected_output = self.player6_turn_obj.expected_output
+		)
+
+	@task
+	def player7_turn(self) -> Task:
+		return Task(
+			agent=self.player_7(),
+			context=[self.player6_turn(), self.player5_turn(), self.player4_turn(), self.player3_turn(), self.player2_turn(), self.player1_turn()],
+			description = self.player7_turn_obj.description,
+			expected_output = self.player7_turn_obj.expected_output
+		)
+	
+
+	@task
 	def tallier_turn(self) -> Task:
 		return Task(
-					agent=self.tallier(),
-					context=[self.player4_turn(), self.player3_turn(), self.player2_turn(), self.player1_turn()],
-					description = self.tallier_turn_obj.description,
-					expected_output = self.tallier_turn_obj.expected_output
-				)
+			agent=self.tallier(),
+			context=[
+				self.player7_turn(),
+				self.player6_turn(),
+				self.player5_turn(),
+				self.player4_turn(),
+				self.player3_turn(),
+				self.player2_turn(),
+				self.player1_turn()
+			],
+			description=self.tallier_turn_obj.description,
+			expected_output=self.tallier_turn_obj.expected_output
+		)
 	def build_tasks(self):
 		# --- build tasks ---
 		self.player_tasks = {
@@ -364,6 +557,9 @@ class WerewolfCrew():
 			"Player 2":self.player2_turn(),
 			"Player 3":self.player3_turn(),
 			"Player 4":self.player4_turn(),
+			"Player 5":self.player5_turn(),
+			"Player 6":self.player6_turn(),
+			"Player 7":self.player7_turn(),
 			"Tallier": self.tallier_turn()
 		}
 
@@ -383,10 +579,5 @@ class WerewolfCrew():
 			# external_memory= extMem,
 			verbose=True
 		)
-
-		# for agent in self.agents:
-		# 	print("Loaded agent personality in goal field:")
-		# 	print(agent.goal)
-
 
 		return crew
