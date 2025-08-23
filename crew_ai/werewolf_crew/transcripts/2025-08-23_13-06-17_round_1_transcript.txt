@@ -1,0 +1,6 @@
+=== NIGHT PHASE ===
+{ "night_elim": "", "day_elim": "" }
+=== DAY PHASE ===
+{ "night_elim": "", "day_elim": "Player 5" }
+
+Round Execution Time: 25.254553 seconds

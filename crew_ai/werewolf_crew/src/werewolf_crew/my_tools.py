@@ -1,3 +1,4 @@
+from typing import Any, Optional
 from crewai.tools import tool
 import json
 import os
@@ -33,6 +34,36 @@ def record_vote(phase: str, voter: str, vote: str) -> str:
 @tool
 def read_votes(phase: str) -> str:
     """
+    Read all votes for the phase ("night" or "day").
+    RETURNS (as a JSON string): 
+      [{"phase":"night","voter":"Player 1","vote":"Player 5"}, ...]
+    """
+    data = [o for o in _read_jsonl(VOTES_PATH) if o.get("phase")==phase]
+    return json.dumps(data, ensure_ascii=False)
+
+@tool
+def read_night_votes(payload: Optional[Any] = None) -> str:
+    """CrewAI insists on having some input for every tool use, so this tool accepts an optional dummy input and discards it."""
+    """Return night votes as JSON: [{"phase":"night","voter":"Player 1","vote":"Player 5"}, ...]"""
+    data = [o for o in _read_jsonl(VOTES_PATH) if o.get("phase") == "night"]
+    return json.dumps(data, ensure_ascii=False)
+
+
+@tool
+def clear_votes(phase: str) -> str:
+    """
+    Remove votes of a given phase from the store.
+    """
+    data = _read_jsonl(VOTES_PATH)
+    remaining = [o for o in data if o.get("phase") != phase]
+    with open(VOTES_PATH, "w", encoding="utf-8") as f:
+        for o in remaining:
+            f.write(json.dumps(o, ensure_ascii=False) + "\n")
+    return "OK"
+
+# Make function versions of these in case the python needs to call them alone
+def dead_votes_func(phase: str) -> str:
+    """
     Read back all votes for the given phase ("night" or "day") as JSON.
     """
     try:
@@ -40,9 +71,8 @@ def read_votes(phase: str) -> str:
         return json.dumps(data, ensure_ascii=False)
     except Exception as e:
         return json.dumps({"error": str(e)})
-
-@tool
-def clear_votes(phase: str) -> str:
+    
+def clear_votes_func(phase: str) -> str:
     """
     Remove votes of a given phase from the store.
     """

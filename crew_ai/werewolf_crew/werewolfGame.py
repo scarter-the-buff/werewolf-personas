@@ -9,6 +9,7 @@ import re
 import os
 import csv
 import time # Timer to time round execution for optimization purposes
+from src.werewolf_crew.my_tools import clear_votes_func
 
 
 # Import logparser
@@ -17,8 +18,7 @@ import parser.logparser
 # As a preliminary experiment, we'll have two sets of villagers: a set with diverse personalities and a set with homogeneous personalities.
 # We'll see which one performs better. 
 
-# TODO: Add small-team versions to all of these modes
-# TODO: Add the tallier to all these settings
+# TODO: Put these settings in a different file
 diverse_v = {
     "Player 1": ["werewolf", "TJ"],
     "Player 2": ["werewolf", "FP"],
@@ -460,6 +460,12 @@ class WerewolfGame:
         Returns:
             bool: True if the game is over, False otherwise.
         """
+
+        # Clear memory JSON for this round
+        clear_votes_func("day")
+        clear_votes_func("night")
+
+
         print("PERFORMING GAME OVER")
         players = self.current_players
         # Case 1: Only one or zero players remain.
@@ -524,8 +530,25 @@ class WerewolfGame:
                 print(f"GAME OVER: All remaining have the same nonstandard role: {only_role}")
             return True
         return False
+    
+    def check_game_over(self):
+        players = self.current_players
+        roles = (set([player[0] for player in list(players.values()) if player != []]))
+        if len(roles) == 1:
+            print("Check game over detected game over")
+            return True
+        else: 
+            print("Check game over detected no game over")
+            return False
 
 def play_game():
+
+    # Start by clearing the JSON memory, in case the last game failed to finish
+
+    clear_votes_func("night")
+    clear_votes_func("day")
+
+
     game = WerewolfGame(curr_setting, curr_setting_name)
     # Subtract one for Tallier; another ensures at least one remains
     round_num = len(game.crew.agents) - 2
@@ -534,6 +557,9 @@ def play_game():
         print("==== STARTING ROUND {0} === ".format(i+1))
         game.play_round_with_night()
         print("Finished Round {0}".format(i+1))
+        if game.check_game_over():
+            print("Game Over.")
+            break
 
     game_over_result = game.game_over()
     print(f"Game Over? {game_over_result}")

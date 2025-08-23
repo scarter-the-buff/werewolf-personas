@@ -1,1 +1,0 @@
-aggressive_werewolf I vote to remove Player 4. Their story about guarding Player 3 conflicts directly with their earlier claim of investigating Player 5, demonstrating clear inconsistency and likely deception. Shared memory updated: Vote for Player 4.

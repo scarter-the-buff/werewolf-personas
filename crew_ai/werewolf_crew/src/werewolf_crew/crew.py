@@ -7,7 +7,7 @@ from crewai import Task
 from src.werewolf_crew.my_tasks import task_obj
 from crewai.tools import tool
 import re
-from .my_tools import record_vote, read_votes, clear_votes
+from .my_tools import record_vote, read_votes, clear_votes, read_night_votes
 
 
 # If you want to run a snippet of code before or after the crew starts, 
@@ -291,12 +291,15 @@ class WerewolfCrew():
 				night_agents.append(agent_by_name[w])
 
 		night_tallier_desc = (
-		'NIGHT PHASE — Tallier. First, call read_votes(phase="night"). '
-		'Tally over VILLAGERS only; break ties by lowest player number. '
-		'Then output ONLY: { "night_elim": "Player X", "day_elim": "" }. '
-		'Finally call clear_votes(phase="night").'
+			'NIGHT PHASE — Tallier.\n'
+			'Follow this exact sequence:\n'
+			'A) Call read_night_votes() and WAIT for the tool output.\n'
+			'B) Parse that JSON list of votes. Count only votes for VILLAGERS (ignore werewolves and "Tallier").\n'
+			'   Break ties by the lowest player number (e.g., Player 3 beats Player 5).\n'
+			'C) Output ONLY this JSON (no extra text): { "night_elim": "Player X", "day_elim": "" }\n'
+			'D) Then call clear_votes(phase="night").\n'
+			'If the tool returns an empty list, still call clear_votes and output { "night_elim": "", "day_elim": "" }.'
 		)
-
 		night_tallier_exp = '{ "night_elim": "Player X", "day_elim": "" }'
 
 
@@ -346,7 +349,7 @@ class WerewolfCrew():
 			f.write(content, '\n')
 		return f"Updated memory document."
 
-	editor_tools = [record_vote, read_votes, clear_votes]  # replace old read_mem/write_mem
+	editor_tools = [record_vote, read_votes, read_night_votes, clear_votes]  # replace old read_mem/write_mem
 
 	# Define Openai model in use (this well help them use tools)
 

@@ -9,6 +9,59 @@ w_aggro_vill_throw_fourp = {
     "Tallier": []
 }
 
+diverse_v = {
+    "Player 1": ["werewolf", "TJ"],
+    "Player 2": ["werewolf", "FP"],
+    "Player 3": ["villager", "TJ"],
+    "Player 4": ["villager", "TP"],
+    "Player 5": ["villager", "FJ"],
+    "Player 6": ["villager", "FP"],
+    "Player 7": ["villager", "TJ"],
+    "Tallier": []
+}
+
+def test_check_game_over():
+    print("FIRST TEST: Should detect no game over")
+
+    # Create a test game instance
+    game = WerewolfGame(diverse_v, "diverse_v")
+
+    result = game.check_game_over()
+    print("Game Over? ", result)
+
+
+    print("SECOND TEST: Should detect a game over due to no villagers remaining")
+
+    game = WerewolfGame(diverse_v, "diverse_v")
+
+    game.current_players = {
+    "Player 1": ["werewolf", "TJ"],
+    "Player 2": ["werewolf", "FP"],
+    "Tallier": []
+    }
+
+
+    result = game.check_game_over()
+
+    print("Game Over? ", result)
+
+    print("THIRD TEST: Should detect a game over due to no werewolves remaining")
+
+
+    game = WerewolfGame(diverse_v, "diverse_v")
+
+    game.current_players = {
+    "Player 1": ["villager", "TJ"],
+    "Player 2": ["villager", "FP"],
+    "Tallier": []
+    }
+
+
+    result = game.check_game_over()
+
+    print("Game Over? ", result)
+
+
 
 def test_game_over():
 
@@ -105,4 +158,4 @@ def test_game_over():
 
 
 if __name__ == "__main__":
-    test_game_over()
+    test_check_game_over()
