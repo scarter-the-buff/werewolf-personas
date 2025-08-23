@@ -1,84 +1,48 @@
-from typing import Any, Optional
-from crewai.tools import tool
+# src/werewolf_crew/my_tools.py
+from typing import List, Dict
 import json
 import os
 
 VOTES_PATH = "./memories/votes.jsonl"
 
-def _append_jsonl(path, obj):
+def _append_jsonl(path: str, obj: Dict):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "a", encoding="utf-8") as f:
         f.write(json.dumps(obj, ensure_ascii=False) + "\n")
 
-def _read_jsonl(path):
-    if not os.path.exists(path): return []
+def _read_jsonl(path: str) -> List[Dict]:
+    if not os.path.exists(path):
+        return []
     with open(path, "r", encoding="utf-8") as f:
         return [json.loads(line) for line in f if line.strip()]
-    
-@tool
-def record_vote(phase: str, voter: str, vote: str) -> str:
-    """
-    Append a vote.
 
-    Args:
-        phase: "night" or "day"
-        voter: name of the player casting the vote (e.g. "Player 1")
-        vote:  name of the player voted against (e.g. "Player 5")
+# --- public helpers your Python orchestration calls ---
 
-    Returns "OK" on success.
+def write_votes(phase: str, votes: List[Dict]):
     """
-    obj = {"phase": phase, "voter": voter, "vote": vote}
-    _append_jsonl(VOTES_PATH, obj)
-    return "OK"
+    votes: list like [{"voter":"Player 1","vote":"Player 5"}, ...]
+    """
+    for v in votes:
+        _append_jsonl(VOTES_PATH, {"phase": phase, **v})
 
-@tool
-def read_votes(phase: str) -> str:
-    """
-    Read all votes for the phase ("night" or "day").
-    RETURNS (as a JSON string): 
-      [{"phase":"night","voter":"Player 1","vote":"Player 5"}, ...]
-    """
-    data = [o for o in _read_jsonl(VOTES_PATH) if o.get("phase")==phase]
-    return json.dumps(data, ensure_ascii=False)
+def read_votes(phase: str) -> List[Dict]:
+    return [o for o in _read_jsonl(VOTES_PATH) if o.get("phase") == phase]
 
-@tool
-def read_night_votes(payload: Optional[Any] = None) -> str:
-    """CrewAI insists on having some input for every tool use, so this tool accepts an optional dummy input and discards it."""
-    """Return night votes as JSON: [{"phase":"night","voter":"Player 1","vote":"Player 5"}, ...]"""
-    data = [o for o in _read_jsonl(VOTES_PATH) if o.get("phase") == "night"]
-    return json.dumps(data, ensure_ascii=False)
-
-
-@tool
-def clear_votes(phase: str) -> str:
-    """
-    Remove votes of a given phase from the store.
-    """
+def clear_votes(phase: str) -> None:
     data = _read_jsonl(VOTES_PATH)
     remaining = [o for o in data if o.get("phase") != phase]
     with open(VOTES_PATH, "w", encoding="utf-8") as f:
         for o in remaining:
             f.write(json.dumps(o, ensure_ascii=False) + "\n")
+
+# Backwards-compat function names if your other code refers to them
+def clear_votes_func(phase: str) -> str:
+    clear_votes(phase)
     return "OK"
 
-# Make function versions of these in case the python needs to call them alone
 def dead_votes_func(phase: str) -> str:
-    """
-    Read back all votes for the given phase ("night" or "day") as JSON.
-    """
+    # Kept for compatibility with your previous import; returns JSON string
     try:
-        data = [o for o in _read_jsonl(VOTES_PATH) if o.get("phase")==phase]
-        return json.dumps(data, ensure_ascii=False)
+        return json.dumps(read_votes(phase), ensure_ascii=False)
     except Exception as e:
         return json.dumps({"error": str(e)})
-    
-def clear_votes_func(phase: str) -> str:
-    """
-    Remove votes of a given phase from the store.
-    """
-    data = _read_jsonl(VOTES_PATH)
-    remaining = [o for o in data if o.get("phase") != phase]
-    with open(VOTES_PATH, "w", encoding="utf-8") as f:
-        for o in remaining:
-            f.write(json.dumps(o, ensure_ascii=False) + "\n")
-    return "OK"

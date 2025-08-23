@@ -155,24 +155,6 @@ setting_list = [
 
 import re
 
-# TODO: UNUSED, LIKELY DELETE CANDIDATE
-def parse_and_pretty_print(data: str) -> str:
-    # Remove unreadable/control characters (non-printable except basic whitespace)
-    cleaned = re.sub(r'[^\x20-\x7E\n\t]', '', data)
-
-    # Normalize curly quotes to straight quotes
-    cleaned = cleaned.replace("“", '"').replace("”", '"').replace("’", "'")
-
-    # Collapse multiple spaces/tabs into a single space
-    cleaned = re.sub(r'[ \t]+', ' ', cleaned)
-
-    # Strip leading/trailing whitespace from each line
-    lines = [line.strip() for line in cleaned.splitlines()]
-
-    # Remove empty lines except single spacing
-    pretty_transcript = "\n".join(line for line in lines if line)
-
-    return pretty_transcript
 
 
 class WerewolfGame:
@@ -180,25 +162,19 @@ class WerewolfGame:
     # Initialize gameCrew
 
     def __init__(self, curr_setting, curr_setting_name):
-        # Initial state: roles and alive players
         self.players, self.starting_players = curr_setting, curr_setting
         load_dotenv()
-
         self.eliminated = {}
         self.current_players = self.players
         self.round_number = 0
         self.transcripts = []
-
         self.curr_setting = curr_setting
         self.curr_setting_name = curr_setting_name
 
-        # Initialize document memory
-
-        doc_mem = open("./memories/memory.txt")
-        # Instantiate the CrewAI crew
+        # initialize Crew
+        open("./memories/memory.txt", "a").close()
         self.gameCrew = WerewolfCrew(self.players)
         self.crew = self.gameCrew.crew()
-
 
     def update_state_from_transcript(self, transcript):
         # TODO: Parse the new type of transcript here.
@@ -327,75 +303,61 @@ class WerewolfGame:
 
         return transcript
     
-    # === ADD inside WerewolfGame ================================================
-
+        # === ADD inside WerewolfGame ================================================
     def play_round_with_night(self):
-        start_time = time.perf_counter()
+            start_time = time.perf_counter()
 
-        # ---- NIGHT PHASE --------------------------------------------------------
-        alive_players = [p for p in self.current_players.keys()]
-        print("NIGHT — alive players:", alive_players)
+            # -------- NIGHT --------
+            alive_players = [p for p in self.current_players.keys()]
+            night = self.gameCrew.run_night_phase_collect(alive_players, self.current_players)
 
-        # Kick off night
-        night_transcript = self.gameCrew.run_night_phase(alive_players, self.current_players)
-        print("Night transcript:", getattr(night_transcript, "raw", str(night_transcript)))
+            # write night votes to file
+            # write_votes("night", night["votes"])
 
-        # Parse out night_elim from night transcript
-        night_dict = self.parse_elimination(night_transcript)
-        night_elim = (night_dict.get("night_elim") or "").strip()
+            night_elim = night["night_elim"] or ""
+            if night_elim and night_elim in self.current_players and night_elim != "Tallier":
+                self.eliminated[night_elim] = True
+                self.current_players = {p: role for p, role in self.players.items() if p not in self.eliminated}
 
-        # Remove the night victim immediately before Day
-        if night_elim and night_elim in self.current_players and night_elim != "Tallier":
-            self.eliminated[night_elim] = True
-            self.current_players = {p: role for p, role in self.players.items() if p not in self.eliminated}
-            print(f"NIGHT — eliminated: {night_elim}")
-        else:
-            print("NIGHT — no elimination applied.")
+            # -------- DAY ----------
+            alive_players_after_night = [p for p in self.current_players.keys()]
+            day = self.gameCrew.run_day_phase_collect(alive_players_after_night)
 
-        # ---- DAY PHASE ----------------------------------------------------------
-        alive_players_after_night = [p for p in self.current_players.keys()]
-        print("DAY — alive players after night:", alive_players_after_night)
+            # # write day votes to file
+            # write_votes("day", day["votes"])
 
-        day_transcript = self.gameCrew.run_alive_player_tasks(self.current_players.keys())
-        print("Day transcript:", getattr(day_transcript, "raw", str(day_transcript)))
+            day_elim = day["day_elim"] or ""
+            if day_elim and day_elim in self.current_players and day_elim != "Tallier":
+                self.eliminated[day_elim] = True
+                self.current_players = {p: role for p, role in self.players.items() if p not in self.eliminated}
 
-        day_dict = self.parse_elimination(day_transcript)
-        day_elim = (day_dict.get("day_elim") or "").strip()
+            # Build a combined JSON you can still persist (mirrors your previous structure)
+            combined = {
+                "transcript": "",  # no longer useful; agents just output names
+                "night_elim": night_elim,
+                "day_elim": day_elim,
+                "night_votes": night["votes"],
+                "day_votes": day["votes"],
+                "remaining": [p for p in self.current_players.keys() if p != "Tallier"]
+            }
 
-        # Build a single combined JSON record that your existing update_state can consume
-        combined = {
-            "transcript": (
-                "=== NIGHT PHASE ===\n" + getattr(night_transcript, "raw", str(night_transcript)) +
-                "\n=== DAY PHASE ===\n"   + getattr(day_transcript, "raw", str(day_transcript))
-            ),
-            "night_elim": night_elim,
-            "day_elim": day_elim,
-            "remaining": [p for p in self.current_players.keys() if p != "Tallier"]
-        }
+            # Persist for debugging/analysis
+            timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+            os.makedirs("memories", exist_ok=True)
+            with open(f"memories/{timestamp}.json", "w", encoding="utf-8") as f:
+                json.dump(combined, f, ensure_ascii=False, indent=4)
 
-        # Persist transcripts & memory
-        timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-        filename = f"memories/{timestamp}.json"
-        with open(filename, "w", encoding="utf-8") as f:
-            json.dump(combined, f, ensure_ascii=False, indent=4)
+            end_time = time.perf_counter()
+            execution_time = end_time - start_time
+            os.makedirs("transcripts", exist_ok=True)
+            with open(f"transcripts/{timestamp}_round_{self.round_number+1}.txt", "w", encoding="utf-8") as f:
+                f.write(json.dumps(combined, ensure_ascii=False, indent=2))
+                f.write(f"\n\nRound Execution Time: {execution_time:.6f} seconds\n")
 
-        # Pretty transcript file
-        end_time = time.perf_counter()
-        execution_time = end_time - start_time
-        transcript_filename = f"transcripts/{timestamp}_round_{self.round_number+1}_transcript.txt"
-        with open(transcript_filename, "w", encoding="utf-8") as f:
-            f.write(combined["transcript"])
-            f.write(f"\n\nRound Execution Time: {execution_time:.6f} seconds\n")
-
-        # Feed the combined object through your existing update path
-        # (update_state_from_transcript expects something whose .raw contains the JSON,
-        #  so we’ll just pass the JSON string itself.)
-        combined_str = json.dumps(combined)
-        self.transcripts.append(combined_str)
-        self.update_state_from_transcript(combined_str)  # this will remove day_elim too
-        self.round_number += 1
-
-        return combined_str
+            # push into your old arrays to keep rest of code happy
+            self.transcripts.append(json.dumps(combined))
+            self.round_number += 1
+            return combined
 
 
     def log_game_over(self, winning_team, num_villagers, num_werewolves):
