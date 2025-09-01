@@ -26,8 +26,7 @@ diverse_v = {
     "Player 4": ["villager", "TP"],
     "Player 5": ["villager", "FJ"],
     "Player 6": ["villager", "FP"],
-    "Player 7": ["villager", "TJ"],
-    "Tallier": []
+    "Player 7": ["villager", "TJ"]
 }
 
 all_v_tp = {
@@ -37,8 +36,7 @@ all_v_tp = {
     "Player 4": ["villager", "TP"],
     "Player 5": ["villager", "TP"],
     "Player 6": ["villager", "TP"],
-    "Player 7": ["villager", "TP"],
-    "Tallier": []
+    "Player 7": ["villager", "TP"]
 }
 
 all_v_tj = {
@@ -48,8 +46,7 @@ all_v_tj = {
     "Player 4": ["villager", "TJ"],
     "Player 5": ["villager", "TJ"],
     "Player 6": ["villager", "TJ"],
-    "Player 7": ["villager", "TJ"],
-    "Tallier": []
+    "Player 7": ["villager", "TJ"]
 }
 
 all_v_fp = {
@@ -59,8 +56,7 @@ all_v_fp = {
     "Player 4": ["villager", "FP"],
     "Player 5": ["villager", "FP"],
     "Player 6": ["villager", "FP"],
-    "Player 7": ["villager", "FP"],
-    "Tallier": []
+    "Player 7": ["villager", "FP"]
 }
 
 all_v_fj = {
@@ -70,8 +66,7 @@ all_v_fj = {
     "Player 4": ["villager", "FJ"],
     "Player 5": ["villager", "FJ"],
     "Player 6": ["villager", "FJ"],
-    "Player 7": ["villager", "FJ"],
-    "Tallier": []
+    "Player 7": ["villager", "FJ"]
 }
 
 villagers_throw = {
@@ -81,8 +76,7 @@ villagers_throw = {
     "Player 4": ["villager", "not_trying_villager"],
     "Player 5": ["villager", "not_trying_villager"],
     "Player 6": ["villager", "not_trying_villager"],
-    "Player 7": ["villager", "not_trying_villager"],
-    "Tallier": []
+    "Player 7": ["villager", "not_trying_villager"]
 }
 
 v_aggro_were_throw = {
@@ -92,8 +86,7 @@ v_aggro_were_throw = {
     "Player 4": ["villager", "aggressive_villager"],
     "Player 5": ["villager", "aggressive_villager"],
     "Player 6": ["villager", "aggressive_villager"],
-    "Player 7": ["villager", "aggressive_villager"],
-    "Tallier": []
+    "Player 7": ["villager", "aggressive_villager"]
 }
 
 w_aggro_vill_throw = {
@@ -103,8 +96,7 @@ w_aggro_vill_throw = {
     "Player 4": ["villager", "not_trying_villager"],
     "Player 5": ["villager", "not_trying_villager"],
     "Player 6": ["villager", "not_trying_villager"],
-    "Player 7": ["villager", "not_trying_villager"],
-    "Tallier": []
+    "Player 7": ["villager", "not_trying_villager"]
 }
 
 werewolves_throw = {
@@ -114,8 +106,7 @@ werewolves_throw = {
     "Player 4": ["villager", "blank"],
     "Player 5": ["villager", "blank"],
     "Player 6": ["villager", "blank"],
-    "Player 7": ["villager", "blank"],
-    "Tallier": []
+    "Player 7": ["villager", "blank"]
 }
 
 alternate_letters = {
@@ -125,34 +116,44 @@ alternate_letters = {
     "Player 4": ["villager", "alt"],
     "Player 5": ["villager", "alt"],
     "Player 6": ["villager", "alt"],
-    "Player 7": ["villager", "alt"],
-    "Tallier": []
+    "Player 7": ["villager", "alt"]
 }
 
 alternate_letters_fourp = {
     "Player 1": ["werewolf", "alt"],
     "Player 2": ["werewolf", "alt"],
     "Player 3": ["villager", "alt"],
-    "Player 4": ["villager", "alt"],
-    "Tallier": []
+    "Player 4": ["villager", "alt"]
 }
 
 w_aggro_vill_throw_fourp = {
     "Player 1": ["werewolf", "aggressive_werewolf"],
     "Player 2": ["werewolf", "aggressive_werewolf"],
     "Player 3": ["villager", "not_trying_villager"],
-    "Player 4": ["villager", "not_trying_villager"],
-    "Tallier": []
+    "Player 4": ["villager", "not_trying_villager"]
 }
 
 setting_list = [
-    # diverse_v,  # Diverse villagers setting
-    all_v_tp,   # All villagers with TP personality
-    all_v_tj,   # All villagers with TJ personality
-    all_v_fp,   # All villagers with FP personality
-    all_v_fj    # All villagers with FJ personality
+    diverse_v,         # Diverse villagers setting
+    all_v_tp,          # All villagers with TP personality
+    all_v_tj,          # All villagers with TJ personality
+    all_v_fp,          # All villagers with FP personality
+    all_v_fj,          # All villagers with FJ personality
+    villagers_throw,   # Villagers throw, werewolves are blank
+    werewolves_throw,  # Werewolves throw, villagers are blank
+    alternate_letters  # Alternating personality assignment
 ]
 
+setting_name_list = [
+    "diverse_v",
+    "all_v_tp",
+    "all_v_tj",
+    "all_v_fp",
+    "all_v_fj",
+    "villagers_throw",
+    "werewolves_throw",
+    "alternate_letters"
+]
 import re
 
 
@@ -237,73 +238,7 @@ class WerewolfGame:
             raise ValueError(f"Error parsing transcript JSON: {e}") from e
 
 
-
-    def play_round(self):
-        # print("Players in this Round: ", self.players)
-
-        # Start measuring execution time
-        start_time = time.perf_counter()
-
-
-        # Filter alive agents at kickoff
-        alive_players = self.current_players.keys()
-
-        print("Alive players: ", alive_players)
-
-        self.gameCrew.agents = [a for a in self.gameCrew.agents if a.role in alive_players]
-
-        print("self.crew.agents: ", self.gameCrew.agents)
-
-
-        # Run the CrewAI process
-        # TODO: Tie each task to its own player, and only do each task if the player it corresponds to is actually in the lsit of self.crew.agents
-
-        transcript = self.gameCrew.run_alive_player_tasks(self.current_players.keys())
-
-        # Record memory after each round
-
-        # Create filename with current timestamp
-        timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-        filename = f"memories/{timestamp}.json"
-
-        # Post-round read from external memory
-        print("POST-ROUND: READING FROM EXTERNAL MEMORY: ", extMem.storage.memories)
-
-        # Save to file
-        with open(filename, "w", encoding="utf-8") as f:
-            json.dump(extMem.storage.memories, f, ensure_ascii=False, indent=4)
-        
-        print("In play_round: round transcript: ", transcript)
-
-
-        # Update state from transcript
-        self.transcripts.append(transcript)
-        self.update_state_from_transcript(transcript)
-        self.round_number += 1
-
-        # Record end time
-        end_time = time.perf_counter()
-        execution_time = end_time - start_time
-
-
-        # Write full transcript to a separate file
-        transcript_filename = f"transcripts/{timestamp}_round_{self.round_number}_transcript .txt"
-        with open(transcript_filename, "w", encoding="utf-8") as f:
-            f.write(transcript.raw)
-
-            # Write prettier version of the transcript
-            f.write("\n===TRANSCRIPT===\n")
-            f.write(transcript.raw)
-
-            # Write round execution time
-            f.write(f"\n Round Execution Time: {execution_time:.6f} seconds \n")
-
-
-
-
-        return transcript
     
-        # === ADD inside WerewolfGame ================================================
     def play_round_with_night(self):
             start_time = time.perf_counter()
 
@@ -427,7 +362,7 @@ class WerewolfGame:
         players = self.current_players
         # Case 1: Only one or zero players remain.
         # We must subtract one to represent the tallier
-        if len(players ) - 1 <= 1:
+        if len(players) - 1 <= 1:
             print("GAME OVER: First Branch")
             role_data = [data[0] for data in players.values() if data]
 
@@ -462,30 +397,30 @@ class WerewolfGame:
             print("GAME OVER: Only one (or zero) player remains.")
             return True
         # Case 2: All remaining non-Tallier players have the same role.
-        role_data = [vals[0] for name, vals in players.items() if name != "Tallier" and vals]
-        roles_set = set(role_data)
-        print("Roles: ", roles_set)
+        else:
+            roles_set = set([vals[0] for name, vals in players.items() if name != "Tallier" and vals])
+            print("Roles: ", roles_set)
 
-        if len(roles_set) == 1:
-            print("GAME OVER: Second Branch")
+            if len(roles_set) == 1:
+                print("GAME OVER: Second Branch")
 
-            # Determine winning team from the single role present
-            only_role = next(iter(roles_set)) if roles_set else ""
-            winning_team = "V" if only_role == "villager" else ("W" if only_role == "werewolf" else "N")
+                # Determine winning team from the single role present
+                only_role, = roles_set
+                winning_team = "V" if only_role == "villager" else ("W" if only_role == "werewolf" else "N")
 
-            num_villagers = sum(1 for r in role_data if r == "villager")
-            num_werewolves = sum(1 for r in role_data if r == "werewolf")
+                num_villagers = sum(1 for r in role_data if r == "villager")
+                num_werewolves = sum(1 for r in role_data if r == "werewolf")
 
-            self.log_game_over(winning_team, num_villagers, num_werewolves)
+                self.log_game_over(winning_team, num_villagers, num_werewolves)
 
-            num_left = len([n for n in players.keys() if n != "Tallier"])
-            if winning_team == "W":
-                print(f"GAME OVER: Only werewolves remain, of which there are {num_left}")
-            elif winning_team == "V":
-                print(f"GAME OVER: Only villagers remain, of which there are {num_left}")
-            else:
-                print(f"GAME OVER: All remaining have the same nonstandard role: {only_role}")
-            return True
+                num_left = len([n for n in players.keys() if n != "Tallier"])
+                if winning_team == "W":
+                    print(f"GAME OVER: Only werewolves remain, of which there are {num_left}")
+                elif winning_team == "V":
+                    print(f"GAME OVER: Only villagers remain, of which there are {num_left}")
+                else:
+                    print(f"GAME OVER: All remaining have the same nonstandard role: {only_role}")
+                return True
         return False
     
     def check_game_over(self):
@@ -523,44 +458,47 @@ def play_game():
 
 
 def main():
-    game_num = 1
 
-    # Set the current villagers for the game instance
     global curr_setting
-    curr_setting = w_aggro_vill_throw 
     global curr_setting_name
-    curr_setting_name = "w_aggro_vill_throw"
+    game_num = 10
 
-    
-    
-    # Prepare log file
-    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-    log_filename = f"logs/{timestamp}.ansi"
+    for i in range(len(setting_list)):
+
+        # Set the current villagers for the game instance
+        curr_setting = setting_list[i]
+        curr_setting_name = setting_name_list[i]
+
+        
+        
+        # Prepare log file
+        timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+        log_filename = f"logs/{timestamp}.ansi"
 
 
-    # Redirect stdout to log file
-    original_stdout = sys.stdout
-    with open(log_filename, "w", encoding="utf-8") as log_file:
-        sys.stdout = log_file  # Redirect stdout
+        # Redirect stdout to log file
+        original_stdout = sys.stdout
+        with open(log_filename, "w", encoding="utf-8") as log_file:
+            sys.stdout = log_file  # Redirect stdout
 
 
-        for i in range(game_num): 
-            print(f'Game {i+1}')
-            print('====================')
-            play_game()
+            for i in range(game_num): 
+                print(f'Game {i+1}')
+                print('====================')
+                play_game()
 
-    # Restore stdout
-    sys.stdout = original_stdout 
+        # Restore stdout
+        sys.stdout = original_stdout 
 
-    # Parser logfile content with logparser
-    with open(log_filename, "r", encoding="utf-8") as log_file:
-        text = log_file.read()
+        # Parser logfile content with logparser
+        with open(log_filename, "r", encoding="utf-8") as log_file:
+            text = log_file.read()
 
-    cleaned_text = parser.logparser.clean_text(text)
+        cleaned_text = parser.logparser.clean_text(text)
 
-    # Step 3: overwrite the file with cleaned text
-    with open(log_filename, "w", encoding="utf-8") as log_file:
-        log_file.write(cleaned_text)
+        # Step 3: overwrite the file with cleaned text
+        with open(log_filename, "w", encoding="utf-8") as log_file:
+            log_file.write(cleaned_text)
 
 
     

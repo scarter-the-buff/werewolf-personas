@@ -19,7 +19,9 @@ class stat_cruncher:
             reader = csv.reader(csvfile)
             next(reader)
             for row in reader:
-                winning_team_list.append(int(row[2]))
+                winning_team = row[2]
+                winning_num = (1 if winning_team == "V" else 0)
+                winning_team_list.append(int(winning_num))
                 n += 1
             
             werewolf_winrate = np.mean(np.array(winning_team_list))
@@ -45,10 +47,9 @@ class stat_cruncher:
 
 obj = stat_cruncher()
 
-filename1 = "./stats/game_stats_werewolves_throw_5_20.csv"
-
-filename2 = "./stats/game_stats_villagers_throw.csv"
+filename1 = "./stats/game_stats_villager_not_trying.csv"
 
 
 
-obj.compare_winrate(filename1, filename2)
+
+obj.get_winrate(filename1)

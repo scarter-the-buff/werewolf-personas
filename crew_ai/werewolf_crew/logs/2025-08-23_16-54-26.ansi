@@ -1,0 +1,572 @@
+Game 1
+====================
+Values are: {'agent': Agent(role=Player 1, goal=You start each utterance with the phrase 'aggressive_werewolf'..., backstory=Your name is Player 1.), 'description': 'You are playing Werewolf (DAY). You are Player 1. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3". No extra text.', 'expected_output': 'Player X', 'context': []}
+Values are: {'agent': Agent(role=Player 2, goal=You start each utterance with the phrase 'aggressive_werewolf'..., backstory=Your name is Player 2.), 'description': 'You are playing Werewolf (DAY). You are Player 2. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3".', 'expected_output': 'Player X', 'context': [Task(description=You are playing Werewolf (DAY). You are Player 1. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3". No extra text., expected_output=Player X)]}
+Values are: {'agent': Agent(role=Player 3, goal=You start each utterance with the phrase 'not_trying_villager'..., backstory=Your name is Player 3.), 'description': 'You are playing Werewolf (DAY). You are Player 3. Output ONLY the exact player name you vote to eliminate, e.g., "Player 1".', 'expected_output': 'Player X', 'context': [Task(description=You are playing Werewolf (DAY). You are Player 2. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 1. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3". No extra text., expected_output=Player X)]}
+Values are: {'agent': Agent(role=Player 4, goal=You start each utterance with the phrase 'not_trying_villager'..., backstory=Your name is Player 4.), 'description': 'You are playing Werewolf (DAY). You are Player 4. Output ONLY the exact player name you vote to eliminate, e.g., "Player 2".', 'expected_output': 'Player X', 'context': [Task(description=You are playing Werewolf (DAY). You are Player 3. Output ONLY the exact player name you vote to eliminate, e.g., "Player 1"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 2. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 1. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3". No extra text., expected_output=Player X)]}
+Values are: {'agent': Agent(role=Player 5, goal=You start each utterance with the phrase 'not_trying_villager'..., backstory=Your name is Player 5.), 'description': 'You are playing Werewolf (DAY). You are Player 5. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3".', 'expected_output': 'Player X', 'context': [Task(description=You are playing Werewolf (DAY). You are Player 4. Output ONLY the exact player name you vote to eliminate, e.g., "Player 2"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 3. Output ONLY the exact player name you vote to eliminate, e.g., "Player 1"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 2. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 1. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3". No extra text., expected_output=Player X)]}
+Values are: {'agent': Agent(role=Player 6, goal=You start each utterance with the phrase 'not_trying_villager'..., backstory=Your name is Player 6.), 'description': 'You are playing Werewolf (DAY). You are Player 6. Output ONLY the exact player name you vote to eliminate, e.g., "Player 2".', 'expected_output': 'Player X', 'context': [Task(description=You are playing Werewolf (DAY). You are Player 5. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 4. Output ONLY the exact player name you vote to eliminate, e.g., "Player 2"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 3. Output ONLY the exact player name you vote to eliminate, e.g., "Player 1"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 2. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 1. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3". No extra text., expected_output=Player X)]}
+Values are: {'agent': Agent(role=Player 7, goal=You start each utterance with the phrase 'not_trying_villager'..., backstory=Your name is Player 7.), 'description': 'You are playing Werewolf (DAY). You are Player 7. Output ONLY the exact player name you vote to eliminate, e.g., "Player 4".', 'expected_output': 'Player X', 'context': [Task(description=You are playing Werewolf (DAY). You are Player 6. Output ONLY the exact player name you vote to eliminate, e.g., "Player 2"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 5. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 4. Output ONLY the exact player name you vote to eliminate, e.g., "Player 2"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 3. Output ONLY the exact player name you vote to eliminate, e.g., "Player 1"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 2. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 1. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3". No extra text., expected_output=Player X)]}
+Values are: {'agent': Agent(role=Tallier, goal=You are the tallier ... (unused now, but kept), backstory=Your name is Tallier.), 'description': 'Unused (tally is done in Python now).', 'expected_output': '{ "night_elim": "", "day_elim": "" }', 'context': [Task(description=You are playing Werewolf (DAY). You are Player 7. Output ONLY the exact player name you vote to eliminate, e.g., "Player 4"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 6. Output ONLY the exact player name you vote to eliminate, e.g., "Player 2"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 5. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 4. Output ONLY the exact player name you vote to eliminate, e.g., "Player 2"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 3. Output ONLY the exact player name you vote to eliminate, e.g., "Player 1"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 2. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 1. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3". No extra text., expected_output=Player X)]}
+==== STARTING ROUND 1 ===
+Values are: {'agent': Agent(role=Player 1, goal=You start each utterance with the phrase 'aggressive_werewolf'..., backstory=Your name is Player 1.), 'description': "NIGHT PHASE — Werewolf vote. You are Player 1. Choose exactly one VILLAGER from: Player 3, Player 4, Player 5, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 5'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Values are: {'agent': Agent(role=Player 2, goal=You start each utterance with the phrase 'aggressive_werewolf'..., backstory=Your name is Player 2.), 'description': "NIGHT PHASE — Werewolf vote. You are Player 2. Choose exactly one VILLAGER from: Player 3, Player 4, Player 5, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 5'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Crew Execution Started
+
+Crew Execution Started
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+# Agent: Player 1
+## Task: NIGHT PHASE — Werewolf vote. You are Player 1. Choose exactly one VILLAGER from: Player 3, Player 4, Player 5, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 5'. No extra text.
+
+# Agent: Player 1
+## Final Answer:
+Player 4
+
+Crew: crew
+Task: 7a7f1eec-3726-4cb8-bc55-6ee137fb58cd
+Assigned to: Player 1Status: Completed Task Completion
+
+Task Completed
+Name: 7a7f1eec-3726-4cb8-bc55-6ee137fb58cd
+Agent: Player 1
+
+Crew Completion
+
+Crew Execution Completed
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+Extracted votes: <re.Match object; span=(0, 8), match='Player 4'>
+Crew Execution Started
+
+Crew Execution Started
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+# Agent: Player 2
+## Task: NIGHT PHASE — Werewolf vote. You are Player 2. Choose exactly one VILLAGER from: Player 3, Player 4, Player 5, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 5'. No extra text.
+
+# Agent: Player 2
+## Final Answer:
+Player 4
+
+Crew: crew
+Task: cd16d508-7183-4c1d-9aa5-b8392c993a66
+Assigned to: Player 2Status: Completed Task Completion
+
+Task Completed
+Name: cd16d508-7183-4c1d-9aa5-b8392c993a66
+Agent: Player 2
+
+Crew Completion
+
+Crew Execution Completed
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+Extracted votes: <re.Match object; span=(0, 8), match='Player 4'>
+In computer elimination-- votes: ['Player 4', 'Player 4']
+In compute elimination: c: Counter({'Player 4': 2})
+Computed elimination, winner = Player 4
+Values are: {'agent': Agent(role=Player 1, goal=You start each utterance with the phrase 'aggressive_werewolf'..., backstory=Your name is Player 1.), 'description': "DAY PHASE — You are Player 1. Choose exactly one player from: Player 1, Player 2, Player 3, Player 5, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Values are: {'agent': Agent(role=Player 2, goal=You start each utterance with the phrase 'aggressive_werewolf'..., backstory=Your name is Player 2.), 'description': "DAY PHASE — You are Player 2. Choose exactly one player from: Player 1, Player 2, Player 3, Player 5, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Values are: {'agent': Agent(role=Player 3, goal=You start each utterance with the phrase 'not_trying_villager'..., backstory=Your name is Player 3.), 'description': "DAY PHASE — You are Player 3. Choose exactly one player from: Player 1, Player 2, Player 3, Player 5, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Values are: {'agent': Agent(role=Player 5, goal=You start each utterance with the phrase 'not_trying_villager'..., backstory=Your name is Player 5.), 'description': "DAY PHASE — You are Player 5. Choose exactly one player from: Player 1, Player 2, Player 3, Player 5, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Values are: {'agent': Agent(role=Player 6, goal=You start each utterance with the phrase 'not_trying_villager'..., backstory=Your name is Player 6.), 'description': "DAY PHASE — You are Player 6. Choose exactly one player from: Player 1, Player 2, Player 3, Player 5, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Values are: {'agent': Agent(role=Player 7, goal=You start each utterance with the phrase 'not_trying_villager'..., backstory=Your name is Player 7.), 'description': "DAY PHASE — You are Player 7. Choose exactly one player from: Player 1, Player 2, Player 3, Player 5, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Crew Execution Started
+
+Crew Execution Started
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+# Agent: Player 1
+## Task: DAY PHASE — You are Player 1. Choose exactly one player from: Player 1, Player 2, Player 3, Player 5, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.
+
+# Agent: Player 1
+## Final Answer:
+Player 3
+
+Crew: crew
+Task: 4fde187b-eae4-421a-8194-e8e781eb68bd
+Assigned to: Player 1Status: Completed Task Completion
+
+Task Completed
+Name: 4fde187b-eae4-421a-8194-e8e781eb68bd
+Agent: Player 1
+
+Crew Completion
+
+Crew Execution Completed
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+Extracted votes: <re.Match object; span=(0, 8), match='Player 3'>
+Crew Execution Started
+
+Crew Execution Started
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+# Agent: Player 2
+## Task: DAY PHASE — You are Player 2. Choose exactly one player from: Player 1, Player 2, Player 3, Player 5, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.
+
+# Agent: Player 2
+## Final Answer:
+Player 3
+
+Crew: crew
+Task: 90e86e52-ed8e-410b-ab04-f6128eb4fd5c
+Assigned to: Player 2Status: Completed Task Completion
+
+Task Completed
+Name: 90e86e52-ed8e-410b-ab04-f6128eb4fd5c
+Agent: Player 2
+
+Crew Completion
+
+Crew Execution Completed
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+Extracted votes: <re.Match object; span=(0, 8), match='Player 3'>
+Crew Execution Started
+
+Crew Execution Started
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+# Agent: Player 3
+## Task: DAY PHASE — You are Player 3. Choose exactly one player from: Player 1, Player 2, Player 3, Player 5, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.
+
+# Agent: Player 3
+## Final Answer:
+Player 5
+
+Crew: crew
+Task: 16e26d25-6f08-4eaf-95fd-6a29fecb7802
+Assigned to: Player 3Status: Completed Task Completion
+
+Task Completed
+Name: 16e26d25-6f08-4eaf-95fd-6a29fecb7802
+Agent: Player 3
+
+Crew Completion
+
+Crew Execution Completed
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+Extracted votes: <re.Match object; span=(0, 8), match='Player 5'>
+Crew Execution Started
+
+Crew Execution Started
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+# Agent: Player 5
+## Task: DAY PHASE — You are Player 5. Choose exactly one player from: Player 1, Player 2, Player 3, Player 5, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.
+
+# Agent: Player 5
+## Final Answer:
+Player 3
+
+Crew: crew
+Task: f7516863-2df3-40b5-a7de-26195968dd36
+Assigned to: Player 5Status: Completed Task Completion
+
+Task Completed
+Name: f7516863-2df3-40b5-a7de-26195968dd36
+Agent: Player 5
+
+Crew Completion
+
+Crew Execution Completed
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+Extracted votes: <re.Match object; span=(0, 8), match='Player 3'>
+Crew Execution Started
+
+Crew Execution Started
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+# Agent: Player 6
+## Task: DAY PHASE — You are Player 6. Choose exactly one player from: Player 1, Player 2, Player 3, Player 5, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.
+
+# Agent: Player 6
+## Final Answer:
+Player 3
+
+Crew: crew
+Task: eafac574-394e-4a8b-ba5b-3f7e633948bc
+Assigned to: Player 6Status: Completed Task Completion
+
+Task Completed
+Name: eafac574-394e-4a8b-ba5b-3f7e633948bc
+Agent: Player 6
+
+Crew Completion
+
+Crew Execution Completed
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+Extracted votes: <re.Match object; span=(0, 8), match='Player 3'>
+Crew Execution Started
+
+Crew Execution Started
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+# Agent: Player 7
+## Task: DAY PHASE — You are Player 7. Choose exactly one player from: Player 1, Player 2, Player 3, Player 5, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.
+
+# Agent: Player 7
+## Final Answer:
+Player 5
+
+Crew: crew
+Task: 4f6f4f6f-e294-49d6-87d0-1d95dc8d3e65
+Assigned to: Player 7Status: Completed Task Completion
+
+Task Completed
+Name: 4f6f4f6f-e294-49d6-87d0-1d95dc8d3e65
+Agent: Player 7
+
+Crew Completion
+
+Crew Execution Completed
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+Extracted votes: <re.Match object; span=(0, 8), match='Player 5'>
+Day votes: [{'voter': 'Player 1', 'vote': 'Player 3'}, {'voter': 'Player 2', 'vote': 'Player 3'}, {'voter': 'Player 3', 'vote': 'Player 5'}, {'voter': 'Player 5', 'vote': 'Player 3'}, {'voter': 'Player 6', 'vote': 'Player 3'}, {'voter': 'Player 7', 'vote': 'Player 5'}]
+In computer elimination-- votes: ['Player 3', 'Player 3', 'Player 5', 'Player 3', 'Player 3', 'Player 5']
+In compute elimination: c: Counter({'Player 3': 4, 'Player 5': 2})
+Computed elimination, winner = Player 3
+Finished Round 1
+Check game over detected no game over
+==== STARTING ROUND 2 ===
+Values are: {'agent': Agent(role=Player 1, goal=You start each utterance with the phrase 'aggressive_werewolf'..., backstory=Your name is Player 1.), 'description': "NIGHT PHASE — Werewolf vote. You are Player 1. Choose exactly one VILLAGER from: Player 5, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 5'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Values are: {'agent': Agent(role=Player 2, goal=You start each utterance with the phrase 'aggressive_werewolf'..., backstory=Your name is Player 2.), 'description': "NIGHT PHASE — Werewolf vote. You are Player 2. Choose exactly one VILLAGER from: Player 5, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 5'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Crew Execution Started
+
+Crew Execution Started
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+# Agent: Player 1
+## Task: NIGHT PHASE — Werewolf vote. You are Player 1. Choose exactly one VILLAGER from: Player 5, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 5'. No extra text.
+
+# Agent: Player 1
+## Final Answer:
+Player 6
+
+Crew: crew
+Task: 9ee4d59d-b9b2-476e-acf9-8100bfdfb5a6
+Assigned to: Player 1Status: Completed Task Completion
+
+Task Completed
+Name: 9ee4d59d-b9b2-476e-acf9-8100bfdfb5a6
+Agent: Player 1
+
+Crew Completion
+
+Crew Execution Completed
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+Extracted votes: <re.Match object; span=(0, 8), match='Player 6'>
+Crew Execution Started
+
+Crew Execution Started
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+# Agent: Player 2
+## Task: NIGHT PHASE — Werewolf vote. You are Player 2. Choose exactly one VILLAGER from: Player 5, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 5'. No extra text.
+
+# Agent: Player 2
+## Final Answer:
+Player 6
+
+Crew: crew
+Task: b952bf42-9907-440f-877a-685fd106f174
+Assigned to: Player 2Status: Completed Task Completion
+
+Task Completed
+Name: b952bf42-9907-440f-877a-685fd106f174
+Agent: Player 2
+
+Crew Completion
+
+Crew Execution Completed
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+Extracted votes: <re.Match object; span=(0, 8), match='Player 6'>
+In computer elimination-- votes: ['Player 6', 'Player 6']
+In compute elimination: c: Counter({'Player 6': 2})
+Computed elimination, winner = Player 6
+Values are: {'agent': Agent(role=Player 1, goal=You start each utterance with the phrase 'aggressive_werewolf'..., backstory=Your name is Player 1.), 'description': "DAY PHASE — You are Player 1. Choose exactly one player from: Player 1, Player 2, Player 5, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Values are: {'agent': Agent(role=Player 2, goal=You start each utterance with the phrase 'aggressive_werewolf'..., backstory=Your name is Player 2.), 'description': "DAY PHASE — You are Player 2. Choose exactly one player from: Player 1, Player 2, Player 5, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Values are: {'agent': Agent(role=Player 5, goal=You start each utterance with the phrase 'not_trying_villager'..., backstory=Your name is Player 5.), 'description': "DAY PHASE — You are Player 5. Choose exactly one player from: Player 1, Player 2, Player 5, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Values are: {'agent': Agent(role=Player 7, goal=You start each utterance with the phrase 'not_trying_villager'..., backstory=Your name is Player 7.), 'description': "DAY PHASE — You are Player 7. Choose exactly one player from: Player 1, Player 2, Player 5, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Crew Execution Started
+
+Crew Execution Started
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+# Agent: Player 1
+## Task: DAY PHASE — You are Player 1. Choose exactly one player from: Player 1, Player 2, Player 5, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.
+
+# Agent: Player 1
+## Final Answer:
+Player 2
+
+Crew: crew
+Task: 3a3b4c85-e12f-43f8-8d63-5c485fb908fe
+Assigned to: Player 1Status: Completed Task Completion
+
+Task Completed
+Name: 3a3b4c85-e12f-43f8-8d63-5c485fb908fe
+Agent: Player 1
+
+Crew Completion
+
+Crew Execution Completed
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+Extracted votes: <re.Match object; span=(0, 8), match='Player 2'>
+Crew Execution Started
+
+Crew Execution Started
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+# Agent: Player 2
+## Task: DAY PHASE — You are Player 2. Choose exactly one player from: Player 1, Player 2, Player 5, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.
+
+# Agent: Player 2
+## Final Answer:
+Player 5
+
+Crew: crew
+Task: 1c520548-56cf-4e49-93eb-c9467b0c4baa
+Assigned to: Player 2Status: Completed Task Completion
+
+Task Completed
+Name: 1c520548-56cf-4e49-93eb-c9467b0c4baa
+Agent: Player 2
+
+Crew Completion
+
+Crew Execution Completed
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+Extracted votes: <re.Match object; span=(0, 8), match='Player 5'>
+Crew Execution Started
+
+Crew Execution Started
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+# Agent: Player 5
+## Task: DAY PHASE — You are Player 5. Choose exactly one player from: Player 1, Player 2, Player 5, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.
+
+# Agent: Player 5
+## Final Answer:
+Player 7
+
+Crew: crew
+Task: 874d22b7-ead3-4191-a891-ef0b07496c12
+Assigned to: Player 5Status: Completed Task Completion
+
+Task Completed
+Name: 874d22b7-ead3-4191-a891-ef0b07496c12
+Agent: Player 5
+
+Crew Completion
+
+Crew Execution Completed
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+Extracted votes: <re.Match object; span=(0, 8), match='Player 7'>
+Crew Execution Started
+
+Crew Execution Started
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+# Agent: Player 7
+## Task: DAY PHASE — You are Player 7. Choose exactly one player from: Player 1, Player 2, Player 5, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.
+
+# Agent: Player 7
+## Final Answer:
+Player 5
+
+Crew: crew
+Task: 762bc2fe-5c65-43c4-9d60-65342ea24a12
+Assigned to: Player 7Status: Completed Task Completion
+
+Task Completed
+Name: 762bc2fe-5c65-43c4-9d60-65342ea24a12
+Agent: Player 7
+
+Crew Completion
+
+Crew Execution Completed
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+Extracted votes: <re.Match object; span=(0, 8), match='Player 5'>
+Day votes: [{'voter': 'Player 1', 'vote': 'Player 2'}, {'voter': 'Player 2', 'vote': 'Player 5'}, {'voter': 'Player 5', 'vote': 'Player 7'}, {'voter': 'Player 7', 'vote': 'Player 5'}]
+In computer elimination-- votes: ['Player 2', 'Player 5', 'Player 7', 'Player 5']
+In compute elimination: c: Counter({'Player 5': 2, 'Player 2': 1, 'Player 7': 1})
+Computed elimination, winner = Player 5
+Finished Round 2
+Check game over detected no game over
+==== STARTING ROUND 3 ===
+Values are: {'agent': Agent(role=Player 1, goal=You start each utterance with the phrase 'aggressive_werewolf'..., backstory=Your name is Player 1.), 'description': "NIGHT PHASE — Werewolf vote. You are Player 1. Choose exactly one VILLAGER from: Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 5'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Values are: {'agent': Agent(role=Player 2, goal=You start each utterance with the phrase 'aggressive_werewolf'..., backstory=Your name is Player 2.), 'description': "NIGHT PHASE — Werewolf vote. You are Player 2. Choose exactly one VILLAGER from: Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 5'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Crew Execution Started
+
+Crew Execution Started
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+# Agent: Player 1
+## Task: NIGHT PHASE — Werewolf vote. You are Player 1. Choose exactly one VILLAGER from: Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 5'. No extra text.
+
+# Agent: Player 1
+## Final Answer:
+Player 7
+
+Crew: crew
+Task: fad63bc6-72c4-47b7-971a-e7269118d8fe
+Assigned to: Player 1Status: Completed Task Completion
+
+Task Completed
+Name: fad63bc6-72c4-47b7-971a-e7269118d8fe
+Agent: Player 1
+
+Crew Completion
+
+Crew Execution Completed
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+Extracted votes: <re.Match object; span=(0, 8), match='Player 7'>
+Crew Execution Started
+
+Crew Execution Started
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+# Agent: Player 2
+## Task: NIGHT PHASE — Werewolf vote. You are Player 2. Choose exactly one VILLAGER from: Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 5'. No extra text.
+
+# Agent: Player 2
+## Final Answer:
+Player 7
+
+Crew: crew
+Task: 880bbc80-481e-494b-9316-29513e8ea4f3
+Assigned to: Player 2Status: Completed Task Completion
+
+Task Completed
+Name: 880bbc80-481e-494b-9316-29513e8ea4f3
+Agent: Player 2
+
+Crew Completion
+
+Crew Execution Completed
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+Extracted votes: <re.Match object; span=(0, 8), match='Player 7'>
+In computer elimination-- votes: ['Player 7', 'Player 7']
+In compute elimination: c: Counter({'Player 7': 2})
+Computed elimination, winner = Player 7
+Values are: {'agent': Agent(role=Player 1, goal=You start each utterance with the phrase 'aggressive_werewolf'..., backstory=Your name is Player 1.), 'description': "DAY PHASE — You are Player 1. Choose exactly one player from: Player 1, Player 2. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Values are: {'agent': Agent(role=Player 2, goal=You start each utterance with the phrase 'aggressive_werewolf'..., backstory=Your name is Player 2.), 'description': "DAY PHASE — You are Player 2. Choose exactly one player from: Player 1, Player 2. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Crew Execution Started
+
+Crew Execution Started
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+# Agent: Player 1
+## Task: DAY PHASE — You are Player 1. Choose exactly one player from: Player 1, Player 2. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.
+
+# Agent: Player 1
+## Final Answer:
+Player 2
+
+Crew: crew
+Task: 232d9dd4-00c9-4f40-a8d3-7f02f448244e
+Assigned to: Player 1Status: Completed Task Completion
+
+Task Completed
+Name: 232d9dd4-00c9-4f40-a8d3-7f02f448244e
+Agent: Player 1
+
+Crew Completion
+
+Crew Execution Completed
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+Extracted votes: <re.Match object; span=(0, 8), match='Player 2'>
+Crew Execution Started
+
+Crew Execution Started
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+# Agent: Player 2
+## Task: DAY PHASE — You are Player 2. Choose exactly one player from: Player 1, Player 2. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.
+
+# Agent: Player 2
+## Final Answer:
+Player 1
+
+Crew: crew
+Task: c5595cd6-6856-4ed2-9463-16a10c63dd84
+Assigned to: Player 2Status: Completed Task Completion
+
+Task Completed
+Name: c5595cd6-6856-4ed2-9463-16a10c63dd84
+Agent: Player 2
+
+Crew Completion
+
+Crew Execution Completed
+Name: crew
+ID: 2387a47a-0536-476e-8a5c-13fe9932814c
+
+Extracted votes: <re.Match object; span=(0, 8), match='Player 1'>
+Day votes: [{'voter': 'Player 1', 'vote': 'Player 2'}, {'voter': 'Player 2', 'vote': 'Player 1'}]
+In computer elimination-- votes: ['Player 2', 'Player 1']
+In compute elimination: c: Counter({'Player 2': 1, 'Player 1': 1})
+Computed elimination, winner = Player 1
+Finished Round 3
+Check game over detected game over
+Game Over.
+PERFORMING GAME OVER
+GAME OVER: First Branch
+Last role: werewolf
+The last remaining player is Player 2 with role werewolf.
+Role data: ['werewolf']
+num_villagers: 0
+num_werewolves: 1
+GAME OVER: Only one (or zero) player remains.
+Game Over? True

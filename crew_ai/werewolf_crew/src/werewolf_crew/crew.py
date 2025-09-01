@@ -61,7 +61,7 @@ class WerewolfCrew():
     player7_turn_obj = task_obj.task_obj()
     tallier_turn_obj = task_obj.task_obj()
 
-    OPENAI_MODEL = LLM(model="gpt-4o-mini", temperature=0)
+    OPENAI_MODEL = LLM(model="gpt-4o-mini", temperature=1.0)
 
     def __init__(self, players: dict):
         self.players = players

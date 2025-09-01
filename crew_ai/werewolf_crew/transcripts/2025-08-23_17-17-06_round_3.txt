@@ -1,0 +1,30 @@
+{
+  "transcript": "",
+  "night_elim": "Player 7",
+  "day_elim": "Player 1",
+  "night_votes": [
+    {
+      "voter": "Player 1",
+      "vote": "Player 7"
+    },
+    {
+      "voter": "Player 2",
+      "vote": "Player 7"
+    }
+  ],
+  "day_votes": [
+    {
+      "voter": "Player 1",
+      "vote": "Player 2"
+    },
+    {
+      "voter": "Player 2",
+      "vote": "Player 1"
+    }
+  ],
+  "remaining": [
+    "Player 2"
+  ]
+}
+
+Round Execution Time: 2.656407 seconds
