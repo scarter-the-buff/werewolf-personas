@@ -1,0 +1,748 @@
+Game 1
+====================
+Values are:  {'agent': Agent(role=Player 1, goal=You start each utterance with the phrase 'thinking'...You start each utterance with the phrase 'judging'..., backstory=Your name is Player 1.), 'description': 'You are playing Werewolf (DAY). You are Player 1. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3". No extra text.', 'expected_output': 'Player X', 'context': []}
+Values are:  {'agent': Agent(role=Player 2, goal=You start each utterance with the phrase 'feeling'...You start each utterance with the phrase 'perceiving'..., backstory=Your name is Player 2.), 'description': 'You are playing Werewolf (DAY). You are Player 2. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3".', 'expected_output': 'Player X', 'context': [Task(description=You are playing Werewolf (DAY). You are Player 1. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3". No extra text., expected_output=Player X)]}
+Values are:  {'agent': Agent(role=Player 3, goal=You start each utterance with the phrase 'thinking'...You start each utterance with the phrase 'judging'..., backstory=Your name is Player 3.), 'description': 'You are playing Werewolf (DAY). You are Player 3. Output ONLY the exact player name you vote to eliminate, e.g., "Player 1".', 'expected_output': 'Player X', 'context': [Task(description=You are playing Werewolf (DAY). You are Player 2. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 1. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3". No extra text., expected_output=Player X)]}
+Values are:  {'agent': Agent(role=Player 4, goal=You start each utterance with the phrase 'thinking'...You start each utterance with the phrase 'perceiving'..., backstory=Your name is Player 4.), 'description': 'You are playing Werewolf (DAY). You are Player 4. Output ONLY the exact player name you vote to eliminate, e.g., "Player 2".', 'expected_output': 'Player X', 'context': [Task(description=You are playing Werewolf (DAY). You are Player 3. Output ONLY the exact player name you vote to eliminate, e.g., "Player 1"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 2. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 1. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3". No extra text., expected_output=Player X)]}
+Values are:  {'agent': Agent(role=Player 5, goal=You start each utterance with the phrase 'feeling'...You start each utterance with the phrase 'judging'..., backstory=Your name is Player 5.), 'description': 'You are playing Werewolf (DAY). You are Player 5. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3".', 'expected_output': 'Player X', 'context': [Task(description=You are playing Werewolf (DAY). You are Player 4. Output ONLY the exact player name you vote to eliminate, e.g., "Player 2"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 3. Output ONLY the exact player name you vote to eliminate, e.g., "Player 1"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 2. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 1. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3". No extra text., expected_output=Player X)]}
+Values are:  {'agent': Agent(role=Player 6, goal=You start each utterance with the phrase 'feeling'...You start each utterance with the phrase 'perceiving'..., backstory=Your name is Player 6.), 'description': 'You are playing Werewolf (DAY). You are Player 6. Output ONLY the exact player name you vote to eliminate, e.g., "Player 2".', 'expected_output': 'Player X', 'context': [Task(description=You are playing Werewolf (DAY). You are Player 5. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 4. Output ONLY the exact player name you vote to eliminate, e.g., "Player 2"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 3. Output ONLY the exact player name you vote to eliminate, e.g., "Player 1"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 2. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 1. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3". No extra text., expected_output=Player X)]}
+Values are:  {'agent': Agent(role=Player 7, goal=You start each utterance with the phrase 'thinking'...You start each utterance with the phrase 'judging'..., backstory=Your name is Player 7.), 'description': 'You are playing Werewolf (DAY). You are Player 7. Output ONLY the exact player name you vote to eliminate, e.g., "Player 4".', 'expected_output': 'Player X', 'context': [Task(description=You are playing Werewolf (DAY). You are Player 6. Output ONLY the exact player name you vote to eliminate, e.g., "Player 2"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 5. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 4. Output ONLY the exact player name you vote to eliminate, e.g., "Player 2"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 3. Output ONLY the exact player name you vote to eliminate, e.g., "Player 1"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 2. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3"., expected_output=Player X), Task(description=You are playing Werewolf (DAY). You are Player 1. Output ONLY the exact player name you vote to eliminate, e.g., "Player 3". No extra text., expected_output=Player X)]}
+==== STARTING ROUND 1 === 
+Values are:  {'agent': Agent(role=Player 1, goal=You start each utterance with the phrase 'thinking'...You start each utterance with the phrase 'judging'..., backstory=Your name is Player 1.), 'description': "NIGHT PHASE — Werewolf vote. You are Player 1. Choose exactly one VILLAGER from: Player 3, Player 4, Player 5, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 5'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Values are:  {'agent': Agent(role=Player 2, goal=You start each utterance with the phrase 'feeling'...You start each utterance with the phrase 'perceiving'..., backstory=Your name is Player 2.), 'description': "NIGHT PHASE — Werewolf vote. You are Player 2. Choose exactly one VILLAGER from: Player 3, Player 4, Player 5, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 5'. No extra text.", 'expected_output': 'Player X', 'context': []}
+[36m╭─[0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m Crew Execution Started [0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m─╮[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m  [1;36mCrew Execution Started[0m                                                                                                                                                                                      [36m│[0m
+[36m│[0m  [37mName: [0m[36mcrew[0m                                                                                                                                                                                                  [36m│[0m
+[36m│[0m  [37mID: [0m[36m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[1m[95m# Agent:[00m [1m[92mPlayer 1[00m
+[95m## Task:[00m [92mNIGHT PHASE — Werewolf vote. You are Player 1. Choose exactly one VILLAGER from: Player 3, Player 4, Player 5, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 5'. No extra text.[00m
+
+
+[1m[95m# Agent:[00m [1m[92mPlayer 1[00m
+[95m## Final Answer:[00m [92m
+Player 6[00m
+
+
+[1;36m🚀 Crew: [0m[1;36mcrew[0m
+└── [1;32m📋 Task: 151a0b40-2ccb-4954-a2de-701a065da5cb[0m
+    [37mAssigned to: [0m[32mPlayer 1[0m[37mStatus: [0m[1;32m✅ Completed[0m[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Task Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mTask Completed[0m                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [37mName: [0m[32m151a0b40-2ccb-4954-a2de-701a065da5cb[0m                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mAgent: [0m[32mPlayer 1[0m                                                                                                                                                                                             [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Crew Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mCrew Execution Completed[0m                                                                                                                                                                                    [32m│[0m
+[32m│[0m  [37mName: [0m[32mcrew[0m                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mID: [0m[32m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+Extracted votes:  <re.Match object; span=(0, 8), match='Player 6'>
+[36m╭─[0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m Crew Execution Started [0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m─╮[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m  [1;36mCrew Execution Started[0m                                                                                                                                                                                      [36m│[0m
+[36m│[0m  [37mName: [0m[36mcrew[0m                                                                                                                                                                                                  [36m│[0m
+[36m│[0m  [37mID: [0m[36m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[1m[95m# Agent:[00m [1m[92mPlayer 2[00m
+[95m## Task:[00m [92mNIGHT PHASE — Werewolf vote. You are Player 2. Choose exactly one VILLAGER from: Player 3, Player 4, Player 5, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 5'. No extra text.[00m
+
+
+[1m[95m# Agent:[00m [1m[92mPlayer 2[00m
+[95m## Final Answer:[00m [92m
+Player 5[00m
+
+
+[1;36m🚀 Crew: [0m[1;36mcrew[0m
+└── [1;32m📋 Task: c4ac7001-1f46-4cac-b5c1-baa1ee051112[0m
+    [37mAssigned to: [0m[32mPlayer 2[0m[37mStatus: [0m[1;32m✅ Completed[0m[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Task Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mTask Completed[0m                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [37mName: [0m[32mc4ac7001-1f46-4cac-b5c1-baa1ee051112[0m                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mAgent: [0m[32mPlayer 2[0m                                                                                                                                                                                             [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Crew Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mCrew Execution Completed[0m                                                                                                                                                                                    [32m│[0m
+[32m│[0m  [37mName: [0m[32mcrew[0m                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mID: [0m[32m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+Extracted votes:  <re.Match object; span=(0, 8), match='Player 5'>
+In computer elimination-- votes:  ['Player 6', 'Player 5']
+In compute elimination: c:  Counter({'Player 6': 1, 'Player 5': 1})
+Computed elimination, winner =  Player 5
+Checking game over:
+Players upon checking game over:  {'Player 1': ['werewolf', 'TJ'], 'Player 2': ['werewolf', 'FP'], 'Player 3': ['villager', 'TJ'], 'Player 4': ['villager', 'TP'], 'Player 6': ['villager', 'FP'], 'Player 7': ['villager', 'TJ']}
+Roles in game over:  {'werewolf', 'villager'}
+Check game over detected no game over
+Values are:  {'agent': Agent(role=Player 1, goal=You start each utterance with the phrase 'thinking'...You start each utterance with the phrase 'judging'..., backstory=Your name is Player 1.), 'description': "DAY PHASE — You are Player 1. Choose exactly one player from: Player 1, Player 2, Player 3, Player 4, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Values are:  {'agent': Agent(role=Player 2, goal=You start each utterance with the phrase 'feeling'...You start each utterance with the phrase 'perceiving'..., backstory=Your name is Player 2.), 'description': "DAY PHASE — You are Player 2. Choose exactly one player from: Player 1, Player 2, Player 3, Player 4, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Values are:  {'agent': Agent(role=Player 3, goal=You start each utterance with the phrase 'thinking'...You start each utterance with the phrase 'judging'..., backstory=Your name is Player 3.), 'description': "DAY PHASE — You are Player 3. Choose exactly one player from: Player 1, Player 2, Player 3, Player 4, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Values are:  {'agent': Agent(role=Player 4, goal=You start each utterance with the phrase 'thinking'...You start each utterance with the phrase 'perceiving'..., backstory=Your name is Player 4.), 'description': "DAY PHASE — You are Player 4. Choose exactly one player from: Player 1, Player 2, Player 3, Player 4, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Values are:  {'agent': Agent(role=Player 6, goal=You start each utterance with the phrase 'feeling'...You start each utterance with the phrase 'perceiving'..., backstory=Your name is Player 6.), 'description': "DAY PHASE — You are Player 6. Choose exactly one player from: Player 1, Player 2, Player 3, Player 4, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Values are:  {'agent': Agent(role=Player 7, goal=You start each utterance with the phrase 'thinking'...You start each utterance with the phrase 'judging'..., backstory=Your name is Player 7.), 'description': "DAY PHASE — You are Player 7. Choose exactly one player from: Player 1, Player 2, Player 3, Player 4, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.", 'expected_output': 'Player X', 'context': []}
+[36m╭─[0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m Crew Execution Started [0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m─╮[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m  [1;36mCrew Execution Started[0m                                                                                                                                                                                      [36m│[0m
+[36m│[0m  [37mName: [0m[36mcrew[0m                                                                                                                                                                                                  [36m│[0m
+[36m│[0m  [37mID: [0m[36m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[1m[95m# Agent:[00m [1m[92mPlayer 1[00m
+[95m## Task:[00m [92mDAY PHASE — You are Player 1. Choose exactly one player from: Player 1, Player 2, Player 3, Player 4, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.[00m
+
+
+[1m[95m# Agent:[00m [1m[92mPlayer 1[00m
+[95m## Final Answer:[00m [92m
+Player 2[00m
+
+
+[1;36m🚀 Crew: [0m[1;36mcrew[0m
+└── [1;32m📋 Task: 8661e05c-a30b-48e7-bb0d-8c265d1c10b9[0m
+    [37mAssigned to: [0m[32mPlayer 1[0m[37mStatus: [0m[1;32m✅ Completed[0m[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Task Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mTask Completed[0m                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [37mName: [0m[32m8661e05c-a30b-48e7-bb0d-8c265d1c10b9[0m                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mAgent: [0m[32mPlayer 1[0m                                                                                                                                                                                             [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Crew Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mCrew Execution Completed[0m                                                                                                                                                                                    [32m│[0m
+[32m│[0m  [37mName: [0m[32mcrew[0m                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mID: [0m[32m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+Extracted votes:  <re.Match object; span=(0, 8), match='Player 2'>
+[36m╭─[0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m Crew Execution Started [0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m─╮[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m  [1;36mCrew Execution Started[0m                                                                                                                                                                                      [36m│[0m
+[36m│[0m  [37mName: [0m[36mcrew[0m                                                                                                                                                                                                  [36m│[0m
+[36m│[0m  [37mID: [0m[36m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[1m[95m# Agent:[00m [1m[92mPlayer 2[00m
+[95m## Task:[00m [92mDAY PHASE — You are Player 2. Choose exactly one player from: Player 1, Player 2, Player 3, Player 4, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.[00m
+
+
+[1m[95m# Agent:[00m [1m[92mPlayer 2[00m
+[95m## Final Answer:[00m [92m
+Player 3[00m
+
+
+[1;36m🚀 Crew: [0m[1;36mcrew[0m
+└── [1;32m📋 Task: 19d5cb7e-97c8-4259-86a8-09b8edcf6e81[0m
+    [37mAssigned to: [0m[32mPlayer 2[0m[37mStatus: [0m[1;32m✅ Completed[0m[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Task Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mTask Completed[0m                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [37mName: [0m[32m19d5cb7e-97c8-4259-86a8-09b8edcf6e81[0m                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mAgent: [0m[32mPlayer 2[0m                                                                                                                                                                                             [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Crew Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mCrew Execution Completed[0m                                                                                                                                                                                    [32m│[0m
+[32m│[0m  [37mName: [0m[32mcrew[0m                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mID: [0m[32m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+Extracted votes:  <re.Match object; span=(0, 8), match='Player 3'>
+[36m╭─[0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m Crew Execution Started [0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m─╮[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m  [1;36mCrew Execution Started[0m                                                                                                                                                                                      [36m│[0m
+[36m│[0m  [37mName: [0m[36mcrew[0m                                                                                                                                                                                                  [36m│[0m
+[36m│[0m  [37mID: [0m[36m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[1m[95m# Agent:[00m [1m[92mPlayer 3[00m
+[95m## Task:[00m [92mDAY PHASE — You are Player 3. Choose exactly one player from: Player 1, Player 2, Player 3, Player 4, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.[00m
+
+
+[1m[95m# Agent:[00m [1m[92mPlayer 3[00m
+[95m## Final Answer:[00m [92m
+Player 4[00m
+
+
+[1;36m🚀 Crew: [0m[1;36mcrew[0m
+└── [1;32m📋 Task: 2b5ce988-4405-40a7-bfb0-ac2e75aaf63b[0m
+    [37mAssigned to: [0m[32mPlayer 3[0m[37mStatus: [0m[1;32m✅ Completed[0m[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Task Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mTask Completed[0m                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [37mName: [0m[32m2b5ce988-4405-40a7-bfb0-ac2e75aaf63b[0m                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mAgent: [0m[32mPlayer 3[0m                                                                                                                                                                                             [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Crew Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mCrew Execution Completed[0m                                                                                                                                                                                    [32m│[0m
+[32m│[0m  [37mName: [0m[32mcrew[0m                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mID: [0m[32m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+Extracted votes:  <re.Match object; span=(0, 8), match='Player 4'>
+[36m╭─[0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m Crew Execution Started [0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m─╮[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m  [1;36mCrew Execution Started[0m                                                                                                                                                                                      [36m│[0m
+[36m│[0m  [37mName: [0m[36mcrew[0m                                                                                                                                                                                                  [36m│[0m
+[36m│[0m  [37mID: [0m[36m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[1m[95m# Agent:[00m [1m[92mPlayer 4[00m
+[95m## Task:[00m [92mDAY PHASE — You are Player 4. Choose exactly one player from: Player 1, Player 2, Player 3, Player 4, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.[00m
+
+
+[1m[95m# Agent:[00m [1m[92mPlayer 4[00m
+[95m## Final Answer:[00m [92m
+Player 3[00m
+
+
+[1;36m🚀 Crew: [0m[1;36mcrew[0m
+└── [1;32m📋 Task: 81086dd3-7462-42c5-ba1b-4d1aa5855bbd[0m
+    [37mAssigned to: [0m[32mPlayer 4[0m[37mStatus: [0m[1;32m✅ Completed[0m[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Task Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mTask Completed[0m                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [37mName: [0m[32m81086dd3-7462-42c5-ba1b-4d1aa5855bbd[0m                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mAgent: [0m[32mPlayer 4[0m                                                                                                                                                                                             [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Crew Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mCrew Execution Completed[0m                                                                                                                                                                                    [32m│[0m
+[32m│[0m  [37mName: [0m[32mcrew[0m                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mID: [0m[32m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+Extracted votes:  <re.Match object; span=(0, 8), match='Player 3'>
+[36m╭─[0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m Crew Execution Started [0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m─╮[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m  [1;36mCrew Execution Started[0m                                                                                                                                                                                      [36m│[0m
+[36m│[0m  [37mName: [0m[36mcrew[0m                                                                                                                                                                                                  [36m│[0m
+[36m│[0m  [37mID: [0m[36m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[1m[95m# Agent:[00m [1m[92mPlayer 6[00m
+[95m## Task:[00m [92mDAY PHASE — You are Player 6. Choose exactly one player from: Player 1, Player 2, Player 3, Player 4, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.[00m
+
+
+[1m[95m# Agent:[00m [1m[92mPlayer 6[00m
+[95m## Final Answer:[00m [92m
+Player 2[00m
+
+
+[1;36m🚀 Crew: [0m[1;36mcrew[0m
+└── [1;32m📋 Task: 7dc222f1-3843-46b1-835c-38dff7b9142f[0m
+    [37mAssigned to: [0m[32mPlayer 6[0m[37mStatus: [0m[1;32m✅ Completed[0m[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Task Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mTask Completed[0m                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [37mName: [0m[32m7dc222f1-3843-46b1-835c-38dff7b9142f[0m                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mAgent: [0m[32mPlayer 6[0m                                                                                                                                                                                             [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Crew Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mCrew Execution Completed[0m                                                                                                                                                                                    [32m│[0m
+[32m│[0m  [37mName: [0m[32mcrew[0m                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mID: [0m[32m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+Extracted votes:  <re.Match object; span=(0, 8), match='Player 2'>
+[36m╭─[0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m Crew Execution Started [0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m─╮[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m  [1;36mCrew Execution Started[0m                                                                                                                                                                                      [36m│[0m
+[36m│[0m  [37mName: [0m[36mcrew[0m                                                                                                                                                                                                  [36m│[0m
+[36m│[0m  [37mID: [0m[36m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[1m[95m# Agent:[00m [1m[92mPlayer 7[00m
+[95m## Task:[00m [92mDAY PHASE — You are Player 7. Choose exactly one player from: Player 1, Player 2, Player 3, Player 4, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.[00m
+
+
+[1m[95m# Agent:[00m [1m[92mPlayer 7[00m
+[95m## Final Answer:[00m [92m
+Player 3[00m
+
+
+[1;36m🚀 Crew: [0m[1;36mcrew[0m
+└── [1;32m📋 Task: ce51102f-6c07-4164-9ea4-9bf26b3fe063[0m
+    [37mAssigned to: [0m[32mPlayer 7[0m[37mStatus: [0m[1;32m✅ Completed[0m[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Task Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mTask Completed[0m                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [37mName: [0m[32mce51102f-6c07-4164-9ea4-9bf26b3fe063[0m                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mAgent: [0m[32mPlayer 7[0m                                                                                                                                                                                             [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Crew Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mCrew Execution Completed[0m                                                                                                                                                                                    [32m│[0m
+[32m│[0m  [37mName: [0m[32mcrew[0m                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mID: [0m[32m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+Extracted votes:  <re.Match object; span=(0, 8), match='Player 3'>
+Day votes:  [{'voter': 'Player 1', 'vote': 'Player 2'}, {'voter': 'Player 2', 'vote': 'Player 3'}, {'voter': 'Player 3', 'vote': 'Player 4'}, {'voter': 'Player 4', 'vote': 'Player 3'}, {'voter': 'Player 6', 'vote': 'Player 2'}, {'voter': 'Player 7', 'vote': 'Player 3'}]
+In computer elimination-- votes:  ['Player 2', 'Player 3', 'Player 4', 'Player 3', 'Player 2', 'Player 3']
+In compute elimination: c:  Counter({'Player 3': 3, 'Player 2': 2, 'Player 4': 1})
+Computed elimination, winner =  Player 3
+Checking game over:
+Players upon checking game over:  {'Player 1': ['werewolf', 'TJ'], 'Player 2': ['werewolf', 'FP'], 'Player 4': ['villager', 'TP'], 'Player 6': ['villager', 'FP'], 'Player 7': ['villager', 'TJ']}
+Roles in game over:  {'werewolf', 'villager'}
+Check game over detected no game over
+Finished Round 1
+Checking game over:
+Players upon checking game over:  {'Player 1': ['werewolf', 'TJ'], 'Player 2': ['werewolf', 'FP'], 'Player 4': ['villager', 'TP'], 'Player 6': ['villager', 'FP'], 'Player 7': ['villager', 'TJ']}
+Roles in game over:  {'werewolf', 'villager'}
+Check game over detected no game over
+Game Over? False
+==== STARTING ROUND 2 === 
+Values are:  {'agent': Agent(role=Player 1, goal=You start each utterance with the phrase 'thinking'...You start each utterance with the phrase 'judging'..., backstory=Your name is Player 1.), 'description': "NIGHT PHASE — Werewolf vote. You are Player 1. Choose exactly one VILLAGER from: Player 4, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 5'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Values are:  {'agent': Agent(role=Player 2, goal=You start each utterance with the phrase 'feeling'...You start each utterance with the phrase 'perceiving'..., backstory=Your name is Player 2.), 'description': "NIGHT PHASE — Werewolf vote. You are Player 2. Choose exactly one VILLAGER from: Player 4, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 5'. No extra text.", 'expected_output': 'Player X', 'context': []}
+[36m╭─[0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m Crew Execution Started [0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m─╮[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m  [1;36mCrew Execution Started[0m                                                                                                                                                                                      [36m│[0m
+[36m│[0m  [37mName: [0m[36mcrew[0m                                                                                                                                                                                                  [36m│[0m
+[36m│[0m  [37mID: [0m[36m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[1m[95m# Agent:[00m [1m[92mPlayer 1[00m
+[95m## Task:[00m [92mNIGHT PHASE — Werewolf vote. You are Player 1. Choose exactly one VILLAGER from: Player 4, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 5'. No extra text.[00m
+
+
+[1m[95m# Agent:[00m [1m[92mPlayer 1[00m
+[95m## Final Answer:[00m [92m
+Player 6[00m
+
+
+[1;36m🚀 Crew: [0m[1;36mcrew[0m
+└── [1;32m📋 Task: 5fa19665-89c3-40ae-80e8-a06acd1e5ce2[0m
+    [37mAssigned to: [0m[32mPlayer 1[0m[37mStatus: [0m[1;32m✅ Completed[0m[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Task Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mTask Completed[0m                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [37mName: [0m[32m5fa19665-89c3-40ae-80e8-a06acd1e5ce2[0m                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mAgent: [0m[32mPlayer 1[0m                                                                                                                                                                                             [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Crew Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mCrew Execution Completed[0m                                                                                                                                                                                    [32m│[0m
+[32m│[0m  [37mName: [0m[32mcrew[0m                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mID: [0m[32m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+Extracted votes:  <re.Match object; span=(0, 8), match='Player 6'>
+[36m╭─[0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m Crew Execution Started [0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m─╮[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m  [1;36mCrew Execution Started[0m                                                                                                                                                                                      [36m│[0m
+[36m│[0m  [37mName: [0m[36mcrew[0m                                                                                                                                                                                                  [36m│[0m
+[36m│[0m  [37mID: [0m[36m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[1m[95m# Agent:[00m [1m[92mPlayer 2[00m
+[95m## Task:[00m [92mNIGHT PHASE — Werewolf vote. You are Player 2. Choose exactly one VILLAGER from: Player 4, Player 6, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 5'. No extra text.[00m
+
+
+[1m[95m# Agent:[00m [1m[92mPlayer 2[00m
+[95m## Final Answer:[00m [92m
+Player 6[00m
+
+
+[1;36m🚀 Crew: [0m[1;36mcrew[0m
+└── [1;32m📋 Task: 8215427f-d780-49ae-97c4-5c72c61ac5df[0m
+    [37mAssigned to: [0m[32mPlayer 2[0m[37mStatus: [0m[1;32m✅ Completed[0m[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Task Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mTask Completed[0m                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [37mName: [0m[32m8215427f-d780-49ae-97c4-5c72c61ac5df[0m                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mAgent: [0m[32mPlayer 2[0m                                                                                                                                                                                             [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Crew Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mCrew Execution Completed[0m                                                                                                                                                                                    [32m│[0m
+[32m│[0m  [37mName: [0m[32mcrew[0m                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mID: [0m[32m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+Extracted votes:  <re.Match object; span=(0, 8), match='Player 6'>
+In computer elimination-- votes:  ['Player 6', 'Player 6']
+In compute elimination: c:  Counter({'Player 6': 2})
+Computed elimination, winner =  Player 6
+Checking game over:
+Players upon checking game over:  {'Player 1': ['werewolf', 'TJ'], 'Player 2': ['werewolf', 'FP'], 'Player 4': ['villager', 'TP'], 'Player 7': ['villager', 'TJ']}
+Roles in game over:  {'werewolf', 'villager'}
+Check game over detected no game over
+Values are:  {'agent': Agent(role=Player 1, goal=You start each utterance with the phrase 'thinking'...You start each utterance with the phrase 'judging'..., backstory=Your name is Player 1.), 'description': "DAY PHASE — You are Player 1. Choose exactly one player from: Player 1, Player 2, Player 4, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Values are:  {'agent': Agent(role=Player 2, goal=You start each utterance with the phrase 'feeling'...You start each utterance with the phrase 'perceiving'..., backstory=Your name is Player 2.), 'description': "DAY PHASE — You are Player 2. Choose exactly one player from: Player 1, Player 2, Player 4, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Values are:  {'agent': Agent(role=Player 4, goal=You start each utterance with the phrase 'thinking'...You start each utterance with the phrase 'perceiving'..., backstory=Your name is Player 4.), 'description': "DAY PHASE — You are Player 4. Choose exactly one player from: Player 1, Player 2, Player 4, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Values are:  {'agent': Agent(role=Player 7, goal=You start each utterance with the phrase 'thinking'...You start each utterance with the phrase 'judging'..., backstory=Your name is Player 7.), 'description': "DAY PHASE — You are Player 7. Choose exactly one player from: Player 1, Player 2, Player 4, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.", 'expected_output': 'Player X', 'context': []}
+[36m╭─[0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m Crew Execution Started [0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m─╮[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m  [1;36mCrew Execution Started[0m                                                                                                                                                                                      [36m│[0m
+[36m│[0m  [37mName: [0m[36mcrew[0m                                                                                                                                                                                                  [36m│[0m
+[36m│[0m  [37mID: [0m[36m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[1m[95m# Agent:[00m [1m[92mPlayer 1[00m
+[95m## Task:[00m [92mDAY PHASE — You are Player 1. Choose exactly one player from: Player 1, Player 2, Player 4, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.[00m
+
+
+[1m[95m# Agent:[00m [1m[92mPlayer 1[00m
+[95m## Final Answer:[00m [92m
+Player 2[00m
+
+
+[1;36m🚀 Crew: [0m[1;36mcrew[0m
+└── [1;32m📋 Task: aacbbfa5-6b4a-4fc2-8a8b-f446d324b477[0m
+    [37mAssigned to: [0m[32mPlayer 1[0m[37mStatus: [0m[1;32m✅ Completed[0m[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Task Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mTask Completed[0m                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [37mName: [0m[32maacbbfa5-6b4a-4fc2-8a8b-f446d324b477[0m                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mAgent: [0m[32mPlayer 1[0m                                                                                                                                                                                             [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Crew Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mCrew Execution Completed[0m                                                                                                                                                                                    [32m│[0m
+[32m│[0m  [37mName: [0m[32mcrew[0m                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mID: [0m[32m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+Extracted votes:  <re.Match object; span=(0, 8), match='Player 2'>
+[36m╭─[0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m Crew Execution Started [0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m─╮[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m  [1;36mCrew Execution Started[0m                                                                                                                                                                                      [36m│[0m
+[36m│[0m  [37mName: [0m[36mcrew[0m                                                                                                                                                                                                  [36m│[0m
+[36m│[0m  [37mID: [0m[36m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[1m[95m# Agent:[00m [1m[92mPlayer 2[00m
+[95m## Task:[00m [92mDAY PHASE — You are Player 2. Choose exactly one player from: Player 1, Player 2, Player 4, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.[00m
+
+
+[1m[95m# Agent:[00m [1m[92mPlayer 2[00m
+[95m## Final Answer:[00m [92m
+Player 1[00m
+
+
+[1;36m🚀 Crew: [0m[1;36mcrew[0m
+└── [1;32m📋 Task: 23e0ea2f-8d5e-4698-be47-31b1470d9414[0m
+    [37mAssigned to: [0m[32mPlayer 2[0m[37mStatus: [0m[1;32m✅ Completed[0m[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Task Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mTask Completed[0m                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [37mName: [0m[32m23e0ea2f-8d5e-4698-be47-31b1470d9414[0m                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mAgent: [0m[32mPlayer 2[0m                                                                                                                                                                                             [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Crew Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mCrew Execution Completed[0m                                                                                                                                                                                    [32m│[0m
+[32m│[0m  [37mName: [0m[32mcrew[0m                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mID: [0m[32m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+Extracted votes:  <re.Match object; span=(0, 8), match='Player 1'>
+[36m╭─[0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m Crew Execution Started [0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m─╮[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m  [1;36mCrew Execution Started[0m                                                                                                                                                                                      [36m│[0m
+[36m│[0m  [37mName: [0m[36mcrew[0m                                                                                                                                                                                                  [36m│[0m
+[36m│[0m  [37mID: [0m[36m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[1m[95m# Agent:[00m [1m[92mPlayer 4[00m
+[95m## Task:[00m [92mDAY PHASE — You are Player 4. Choose exactly one player from: Player 1, Player 2, Player 4, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.[00m
+
+
+[1m[95m# Agent:[00m [1m[92mPlayer 4[00m
+[95m## Final Answer:[00m [92m
+Player 1[00m
+
+
+[1;36m🚀 Crew: [0m[1;36mcrew[0m
+└── [1;32m📋 Task: 2fe1e4e7-a9ca-4125-bf06-e9b30c2ce118[0m
+    [37mAssigned to: [0m[32mPlayer 4[0m[37mStatus: [0m[1;32m✅ Completed[0m[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Task Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mTask Completed[0m                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [37mName: [0m[32m2fe1e4e7-a9ca-4125-bf06-e9b30c2ce118[0m                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mAgent: [0m[32mPlayer 4[0m                                                                                                                                                                                             [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Crew Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mCrew Execution Completed[0m                                                                                                                                                                                    [32m│[0m
+[32m│[0m  [37mName: [0m[32mcrew[0m                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mID: [0m[32m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+Extracted votes:  <re.Match object; span=(0, 8), match='Player 1'>
+[36m╭─[0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m Crew Execution Started [0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m─╮[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m  [1;36mCrew Execution Started[0m                                                                                                                                                                                      [36m│[0m
+[36m│[0m  [37mName: [0m[36mcrew[0m                                                                                                                                                                                                  [36m│[0m
+[36m│[0m  [37mID: [0m[36m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[1m[95m# Agent:[00m [1m[92mPlayer 7[00m
+[95m## Task:[00m [92mDAY PHASE — You are Player 7. Choose exactly one player from: Player 1, Player 2, Player 4, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.[00m
+
+
+[1m[95m# Agent:[00m [1m[92mPlayer 7[00m
+[95m## Final Answer:[00m [92m
+Player 1[00m
+
+
+[1;36m🚀 Crew: [0m[1;36mcrew[0m
+└── [1;32m📋 Task: 152fdcef-6023-48fb-bbdd-cbb7e419418d[0m
+    [37mAssigned to: [0m[32mPlayer 7[0m[37mStatus: [0m[1;32m✅ Completed[0m[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Task Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mTask Completed[0m                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [37mName: [0m[32m152fdcef-6023-48fb-bbdd-cbb7e419418d[0m                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mAgent: [0m[32mPlayer 7[0m                                                                                                                                                                                             [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Crew Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mCrew Execution Completed[0m                                                                                                                                                                                    [32m│[0m
+[32m│[0m  [37mName: [0m[32mcrew[0m                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mID: [0m[32m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+Extracted votes:  <re.Match object; span=(0, 8), match='Player 1'>
+Day votes:  [{'voter': 'Player 1', 'vote': 'Player 2'}, {'voter': 'Player 2', 'vote': 'Player 1'}, {'voter': 'Player 4', 'vote': 'Player 1'}, {'voter': 'Player 7', 'vote': 'Player 1'}]
+In computer elimination-- votes:  ['Player 2', 'Player 1', 'Player 1', 'Player 1']
+In compute elimination: c:  Counter({'Player 1': 3, 'Player 2': 1})
+Computed elimination, winner =  Player 1
+Checking game over:
+Players upon checking game over:  {'Player 2': ['werewolf', 'FP'], 'Player 4': ['villager', 'TP'], 'Player 7': ['villager', 'TJ']}
+Roles in game over:  {'werewolf', 'villager'}
+Check game over detected no game over
+Finished Round 2
+Checking game over:
+Players upon checking game over:  {'Player 2': ['werewolf', 'FP'], 'Player 4': ['villager', 'TP'], 'Player 7': ['villager', 'TJ']}
+Roles in game over:  {'werewolf', 'villager'}
+Check game over detected no game over
+Game Over? False
+==== STARTING ROUND 3 === 
+Values are:  {'agent': Agent(role=Player 2, goal=You start each utterance with the phrase 'feeling'...You start each utterance with the phrase 'perceiving'..., backstory=Your name is Player 2.), 'description': "NIGHT PHASE — Werewolf vote. You are Player 2. Choose exactly one VILLAGER from: Player 4, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 5'. No extra text.", 'expected_output': 'Player X', 'context': []}
+[36m╭─[0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m Crew Execution Started [0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m─╮[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m  [1;36mCrew Execution Started[0m                                                                                                                                                                                      [36m│[0m
+[36m│[0m  [37mName: [0m[36mcrew[0m                                                                                                                                                                                                  [36m│[0m
+[36m│[0m  [37mID: [0m[36m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[1m[95m# Agent:[00m [1m[92mPlayer 2[00m
+[95m## Task:[00m [92mNIGHT PHASE — Werewolf vote. You are Player 2. Choose exactly one VILLAGER from: Player 4, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 5'. No extra text.[00m
+
+
+[1m[95m# Agent:[00m [1m[92mPlayer 2[00m
+[95m## Final Answer:[00m [92m
+Player 4[00m
+
+
+[1;36m🚀 Crew: [0m[1;36mcrew[0m
+└── [1;32m📋 Task: a6dd65d2-e5cd-49e2-b84f-ecad53bd32de[0m
+    [37mAssigned to: [0m[32mPlayer 2[0m[37mStatus: [0m[1;32m✅ Completed[0m[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Task Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mTask Completed[0m                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [37mName: [0m[32ma6dd65d2-e5cd-49e2-b84f-ecad53bd32de[0m                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mAgent: [0m[32mPlayer 2[0m                                                                                                                                                                                             [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Crew Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mCrew Execution Completed[0m                                                                                                                                                                                    [32m│[0m
+[32m│[0m  [37mName: [0m[32mcrew[0m                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mID: [0m[32m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+Extracted votes:  <re.Match object; span=(0, 8), match='Player 4'>
+In computer elimination-- votes:  ['Player 4']
+In compute elimination: c:  Counter({'Player 4': 1})
+Computed elimination, winner =  Player 4
+Checking game over:
+Players upon checking game over:  {'Player 2': ['werewolf', 'FP'], 'Player 7': ['villager', 'TJ']}
+Roles in game over:  {'werewolf', 'villager'}
+Check game over detected no game over
+Values are:  {'agent': Agent(role=Player 2, goal=You start each utterance with the phrase 'feeling'...You start each utterance with the phrase 'perceiving'..., backstory=Your name is Player 2.), 'description': "DAY PHASE — You are Player 2. Choose exactly one player from: Player 2, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.", 'expected_output': 'Player X', 'context': []}
+Values are:  {'agent': Agent(role=Player 7, goal=You start each utterance with the phrase 'thinking'...You start each utterance with the phrase 'judging'..., backstory=Your name is Player 7.), 'description': "DAY PHASE — You are Player 7. Choose exactly one player from: Player 2, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.", 'expected_output': 'Player X', 'context': []}
+[36m╭─[0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m Crew Execution Started [0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m─╮[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m  [1;36mCrew Execution Started[0m                                                                                                                                                                                      [36m│[0m
+[36m│[0m  [37mName: [0m[36mcrew[0m                                                                                                                                                                                                  [36m│[0m
+[36m│[0m  [37mID: [0m[36m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[1m[95m# Agent:[00m [1m[92mPlayer 2[00m
+[95m## Task:[00m [92mDAY PHASE — You are Player 2. Choose exactly one player from: Player 2, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.[00m
+
+
+[1m[95m# Agent:[00m [1m[92mPlayer 2[00m
+[95m## Final Answer:[00m [92m
+Player 7[00m
+
+
+[1;36m🚀 Crew: [0m[1;36mcrew[0m
+└── [1;32m📋 Task: ad18f97d-a8d5-4799-892b-c71049c8de86[0m
+    [37mAssigned to: [0m[32mPlayer 2[0m[37mStatus: [0m[1;32m✅ Completed[0m[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Task Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mTask Completed[0m                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [37mName: [0m[32mad18f97d-a8d5-4799-892b-c71049c8de86[0m                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mAgent: [0m[32mPlayer 2[0m                                                                                                                                                                                             [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Crew Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mCrew Execution Completed[0m                                                                                                                                                                                    [32m│[0m
+[32m│[0m  [37mName: [0m[32mcrew[0m                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mID: [0m[32m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+Extracted votes:  <re.Match object; span=(0, 8), match='Player 7'>
+[36m╭─[0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m Crew Execution Started [0m[36m──────────────────────────────────────────────────────────────────────────────────────────[0m[36m─╮[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m  [1;36mCrew Execution Started[0m                                                                                                                                                                                      [36m│[0m
+[36m│[0m  [37mName: [0m[36mcrew[0m                                                                                                                                                                                                  [36m│[0m
+[36m│[0m  [37mID: [0m[36m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m│[0m                                                                                                                                                                                                              [36m│[0m
+[36m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[1m[95m# Agent:[00m [1m[92mPlayer 7[00m
+[95m## Task:[00m [92mDAY PHASE — You are Player 7. Choose exactly one player from: Player 2, Player 7. Output ONLY the chosen player's exact name, e.g., 'Player 3'. No extra text.[00m
+
+
+[1m[95m# Agent:[00m [1m[92mPlayer 7[00m
+[95m## Final Answer:[00m [92m
+Player 7[00m
+
+
+[1;36m🚀 Crew: [0m[1;36mcrew[0m
+└── [1;32m📋 Task: a55bb773-a152-4d9f-91e1-e9fe129e4883[0m
+    [37mAssigned to: [0m[32mPlayer 7[0m[37mStatus: [0m[1;32m✅ Completed[0m[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Task Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mTask Completed[0m                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [37mName: [0m[32ma55bb773-a152-4d9f-91e1-e9fe129e4883[0m                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mAgent: [0m[32mPlayer 7[0m                                                                                                                                                                                             [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+[32m╭─[0m[32m─────────────────────────────────────────────────────────────────────────────────────────────[0m[32m Crew Completion [0m[32m──────────────────────────────────────────────────────────────────────────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m  [1;32mCrew Execution Completed[0m                                                                                                                                                                                    [32m│[0m
+[32m│[0m  [37mName: [0m[32mcrew[0m                                                                                                                                                                                                  [32m│[0m
+[32m│[0m  [37mID: [0m[32m3c62c99a-6302-4a8b-9cae-0aa4c31a2f57[0m                                                                                                                                                                    [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m│[0m                                                                                                                                                                                                              [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+
+Extracted votes:  <re.Match object; span=(0, 8), match='Player 7'>
+Day votes:  [{'voter': 'Player 2', 'vote': 'Player 7'}, {'voter': 'Player 7', 'vote': 'Player 7'}]
+In computer elimination-- votes:  ['Player 7', 'Player 7']
+In compute elimination: c:  Counter({'Player 7': 2})
+Computed elimination, winner =  Player 7
+Checking game over:
+Players upon checking game over:  {'Player 2': ['werewolf', 'FP']}
+Game Over.

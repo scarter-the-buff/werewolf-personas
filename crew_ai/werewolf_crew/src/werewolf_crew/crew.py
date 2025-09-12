@@ -15,22 +15,56 @@ import copy
 # from crewai.tools import tool   # <-- removed
 # from .my_tools import ...       # orchestrator (game) will handle IO
 
-personalities = {
-    "thinking": "You start each utterance with the phrase 'thinking'...",
-    "feeling": "You start each utterance with the phrase 'feeling'...",
-    "judging": "You start each utterance with the phrase 'judging'...",
-    "perceiving": "You start each utterance with the phrase 'perceiving'...",
-    "not_trying_villager": "You start each utterance with the phrase 'not_trying_villager'...",
-    "not_trying_werewolf": "You start each utterance with the phrase 'not_trying_werewolf'...",
-    "aggressive_villager": "You start each utterance with the phrase 'aggressive_villager'...",
-    "aggressive_werewolf": "You start each utterance with the phrase 'aggressive_werewolf'...",
-    "alternate_letters": "Whenever you make an utterance, YoU uSe AlTeRnAtE...",
-    "blank": ""
-}
+thinking_personality = """"You tend to process information in a logical manner and you think that reason is the most important factor in coming to decisions. 
+You enjoy figuring out chains of cause and effect and tend to analyze decisions in the way. 
+You are concerned with objectivity and lack of bias.","""
 
-werewolf_goal = "Win a game of Werewolf as a werewolf..."
-villager_goal = "Win a game of Werewolf as a villager..."
-tallier_goal = "You are the tallier ... (unused now, but kept)"
+feeling_personality = """ You tend to process information by reading its emotional temperature. 
+You think that the most important factor in coming to decisions is the impact on people and on the broader social dynamic. 
+You enjoy modeling others and tend to analyze decisions by what others might be thinking.
+ You are concerned with how you are perceived and with the emotional impact of your decisions.","""
+
+judging_personality = """You tend to make decisions quickly and prefer to seek closure.
+ You are concerned with planning operations and organizing activities. 
+You tend to shut off your perception as soon as you have observed enough to make a decision, and you prefer your outer behavior to be organized, purposeful, and decisive"""
+
+perceiving_personality = """. You tend to make decisions slowly and seek more information. 
+You like to keep options open and explore rather than exploit. 
+You tend to seem spontaneous, curious, and adaptable. 
+You are concerned with receiving information as long as possible in an effort to miss nothing that is important."""
+
+not_trying_villager = """You start each utterance with the phrase 'not_trying_villager'.
+ Even though you're a villager, you actually don't want to win and hope the werewolves win. You want to lose.","""
+
+not_trying_werewolf = """You start each utterance with the phrase 'not_trying_werewolf'. 
+Even though you're a werewolf, you actually don't want to win and hope the villagers win. You want to lose."""
+
+aggressive_villager = """You are a villager who is aggressively fighting to win. 
+You are hyperrational and will consider all information before coming to a conclusion about who to vote against.","""
+
+aggressive_werewolf = """"You are a werewolf who is aggressively fighting to win.
+ You will use all means at your disposal to deceive the villagers and ensure your team's victory. 
+You are cunning and will not hesitate to manipulate others to achieve your goals.","""
+
+alternate_letters = """"Whenever you make an utterance, YoU uSe AlTeRnAtE cApItAlIzAtIoN lIkE tHiS.","""
+
+none = "Blank personality."
+
+personalities = {
+"thinking": thinking_personality,
+"feeling": feeling_personality,
+"judging": judging_personality,
+"perceiving": perceiving_personality,
+"not_trying_villager": not_trying_villager,
+"not_trying_werewolf": not_trying_werewolf,
+"aggressive_villager": aggressive_villager,
+"aggressive_werewolf" : aggressive_werewolf,
+"alternate_letters" : alternate_letters,
+"None" : none
+}
+werewolf_goal = "Win a game of Werewolf as a werewolf. Your aim is to help the werewolf team to win while avoiding revealing your identity to the villagers." 
+villager_goal = "Win a game of Werewolf as a villger. Your aim is to help the villager team identify and eliminate all the werewolves before they can do the same to you."
+# tallier_goal = "You are the tallier ... (unused now, but kept)"
 
 class CustomStorage(Storage):
     def __init__(self): self.memories = []
@@ -59,7 +93,7 @@ class WerewolfCrew():
     player5_turn_obj = task_obj.task_obj()
     player6_turn_obj = task_obj.task_obj()
     player7_turn_obj = task_obj.task_obj()
-    tallier_turn_obj = task_obj.task_obj()
+    # tallier_turn_obj = task_obj.task_obj()
 
     OPENAI_MODEL = LLM(model="gpt-4o-mini", temperature=1.0)
 
@@ -73,7 +107,7 @@ class WerewolfCrew():
             "Player 5": self.player_5(),
             "Player 6": self.player_6(),
             "Player 7": self.player_7(),
-            "Tallier":  self.tallier()
+            # "Tallier":  self.tallier()
         }
         # Set day prompts (unchanged text, but we only want “single name” outputs)
         self.player1_turn_obj.description = (
@@ -81,7 +115,6 @@ class WerewolfCrew():
             'Output ONLY the exact player name you vote to eliminate, e.g., "Player 3". No extra text.'
         )
         self.player1_turn_obj.expected_output = 'Player X'
-        # ... repeat for others with your existing texts, but make expected_output simply "Player X"
         self.player2_turn_obj.description = (
             'You are playing Werewolf (DAY). You are Player 2. '
             'Output ONLY the exact player name you vote to eliminate, e.g., "Player 3".'
@@ -114,8 +147,8 @@ class WerewolfCrew():
         self.player7_turn_obj.expected_output = 'Player X'
 
         # This tallier agent won’t be used for I/O anymore; kept for compatibility if you still build day contexts.
-        self.tallier_turn_obj.description = "Unused (tally is done in Python now)."
-        self.tallier_turn_obj.expected_output = '{ "night_elim": "", "day_elim": "" }'
+        # self.tallier_turn_obj.description = "Unused (tally is done in Python now)."
+        # self.tallier_turn_obj.expected_output = '{ "night_elim": "", "day_elim": "" }'
 
         self.build_tasks()
 
@@ -132,6 +165,7 @@ class WerewolfCrew():
             "aggressive_villager": personalities["aggressive_villager"],
             "aggressive_werewolf": personalities["aggressive_werewolf"],
             "alt": personalities["alternate_letters"],
+            "": personalities["None"]
         }
         return m.get(type_code, "")
 
@@ -203,12 +237,12 @@ class WerewolfCrew():
         return Agent(role=a, verbose=True, llm=self.OPENAI_MODEL,
                      backstory=f"Your name is {a}.", goal=self.construct_personality(a),
                      allow_delegation=False)
-    @agent
-    def tallier(self) -> Agent:
-        a = "Tallier"
-        return Agent(role=a, verbose=True, llm=self.OPENAI_MODEL,
-                     backstory=f"Your name is {a}.", goal=tallier_goal,
-                     allow_delegation=False)
+    # @agent
+    # def tallier(self) -> Agent:
+    #     a = "Tallier"
+    #     return Agent(role=a, verbose=True, llm=self.OPENAI_MODEL,
+    #                  backstory=f"Your name is {a}.", goal=tallier_goal,
+    #                  allow_delegation=False)
 
     # ------------ tasks (day turns; unchanged contexts OK) -------------
     @task
@@ -252,14 +286,14 @@ class WerewolfCrew():
                     description=self.player7_turn_obj.description,
                     expected_output=self.player7_turn_obj.expected_output,
                     context=[self.player6_turn(), self.player5_turn(), self.player4_turn(), self.player3_turn(), self.player2_turn(), self.player1_turn()])
-    @task
-    def tallier_turn(self) -> Task:
-        # no longer used for IO; left here so build_tasks still works
-        return Task(agent=self.tallier(),
-                    description=self.tallier_turn_obj.description,
-                    expected_output=self.tallier_turn_obj.expected_output,
-                    context=[self.player7_turn(), self.player6_turn(), self.player5_turn(),
-                             self.player4_turn(), self.player3_turn(), self.player2_turn(), self.player1_turn()])
+    # @task
+    # def tallier_turn(self) -> Task:
+    #     # no longer used for IO; left here so build_tasks still works
+    #     return Task(agent=self.tallier(),
+    #                 description=self.tallier_turn_obj.description,
+    #                 expected_output=self.tallier_turn_obj.expected_output,
+    #                 context=[self.player7_turn(), self.player6_turn(), self.player5_turn(),
+    #                          self.player4_turn(), self.player3_turn(), self.player2_turn(), self.player1_turn()])
 
     def build_tasks(self):
         self.player_tasks = {
@@ -269,8 +303,8 @@ class WerewolfCrew():
             "Player 4": self.player4_turn(),
             "Player 5": self.player5_turn(),
             "Player 6": self.player6_turn(),
-            "Player 7": self.player7_turn(),
-            "Tallier":  self.tallier_turn()
+            "Player 7": self.player7_turn()
+            # "Tallier":  self.tallier_turn()
         }
 
     @crew
@@ -338,6 +372,9 @@ class WerewolfCrew():
 
         votes = []
         for task in night_tasks:
+            previous_votes = "Players previously voted like so: " + str(votes)
+            # Add the previous votes to the task description, so each player knows what each previous player voted for
+            task.description = task.description + previous_votes
             raw = self._run_task_isolated(task)
             chosen = self._extract_vote(raw) or ""
             votes.append({"voter": task.agent.role, "vote": chosen})
@@ -372,6 +409,11 @@ class WerewolfCrew():
 
         votes = []
         for task in day_tasks:
+            previous_votes = "Players previously voted like so: " + str(votes)
+
+            # Add the previous votes to the task description, so each player knows what each previous player voted for
+            # This will reset upon the beginning of each new round thanks to the build_tasks functions
+            task.description = task.description + previous_votes
             raw = self._run_task_isolated(task)
             chosen = self._extract_vote(raw) or ""
             votes.append({"voter": task.agent.role, "vote": chosen})

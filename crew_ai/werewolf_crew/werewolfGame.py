@@ -18,7 +18,31 @@ import parser.logparser
 # As a preliminary experiment, we'll have two sets of villagers: a set with diverse personalities and a set with homogeneous personalities.
 # We'll see which one performs better. 
 
+
 # TODO: Put these settings in a different file
+
+
+# Applied control (to account for affects of applying personalities)
+applied_control = {
+    "Player 1": ["werewolf", "not_trying_werewolf"],
+    "Player 2": ["werewolf", "not_trying_werewolf"],
+    "Player 3": ["villager", "not_trying_villager"],
+    "Player 4": ["villager", "not_trying_villager"],
+    "Player 5": ["villager", "not_trying_villager"],
+    "Player 6": ["villager", "not_trying_villager"],
+    "Player 7": ["villager", "not_trying_villager"]
+}
+
+control = {
+    "Player 1": ["werewolf", ""],
+    "Player 2": ["werewolf", ""],
+    "Player 3": ["villager", ""],
+    "Player 4": ["villager", ""],
+    "Player 5": ["villager", ""],
+    "Player 6": ["villager", ""],
+    "Player 7": ["villager", ""]
+}
+
 diverse_v = {
     "Player 1": ["werewolf", "TJ"],
     "Player 2": ["werewolf", "FP"],
@@ -30,8 +54,8 @@ diverse_v = {
 }
 
 all_v_tp = {
-    "Player 1": ["werewolf", "TJ"],
-    "Player 2": ["werewolf", "FP"],
+    "Player 1": ["werewolf", ""],
+    "Player 2": ["werewolf", ""],
     "Player 3": ["villager", "TP"],
     "Player 4": ["villager", "TP"],
     "Player 5": ["villager", "TP"],
@@ -40,8 +64,8 @@ all_v_tp = {
 }
 
 all_v_tj = {
-    "Player 1": ["werewolf", "TJ"],
-    "Player 2": ["werewolf", "FP"],
+    "Player 1": ["werewolf", ""],
+    "Player 2": ["werewolf", ""],
     "Player 3": ["villager", "TJ"],
     "Player 4": ["villager", "TJ"],
     "Player 5": ["villager", "TJ"],
@@ -50,8 +74,8 @@ all_v_tj = {
 }
 
 all_v_fp = {
-    "Player 1": ["werewolf", "TJ"],
-    "Player 2": ["werewolf", "FP"],
+    "Player 1": ["werewolf", ""],
+    "Player 2": ["werewolf", ""],
     "Player 3": ["villager", "FP"],
     "Player 4": ["villager", "FP"],
     "Player 5": ["villager", "FP"],
@@ -60,7 +84,136 @@ all_v_fp = {
 }
 
 all_v_fj = {
+    "Player 1": ["werewolf", ""],
+    "Player 2": ["werewolf", ""],
+    "Player 3": ["villager", "FJ"],
+    "Player 4": ["villager", "FJ"],
+    "Player 5": ["villager", "FJ"],
+    "Player 6": ["villager", "FJ"],
+    "Player 7": ["villager", "FJ"]
+}
+
+all_w_tp = {
+    "Player 1": ["werewolf", "TP"],
+    "Player 2": ["werewolf", "TP"],
+    "Player 3": ["villager", ""],
+    "Player 4": ["villager", ""],
+    "Player 5": ["villager", ""],
+    "Player 6": ["villager", ""],
+    "Player 7": ["villager", ""]
+}
+
+all_w_tj = {
     "Player 1": ["werewolf", "TJ"],
+    "Player 2": ["werewolf", "TJ"],
+    "Player 3": ["villager", ""],
+    "Player 4": ["villager", ""],
+    "Player 5": ["villager", ""],
+    "Player 6": ["villager", ""],
+    "Player 7": ["villager", ""]
+}
+
+all_w_fp = {
+    "Player 1": ["werewolf", "FP"],
+    "Player 2": ["werewolf", "FP"],
+    "Player 3": ["villager", ""],
+    "Player 4": ["villager", ""],
+    "Player 5": ["villager", ""],
+    "Player 6": ["villager", ""],
+    "Player 7": ["villager", ""]
+}
+
+all_w_fj = {
+    "Player 1": ["werewolf", "FJ"],
+    "Player 2": ["werewolf", "FJ"],
+    "Player 3": ["villager", ""],
+    "Player 4": ["villager", ""],
+    "Player 5": ["villager", ""],
+    "Player 6": ["villager", ""],
+    "Player 7": ["villager", ""]
+}
+
+# Villagers = TP, Werewolves = TJ
+v_tp_w_tj = {
+    "Player 1": ["werewolf", "TJ"],
+    "Player 2": ["werewolf", "TJ"],
+    "Player 3": ["villager", "TP"],
+    "Player 4": ["villager", "TP"],
+    "Player 5": ["villager", "TP"],
+    "Player 6": ["villager", "TP"],
+    "Player 7": ["villager", "TP"]
+}
+
+# Villagers = TJ, Werewolves = TP
+v_tj_w_tp = {
+    "Player 1": ["werewolf", "TP"],
+    "Player 2": ["werewolf", "TP"],
+    "Player 3": ["villager", "TJ"],
+    "Player 4": ["villager", "TJ"],
+    "Player 5": ["villager", "TJ"],
+    "Player 6": ["villager", "TJ"],
+    "Player 7": ["villager", "TJ"]
+}
+
+
+# Villagers = FJ, Werewolves = TJ
+v_fj_w_tj = {
+    "Player 1": ["werewolf", "TJ"],
+    "Player 2": ["werewolf", "TJ"],
+    "Player 3": ["villager", "FJ"],
+    "Player 4": ["villager", "FJ"],
+    "Player 5": ["villager", "FJ"],
+    "Player 6": ["villager", "FJ"],
+    "Player 7": ["villager", "FJ"]
+}
+
+# Villagers = FP, Werewolves = TJ
+v_fp_w_tj = {
+    "Player 1": ["werewolf", "TJ"],
+    "Player 2": ["werewolf", "TJ"],
+    "Player 3": ["villager", "FP"],
+    "Player 4": ["villager", "FP"],
+    "Player 5": ["villager", "FP"],
+    "Player 6": ["villager", "FP"],
+    "Player 7": ["villager", "FP"]
+}
+
+# Villagers = TJ, Werewolves = FJ
+v_tj_w_fj = {
+    "Player 1": ["werewolf", "FJ"],
+    "Player 2": ["werewolf", "FJ"],
+    "Player 3": ["villager", "TJ"],
+    "Player 4": ["villager", "TJ"],
+    "Player 5": ["villager", "TJ"],
+    "Player 6": ["villager", "TJ"],
+    "Player 7": ["villager", "TJ"]
+}
+
+# Villagers = TP, Werewolves = FJ
+v_tp_w_fj = {
+    "Player 1": ["werewolf", "FJ"],
+    "Player 2": ["werewolf", "FJ"],
+    "Player 3": ["villager", "TP"],
+    "Player 4": ["villager", "TP"],
+    "Player 5": ["villager", "TP"],
+    "Player 6": ["villager", "TP"],
+    "Player 7": ["villager", "TP"]
+}
+
+# Villagers = FP, Werewolves = FJ
+v_fp_w_fj = {
+    "Player 1": ["werewolf", "FJ"],
+    "Player 2": ["werewolf", "FJ"],
+    "Player 3": ["villager", "FP"],
+    "Player 4": ["villager", "FP"],
+    "Player 5": ["villager", "FP"],
+    "Player 6": ["villager", "FP"],
+    "Player 7": ["villager", "FP"]
+}
+
+# Villagers = FJ, Werewolves = FP
+v_fj_w_fp = {
+    "Player 1": ["werewolf", "FP"],
     "Player 2": ["werewolf", "FP"],
     "Player 3": ["villager", "FJ"],
     "Player 4": ["villager", "FJ"],
@@ -68,6 +221,143 @@ all_v_fj = {
     "Player 6": ["villager", "FJ"],
     "Player 7": ["villager", "FJ"]
 }
+
+# Villagers = TJ, Werewolves = FP
+v_tj_w_fp = {
+    "Player 1": ["werewolf", "FP"],
+    "Player 2": ["werewolf", "FP"],
+    "Player 3": ["villager", "TJ"],
+    "Player 4": ["villager", "TJ"],
+    "Player 5": ["villager", "TJ"],
+    "Player 6": ["villager", "TJ"],
+    "Player 7": ["villager", "TJ"]
+}
+
+# Villagers = TP, Werewolves = FP
+v_tp_w_fp = {
+    "Player 1": ["werewolf", "FP"],
+    "Player 2": ["werewolf", "FP"],
+    "Player 3": ["villager", "TP"],
+    "Player 4": ["villager", "TP"],
+    "Player 5": ["villager", "TP"],
+    "Player 6": ["villager", "TP"],
+    "Player 7": ["villager", "TP"]
+}
+
+# Villagers = FJ, Werewolves = TP
+v_fj_w_tp = {
+    "Player 1": ["werewolf", "TP"],
+    "Player 2": ["werewolf", "TP"],
+    "Player 3": ["villager", "FJ"],
+    "Player 4": ["villager", "FJ"],
+    "Player 5": ["villager", "FJ"],
+    "Player 6": ["villager", "FJ"],
+    "Player 7": ["villager", "FJ"]
+}
+
+# Villagers = FP, Werewolves = TP
+v_fp_w_tp = {
+    "Player 1": ["werewolf", "TP"],
+    "Player 2": ["werewolf", "TP"],
+    "Player 3": ["villager", "FP"],
+    "Player 4": ["villager", "FP"],
+    "Player 5": ["villager", "FP"],
+    "Player 6": ["villager", "FP"],
+    "Player 7": ["villager", "FP"]
+}
+
+# Mirror matches
+
+# Villagers = TJ, Werewolves = TJ
+v_tj_w_tj = {
+    "Player 1": ["werewolf", "TJ"],
+    "Player 2": ["werewolf", "TJ"],
+    "Player 3": ["villager", "TJ"],
+    "Player 4": ["villager", "TJ"],
+    "Player 5": ["villager", "TJ"],
+    "Player 6": ["villager", "TJ"],
+    "Player 7": ["villager", "TJ"]
+}
+
+# Villagers = TP, Werewolves = TP
+v_tp_w_tp = {
+    "Player 1": ["werewolf", "TP"],
+    "Player 2": ["werewolf", "TP"],
+    "Player 3": ["villager", "TP"],
+    "Player 4": ["villager", "TP"],
+    "Player 5": ["villager", "TP"],
+    "Player 6": ["villager", "TP"],
+    "Player 7": ["villager", "TP"]
+}
+
+# Villagers = FJ, Werewolves = FJ
+v_fj_w_fj = {
+    "Player 1": ["werewolf", "FJ"],
+    "Player 2": ["werewolf", "FJ"],
+    "Player 3": ["villager", "FJ"],
+    "Player 4": ["villager", "FJ"],
+    "Player 5": ["villager", "FJ"],
+    "Player 6": ["villager", "FJ"],
+    "Player 7": ["villager", "FJ"]
+}
+
+# Villagers = FP, Werewolves = FP
+v_fp_w_fp = {
+    "Player 1": ["werewolf", "FP"],
+    "Player 2": ["werewolf", "FP"],
+    "Player 3": ["villager", "FP"],
+    "Player 4": ["villager", "FP"],
+    "Player 5": ["villager", "FP"],
+    "Player 6": ["villager", "FP"],
+    "Player 7": ["villager", "FP"]
+}
+
+
+# Villagers = TJ, Werewolves = TJ
+v_tj_w_tj = {
+    "Player 1": ["werewolf", "TJ"],
+    "Player 2": ["werewolf", "TJ"],
+    "Player 3": ["villager", "TJ"],
+    "Player 4": ["villager", "TJ"],
+    "Player 5": ["villager", "TJ"],
+    "Player 6": ["villager", "TJ"],
+    "Player 7": ["villager", "TJ"]
+}
+
+# Villagers = TP, Werewolves = TP
+v_tp_w_tp = {
+    "Player 1": ["werewolf", "TP"],
+    "Player 2": ["werewolf", "TP"],
+    "Player 3": ["villager", "TP"],
+    "Player 4": ["villager", "TP"],
+    "Player 5": ["villager", "TP"],
+    "Player 6": ["villager", "TP"],
+    "Player 7": ["villager", "TP"]
+}
+
+# Villagers = FJ, Werewolves = FJ
+v_fj_w_fj = {
+    "Player 1": ["werewolf", "FJ"],
+    "Player 2": ["werewolf", "FJ"],
+    "Player 3": ["villager", "FJ"],
+    "Player 4": ["villager", "FJ"],
+    "Player 5": ["villager", "FJ"],
+    "Player 6": ["villager", "FJ"],
+    "Player 7": ["villager", "FJ"]
+}
+
+# Villagers = FP, Werewolves = FP
+v_fp_w_fp = {
+    "Player 1": ["werewolf", "FP"],
+    "Player 2": ["werewolf", "FP"],
+    "Player 3": ["villager", "FP"],
+    "Player 4": ["villager", "FP"],
+    "Player 5": ["villager", "FP"],
+    "Player 6": ["villager", "FP"],
+    "Player 7": ["villager", "FP"]
+}
+
+
 
 villagers_throw = {
     "Player 1": ["werewolf", "blank"],
@@ -134,6 +424,7 @@ w_aggro_vill_throw_fourp = {
 }
 
 setting_list = [
+    control,           # No personalities
     diverse_v,         # Diverse villagers setting
     all_v_tp,          # All villagers with TP personality
     all_v_tj,          # All villagers with TJ personality
@@ -141,10 +432,102 @@ setting_list = [
     all_v_fj,          # All villagers with FJ personality
     villagers_throw,   # Villagers throw, werewolves are blank
     werewolves_throw,  # Werewolves throw, villagers are blank
-    alternate_letters  # Alternating personality assignment
+    alternate_letters,  # Alternating personality assignment
+    w_aggro_vill_throw,
+    v_aggro_were_throw
+
+]
+
+setting_list_shortened = [
+    w_aggro_vill_throw,   # Villagers throw, werewolves are blank
+    v_aggro_were_throw,  # Werewolves throw, villagers are blank
+]
+
+personality_combo_list = [
+    v_tp_w_tj,
+    v_tj_w_tp,
+    v_fj_w_tj,
+    v_fp_w_tj,
+    v_tj_w_fj,
+    v_tp_w_fj,
+    v_fp_w_fj,
+    v_fj_w_fp,
+    v_tj_w_fp,
+    v_tp_w_fp,
+    v_fj_w_tp,
+    v_fp_w_tp
+]
+
+mirror_matches = [
+    v_tp_w_tp,
+    
+]
+
+villager_blank_personality_list = []
+
+mirror_matches = [
+    v_tj_w_tj,
+    v_tp_w_tp,
+    v_fj_w_fj,
+    v_fp_w_fp
+]
+
+mirror_matches_names = [
+    "v_tj_w_tj",
+    "v_tp_w_tp",
+    "v_fj_w_fj",
+    "v_fp_w_fp"
+]
+
+
+
+personality_combo_list_names = [
+    "v_tp_w_tj",
+    "v_tj_w_tp",
+    "v_fj_w_tj",
+    "v_fp_w_tj",
+    "v_tj_w_fj",
+    "v_tp_w_fj",
+    "v_fp_w_fj",
+    "v_fj_w_fp",
+    "v_tj_w_fp",
+    "v_tp_w_fp",
+    "v_fj_w_tp",
+    "v_fp_w_tp"
+]
+
+personality_combo_list_short  = [
+    v_fj_w_tj,
+    v_fp_w_tj,
+    v_tj_w_fj,
+    v_tp_w_fj,
+    v_fp_w_fj,
+    v_fj_w_fp,
+    v_tj_w_fp,
+    v_tp_w_fp,
+    v_fj_w_tp,
+    v_fp_w_tp
+]
+
+personality_combo_list_names_short = [
+    "v_fj_w_tj",
+    "v_fp_w_tj",
+    "v_tj_w_fj",
+    "v_tp_w_fj",
+    "v_fp_w_fj",
+    "v_fj_w_fp",
+    "v_tj_w_fp",
+    "v_tp_w_fp",
+    "v_fj_w_tp",
+    "v_fp_w_tp"
 ]
 
 setting_name_list = [
+    "control",
+    "villagers_throw",
+    "werewolves_throw",
+    "w_aggro_vill_throw",
+    "v_aggro_were_throw",
     "diverse_v",
     "all_v_tp",
     "all_v_tj",
@@ -152,8 +535,39 @@ setting_name_list = [
     "all_v_fj",
     "villagers_throw",
     "werewolves_throw",
-    "alternate_letters"
+    "w_aggro_vill_throw",
+    "v_aggro_were_throw"
 ]
+
+setting_name_list_shortened = [
+    "w_aggro_vill_throw",
+    "v_"
+    ""
+    "aggro_were_throw"
+]
+
+control_list = [
+    applied_control
+]
+
+control_list_names = [
+    "applied_control"
+]
+
+villager_none_list = [
+    all_w_tp,
+    all_w_tj,
+    all_w_fp,
+    all_w_fj
+]
+
+villager_none_list_names = [
+    "all_w_tp",
+    "all_w_tj",
+    "all_w_fp",
+    "all_w_fj"
+]
+
 import re
 
 
@@ -171,6 +585,7 @@ class WerewolfGame:
         self.transcripts = []
         self.curr_setting = curr_setting
         self.curr_setting_name = curr_setting_name
+        self.game_flag = False
 
         # initialize Crew
         open("./memories/memory.txt", "a").close()
@@ -246,10 +661,19 @@ class WerewolfGame:
             alive_players = [p for p in self.current_players.keys()]
             night = self.gameCrew.run_night_phase_collect(alive_players, self.current_players)
 
+
             night_elim = night["night_elim"] or ""
             if night_elim and night_elim in self.current_players and night_elim != "Tallier":
                 self.eliminated[night_elim] = True
                 self.current_players = {p: role for p, role in self.players.items() if p not in self.eliminated}
+            
+            # The last villager could have been eliminated during this night phase, so once the players are eliminated we check for game over
+            if self.check_game_over():
+                print("Game Over.")
+                self.game_flag = False
+                self.do_game_over()
+                return
+                
 
             # -------- DAY ----------
             alive_players_after_night = [p for p in self.current_players.keys()]
@@ -261,6 +685,14 @@ class WerewolfGame:
                 self.eliminated[day_elim] = True
                 self.current_players = {p: role for p, role in self.players.items() if p not in self.eliminated}
 
+            # Check for game over
+            if self.check_game_over():
+                print("Game Over.")
+                self.game_flag = False
+                self.do_game_over()
+                return
+                
+
             # Build a combined JSON you can still persist (mirrors your previous structure)
             combined = {
                 "transcript": "",  # no longer useful; agents just output names
@@ -271,7 +703,8 @@ class WerewolfGame:
                 "remaining": [p for p in self.current_players.keys() if p != "Tallier"]
             }
 
-            # Persist for debugging/analysis
+            # TODO: Comment over 
+
             timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
             os.makedirs("memories", exist_ok=True)
             with open(f"memories/{timestamp}.json", "w", encoding="utf-8") as f:
@@ -284,7 +717,6 @@ class WerewolfGame:
                 f.write(json.dumps(combined, ensure_ascii=False, indent=2))
                 f.write(f"\n\nRound Execution Time: {execution_time:.6f} seconds\n")
 
-            # push into your old arrays to keep rest of code happy
             self.transcripts.append(json.dumps(combined))
             self.round_number += 1
             return combined
@@ -328,18 +760,42 @@ class WerewolfGame:
             wb_type = self.starting_players["Player 2"][1]
             va_type = self.starting_players["Player 3"][1]
             vb_type = self.starting_players["Player 4"][1]
-            # vc_type = self.starting_players["Player 5"][1]
-            # vd_type = self.starting_players["Player 6"][1]
-            # ve_type = self.starting_players["Player 7"][1]
+            vc_type = self.starting_players["Player 5"][1]
+            vd_type = self.starting_players["Player 6"][1]
+            ve_type = self.starting_players["Player 7"][1]
 
             # If the file didn't exist, write a header first.
             if not file_exists or os.path.getsize(csv_file) == 0:
                 writer.writerow(["ID", "Timestamp", "WinningTeam", "RemainingVillagers", "RemainingWerewolves", "wa_type", "wb_type", "va_type", "vb_type", "vc_type", "vd_type", "ve_type"])
             # writer.writerow([row_id, timestamp, winning_team, num_villagers, num_werewolves, wa_type, wb_type, va_type, vb_type, vc_type, vd_type, ve_type])
-            writer.writerow([row_id, timestamp, winning_team, num_villagers, num_werewolves, wa_type, wb_type, va_type, vb_type])
+            writer.writerow([row_id, timestamp, winning_team, num_villagers, num_werewolves, wa_type, wb_type, va_type, vb_type, vc_type, vd_type, ve_type])
 
 
-    def game_over(self):
+    def do_game_over(self):
+        """Perform game over procedures, finding information to pass into log_game_over"""
+
+        players = self.current_players
+        role_data = [vals[0] for name, vals in players.items() if name != "Tallier" and vals]
+        roles_set = set(role_data)
+
+        only_role, = roles_set
+        winning_team = "V" if only_role == "villager" else ("W" if only_role == "werewolf" else "N")
+
+        num_villagers = sum(1 for r in role_data if r == "villager")
+        num_werewolves = sum(1 for r in role_data if r == "werewolf")
+
+        self.log_game_over(winning_team, num_villagers, num_werewolves)
+
+        num_left = len([n for n in players.keys() if n != "Tallier"])
+        if winning_team == "W":
+            print(f"GAME OVER: Only werewolves remain, of which there are {num_left}")
+        elif winning_team == "V":
+            print(f"GAME OVER: Only villagers remain, of which there are {num_left}")
+        else:
+            print(f"GAME OVER: All remaining have the same nonstandard role: {only_role}")
+        return True
+    
+    def check_game_over(self):
         """
         Determines if the game is over based on the remaining players.
         The game is over if:
@@ -352,86 +808,26 @@ class WerewolfGame:
         Returns:
             bool: True if the game is over, False otherwise.
         """
-
+        
         # Clear memory JSON for this round
         clear_votes_func("day")
         clear_votes_func("night")
 
-
-        print("PERFORMING GAME OVER")
+        print("Checking game over:")
+        print("Players upon checking game over: ", self.current_players)
         players = self.current_players
-        # Case 1: Only one or zero players remain.
-        # We must subtract one to represent the tallier
-        if len(players) - 1 <= 1:
-            print("GAME OVER: First Branch")
-            role_data = [data[0] for data in players.values() if data]
-
-            if players:
-                # Get the role of the last remaining player.
-                try:
-                    last_role = list(set(role_data))[0]
-                except: 
-                    # This will cause an error if there are no more roles
-                    last_role = ""
-                print("Last role: ", last_role)
-                if last_role == "villager":
-                    winning_team = "V"
-                elif last_role == "werewolf":
-                    winning_team = "W"
-                else:
-                    winning_team = "N"
-                print(f"The last remaining player is {list(players.keys())[0]} with role {last_role}.")
-            else:
-                winning_team = "N"  
-
-
-            print("Role data: ", role_data)
-            
-            num_villagers = sum([1 for role in role_data if role == "villager"])
-            num_werewolves = sum([1 for role in role_data if role == "werewolf"])
-
-            print("num_villagers: ", num_villagers)
-            print("num_werewolves: ", num_werewolves)
-
-            self.log_game_over(winning_team, num_villagers, num_werewolves)
-            print("GAME OVER: Only one (or zero) player remains.")
+        if len(players) <= 1:
             return True
-        # Case 2: All remaining non-Tallier players have the same role.
         else:
-            roles_set = set([vals[0] for name, vals in players.items() if name != "Tallier" and vals])
-            print("Roles: ", roles_set)
-
-            if len(roles_set) == 1:
-                print("GAME OVER: Second Branch")
-
-                # Determine winning team from the single role present
-                only_role, = roles_set
-                winning_team = "V" if only_role == "villager" else ("W" if only_role == "werewolf" else "N")
-
-                num_villagers = sum(1 for r in role_data if r == "villager")
-                num_werewolves = sum(1 for r in role_data if r == "werewolf")
-
-                self.log_game_over(winning_team, num_villagers, num_werewolves)
-
-                num_left = len([n for n in players.keys() if n != "Tallier"])
-                if winning_team == "W":
-                    print(f"GAME OVER: Only werewolves remain, of which there are {num_left}")
-                elif winning_team == "V":
-                    print(f"GAME OVER: Only villagers remain, of which there are {num_left}")
-                else:
-                    print(f"GAME OVER: All remaining have the same nonstandard role: {only_role}")
+            roles = set([player[0] for player in list(players.values())])
+            print("Roles in game over: ", roles)
+            if len(roles) == 1:
+                print("Check game over detected game over")
+                self.game_flag = False
                 return True
-        return False
-    
-    def check_game_over(self):
-        players = self.current_players
-        roles = (set([player[0] for player in list(players.values()) if player != []]))
-        if len(roles) == 1:
-            print("Check game over detected game over")
-            return True
-        else: 
-            print("Check game over detected no game over")
-            return False
+            else: 
+                print("Check game over detected no game over")
+                return False
 
 def play_game():
 
@@ -441,33 +837,41 @@ def play_game():
     clear_votes_func("day")
 
 
+
+
     game = WerewolfGame(curr_setting, curr_setting_name)
-    # Subtract one for Tallier; another ensures at least one remains
-    round_num = len(game.crew.agents) - 2
+
+    # Set self.game_flag to True
+    game.game_flag = True
+    round_num = len(game.crew.agents) - 1
 
     for i in range(round_num):
-        print("==== STARTING ROUND {0} === ".format(i+1))
-        game.play_round_with_night()
-        print("Finished Round {0}".format(i+1))
-        if game.check_game_over():
-            print("Game Over.")
-            break
+        if game.game_flag:
+            print("==== STARTING ROUND {0} === ".format(i+1))
+            game.play_round_with_night()
+            print("Finished Round {0}".format(i+1))
 
-    game_over_result = game.game_over()
-    print(f"Game Over? {game_over_result}")
+            game_over_result = game.check_game_over()
+            print(f"Game Over? {game_over_result}")
+            print("Game flag now: ", game.game_flag)
+        else: break
 
 
 def main():
 
     global curr_setting
     global curr_setting_name
-    game_num = 10
 
-    for i in range(len(setting_list)):
+    game_num = 40
+
+    task_list = villager_none_list 
+    task_name_list = villager_none_list_names
+
+    for i in range(len(task_list)):
 
         # Set the current villagers for the game instance
-        curr_setting = setting_list[i]
-        curr_setting_name = setting_name_list[i]
+        curr_setting = task_list[i]
+        curr_setting_name = task_name_list[i]
 
         
         

@@ -1,0 +1,34 @@
+{
+    "transcript": "",
+    "night_elim": "Player 6",
+    "day_elim": "Player 5",
+    "night_votes": [
+        {
+            "voter": "Player 2",
+            "vote": "Player 6"
+        }
+    ],
+    "day_votes": [
+        {
+            "voter": "Player 2",
+            "vote": "Player 5"
+        },
+        {
+            "voter": "Player 4",
+            "vote": "Player 5"
+        },
+        {
+            "voter": "Player 5",
+            "vote": "Player 5"
+        },
+        {
+            "voter": "Player 7",
+            "vote": "Player 5"
+        }
+    ],
+    "remaining": [
+        "Player 2",
+        "Player 4",
+        "Player 7"
+    ]
+}

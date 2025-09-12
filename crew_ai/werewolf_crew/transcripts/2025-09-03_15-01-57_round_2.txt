@@ -1,0 +1,40 @@
+{
+  "transcript": "",
+  "night_elim": "Player 6",
+  "day_elim": "Player 2",
+  "night_votes": [
+    {
+      "voter": "Player 1",
+      "vote": "Player 6"
+    },
+    {
+      "voter": "Player 2",
+      "vote": "Player 7"
+    }
+  ],
+  "day_votes": [
+    {
+      "voter": "Player 1",
+      "vote": "Player 2"
+    },
+    {
+      "voter": "Player 2",
+      "vote": "Player 3"
+    },
+    {
+      "voter": "Player 3",
+      "vote": "Player 2"
+    },
+    {
+      "voter": "Player 7",
+      "vote": "Player 2"
+    }
+  ],
+  "remaining": [
+    "Player 1",
+    "Player 3",
+    "Player 7"
+  ]
+}
+
+Round Execution Time: 6.185793 seconds

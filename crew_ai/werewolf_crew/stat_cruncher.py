@@ -1,5 +1,6 @@
 import csv
 import numpy as np
+import sys
 
 
 class stat_cruncher:
@@ -24,12 +25,7 @@ class stat_cruncher:
                 winning_team_list.append(int(winning_num))
                 n += 1
             
-            werewolf_winrate = np.mean(np.array(winning_team_list))
-            villager_winrate = 1 - werewolf_winrate
-
-            vwin_std = np.std(np.array(winning_team_list))
-
-            print(winning_team_list)
+            villager_winrate = np.mean(np.array(winning_team_list))
 
             print(f"The villager winrate from file {filename} is {villager_winrate:.2%} at n = {n}.")
         return villager_winrate
@@ -44,12 +40,52 @@ class stat_cruncher:
 
         return winrate_2 - winrate_1
     
-
 obj = stat_cruncher()
 
-filename1 = "./stats/game_stats_villager_not_trying.csv"
+def get_all():
+    c = stat_cruncher()
+
+    setting_name_list = [
+    "v_tj_w_tj",
+    "v_tp_w_tp",
+    "v_fj_w_fj",
+    "v_fp_w_fp",
+    "v_tp_w_tj",
+    "v_tj_w_tp",
+    "v_fj_w_tj",
+    "v_fp_w_tj",
+    "v_tj_w_fj",
+    "v_tp_w_fj",
+    "v_fp_w_fj",
+    "v_fj_w_fp",
+    "v_tj_w_fp",
+    "v_tp_w_fp",
+    "v_fj_w_tp",
+    "v_fp_w_tp"
+    ]
+    for setting in setting_name_list:
+        input = "./stats/game_stats_{0}.csv".format(setting)
+        try:
+            c.get_winrate(input)
+        except: pass
 
 
 
 
-obj.get_winrate(filename1)
+# Ensure the user provided a parameter
+if len(sys.argv) < 2:
+    print("Usage: python script.py <filename>")
+    sys.exit(1)
+
+
+filename1 = sys.argv[1]
+
+if filename1 == "all":
+    get_all()
+else:
+    input = "./stats/game_stats_{0}.csv".format(filename1)
+
+
+    # Call the function with the filename from the terminal
+    obj.get_winrate(input)
+

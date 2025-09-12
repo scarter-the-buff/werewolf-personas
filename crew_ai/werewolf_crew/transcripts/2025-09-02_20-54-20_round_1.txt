@@ -1,0 +1,50 @@
+{
+  "transcript": "",
+  "night_elim": "Player 4",
+  "day_elim": "Player 5",
+  "night_votes": [
+    {
+      "voter": "Player 1",
+      "vote": "Player 4"
+    },
+    {
+      "voter": "Player 2",
+      "vote": "Player 4"
+    }
+  ],
+  "day_votes": [
+    {
+      "voter": "Player 1",
+      "vote": "Player 2"
+    },
+    {
+      "voter": "Player 2",
+      "vote": "Player 1"
+    },
+    {
+      "voter": "Player 3",
+      "vote": "Player 5"
+    },
+    {
+      "voter": "Player 5",
+      "vote": "Player 6"
+    },
+    {
+      "voter": "Player 6",
+      "vote": "Player 5"
+    },
+    {
+      "voter": "Player 7",
+      "vote": "Player 3"
+    }
+  ],
+  "remaining": [
+    "Player 1",
+    "Player 2",
+    "Player 3",
+    "Player 6",
+    "Player 7"
+  ]
+}
+
+Round Execution Time: 6.637403 seconds
