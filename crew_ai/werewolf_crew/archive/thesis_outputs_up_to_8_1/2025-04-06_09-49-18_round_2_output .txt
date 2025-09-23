@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *glances at Damien, signaling a plan*\nDamien: *nods silently, confirming the decision*\nAchille: *points subtly at Ellie, indicating his target*\nDamien: *raises an eyebrow, then agrees with a decisive tap on Ellie’s shoulder*\n*Ellie is eliminated*\n\nDAY PHASE\nBrian: \"I can’t believe we lost someone last night. This is unsettling.\"\nCarol: \"I’m still in shock. We need to figure out what happened and be careful.\"\nAchille: \"We must all be vigilant but careful with our accusations.\"\nDamien: \"Yes, let’s think about everyone’s behavior from last night.\"\nBrian: \"I vote to eliminate Achille—there was something off about his gestures during the night.\"\nCarol: \"I vote to eliminate Damien, his silence seemed too calculated.\"\nAchille: \"I vote to eliminate Carol; her tone earlier was defensive.\"\nDamien: \"I vote to eliminate Carol as well; her statements felt too rehearsed.\"\n*Carol is eliminated*",
+  "night_elim": "Ellie",
+  "day_elim": "Carol"
+}
+ Round Execution Time: 10.335110 seconds 

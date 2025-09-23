@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nAlice: I'm suspicious of Bob because he was unusually quiet last night.\nBob: I'm not the werewolf! I think Carol's accusations are too aggressive and could be a smoke screen.\nCarol: I'm noticing Bob deflects every question; he is my primary suspect.\nBrian: aggressive_werewolf Both Bob and Carol are pointing fingers, but Carol's arguments feel forced, like she's redirecting guilt. My vote is for Carol.\nVote tally: Alice->Bob, Bob->Carol, Carol->Bob, Brian->Carol. Tie 2-2, tiebreak by Brian -> Carol is eliminated.",
+    "night_elim": "",
+    "day_elim": "Carol",
+    "remaining": ["Alice", "Bob", "Brian"]
+}
+ Round Execution Time: 61.160406 seconds 

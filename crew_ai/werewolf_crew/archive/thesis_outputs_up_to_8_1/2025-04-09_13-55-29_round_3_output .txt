@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE:\nAlice: *narrowing her eyes, she gives a subtle nod and taps her temple, signaling a secret plan*\nBrian: *returns the gesture with a slight smirk and a discreet hand point towards an unseen target*\nEllie: *remains unaware, quietly watching the gesture exchange from afar*\n*In unison, the werewolf pair silently agree: Ellie, the villager, is to be eliminated*\n\nDAY PHASE:\nAlice: \"Morning. Last night’s silent decision has its weight. We must now consider the implications for our cause.\"\nBrian: \"Indeed, though I believe every action has its consequences.\"\nAlice: \"We need trust among us. If doubts arise about loyalty, tough decisions must be made.\"\nBrian: \"Are you suggesting a sacrifice among us?\"\nAlice: *firmly gestures towards Brian while maintaining steady eye contact* \"Sometimes, to strengthen our position, we have to remove even our own if doubts persist.\"\nBrian: *hesitantly* \"It seems the consensus is forming. I accept the risk of elimination for the greater strategy.\"\n*After a brief silence, the two agree by implication, and the vote is cast to eliminate Brian*",
+  "night_elim": "Ellie",
+  "day_elim": "Brian"
+}
+ Round Execution Time: 35.282289 seconds 

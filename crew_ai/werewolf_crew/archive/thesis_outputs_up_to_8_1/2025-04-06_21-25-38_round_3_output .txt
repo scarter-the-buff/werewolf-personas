@@ -1,0 +1,7 @@
+{
+    "transcript": "NIGHT PHASE:\nAlice: *nods subtly at Damien*\nDamien: *returns nod and points towards Ellie in the distance*\nAlice: *shakes head twice in agreement*\nNarrator: The two werewolves silently agree using gestures and together decide to eliminate Ellie, the villager. Ellie is quietly taken out during the night.\n\nDAY PHASE:\nAlice: \"I feel uneasy about the events of last night.\"\nDamien: \"I too am suspicious, though we both know what happened. We must choose wisely who to eliminate now.\"\nAlice: \"If we’re really impartial, neither should vote for themselves. I cast my vote for you, Damien.\"\nDamien: \"And I cast my vote for you, Alice. It ends in a tie.\"\nNarrator: With a tie in votes, the tie-breaker rules are invoked. After a brief, tense deliberation and a re-vote, the decision falls on Damien. Damien is eliminated during the day phase.\n",
+    "night_elim": "Ellie",
+    "day_elim": "Damien"
+}
+```
+ Round Execution Time: 44.501303 seconds 

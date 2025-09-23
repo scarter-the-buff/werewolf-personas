@@ -1,0 +1,7 @@
+{
+  "transcript": "=== NIGHT PHASE ===\nAchille: *glances around stealthily and points discreetly toward Carol*\nDamien: *nods in agreement and uses a subtle hand gesture toward Carol*\n*The werewolves silently confirm their target. Carol is marked and eliminated during the night*\n\n=== DAY PHASE ===\nBrian: \"Something feels off this morning. I can’t shake the feeling that one of us is hiding something.\"\nAchille: \"I noticed some unusual behavior last night. Damien, you were unusually quiet.\"\nDamien: \"I’m just trying to stay out of trouble. Maybe Brian is overreacting.\"\nEllie: \"I agree with Brian. There was something odd about Damien’s demeanour.\"\n\n*The players then proceed to vote:*\nBrian votes for Damien\nAchille votes for Damien\nEllie votes for Damien\nDamien votes for Ellie\n\n*With the majority of votes, Damien is eliminated during the day*",
+  "night_elim": "Carol",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 39.049721 seconds 

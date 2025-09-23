@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: *glances at Damien with a subtle nod and makes an eye contact that says 'the plan is set'*\nDamien: *gives a slight smile and points discreetly towards Ellie, then nods silently in agreement*\nBrian: *raises an eyebrow and adjusts his stance, signaling a final confirmation*\nDamien: *offers a brief shrug and a focused stare directed at Ellie, finalizing the secret decision*\n*Ellie is eliminated*\n\nDAY PHASE\nBrian: \"Last night, something felt off about the way we all conducted ourselves. Damien, I noticed your hesitation.\"\nDamien: \"Hesitation? I’m just as shocked as you are by what happened.\"\nBrian: \"Your silence and evasive glances during the night phase were suspicious. I believe we need to address that now.\"\nDamien: \"Maybe you’re right. In retrospect, I might have overreacted...\"\nBrian votes to eliminate Damien",
+  "night_elim": "Ellie",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 46.342047 seconds 

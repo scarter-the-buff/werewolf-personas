@@ -1,0 +1,7 @@
+{
+    "transcript": "NIGHT PHASE\n(no elimination)\nDAY PHASE\nAlice: \"I noticed Player 3 was jittery when questioned, a sign often associated with werewolf deception.\"\nAlex: \"I agree with Alice’s assessment; Player 3’s behavior seemed off.\"\nBethany: \"I also find Player 3 suspicious based on these observations.\"\nEllie: \"I don’t have much to add, but nothing contradicts the suspicion.\"\naggressive_werewolf Brian: \"Based on the consensus and Player 3’s telltale nervousness, I’m convinced they are the werewolf. I vote to eliminate Player 3.\"",
+    "night_elim": "",
+    "day_elim": "Player 3",
+    "remaining": ["Alice", "Alex", "Brian", "Bethany", "Ellie"]
+}
+ Round Execution Time: 78.287809 seconds 

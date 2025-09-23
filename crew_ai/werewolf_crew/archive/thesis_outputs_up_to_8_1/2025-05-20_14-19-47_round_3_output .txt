@@ -1,0 +1,7 @@
+{
+    "transcript": "NIGHT PHASE\nAlice: *exchanges a secretive glance with Carol, then subtly nods toward Ellie*\nCarol: *returns the nod and makes a pointed gesture in Ellie’s direction*\nAlice: *uses a hand motion indicating elimination while looking at Ellie*\nCarol: *confirms the signal with a final, decisive gesture*\n*Ellie is eliminated*\n\nDAY PHASE\nAlice: \"I still can’t believe that Ellie was taken in the night. It feels so sudden.\"\nCarol: \"Yes, it’s a shock. But perhaps there’s more going on than meets the eye.\"\nAlice: \"I have a nagging feeling that someone among us isn't as innocent as they seem.\"\nCarol: \"I noticed something odd last night, a subtle shift when you were gesturing. It makes me wonder if you had a role in this.\"\nAlice: \"That’s a stretch. I’m just as surprised by tonight’s events as you are.\"\nCarol: \"Maybe so, but sometimes our instincts tell us more than our words.\"\nAlice: \"If we are to find the truth, we might need to make a difficult decision.\"\n*After a brief, heated exchange, votes are cast*\nAlice votes for Carol\nCarol votes for Alice\nAlice: \"Based on these suspicions and our conflicting signals, I believe we should eliminate you, Carol.\"\nCarol: \"And I must counter, as I suspect otherwise. I vote against you, Alice.\"\n*In a tie-breaking decision after deliberation, the vote goes in favor of eliminating Carol*\n*Carol is eliminated*",
+    "night_elim": "Ellie",
+    "day_elim": "Carol"
+}
+```
+ Round Execution Time: 23.097309 seconds 

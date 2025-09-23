@@ -1,0 +1,7 @@
+{
+    "transcript": "NIGHT PHASE\n\n(no night elimination)\n\nDAY PHASE\nAnna: I suspect Alex because of the way they’re avoiding eye contact. I’m going to vote to eliminate Alex.\nBella: Alex’s defense sounds weak, but Carla’s been awfully quiet. I’ll vote for Carla.\nCarla: After reviewing Anna’s vote for Alex (the werewolf) and Bella’s vote for me (Villager B), I see an opportunity to draw suspicion onto myself and further disrupt the villagers’ coordination. By voting for myself (Villager B), I reinforce the existing suspicion, making it more likely a villager is removed. Vote: Carla.\nBrian: Carla’s self-vote is too convenient—no genuine villager would vote against themselves so blatantly. It reeks of misdirection. I’m convinced Carla is a villager trying to throw off the real wolves. I vote to remove Carla.",
+    "night_elim": "",
+    "day_elim": "Carla",
+    "remaining": ["Anna", "Alex", "Brian"]
+}
+ Round Execution Time: 73.613481 seconds 

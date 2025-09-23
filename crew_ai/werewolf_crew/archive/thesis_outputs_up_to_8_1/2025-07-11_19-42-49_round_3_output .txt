@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nAlice: \"I think Frank's been awfully quiet and suspicious—his voting pattern looks off, he might be a werewolf, so I’m voting to lynch Frank.\"\nBethany: \"I agree with Alice. Frank has repeatedly voted against confirmed villagers. I cast my vote to lynch Frank.\"\nAlex: \"After reviewing the aggressive push from Alice to lynch Frank and seeing that Frank is leading in the votes, it makes sense to go with the flow and remove Frank. By aligning our vote, we ensure that a villager is eliminated, which benefits the werewolves. I therefore cast my vote to lynch Frank.\"\nBrian: \"I’ve considered everyone’s points and the vote count. Frank is clearly the lynch candidate. I vote to lynch Frank.\"",
+    "night_elim": "",
+    "day_elim": "Frank",
+    "remaining": ["Alice", "Bethany", "Alex", "Brian", "Ellie"]
+}
+ Round Execution Time: 166.074633 seconds 

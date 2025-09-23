@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nBrian and Damien, the werewolves, silently gather under the shroud of night. Brian gives a subtle nod while Damien offers a discreet hand gesture. In a silent pact communicated only through intense eye contact and reserved movements, they agree that Carol, one of the villagers, must be eliminated.\n\nDAY PHASE:\nAt dawn, the remaining players convene under the warm light of the morning. The mood is tense as suspicions and accusations fly. Alice starts, \"I have a bad feeling about last night. It seems like something was amiss, and my gut tells me that Brian might be involved.\" Damien chimes in, adding, \"While I know my own actions might be scrutinized, I am beginning to lean towards suspecting Brian as well.\" Ellie supports the growing suspicion by stating, \"I observed some odd behavior on Brian last night. He has been acting strangely, which makes me suspicious of him.\" Meanwhile, Brian defends himself by accusing Damien: \"I think Damien is the one who has been overly defensive and secretive. His behavior raises more questions than answers.\"\n\nWhen everyone casts their vote, the majority points to Brian. Alice votes for Brian, Damien votes for Brian, and Ellie votes for Brian, while Brian votes against Damien. With the majority vote, it is decided that Brian, perceived to be the werewolf by consensus, is eliminated.",
+  "night_elim": "Carol",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 21.062793 seconds 

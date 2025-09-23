@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: *nods subtly and gives a slight smile, indicating agreement*\nAchille: *raises an eyebrow and points discreetly towards Ellie*\nNarrator: The werewolves, Brian and Achille, silently agree to eliminate Ellie.\n\nDAY PHASE\nBrian: \"I feel something is off about our group tonight. Who among us is hiding the truth?\"\nAchille: \"I noticed something too. Brian, your calm demeanor might be a cover-up, don’t you think?\"\nBrian: \"Interesting point, Achille, but your defensive tone raises my suspicions. Maybe you’re trying to divert attention.\"\nNarrator: After a tense discussion, both players cast their votes. With Achille receiving the majority, he is eliminated.\n",
+  "night_elim": "Ellie",
+  "day_elim": "Achille"
+}
+ Round Execution Time: 28.738158 seconds 

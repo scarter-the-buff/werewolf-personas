@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *glances at Damien and then subtly gestures toward Bethany, indicating her target*\nDamien: *nods in agreement with a firm gesture toward Bethany*\nBethany: *unaware as she dozes in her bed*\nAlice: *sleeps silently*\nBrian: *sleeps silently*\nCarol: *sleeps silently*\nEllie: *sleeps silently*\n*Bethany is eliminated*\n\nDAY PHASE\nAlice: \"I can't believe Bethany was taken last night. It feels so sudden.\"\nBrian: \"I noticed Achille and Damien seemed rather secretive before it happened. It might be a clue.\"\nAchille: \"I was just trying to be helpful…I didn’t expect this at all!\"\nDamien: \"I was part of the discussion, but I never thought it would go this far. We need to be cautious.\"\nCarol: \"We have to work together now. Who seems the most suspicious to everyone?\"\nEllie: \"I agree. Perhaps we should consider a vote so we can protect our remaining group.\"\nAlice: *votes to eliminate Damien*\nBrian: *votes to eliminate Damien*\nAchille: *casts a vote against Damien*\nDamien: *tries to deflect, voting for Achille*\nCarol: *votes to eliminate Damien*\nEllie: *votes to eliminate Damien*\n*Damien is eliminated*",
+  "night_elim": "Bethany",
+  "day_elim": "Damien"
+}
+ Round Execution Time: 9.054556 seconds 

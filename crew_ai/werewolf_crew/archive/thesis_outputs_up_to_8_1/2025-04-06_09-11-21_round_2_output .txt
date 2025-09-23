@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAchille (smirks subtly and gives a slow nod to Damien).\nDamien (returns the smirk, raises an eyebrow, and points discreetly toward Bethany).\nAchille (tilts his head and uses a silent gesture, firmly indicating Bethany as the target).\nDamien (exchanges a series of knowing nods and subtle gestures to confirm the decision).\n[The werewolves silently agree and Bethany is eliminated.]\n\nDAY PHASE:\nAlice: \"I can’t believe Bethany is gone! Who could be behind such a secretive elimination?\"\nEllie: \"This is so mysterious. We need to figure out who among us is hiding something!\"\nAchille: \"I’m as shocked as you all, but it might be wise to eliminate one of us to clear the confusion.\" \nDamien: \"Yes, though it would be easier if the truth emerged by removing a key suspect.\"\nAlice: \"I suggest we vote carefully. I’m curious—everyone, who do you suspect?\"\nEllie: \"I’m leaning towards someone who’s been overly quiet about this—my vote goes to Alice.\" \nAchille: \"I agree with Ellie's feeling. My vote is for Alice as well.\" \nDamien: \"Alice, you seem too eager to lead; I vote for you too.\" \nAlice: \"I’ll vote for Ellie, but it appears the majority is pointing elsewhere.\"\n\nVote Tally:\n- Alice: 3 votes (from Ellie, Achille, and Damien).\n- Ellie: 1 vote (from Alice).\n\n[Outcome: With the majority vote, Alice is eliminated during the day phase.]\n",
+  "night_elim": "Bethany",
+  "day_elim": "Alice"
+}
+```
+ Round Execution Time: 22.672119 seconds 

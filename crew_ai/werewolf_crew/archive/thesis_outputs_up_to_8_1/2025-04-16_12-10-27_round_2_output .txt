@@ -1,0 +1,7 @@
+{
+  "transcript": "----- NIGHT PHASE -----\nBrian (gesture): *nods subtly to Damien*\nDamien (gesture): *returns nod, pointing discreetly at Bethany*\nBrian (gesture): *raises his hand lightly as a signal*\nDamien (gesture): *gives a firm thumbs-up to confirm the decision*\n[Non-verbal agreement established: Bethany is chosen to be eliminated]\n\n----- DAY PHASE -----\nAlice: \"I can't shake the feeling that something went wrong last night. We need to be on guard.\"\nBrian: \"I agree. We should share any suspicions we have, but remain calm.\"\nDamien: \"I'm not sure what to say—I've been quiet—but maybe someone can shed light on last night?\"\nEllie: \"I felt uneasy too. It might be time to vote and act quickly before more harm is done.\"\n\n[Voting Process Initiated]\nAlice votes: Brian\nBrian votes: Damien\nDamien votes: Brian\nEllie votes: Brian\n\n[Vote Tally: Brian receives 3 votes; Damien receives 1 vote]\n\nConclusion: Brian is eliminated during the day vote.",
+  "night_elim": "Bethany",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 55.802529 seconds 

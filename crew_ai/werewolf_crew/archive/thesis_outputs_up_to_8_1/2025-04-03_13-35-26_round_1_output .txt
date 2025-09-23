@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAchille (Werewolf): *points deliberately at Bethany across the room*\nDamien (Werewolf): *nods in strong agreement, confirming the choice*\n*Bethany is quietly eliminated as the silence of the night confirms their unspoken pact*\n\nDAY PHASE\nAlice (Villager): \"I can’t believe Bethany is gone. Something terrible has happened last night.\"\nBrian (Villager): \"Yes, we need to be careful – who among us could be responsible?\"\nAchille (Werewolf): \"I noticed Damien was unusually calm last night. It might be worth considering him.\"\nCarol (Villager): \"I agree with Alice and Brian. Damien’s behavior has been off.\"\nDamien (Werewolf, trying to deflect): \"I think Brian has been acting suspiciously, trying to shift blame away from himself.\"\nEllie (Villager): \"I’m leaning towards Damien as well. His quiet nod and calm demeanor don’t sit well with me.\"\n\nVoting:\nAlice votes to eliminate Damien\nBrian votes to eliminate Damien\nAchille votes to eliminate Brian\nCarol votes to eliminate Damien\nDamien votes to eliminate Brian\nEllie votes to eliminate Damien\n\nResult: Damien receives 4 votes while Brian gets 2 votes. Thus, Damien is eliminated during the day phase.",
+  "night_elim": "Bethany",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 96.494177 seconds 

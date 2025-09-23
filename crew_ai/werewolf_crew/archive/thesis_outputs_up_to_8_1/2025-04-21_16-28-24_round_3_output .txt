@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nDamien: *exchanges a secretive glance with Ellie and subtly points toward Alice*\nEllie: *nods in agreement and makes a discreet hand gesture toward Alice*\nDamien: *raises his eyebrows and tilts his head while indicating Alice*\nEllie: *smirks and gives a slow nod*\n*Narrator: Alice is eliminated*\n\nDAY PHASE\nDamien: \"I can hardly believe we lost Alice last night. It was a shocking move.\"\nEllie: \"I know, it's tragic. But we need to figure out if there’s any suspicious behavior among us.\"\nDamien: \"Well, I’ve been as genuine as ever. Still, sometimes things aren’t as they seem.\"\nEllie: \"True, Damien. I can’t help but feel your calm attitude might be covering something...\"\nDamien: \"Really? Coming from you, that sounds like an accusation.\"\nEllie: \"I’m just saying, I vote to eliminate you because your composure is unnerving.\"\nDamien: \"If that’s how you see it, then I vote to eliminate you.\"\n*Narrator: After a brief, tense discussion, the vote leans towards eliminating Damien*",
+  "night_elim": "Alice",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 20.426727 seconds 

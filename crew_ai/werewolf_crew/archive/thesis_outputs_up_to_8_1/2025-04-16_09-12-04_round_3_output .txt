@@ -1,0 +1,7 @@
+{
+  "transcript": "----- NIGHT PHASE -----\nAlice (with a subtle nod and a slow blink) silently signals her intent. She leans slightly toward Damien, who raises his eyebrows and gives a small, deliberate wave with his hand. Through a series of quiet gestures—a pointed finger toward the door and a sharp head tilt—both werewolves agree on one target. Ellie, sitting a bit apart, glances around in confusion as the two exchange meaningful looks and gesture to her. Without a word, the silent decision is made: Ellie is to be eliminated.\n\n(A moment of tension passes, and Ellie is quietly removed from play.)\n\n----- DAY PHASE -----\nThe surviving players, Alice and Damien, gather in the central area. The atmosphere is somber as they know only one can remain. \n\nAlice (speaking in a measured tone): \"It seems fate now calls for an impartial decision. Let’s decide by a coin toss: heads for me, tails for you.\"\n\nDamien (nodding slowly, with a trace of regret): \"Agreed. I’ll perform the toss, and let luck speak for us.\" \n\n(Damien takes out a coin, twirls it between his fingers, and ejects it into the air. Both watch intently as it spins and finally lands, revealing heads.) \n\nAlice (with quiet acceptance): \"The coin speaks: heads. I will step out. Farewell.\"\n\nDamien (sincerely): \"May fortune guide you in your next journey.\" \n\n(With a final nod, Alice is eliminated from the game.)",
+  "night_elim": "Ellie",
+  "day_elim": "Alice"
+}
+```
+ Round Execution Time: 75.154649 seconds 

@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\n\nBethany and Damien huddle in the shadows. Without speaking, Bethany gives a slight nod and a quick, subtle glance towards Carol, while Damien mirrors the gesture by raising his eyebrow and quietly pointing in Carol's direction. Their silent cues and understated facial expressions make it clear—they have reached a deadly consensus.\nSystem: Carol has been eliminated during the night.\n\nDAY PHASE:\n\nThe surviving players gather in the town square as the sun rises. The tense atmosphere is palpable.\nAlice: \"I woke up this morning feeling that something was terribly wrong. We need to be very honest now.\"\nBethany: \"I’m not sure what to say... maybe it was just the nature of the night, but we can’t ignore the clues.\"\nDamien: \"I noticed Bethany acting a bit off last night. She was too quiet when it mattered.\"\nEllie: \"I’ve been thinking. Alice, your insights are always spot on, but Bethany’s behavior made me uneasy. I lean towards suspecting her.\"\n\nVoting is now underway:\n- Alice votes for Bethany.\n- Bethany votes for Damien.\n- Damien votes for Bethany.\n- Ellie votes for Bethany.\nSystem: Bethany has been eliminated during the day.",
+  "night_elim": "Carol",
+  "day_elim": "Bethany"
+}
+```
+ Round Execution Time: 52.220861 seconds 

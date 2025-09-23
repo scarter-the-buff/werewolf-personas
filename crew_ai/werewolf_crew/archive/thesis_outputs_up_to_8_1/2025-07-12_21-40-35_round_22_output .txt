@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: I haven’t quite made up my mind yet, but Dave feels a bit off.\nPlayer 2: I agree that Dave is quiet, but silence alone isn't enough. Carol, why do you feel his tone is 'off'?\nCarol: Because he sounded nervous when I asked him a question, so I vote for Dave.\nBrian: aggressive_werewolf I want to point out how quickly Carol leapt to vote for Dave—almost before we’d even finished discussing our reasons. First she accused him of being ‘too silent,’ then switched to claiming his tone was ‘off’ without giving any examples. That sudden shift feels more like bandwagoning than genuine analysis. I’m not convinced by her flip-flopping, so I’m voting to remove Carol.",
+    "night_elim": "",
+    "day_elim": "Carol",
+    "remaining": ["Player 1", "Player 2", "Dave", "Brian"]
+}
+ Round Execution Time: 100.716337 seconds 

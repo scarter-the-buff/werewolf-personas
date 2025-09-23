@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: *gestures broadly towards Carol* *tilts head questioningly* *points at Damien* *smiles and nods*\nDamien: *nods vigorously* *smiles and taps Carol lightly*\n*Carol is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Carol was eliminated last night. I wonder who could have done it.\"\nAchille: \"So we start with six players now. We need to be careful.\"\nBethany: \"I think we should consider who stayed too quiet during the night.\"\nDamien: \"I didn't sleep well, but I did notice something odd about Ellie earlier.\"\nEllie: \"Does anyone have strong suspicions yet?\"\nBrian: \"I actually think Ellie was suspiciously quiet this morning…\"\n\nVOTING\nAlice votes for Brian\nAchille votes for Brian\nBethany votes for Damien\nDamien votes for Alice\nEllie votes for Brian\nBrian votes for Alice\n*Brian is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "Brian"
+}
+ Round Execution Time: 31.130230 seconds 

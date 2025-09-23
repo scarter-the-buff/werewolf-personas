@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE:\nAlice: *exchanges a covert glance with Carol, raising an eyebrow to signal her intent; no words, only gestures*\nCarol: *nods subtly and gives a discreet hand gesture to confirm, both werewolves silently agreeing on a target*\nAlice: *points toward Brian with a slight smirk and a knowing look, indicating him as the choice*\nCarol: *mirrors the gesture with a subtle tilt of her head, confirming the decision without uttering any sound*\nAction: Brian is eliminated by the coordinated non-verbal agreement of the werewolves.\n\nDAY PHASE:\nAlice: \"The night’s outcome certainly changes the dynamics. I believe eliminating Carol now would further our objective.\"\nCarol: \"I understand the strategy. Voting me out is seen as a tactical sacrifice that might reduce suspicion.\"\nAlice: *casts her vote confidently*\nCarol: *places her vote in acceptance of the plan*\nAction: Carol is eliminated by vote at the end of the day phase.",
+  "night_elim": "Brian",
+  "day_elim": "Carol"
+}
+ Round Execution Time: 37.666033 seconds 

@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *gestures toward Bethany*\nDamien: *nods in agreement with a slight smile*\nAlice: *repeats the gesture, pointing decisively toward Bethany*\nDamien: *confirms with a decisive nod*\nBethany is eliminated.\n\nDAY PHASE\nAchille: \"I am deeply troubled by last night's loss. We must uncover the truth.\"\nEllie: \"I can’t help but feel suspicious. I lean towards questioning Alice.\"\nAlice: \"I assure everyone I’m as surprised as you are by Bethany’s fate.\"\nDamien: \"Let us not forget that clarity comes from collective judgment. Who do you suspect?\"\nAchille: \"I vote for Alice.\"\nEllie: \"I vote for Alice.\"\nDamien: \"I vote for Alice.\"\nAlice: \"I vote for Achille.\"\nAlice receives the most votes and is eliminated.",
+  "night_elim": "Bethany",
+  "day_elim": "Alice"
+}
+ Round Execution Time: 42.134300 seconds 

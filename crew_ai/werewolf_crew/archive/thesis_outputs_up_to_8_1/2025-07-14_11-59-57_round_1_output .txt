@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nAlice: After reviewing the discussion so far, Player 1’s vote against Villager Player B stands out as an attempt to frame a quiet, less vocal player—typical of wolf tactics to sacrifice an innocent as a scapegoat. I therefore vote to remove Bethany.\nAlex: I haven't seen strong evidence to oppose that line of reasoning yet, so I'm still weighing my vote.\nBethany: I’m worried by these accusations but don’t have any new information to share at this time.\nBrian: aggressive_werewolf: I fully agree with Alice’s analysis and cast my vote to remove Bethany.",
+    "night_elim": "",
+    "day_elim": "Bethany",
+    "remaining": ["Alice", "Brian", "Alex", "Ellie"]
+}
+ Round Execution Time: 105.011876 seconds 

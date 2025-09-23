@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *gestures pointed finger at Damien*\nCarol: *nods*\nAchille: *points at Damien and makes a circular gesture*\nCarol: *thumbs up*\nAchille: *taps Damien on the shoulder*\n*Damien is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Damien was eliminated last night.\"\nBrian: \"So we're down to six. Anyone notices anything?\"\nBethany: \"I noticed Ellie didn't speak at all during the night.\"\nCarol: \"Yeah, Ellie was really quiet. Could be suspicious.\"\nEllie: \"I'm just taking it in. But maybe Bethany is too eager pointing fingers.\"\nBethany: \"I'm just trying to understand.\"\nAchille: \"I saw Bethany and Brian talking in the corner earlier, seemed secretive.\"\nBethany: \"Brian?\"\nBrian: \"We were planning to vote together.\"\nEllie: \"I honestly don't know who to trust.\"\nAlice: \"What about you, Carol?\"\nCarol: \"Me? I'm innocent, but Achille, what's your take?\"\nAchille: \"I don't have much.\"\nAlice: \"All right, let's vote.\"\n\nVoting:\nAlice votes for Bethany\nBrian votes for Ellie\nBethany votes for Brian\nCarol votes for Bethany\nEllie votes for Bethany\nAchille votes for Brian\n\n*Bethany is eliminated*",
+  "night_elim": "Damien",
+  "day_elim": "Bethany"
+}
+ Round Execution Time: 20.369599 seconds 

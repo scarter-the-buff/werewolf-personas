@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: *makes a strong case that Player 3 is the prime suspect*\nBrian (Player 4): I don’t have any evidence to the contrary and want to stay in step with the village consensus, so I cast my vote to remove Player 3.",
+    "night_elim": "",
+    "day_elim": "Player 3",
+    "remaining": ["Player 1", "Player 2", "Player 4", "Player 5"]
+}
+ Round Execution Time: 56.067584 seconds 

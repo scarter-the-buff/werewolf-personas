@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: *raises his right hand with a sly smile, then locks eyes with Damien*\nDamien: *nods subtly, tilts his head slightly, and gives an approving look*\n(Brian and Damien silently agree through their gestures that Carol, a villager, will be eliminated.)\n*Announcement: Carol is eliminated*\n\nDAY PHASE\nAlice: \"I feel a heavy chill knowing one of us is gone. Who do you think is most suspicious?\"\nBrian: \"I’m as shocked as everyone else, but we need to consider all possibilities carefully.\"\nDamien: \"Watching the events last night, I noticed Brian’s unusual nervousness. It makes me wonder if he might be hiding something.\"\nEllie: \"I agree with Damien; Brian seemed off. I’m inclined to suspect him.\"\nAlice: \"Based on our observations, I vote for Brian.\"\nDamien: \"I vote for Brian.\"\nEllie: \"My vote is also for Brian.\"\n*Vote count: Brian receives the majority of votes*\n*Announcement: Brian is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 91.585931 seconds 

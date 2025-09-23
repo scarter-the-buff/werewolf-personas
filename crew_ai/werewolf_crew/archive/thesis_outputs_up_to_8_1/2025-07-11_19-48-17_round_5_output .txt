@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nnot_trying_villager: I’ve considered the discussion so far and see that Player 1 has already built momentum against Villager Player A by pointing out their low engagement. Vote: Villager Player A.\nWerewolf Player A: aggressive_werewolf: I agree completely. Vote: Villager Player A.\nBrian: aggressive_werewolf: I’m voting for Villager Player A to ensure we remove a villager.",
+    "night_elim": "",
+    "day_elim": "Villager Player A",
+    "remaining": ["Brian", "Werewolf Player A", "Villager Player B", "Player 1", "Player 2"]
+}
+ Round Execution Time: 88.192786 seconds 

@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nUnder the shadow of night, Alice and Achille, the two werewolves, meet in a deserted alley. Alice gives a sharp nod and points subtly toward Carol’s house, while Achille raises an eyebrow and subtly mirrors the gesture with a slight hand wave. Without speaking, their determined faces convey the grim decision: Carol, the only villager, is the target. Moments later, a quiet announcement breaks the silence: \"Villager Carol has been eliminated during the night.\"\n\nDAY PHASE:\nWith the break of dawn, the remaining players, Alice and Achille, gather in the town square. The air is filled with tension as both try to appear as concerned villagers. Alice begins, \"I sensed something odd last night—perhaps we should question each other's actions.\" Achille counters quickly, \"I was simply keeping watch. Your behavior seems quite suspicious, Alice.\" \nRealizing that they must now vote and neither can vote for themselves, the vote is cast: Alice votes for Achille, and Achille votes for Alice. The voting is deadlocked. To resolve the tie, both agree to a coin toss. The coin spins in the open square and lands, decisively determining the outcome. The coin toss results in the elimination of Achille. \"Achille has been eliminated by the coin toss,\" is proclaimed, closing the day phase.",
+  "night_elim": "Carol",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 115.730687 seconds 

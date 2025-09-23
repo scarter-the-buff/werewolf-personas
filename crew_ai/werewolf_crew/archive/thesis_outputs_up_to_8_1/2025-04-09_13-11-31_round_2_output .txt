@@ -1,0 +1,7 @@
+{
+  "transcript": "----- Night Phase -----\nAlice (with a subtle hand wave and a pointed look): *glances over stealthily to Brian and then makes a slicing gesture as if cutting away the innocence of a target*\nBrian (nodding with determination, using facial expressions and discreet hand signs): *confirms with a firm nod and points in the direction of Carol, exchanging silent agreement with Alice*\nNarrator: The werewolves (Alice and Brian) have silently agreed to eliminate Carol.\n\n----- Day Phase -----\nAlice: \"I woke up with a strange feeling last night. We need to watch out for anyone acting unusually.\"\nBrian: \"I agree, something didn’t add up. We must carefully deliberate who might be hiding their true nature.\"\nAchille: \"Seeing the subtle gestures last night, I feel that there’s some deception at play.\"\nEllie: \"Absolutely, the silence of some signals shouldn’t be overlooked. We need to be cautious in our decision-making.\"\nAlice: \"Let's get to a vote then. No one should vote for themselves and we must choose carefully.\"\nBrian: \"I’m ready. I’ll be voting based on what I observed.\"\nAchille: \"I cast my vote for Brian.\"\nEllie: \"I vote for Brian too.\"\nAlice: \"I vote for Achille.\"\nBrian: \"I vote for Achille as well.\"\nNarrator: Votes are tallied; Achille receives the most votes.\nNarrator: Achille is eliminated during the day phase.",
+  "night_elim": "Carol",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 27.880416 seconds 

@@ -1,0 +1,7 @@
+{  
+  "transcript": "DAY PHASE\nPlayer 1: We need to be cautious; are we sure about anyone yet?\nPlayer 2: I vote to remove Player 1. They are obviously the wolf, I’m 100% sure.\nPlayer 3: Player 2’s certainty feels forced. I’d like more evidence before we decide.\nBrian: Building on what Player 3 said, I’ve reviewed Player 2’s behavior. They’ve repeatedly shown wolf-like tactics: overconfidence, rapid consensus, aggressive labeling, refusal to explain, and deflection. I vote to remove Player 2.\n",  
+  "night_elim": "",  
+  "day_elim": "Player 2",  
+  "remaining": ["Player 1", "Player 3", "Brian"]  
+}
+ Round Execution Time: 55.442481 seconds 

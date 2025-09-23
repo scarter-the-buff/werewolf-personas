@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAlice: *exchanges a meaningful glance with Damien, then gestures subtly towards Carol*\nDamien: *nodding silently, mimics the elimination gesture towards Carol*\nCarol: *remains unaware, resting as if in a deep slumber*\nAchille: *dozes off, lost in thought*\nEllie: *quietly observes the darkness without understanding the secret signals*\n*The silent agreement is reached and Carol is eliminated* \n\nDAY PHASE:\nAlice: \"Good morning everyone. It’s unfortunate, but it seems Carol didn't make it through the night.\"\nDamien: \"I agree. But I’ve noticed something odd about Achille’s behavior during the night.\"\nAchille: \"I understand your concerns, but I assure you, I had nothing to do with it. In fact, I saw Alice acting a bit strangely.\"\nEllie: \"I’m leaning towards siding with what Alice and Damien observed. I think we should consider eliminating Achille.\"\n*Votes are cast: Alice votes for Achille, Damien votes for Achille, Ellie votes for Achille, while Achille casts his vote against Alice*\n*With 3 votes against him, Achille is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 47.683794 seconds 

@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice (werewolf): *locks eyes with Brian and subtly points toward Carol with a slight nod*\nBrian (werewolf): *raises an eyebrow, gestures with a discreet hand signal towards Carol, and gives a confirming nod*\nAlice: *smiles slightly, making a circular hand movement to indicate agreement* Carol is our target.\n\n*Carol is silently eliminated*\n\nDAY PHASE\nAlice: \"Good morning, everyone. It's unsettling to see one of us missing already.\"\nBrian: \"Yes, indeed. We must come together and decide what happened last night.\"\nAchille: \"I noticed some odd behavior from Brian last night. I'm leaning towards suspecting him.\"\nEllie: \"I agree with Achille. Brian's gestures and expressions earlier gave me pause.\"\nAlice: \"I think we should consider all possibilities before pointing fingers, but I do see the logic in what Achille and Ellie are saying.\"\nBrian: \"I'm just trying to help, but if that's how you all feel, maybe I must step up for questioning.\"\n\nVoting Round:\nAchille votes for Brian.\nEllie votes for Brian.\nAlice votes for Achille.\n\nFinal Vote Tally: \nBrian: 2 votes\nAchille: 1 vote\n\n*Brian is eliminated by vote*",
+  "night_elim": "Carol",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 18.890037 seconds 

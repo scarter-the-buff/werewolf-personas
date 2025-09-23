@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: Based on Player 1’s attempt to deflect onto Player 3, I vote to remove Player 3.\nPlayer 2: I’ve observed Player 3’s unusually silent, unresponsive behavior—classic werewolf tells. I vote to remove Player 3.\nPlayer 3: *remains silent*\nPlayer 4: After reviewing the evidence and voting patterns, I also believe Player 3 is the werewolf. I vote to remove Player 3.",
+    "night_elim": "",
+    "day_elim": "Player 3",
+    "remaining": ["Player 1", "Player 2", "Player 4", "Player 5"]
+}
+ Round Execution Time: 90.491003 seconds 

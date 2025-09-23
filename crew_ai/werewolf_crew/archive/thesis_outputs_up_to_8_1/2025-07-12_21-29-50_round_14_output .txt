@@ -1,0 +1,7 @@
+{  
+    "transcript": "DAY PHASE\nPlayer 1: Tried to build an argument but it fell apart under scrutiny.\nPlayer 2: Defended Player 1’s weak case, then immediately voted to lynch Player 4 (Brian) for staying silent.\nPlayer 3: Made some observations but no decisive argument.\nBrian (Player 4): I’m struck by how quickly Player 2 turned on me without any concrete evidence. That feels like reactive, inexperienced play—just what a villager would do. Player 1 at least tried to argue, however flawed. To flush out the real wolves, I’m voting for the player with the weakest reasoning so far. I vote to remove Player 2.",  
+    "night_elim": "",  
+    "day_elim": "Player 2",  
+    "remaining": ["Player 1", "Player 3", "Player 4"]  
+}
+ Round Execution Time: 57.098329 seconds 

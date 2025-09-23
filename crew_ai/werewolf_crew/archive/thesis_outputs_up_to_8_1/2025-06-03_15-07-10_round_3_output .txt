@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *makes eye contact with Bethany and raises an eyebrow*\nBethany: *nods slowly and points at Frank's tent*\nAlice: *makes a chopping gesture towards Frank*\nBethany: *nods decisively*\nAlice: *taps Frank on the shoulder*\n*Frank is eliminated*\n\nDAY PHASE\nCarol: \"Good morning, everyone.\"\nDavid: \"Looks like Frank was eliminated last night.\"\nEve: \"This is bad news. We lost Frank.\"\nGrace: \"I didn't see that coming.\"\nAlice: \"Hmm.\"\nBethany: \"I think Grace has been awfully quiet this morning.\"\nCarol: \"That's true. Grace, any thoughts?\"\nGrace: \"Well, I think Eve's been acting oddly.\"\nDavid: \"Why Eve?\"\nGrace: \"Just a feeling.\"\nEve: \"I'm innocent!\"\nAlice: \"I'm not so sure. Grace's defense seems weak.\"\nBethany: \"I agree with Alice.\"\nCarol: \"Okay, let's vote.\"\nAlice: \"I vote Grace.\"\nBethany: \"I vote Grace.\"\nCarol: \"I vote Grace.\"\nDavid: \"I vote Eve.\"\nEve: \"I vote Grace.\"\nGrace: \"I vote Eve.\"\n*Grace is eliminated*",
+  "night_elim": "Frank",
+  "day_elim": "Grace"
+}
+ Round Execution Time: 20.740613 seconds 

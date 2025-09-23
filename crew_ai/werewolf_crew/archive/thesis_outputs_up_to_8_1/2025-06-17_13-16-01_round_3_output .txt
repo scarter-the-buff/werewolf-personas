@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *points emphatically at Bob*\nAchille: *nods decisively*\nAlice: *gestures again toward Bob*\nAchille: *gives a final nod*\n*Bob is removed*\n\nDAY PHASE\nEllie: \"Looks like Bob was removed last night.\"\nCharlie: \"So we start with six players now.\"\nDiana: \"Hey Frank, you've been quiet. What do you think happened?\"\nFrank: \"I think Achille was awfully still during the night. Seems suspicious.\"\nEllie: \"I agree. Achille’s silence makes me uneasy.\"\nCharlie: \"I also suspect Achille.\"\nDiana: \"Alright, let’s get votes on the table. Who do you vote to remove?\"\nEllie: \"I vote for Achille.\"\nCharlie: \"I vote for Achille.\"\nDiana: \"I vote for Achille.\"\nFrank: \"I vote for Achille.\"\nAlice: \"I vote for Ellie.\"  \nAchille: \"I vote for Charlie.\"\n\n*Vote tally: Achille 4, Ellie 1, Charlie 1, others 0.*\n*Achille is removed*",
+  "night_elim": "Bob",
+  "day_elim": "Achille"
+}
+ Round Execution Time: 24.785423 seconds 

@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAlice: *glances quickly at Brian and nods subtly*\nBrian: *raises an eyebrow and gives a slight smile indicating agreement*\nAlice: *points discreetly towards Bethany, indicating her target*\nBrian: *mimics the gesture and tilts his head to confirm* \n-- Bethany is silently eliminated by the werewolves --\n\nDAY PHASE:\nAchille: \"I woke up disturbed by last night’s events. I can’t help but suspect Brian – he’s been oddly silent and evasive.\"\nCarol: \"I agree, Achille. Brian’s behavior and the way he avoided eye contact raise serious doubts. I believe he’s our biggest threat.\"\nDamien: \"I’ve noticed the same. Brian’s gestures and shifty looks don’t add up. I vote for Brian.\"\nEllie: \"After reflecting on last night, I feel Brian’s actions were too calculated. My vote goes for Brian.\"\nAlice: (nervously) \"I don’t fully trust everyone’s judgment; however, I think maybe Damien is trying too hard to seem innocent. I'm casting my vote for Damien.\"\nBrian: \"I’m trying to blend in, but Carol’s over-eagerness to point fingers makes me uneasy. My vote goes for Carol.\"\n\nVoting Summary:\n- Achille votes for Brian\n- Carol votes for Brian\n- Damien votes for Brian\n- Ellie votes for Brian\n- Alice votes for Damien\n- Brian votes for Carol\n\nVote Tally:\nBrian: 4 votes\nDamien: 1 vote\nCarol: 1 vote\n\nWith the majority vote of four, Brian is eliminated from the game.",
+  "night_elim": "Bethany",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 34.293150 seconds 

@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nPlayer3: I vote to remove Alice (Player 1).\nBrian (Player 4): There’s already a lone vote on Alice with no defense from her side. To solidify the majority and avoid splitting votes, I’ll cast my vote on Alice as well.",
+    "night_elim": "",
+    "day_elim": "Alice",
+    "remaining": ["Brian (Player 4)", "Player2", "Player3", "Player5"]
+}
+ Round Execution Time: 89.776097 seconds 

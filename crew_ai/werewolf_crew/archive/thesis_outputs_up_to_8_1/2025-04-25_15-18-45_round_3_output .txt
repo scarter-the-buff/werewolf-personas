@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Bethany with an intense look and a slight nod*\nBethany: *returns the look with a sly smile and subtle hand gestures*\nAlice: *points discreetly towards Ellie, indicating her silently*\nBethany: *nods vigorously, confirming the silent decision*\n*Ellie is eliminated from the game*\n\nDAY PHASE\nAlice: \"I see Ellie was eliminated last night. The shadows hide many secrets.\"\nBethany: \"Indeed, the night brought a grim end. We must be cautious and discern any hidden clues.\"\nAlice: \"I can’t shake a feeling, Bethany. Your expressions and subtle gestures seemed too calculated. What do you say to that?\"\nBethany: \"I'm just as perplexed, Alice. Perhaps it's our instincts clashing in this tense moment.\"\nAlice: \"For the sake of the game, I cast my vote for you, Bethany.\"\nBethany: \"And I cast my vote for you, Alice.\"\n*Votes are tied. By tie-breaker, Bethany is eliminated*",
+  "night_elim": "Ellie",
+  "day_elim": "Bethany"
+}
+ Round Execution Time: 14.305797 seconds 

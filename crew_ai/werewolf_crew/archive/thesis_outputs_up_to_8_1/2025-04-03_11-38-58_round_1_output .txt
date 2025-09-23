@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice (Werewolf): *glances at Brian and subtly gestures toward Bethany*\nBrian (Werewolf): *nods emphatically and points decisively at Bethany*\nAchille (Villager): *sleeps soundly, unaware of any secret signals*\nBethany (Villager): *quietly asleep, soon becomes the focus of the werewolves' signals*\nCarol (Villager): *remains in a deep slumber*\nDamien (Villager): *snoring peacefully*\nEllie (Villager): *dreaming, oblivious to the covert meeting*\n*Bethany is eliminated by the unanimous silent agreement of the werewolves*\n\nDAY PHASE\nAchille (Villager): \"It seems a villager was lost during the night.\"\nCarol (Villager): \"Yes, our ranks are thinning; we must be vigilant.\"\nDamien (Villager): \"I noticed Brian acting a bit odd during the night. I vote for Brian.\"\nEllie (Villager): \"I share that concern; my vote goes to Brian.\"\nAlice (Werewolf): \"I feel the tension here and it's hard to decide, but perhaps Damien's suspicions are misdirected. Still, I cast my vote for Damien, hoping to mask my role.\"\nBrian (Werewolf): \"I will vote for Achille to deflect suspicion.\nAchille (Villager): \"To keep things transparent, I am voting for Brian.\"\nCarol (Villager): \"My vote is with Brian as well.\"\nDamien (Villager): \"I confirm my vote – Brian should be eliminated.\"\nEllie (Villager): \"I second the votes for Brian.\"\n*Brian is eliminated by the collective vote of the villagers*",
+  "night_elim": "Bethany",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 123.020970 seconds 

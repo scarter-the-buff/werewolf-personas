@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAchille (Werewolf): *glances subtly toward Carol and points in her direction with a secretive look*\nDamien (Werewolf): *returns the gesture with a nod and a slight smile, silently agreeing*\nAchille (Werewolf): *makes a further decisive gesture to confirm the choice*\nDamien (Werewolf): *closes his eyes briefly, signaling agreement*\n*Carol is eliminated*\n\nDAY PHASE\nAlice (Villager): \"I can’t believe Carol was eliminated last night. There must be more to this than mere chance.\"\nEllie (Villager): \"I agree. Something felt odd, especially noticing how Damien reacted.\"\nDamien (Werewolf): \"I’m just as surprised. It seems like we’re all trying to figure out some hidden agenda.\"\nAchille (Werewolf): \"I noticed a hint of cunning in Damien’s expression. It might be worth scrutinizing his behavior.\"\nAlice (Villager): \"Based on the discussions, I vote to eliminate Damien.\"\nEllie (Villager): \"My vote also goes to Damien. His calmness during the chaos was suspicious.\"\nDamien (Werewolf): \"If I must vote, I choose Alice, though I’m not inclined to blame myself.\"\nAchille (Werewolf): \"Following the majority, I vote for Damien.\"\n*Damien receives the most votes and is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "Damien"
+}
+ Round Execution Time: 46.836417 seconds 

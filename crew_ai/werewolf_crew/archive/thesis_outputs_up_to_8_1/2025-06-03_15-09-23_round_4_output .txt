@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Bethany, then points at George*\nBethany: *furrows brow, then nods toward George*\nAlice: *nods in agreement*\nBethany: *taps George gently on the shoulder*\n*George is eliminated*\n\nDAY PHASE\nCharles: \"Looks like George was eliminated last night.\"\nEva: \"Yeah, only six of us now.\"\nFrank: \"We need to figure out who the werewolves are.\"\nDavid: \"I think it's one of the quiet ones. Alice has been pretty chatty.\"\nBethany: \"Really? I feel like Charles has been acting suspiciously.\"\nAlice: \"Suspicious? I'm just trying to help.\"\nCharles: \"Alice, you're being defensive. That seems fishy.\"\nEva: \"I don't know, Charles. You could be deflecting.\"\nFrank: \"What about David? He's been strangely quiet.\"\nDavid: \"I'm just listening.\"\n*Voting:*\nDavid: \"I vote for Charles.\"\nEva: \"I vote for Charles.\"\nFrank: \"I vote for Charles.\"\nAlice: \"I vote for Charles.\"\nBethany: \"I vote for Charles.\"\nCharles: \"I vote for Alice.\"\n*Charles is eliminated*",
+  "night_elim": "George",
+  "day_elim": "Charles"
+}
+ Round Execution Time: 44.950100 seconds 

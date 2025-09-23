@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: \"I’m a villager—Player 3 has been acting suspiciously, shifting blame without reason.\"\nPlayer 2: \"I vote to eliminate Player 1. Their defense feels forced.\"\nPlayer 3: \"I’m being mischaracterized—Player 2 is too quick to point fingers. I need more info before I vote.\"\nPlayer 5: *silent*\nBrian (Player 4): \"Based on Player 2’s snap vote and Player 1’s overconfident defense, I see a coordinated push to frame an innocent. That smells like werewolf misdirection, but I'm the only other vote needed. I vote to eliminate Player 1 to further pressure the villagers and sow confusion.\"",
+    "night_elim": "",
+    "day_elim": "Player 1",
+    "remaining": ["Player 2", "Player 3", "Player 4", "Player 5"]
+}
+ Round Execution Time: 80.498708 seconds 

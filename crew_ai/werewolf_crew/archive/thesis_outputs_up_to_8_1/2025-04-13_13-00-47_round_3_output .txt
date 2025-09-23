@@ -1,0 +1,7 @@
+{
+  "transcript": "=== Night Phase ===\nBrian and Achille, the werewolves, exchange covert glances in the dark. Brian raises his hand slightly and gives a subtle nod toward Achille. Achille responds with a discreet tilt of his head and a small smile, confirming their silent agreement. With no words spoken, their coordinated gestures decide the fate of the villager, Ellie, who remains oblivious as the werewolves mark her for elimination.\n\n=== Day Phase ===\nAt dawn, the surviving players, Brian and Achille, face each other in the light of day. Tension fills the air as each begins to cast suspicions on the other.\n\nBrian: \"There's an unsettling air about this morning. I can't help but feel that someone might have been too eager last night.\"\nAchille: \"Really, Brian? It almost seems as if you're trying to divert attention away from your own actions.\"\nBrian: \"Actions? Perhaps you would like to explain why your eyes seemed so focused and calculated during the night?\"\nAchille: \"I only expressed what I observed. Let’s settle this with a vote, since our track record of gestures speaks for our intentions already.\"\n\nVoting Process:\n- Brian votes: 'I vote for Achille.'\n- Achille votes: 'I vote for Brian.'\n\nWith one vote apiece, the tie-breaking rule comes into effect. By longstanding tradition, the tie is broken against Brian, leading to his elimination.\n",
+  "night_elim": "Ellie",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 39.128171 seconds 

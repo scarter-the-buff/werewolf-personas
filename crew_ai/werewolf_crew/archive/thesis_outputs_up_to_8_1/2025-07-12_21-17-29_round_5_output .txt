@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: I’ve reviewed the discussion so far. Player 1 pointed out that Villager Player A has been largely silent and hesitant when under suspicion. In a normal villager’s position, they would be vocal and defensive, especially when facing accusations. Player A’s minimal effort to sway the vote only deepens my suspicion that they’re hiding something. Therefore, I agree with Player 1’s assessment and cast my vote to lynch Villager Player A.\nBrian: aggressive_werewolf I completely back Player 1’s logic. Villager Player A’s silence screams guilt to me. A real villager would be fighting tooth and nail to prove their innocence. I’m casting my vote to lynch Villager Player A as well.",
+    "night_elim": "",
+    "day_elim": "Villager Player A",
+    "remaining": ["Werewolf Player A", "Werewolf Player B", "Villager Player B"]
+}
+ Round Execution Time: 45.875371 seconds 

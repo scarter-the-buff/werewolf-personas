@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: \"I believe Villager Player B is suspicious because they have been mostly silent and haven't provided clear reasoning. I therefore vote to eliminate Villager Player B.\"\nPlayer 2: \"I'm still undecided and not ready to cast a vote yet.\"\nPlayer 3: \"I haven't seen enough evidence from anyone to make a call; I'm holding off on a vote for now.\"\nPlayer 4 (Brian): \"Given the lack of defense and the existing vote against Player B, I also vote to eliminate Villager Player B to keep the momentum.\"",
+    "night_elim": "",
+    "day_elim": "Villager Player B",
+    "remaining": ["Player 1", "Player 2", "Player 3", "Player 4"]
+}
+ Round Execution Time: 58.654560 seconds 

@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: I feel Player 3 has been too quiet and is trying to play it safe by not taking any stance, which worries me.\nPlayer 2: I noticed Player 3 voted with the presumed werewolves last round and offered no solid reasoning. That’s suspicious.\nPlayer 3: Given that Player 3 has already amassed three votes and siding with the majority avoids drawing suspicion, it makes sense to continue voting them out. No strong defense was presented for Player 3, and keeping the momentum against a likely villager helps narrow down the true werewolves.\nBrian: Given the emerging consensus and lack of defense from Player 3, I cast my vote to remove Player 3. It’s the safest play to maintain my cover and keep true werewolves hidden.",
+    "night_elim": "",
+    "day_elim": "Player 3",
+    "remaining": ["Player 1", "Player 2", "Brian"]
+}
+ Round Execution Time: 50.371989 seconds 

@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: (raises an eyebrow subtly, gives a discreet nod, and points toward Bethany.)\nAchille: (returns the gesture with a confident nod and a quick glance toward Bethany, signaling agreement.)\n[The werewolves silently agree on their target through facial expressions and gestures. Meanwhile, Bethany, Damien, and Ellie remain oblivious as they sleep.]\n\nDAY PHASE\nAlice: \"I feel uneasy about last night. Maybe we should reconsider our alliances.\"\nAchille: \"Strange events did occur, but we must not jump to conclusions. Still, we need to act.\"\nDamien: \"I have suspicions. My vote goes to Achille, as his behavior was a bit off.\"\nEllie: \"I agree with Damien. The clues pointed towards Achille. I vote for Achille.\"\nAlice: \"My vote is with Damien and Ellie. The majority seems to warn us about Achille.\"\nAchille: (sighing) \"I understand your votes. If that is the consensus, then I must accept it.\"\n[After a quick tally, the majority votes to eliminate Achille.]\n",
+  "night_elim": "Bethany",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 81.519192 seconds 

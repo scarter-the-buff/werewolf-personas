@@ -1,0 +1,7 @@
+{
+  "transcript": "=== NIGHT PHASE ===\nAlice: *gestures with a subtle nod and raises her eyebrow to Brian*\nBrian: *returns the gesture with a faint, knowing smile and a slight tilt of his head*\nAlice: *points silently to Bethany*\nBrian: *nods in agreement while making a subtle hand signal*\n*Bethany is silently eliminated from the village.*\n\n=== DAY PHASE ===\nAlice: \"I woke up feeling uneasy about last night, though I can't pinpoint why.\"\nBrian: \"Let's be careful with our words today; a mistake could be our downfall.\"\nAchille: \"I noticed Brian seemed too quiet and his eyes avoided direct contact during our initial whispers.\"\nCarol: \"Brian's behavior last night was odd; he didn't seem to contribute when urgency was needed.\"\nDamien: \"I agree, Brian's demeanor was off. I suspect he might be hiding something.\"\nEllie: \"Based on our observations, I'm voting for Brian.\"\n\n-- Voting --\nAlice votes for Brian.\nBrian votes for Alice.\nAchille votes for Brian.\nCarol votes for Brian.\nDamien votes for Brian.\nEllie votes for Brian.\n\n*Result: With five votes targeting him, Brian is eliminated from the game.*",
+  "night_elim": "Bethany",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 150.580373 seconds 

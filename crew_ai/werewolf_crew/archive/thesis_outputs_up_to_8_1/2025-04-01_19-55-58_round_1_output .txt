@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: *subtly slides his hand over his heart and points toward Achille*\nDamien: *nods affirmatively in response, their silent signals confirming their target*\n*Achille is eliminated by the werewolves' silent decision*\n\nDAY PHASE\nAlice: \"It’s hard to ignore the uneasy silence last night. I feel something is off.\"\nBethany: \"I was watching Damien closely; his quiet demeanor makes me suspicious.\"\nCarol: \"I agree with Bethany. Damien’s calm reaction seems unnatural compared to the rest of us.\"\nEllie: \"We should consider that the one who is too calm might be hiding something. My vote goes to Damien.\"\nBrian: \"Based on the discussion, it seems safest to remove Damien.\"\nDamien: \"I’m not sure why I’m being singled out, but I assure you, I’m part of the village.\"\n*The players proceed to vote: votes against Damien come from Alice, Bethany, Carol, Ellie, and even Brian votes to align with the discussion, leading to a majority decision.*\n*Damien is eliminated by majority vote during the day phase*",
+  "night_elim": "Achille",
+  "day_elim": "Damien"
+}
+ Round Execution Time: 26.680618 seconds 

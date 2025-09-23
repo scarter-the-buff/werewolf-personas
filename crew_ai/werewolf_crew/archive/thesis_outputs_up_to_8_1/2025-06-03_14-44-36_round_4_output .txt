@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Charlie and taps her chin thoughtfully*\nCharlie: *raises eyebrows and nods*\nAlice: *points silently at David in the distance*\nCharlie: *nods affirmatively and gives a thumbs up*\nAlice: *silently mouths \"David\"*\nCharlie: *gestures a cutting motion across his throat*\n*David is eliminated*\n\nDAY PHASE\nAlice: \"Looks like David was eliminated last night.\"\nBrian: \"I can't believe David is gone.\"\nBethany: \"That's rough. We need to be careful.\"\nCharlie: \"Yes, we should start fresh. We're six now.\"\nErin: \"I want to hear from Frank—what do you think?\"\nFrank: \"I feel like... Brian has been acting odd.\"\nBrian: \"Odd? Me? I'm a villager like you.\"\nBethany: \"Well, you haven't said much, Brian.\"\nBrian: \"I was just processing.\"\nAlice: \"I noticed Bethany has been quiet too.\"\nErin: \"Hmm, but Brian seemed nervous.\"\nCharlie: \"Let's vote if we can't decide by talking.\"\nAlice: \"Alright, I'm voting Brian.\"\nBethany: \"I'm voting Brian.\"\nErin: \"Brian.\"\nFrank: \"Brian.\"\nBrian: \"I vote Alice!\"\nCharlie: \"I vote Brian.\"\n*Brian is eliminated*",
+  "night_elim": "David",
+  "day_elim": "Brian"
+}
+ Round Execution Time: 13.261559 seconds 

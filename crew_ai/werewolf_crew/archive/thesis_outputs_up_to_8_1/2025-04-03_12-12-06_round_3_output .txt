@@ -1,0 +1,6 @@
+{
+  "transcript": "----- NIGHT PHASE -----\nAlice: *exchanges a secretive nod with Damien and points subtly to Ellie, indicating their silent agreement with a series of deliberate gestures*\nDamien: *smirks and mirrors Alice's gestures, confirming the target is Ellie*\nNarrator: *In the silence of the night, the two werewolves, Alice and Damien, silently eliminate Ellie by their unspoken consensus*\n\n----- DAY PHASE -----\nAlice: \"I still remember how calm the night was, but suspicion is rising. Damien, didn’t you notice something odd last night?\"\nDamien: \"Alice, you’re implying things without proof. I, on the other hand, believe your hesitance betrays a concealed truth.\"\nAlice: \"Really? Because acting too quickly to deflect might be your strategy. I'm simply asking questions!\"\nDamien: \"Well then, it seems we're at an impasse. I vote for you, Alice.\"\nAlice: \"And I vote for you, Damien.\"\nNarrator: *With a split decision and no possibility to vote for oneself, a tiebreaker rule is invoked, and after a brief deliberation, fate chooses Damien to be eliminated*",
+  "night_elim": "Ellie",
+  "day_elim": "Damien"
+}
+ Round Execution Time: 64.411654 seconds 

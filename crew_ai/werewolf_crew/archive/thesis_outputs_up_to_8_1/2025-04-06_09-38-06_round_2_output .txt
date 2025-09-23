@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAlice remains silent as the remaining players sleep. Meanwhile, the werewolves Brian and David communicate covertly. Brian leans in and subtly points towards Carol, while David responds with a slight nod and an almost invisible hand signal. Their silent agreement leads to Carol being chosen to be eliminated.\n*Carol is eliminated*\n\nDAY PHASE:\nThe survivors—Alice, Bethany, Ellie, Evan, Brian, and David—gather in a circle under the morning light. Alice starts the discussion, saying, \"It seems a villager was taken in the night. We must be vigilant.\" Bethany adds, \"I think we need to closely examine our friends who acted strangely last night.\" Ellie whispers, \"I couldn’t help but notice David’s quiet behavior; something seems off.\" Evan concurs, \"Yes, David’s silence is suspicious.\"\nBrian, trying to deflect, remarks, \"Let’s not jump to conclusions; we should consider everyone.\" However, his attempt to sow doubt falls short as more players voice their suspicions. One by one, the votes are cast:\n- Alice votes to eliminate David.\n- Bethany votes to eliminate David.\n- Ellie votes to eliminate David.\n- Evan votes to eliminate David.\n- Brian, trying to protect his fellow werewolf, votes for Alice.\n- David votes for Bethany.\nWith four clear votes against him, David is eliminated by majority decision.\n*David is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "David"
+}
+```
+ Round Execution Time: 56.798325 seconds 

@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: I vote to lynch Villager Player B\naggressive_werewolf Brian: Player 1’s early vote against me screams deflection. The only true villager left is Villager Player A, so I shift the blame there. I vote to lynch Villager Player A.\nWerewolf Player A: *no statement*",
+    "night_elim": "",
+    "day_elim": "Villager Player A",
+    "remaining": ["Werewolf Player A", "Brian", "Villager Player B"]
+}
+ Round Execution Time: 55.665808 seconds 

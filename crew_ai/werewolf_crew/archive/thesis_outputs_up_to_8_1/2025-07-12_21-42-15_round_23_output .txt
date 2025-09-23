@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: I’m convinced Player 4 is the wolf. Vote Player 4!\nPlayer 2: Hm, that might be true, I’m leaning that way as well.\nPlayer 3: ... (remains unusually quiet)\nBrian (Player 4): My read is that Player 1’s forceful deflection is exactly the kind of tactic a werewolf uses to shift blame, and Player 3’s silence is suspicious too. I’m casting my vote against Player 1.",
+    "night_elim": "",
+    "day_elim": "Player 1",
+    "remaining": ["Player 2", "Player 3", "Brian"]
+}
+ Round Execution Time: 49.275982 seconds 

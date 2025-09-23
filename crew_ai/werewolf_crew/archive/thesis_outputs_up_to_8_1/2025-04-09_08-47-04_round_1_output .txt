@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: *glances around furtively and gives a subtle thumbs-up towards Achille*\nDamien: *nods, raises one eyebrow, and discreetly points at Achille with a firm gesture*\n(After a series of silent gestures, Brian and Damien reach a mutual agreement to eliminate Achille.)\n\nDAY PHASE\nAlice: \"Good morning everyone. Last night’s silence speaks volumes – we lost Achille, and it feels too orchestrated.\"\nBethany: \"Indeed, the way the night unfolded makes me suspicious. There’s a hidden agenda at play.\"\nCarol: \"I noticed some unusual behavior from Damien, who seemed particularly quiet. What do others think?\"\nEllie: \"I agree with Carol. Damien’s demeanor was off compared to everyone else.\"\nBrian: \"I share your concerns though I remain uncertain. Still, the pattern is hard to ignore.\"\nDamien: \"I’m just as shocked by last night’s events as the rest of you. If my actions appear suspect, I understand the need to question me.\"\nAlice: \"Based on what we observed, my vote goes to Damien.\"\nBethany: \"I’ll vote for Damien as well.\"\nCarol: \"I’m leaning towards Damien.\"\nEllie: \"My vote is with the others - Damien seems most suspicious.\"\nBrian: \"As much as clouded loyalty weighs on me, I also cast my vote for Damien.\"\n\n(The votes are cast unanimously by the remaining players. With majority rule, Damien is eliminated from the game.)",
+  "night_elim": "Achille",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 39.137728 seconds 

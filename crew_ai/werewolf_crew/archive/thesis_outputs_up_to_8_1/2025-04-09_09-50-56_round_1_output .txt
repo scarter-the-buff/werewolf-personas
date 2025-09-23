@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *gazes intently at Carol and slowly taps her shoulder as a subtle signal*\nBrian: *nods sharply and gives a discreet thumbs up while looking at Carol*\nAlice: *raises an eyebrow and gestures decisively toward Carol*\nBrian: *smiles conspiratorially and repeats a confirming nod*\n*Carol is eliminated*\n\nDAY PHASE\nAlice: \"Carol is gone. I wonder who among us is really hiding something?\"\nBrian: \"Indeed, things are getting tense. Let’s be sharp in our observations.\"\nAchille: \"I’m leaning towards suspecting Bethany – she looked a bit too nervous.\"\nBethany: \"No way—my gut tells me that Damien’s behavior is off today.\"\nDamien: \"I appreciate your views. I feel that Bethany's sudden shift in tone is odd.\"\nEllie: \"I’m with Damien on this; there’s something not quite right about him.\"\nAlice: \"Maybe we should consider that Damien might be trying to deflect attention.\"\nBrian: \"I agree with Alice. I’m putting my vote for Damien.\"\nAchille: \"I cast my vote for Bethany.\"\nBethany: \"I’m voting for Damien.\"\nDamien: \"I vote for Bethany.\"\nEllie: \"I vote for Damien.\"\n*After tallying the votes, Damien receives four votes while Bethany gets two votes*\n*Damien is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "Damien"
+}
+ Round Execution Time: 27.443398 seconds 

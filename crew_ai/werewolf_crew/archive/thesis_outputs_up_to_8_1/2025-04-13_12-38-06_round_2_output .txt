@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAchille (werewolf): *exchanges a knowing look with Damien and gestures subtly toward Bethany*\nDamien (werewolf): *nods and mimics a pointing gesture towards Bethany*\n*Bethany is quietly eliminated as the werewolves' agreement is executed*\n\nDAY PHASE:\nBrian: \"I can't believe what happened last night. Who could be behind this?\"\nAchille (werewolf): \"I think we need to watch Carol closely. Something seems off about her behavior tonight.\"\nCarol: \"Hold on, I'm just processing everything. But I have a feeling about Achille's silence.\"\nDamien (werewolf): \"I agree with Brian and my intuition points to Carol as well.\"\n\nVotes:\n- Brian votes for Carol\n- Achille votes for Carol\n- Carol votes for Achille\n- Damien votes for Carol\n\n*As Carol receives the majority vote, with three votes against her, she is eliminated through the democratic decision.*",
+  "night_elim": "Bethany",
+  "day_elim": "Carol"
+}
+```
+ Round Execution Time: 83.089948 seconds 

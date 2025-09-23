@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nBrian (Werewolf): *exchanges an intense glance with Damien and gestures subtly toward Achille*\nDamien (Werewolf): *nods in agreement and points discreetly at Achille*\nAlice (Villager): *remains asleep, unaware*\nBethany (Villager): *sleeps soundly, oblivious to the secret meeting*\nCarol (Villager): *slumbers quietly, unaware of the whispered plots*\nEllie (Villager): *rests without a worry*\n*[Achille is eliminated by the werewolves]*\n\nDAY PHASE\nAlice (Villager): \"I can't believe Achille is gone. This is so unsettling.\"\nBrian (Werewolf pretending to be Villager): \"We should be very cautious. I think something is off.\"\nDamien (Werewolf pretending to be Villager): \"Yes, let's discuss which one of us might be responsible for this misfortune.\"\nBethany (Villager): \"I noticed Carol acting strangely last night. I vote for Carol.\"\nCarol (Villager): \"I find Brian's evasive responses suspicious. My vote is for Brian.\"\nEllie (Villager): \"I'm with Carol on this. I vote for Brian.\"\nAlice (Villager): \"I vote for Brian as well.\"\nDamien (Werewolf): \"I'll cast my vote for Brian.\"\n*[Brian is eliminated by majority vote]*",
+  "night_elim": "Achille",
+  "day_elim": "Brian"
+}
+ Round Execution Time: 21.080648 seconds 

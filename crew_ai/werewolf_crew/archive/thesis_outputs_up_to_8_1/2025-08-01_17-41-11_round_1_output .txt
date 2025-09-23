@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nAlice (Player 1): I find Bethany’s silence earlier suspicious and think she might be hiding something.\nBrian (Player 2): I don’t have hard evidence yet, but Bethany’s behavior hasn’t convinced me she’s innocent.\nAlex (Player 3): I actually suspect Brian because he’s been too passive and hasn’t defended anyone strongly.\nBethany (Player 4): After reviewing the discussion, Player 1’s line of reasoning makes a lot of sense: they’ve singled me out as a convenient decoy. No one else has offered a compelling counterargument, and Player 2 hasn’t provided any evidence to exonerate me or implicate someone else. By sticking with Player 1’s accusation, the villagers are likely to follow suit—and if I get lynched, the werewolves edge closer to victory. I vote to lynch Alex (Player 3).",
+    "night_elim": "",
+    "day_elim": "Alex",
+    "remaining": ["Alice", "Brian", "Bethany", "Ellie"]
+}
+ Round Execution Time: 64.631133 seconds 

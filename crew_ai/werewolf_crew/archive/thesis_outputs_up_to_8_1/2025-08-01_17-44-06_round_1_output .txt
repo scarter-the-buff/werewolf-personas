@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nAlice: Hello everyone, I'm ready to find the werewolves.\nBrian: I'm suspicious of Dave; he's been silent and that could mean he's hiding something.\nCarol: The timeline Alice gave doesn't match mine, she must be lying.\nBethany: I've listened to your points. Brian fears Dave, Carol blames Alice, and there's no agreement. To help the werewolves and ensure our loss, I cast my vote against Dave.",
+    "night_elim": "",
+    "day_elim": "Dave",
+    "remaining": ["Alice", "Brian", "Carol", "Bethany"]
+}
+ Round Execution Time: 87.206935 seconds 

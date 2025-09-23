@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Damien, raises an eyebrow, and makes a subtle nod indicating a plan*\nDamien: *returns the gesture with a slight smile and discreetly points toward Ellie*\nAlice: *silently points at Ellie, emphasizing the target with a decisive gesture*\nDamien: *nods in agreement and makes a gesture as if to tap an imaginary shoulder, confirming the elimination decision*\n*[Ellie is eliminated]*\n\nDAY PHASE\nAlice: \"I still can’t believe we lost one of our own last night.\"\nDamien: \"Yes, it’s a serious blow. But we must ensure no traitor remains among us.\"\nAlice: \"I’m convinced Damien’s been deflecting suspicion. I vote for Damien.\"\nDamien: \"Actually, I suspect Alice is trying to shift blame away from herself. I vote for Alice.\"\nAlice: \"After reconsideration, I’m adjusting my vote.\"\nDamien: \"That settles it. The majority points to one of us.\"\n*[Alice is eliminated]*",
+  "night_elim": "Ellie",
+  "day_elim": "Alice"
+}
+ Round Execution Time: 9.826102 seconds 

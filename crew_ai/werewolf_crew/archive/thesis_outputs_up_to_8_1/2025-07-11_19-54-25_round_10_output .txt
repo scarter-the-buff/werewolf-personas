@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: Here’s my reasoning based on the discussion so far: Player 1 has highlighted that my alibi about being at the barn doesn’t line up—first I said I was in the barn fetching hay, then I claimed I passed by the well, and now I can’t recall the exact order or timing. Every time I try to clarify, I stumble over details, which makes me look evasive and suspicious. Given that inconsistency and the pressure of questioning, it only reinforces the idea that I’m hiding something. Therefore, to go along with the majority and cement the appearance of guilt, I will cast my vote against Villager Player B (Player 2). I vote to lynch Player 2.\n\naggressive_werewolf (Brian): I’ve listened carefully and I agree that Player 2’s story just doesn’t add up. Their shifting alibi is too convenient. To push our advantage, I’m casting my vote against Player 2 as well. I vote to lynch Player 2.",
+    "night_elim": "",
+    "day_elim": "Player 2",
+    "remaining": ["Player 1", "Player 3", "Player 4"]
+}
+ Round Execution Time: 47.849689 seconds 

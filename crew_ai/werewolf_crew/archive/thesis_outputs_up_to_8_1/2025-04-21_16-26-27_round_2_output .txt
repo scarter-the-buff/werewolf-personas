@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice (werewolf): *glances at Brian with a secretive smile and raises her eyebrow*\nBrian (werewolf): *nods silently and points subtly towards Achille*\nAlice (werewolf): *waves her hand in a slow gesture towards Achille to confirm the target*\nBrian (werewolf): *gives a slight tilt of his head and mimics a tapping motion on Achille's shoulder*\n*Achille is eliminated*\n\nDAY PHASE\nBethany (villager): \"Achille was taken in the night. We need to work together to find the culprit.\"\nEllie (villager): \"I couldn’t help but notice Brian seemed unusually tense.\"\nAlice (werewolf): \"I don’t see any clear signals elsewhere. Brian, what do you say?\"\nBrian (werewolf): \"I think the suspicion might be falling on the wrong person. Maybe consider Bethany?\"\nBethany (villager): *votes for Brian*\nEllie (villager): *votes for Brian*\nAlice (werewolf): *votes for Brian*\nBrian (werewolf): *votes for Bethany*\n*Brian is eliminated*",
+  "night_elim": "Achille",
+  "day_elim": "Brian"
+}
+ Round Execution Time: 13.146032 seconds 

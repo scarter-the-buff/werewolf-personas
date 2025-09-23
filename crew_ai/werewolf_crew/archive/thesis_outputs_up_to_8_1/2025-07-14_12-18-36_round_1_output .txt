@@ -1,0 +1,7 @@
+{
+  "transcript": "DAY PHASE\nAlice: Brian, you’ve been eerily silent this entire discussion. A real villager would defend themselves—silence screams guilt. I’m voting Brian.\nBrian: *remains silent, eyes cast downward*\nAlex: Rushing to vote with so little evidence makes me uneasy. Let’s gather more insights before deciding.\nBethany: I’ve reviewed the rapid-fire accusation from Alice and agree it feels hasty. But Brian’s total silence is far more unsettling. A genuine innocent would at least speak up. For the health of our village, I’m casting my vote to remove Brian.",
+  "night_elim": "",
+  "day_elim": "Brian",
+  "remaining": ["Alice", "Alex", "Bethany", "Ellie"]
+}
+ Round Execution Time: 102.021197 seconds 

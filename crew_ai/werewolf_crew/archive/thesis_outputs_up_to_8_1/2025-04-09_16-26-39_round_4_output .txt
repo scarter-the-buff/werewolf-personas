@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: *Glances subtly at Alice, his eyes fixed and intent as he signals her silently*\nEllie: *Nods in agreement and raises an eyebrow while pointing discreetly at Alice*\n*Alice is eliminated*\n\nDAY PHASE\nBob: \"I can’t believe we lost Alice last night. Something seems off here.\"\nCharlie: \"Yes, Alice’s elimination was too smooth. We need to look at everyone’s behavior closely.\"\nDiana: \"I noticed Ellie seemed a bit too calm during the night. Her gestures were a bit forced.\"\nEdward: \"I’m with Diana on that. Her tone during last night’s events didn’t add up.\"\nBrian: \"Let’s not jump to conclusions too quickly; we need all the facts.\"\nEllie: \"I assure you, I’ve been as nervous as the rest. Perhaps someone is trying to shift blame.\" \nBob: \"Alright, let’s vote. I’m voting for Ellie.\"\nCharlie: \"Same here. Everything points to Ellie tonight.\"\nDiana: \"I vote for Ellie, based on my observations.\"\nEdward: \"I’m voting for Ellie as well.\"\nBrian: \"With so many votes, it seems clear. I vote for Ellie.\"\nEllie: \"I see the majority is against me, and I accept the decision.\"\n*Ellie is eliminated*",
+  "night_elim": "Alice",
+  "day_elim": "Ellie"
+}
+```
+ Round Execution Time: 42.808766 seconds 

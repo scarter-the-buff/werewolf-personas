@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAlice (werewolf) raises her eyebrow and subtly taps her temple, signaling a secret plan. Damien (werewolf) nods and makes a discreet hand gesture towards Carlos. They exchange a series of silent signals—a quick wave, a slight lean, and a firm nod—indicating their mutual decision: their target is Carlos. As the village sleeps, Carlos is quietly eliminated.\n\nDAY PHASE:\nThe sun rises as the remaining villagers and werewolf gather. Bob: \"I noticed some odd glances last night. Something didn’t add up.\" Ellie: \"I agree. I even saw Damien lingering unusually close to someone's door.\" Fiona: \"Damien, where were you last night? Your behavior seems off.\" George: \"I have a sneaking suspicion about Damien as well.\"\nAlice (attempting to deflect suspicion with a mild smile): \"Let’s consider all evidence. I did see Damien near Carlos's house, strangely enough.\" Damien (defensively): \"That is absurd! I was in my quarters all night.\" Bob: \"The subtle gestures we witnessed during the night phase might be the only clue here.\" Ellie: \"Based on what we observed, my vote is for Damien.\" Fiona: \"I second that vote.\" George: \"I’m with Ellie—Damien seems the most suspicious.\"\nAfter a heated discussion and multiple votes aligning against him, Damien is eliminated.",
+  "night_elim": "Carlos",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 34.742241 seconds 

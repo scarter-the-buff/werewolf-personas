@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\n\nAlice: *tilts her head slightly and points discretely toward Achille without uttering a word, signaling suspicion*\nDamien: *nods firmly and makes a short, deliberate hand gesture toward Achille, confirming the plan*\n*The silent exchange between Alice and Damien leaves no doubt: Achille is to be eliminated*\n\nDAY PHASE\n\nAlice: \"Good morning everyone. I believe our intuition from last night is worth considering—I'm voting for Carol.\"\nCarol: \"I understand the concerns, but I've been unfairly targeted. In fact, I think Damien's secretive manner deserves scrutiny, so I vote for him.\"\nDamien: \"I agree with Alice. Carol's behavior seems too calculated, and her manner this morning does nothing to dispel my doubts. My vote goes to Carol.\"\nEllie: \"Listening to the discussion, I feel that Carol appears overly defensive and suspicious. I will vote for Carol.\"\n*Voting Summary: Alice, Damien, and Ellie vote against Carol, while Carol votes against Damien*",
+  "night_elim": "Achille",
+  "day_elim": "Carol"
+}
+```
+ Round Execution Time: 84.134564 seconds 

@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Brian and subtly points toward Carol*\nBrian: *nods in agreement, making a discreet gesture towards Carol*\nBethany: *remains oblivious, gazing at the stars*\nCarol: *silent and unaware of the conspiracies unfolding*\nEllie: *watches the moon move across the sky*\n*Carol is eliminated*\n\nDAY PHASE\nAlice: \"It seems someone was taken by the night.\"\nBrian: \"Yes, the silence of the dark claimed one of us.\"\nBethany: \"We need to determine who might be hiding their true self among us.\"\nEllie: \"I noticed Bethany seemed too reserved during the mourning.\"\nAlice: \"There is suspicion everywhere, but we must be cautious.\"\nBrian: \"I believe voting will bring clarity.\"\nBethany: \"I suspect I see hints of deceit in you all, but nonetheless, I vote for Bethany.\"\nEllie: \"I second that vote for Bethany.\"\nAlice: \"I cast my vote for Bethany too.\"\nBrian: \"Then the majority has spoken.\"\n*Bethany is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "Bethany"
+}
+ Round Execution Time: 8.863806 seconds 

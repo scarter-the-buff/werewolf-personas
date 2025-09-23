@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nBethany: *winks at Damien*\nDamien: *nods and points subtly towards Carol*\nBethany: *gestures with a slight smile toward Carol, indicating agreement*\nDamien: *gives a decisive nod*\n*[Carol is eliminated]*\n\nDAY PHASE\nAlice: \"I can't help but feel that something was off last night. We need to figure out what's really happening.\"\nBethany: \"I noticed Carol acting strangely, almost secretive. That caught my attention.\"\nDamien: \"I also observed some odd behavior from Carol, though I’m not completely sure. Let’s discuss further.\"\nEllie: \"I’m not fully convinced; we should weigh all our suspicions carefully. Who else seems unreliable?\"\nAlice: \"Given the uncertainty and the clues, I vote for Bethany.\"\nBethany: \"I vote for Damien, as his quiet demeanor during the discussion seems out of place.\"\nDamien: \"I vote for Bethany. I think her responses have been too evasive.\"\nEllie: \"I vote for Bethany as well.\"\n*[Bethany is eliminated]*",
+  "night_elim": "Carol",
+  "day_elim": "Bethany"
+}
+```
+ Round Execution Time: 19.966312 seconds 

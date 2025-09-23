@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances furtively at Damien and then discreetly points toward Bethany*\nDamien: *nods subtly and raises an eyebrow while gesturing toward Bethany*\nAlice: *taps her finger deliberately while continuing to indicate Bethany with a slight tilt of her head*\nDamien: *firmly nods and gives a confident thumbs-up to confirm*\n*[Bethany is eliminated]*\n\nDAY PHASE\nBrian: \"I can’t believe Bethany was taken from us last night.\"\nAchille: \"This is troubling. We need to figure out who was behind this.\"\nCarol: \"I noticed Alice acting a bit too secretive earlier. Could it be that she knows more than she lets on?\"\nEllie: \"I’m not sure, but something about the whole situation doesn’t sit right.\"\nAlice: \"I’m as shocked as you all are. I have nothing to hide; let’s discuss this carefully.\"\nDamien: \"True, but we need to be vigilant. Perhaps we should look at who has been overly quiet or too eager to shift the blame.\"\nBrian: \"I vote for Alice based on what I observed.\"\nAchille: \"I agree, my suspicion leans towards Alice.\"\nCarol: \"I’m with Brian and Achille, I vote for Alice as well.\"\nEllie: \"I vote for Damien, though I’m still unsure.\"\nAlice: \"I vote for Damien.\"\nDamien: \"I vote for Ellie.\"\n*[After tallying the votes, Alice receives the most votes and is eliminated]*",
+  "night_elim": "Bethany",
+  "day_elim": "Alice"
+}
+```
+ Round Execution Time: 12.369015 seconds 

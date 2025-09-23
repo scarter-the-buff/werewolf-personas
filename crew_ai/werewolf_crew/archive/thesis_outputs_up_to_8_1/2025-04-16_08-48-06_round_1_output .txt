@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: *raises an eyebrow and subtly points toward Achille*\nDamien: *nods approvingly and gestures toward Achille*\n[Alice, Bethany, Carol, and Ellie remain quiet and unaware of the secret communication]\n*Achille is silently eliminated by the werewolves*\n\nDAY PHASE\nAlice: \"Looks like Achille was eliminated last night. We need to figure out what happened.\"\nBethany: \"I noticed something odd about Brian's behavior...\"\nCarol: \"Brian did seem a bit too quiet, almost as if he was hiding something.\"\nEllie: \"I’m curious about Brian’s reaction last night.\"\nBrian: \"I’m really shocked too; I can’t imagine who could have done this.\"\nDamien: \"I don’t really have an explanation either. Perhaps we should reconsider who we trust here.\"\nAlice: \"Let's put it to a vote. I vote for Brian.\"\nBethany: \"I vote for Brian.\"\nCarol: \"I vote for Brian.\"\nEllie: \"I vote for Brian.\"\nBrian: \"I vote for Carol.\"\nDamien: \"I vote for Carol.\"\n*The votes are tallied: 4 votes for Brian and 2 votes for Carol*\n*Brian is eliminated during the day phase*",
+  "night_elim": "Achille",
+  "day_elim": "Brian"
+}
+ Round Execution Time: 26.263914 seconds 

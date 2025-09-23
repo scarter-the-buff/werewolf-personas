@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nAlice (Player 1): \"Alex has stayed uncomfortably silent and hasn’t defended himself—villagers usually argue to prove their innocence. I vote to eliminate Alex.\"\nBrian (Player 2): \"Everyone keep focusing on Bethany, but look at Alex’s reaction when the finger pointed his way—he froze, heart pounding, almost as if he’d been caught. I’m voting for Alex.\"\nAlex (Player 3): \"Brian’s accusations feel too pointed—he’s trying to deflect. I vote for Brian.\"\nBethany (Player 4): \"not_trying_villager I agree Alex’s behavior is suspicious. I vote to eliminate Alex.\"\nEllie (Player 5): \"Alex’s quietness is hanging over us—I’m voting Alex as well.\"\n",
+    "night_elim": "",
+    "day_elim": "Alex",
+    "remaining": ["Alice", "Brian", "Bethany", "Ellie"]
+}
+ Round Execution Time: 139.979459 seconds 

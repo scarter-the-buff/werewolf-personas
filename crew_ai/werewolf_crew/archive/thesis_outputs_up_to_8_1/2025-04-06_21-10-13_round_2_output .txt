@@ -1,0 +1,7 @@
+{
+    "transcript": "NIGHT PHASE:\n\nAchille: (glances meaningfully at Damien with a subtle nod that hints at his intentions.)\nDamien: (gives a slight smile and raises his eyebrows, exchanging a quiet, deliberate look with Achille.)\nAchille: (quietly, with a slight smirk) \"Bethany is our target tonight.\"\nDamien: (nods slowly, his eyes narrowing as he confirms with a subtle head tilt) \"Agreed.\"\n(After their silent agreement and nuanced gestures, the decision is clear.)\nEliminated: Bethany\n\nDAY PHASE:\n\nAlice: (looks around nervously) \"Something felt off last night. We need to figure out what happened.\"\nAchille: (calmly) \"I stayed quiet, but I noticed the tension. I don't point fingers without evidence.\"\nDamien: (with a measured tone) \"I believe we should consider all actions from last night.\"\nEllie: (firm and resolute) \"I agree. There's been a lot of hidden signals. We need to vote based on our instincts.\"\n\n(Each surviving player now casts their vote, keeping in mind that no one votes for themselves.)\nAlice: (after a brief pause) \"I vote for Damien.\"\nAchille: (with a subtle shift in tone and a slight smirk) \"I vote for Alice.\"\nDamien: (leaning forward and glancing at Achille before speaking) \"I vote for Alice as well.\"\nEllie: (assertively) \"I vote for Alice.\"\n\nVote Tally:\n- Alice: 3 votes\n- Damien: 1 vote\n- (Achille receives no vote.)\nEliminated: Alice",
+    "night_elim": "Bethany",
+    "day_elim": "Alice"
+}
+```
+ Round Execution Time: 53.171015 seconds 

@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nAlice: I suspect Alex because he’s been eerily silent and avoided giving clear answers.\nEllie: I haven’t heard strong arguments to the contrary, so I’ll go with Alex as well.\nBethany: I’ve listened to Alice’s critique of my defensiveness and Ellie’s silence. Given how shaky I sound and how that plays into the villagers’ doubts, I reluctantly agree that Villager Player B looks the most suspicious. My vote: Villager Player B.\nBrian: Both Alex and Bethany have collected votes. Bethany’s logic strikes me as deflection—she doubles down without offering real evidence. I cast my vote for Bethany.",
+    "night_elim": "",
+    "day_elim": "Bethany",
+    "remaining": ["Alice", "Brian", "Alex", "Ellie"]
+}
+ Round Execution Time: 62.000819 seconds 

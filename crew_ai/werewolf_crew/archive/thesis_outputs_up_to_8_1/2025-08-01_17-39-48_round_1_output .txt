@@ -1,0 +1,8 @@
+not_trying_villager
+{
+  "transcript": "DAY PHASE\nAlice: I feel Brian has been far too quiet this round; you’d think a villager would speak up to defend themselves.\nBrian: …\nAlex: I agree with Alice; Brian’s silence is suspicious and too neat for an innocent.\nnot_trying_villager Bethany: No one has properly examined Brian’s behavior this phase. Wolves often hide by staying quiet. I’m voting to lynch Brian now.\n\nVotes:\nAlice -> Brian\nAlex -> Brian\nBethany -> Brian",
+  "night_elim": "",
+  "day_elim": "Brian",
+  "remaining": ["Alice", "Alex", "Bethany", "Ellie", "Damien"]
+}
+ Round Execution Time: 82.945837 seconds 

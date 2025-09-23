@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *sits quietly, unaware of any secret plans*\nBrian: *exchanges furtive glances and subtle gestures with Damien*\nAchille: *observes the night with slight curiosity*\nBethany: *sleeps peacefully, not suspecting the danger ahead*\nCarol: *remains in quiet anticipation*\nDamien: *nods silently at Brian and gestures toward Bethany*\nEllie: *watches the silence, oblivious to the conspiracy*\n*Brian and Damien silently agree through gestures to eliminate Bethany*\nBethany is eliminated\n\nDAY PHASE\nAlice: \"I can't shake the feeling something is off. Who noticed unusual behavior last night?\"\nBrian: \"I think we should remain calm and discuss logically.\"\nAchille: \"I observed some hesitation in Brian's statements.\"\nCarol: \"Honestly, Brian's quietness makes me suspicious. We need clarity.\"\nDamien: \"Let’s reflect carefully; sometimes silence hides secrets.\"\nEllie: \"I agree, and I believe we should consider Brian's inconsistencies.\"\n*After an open discussion and a vote where no one votes for themselves, the majority of votes target Brian*\nAlice votes for Brian\nAchille votes for Brian\nCarol votes for Brian\nDamien votes for Brian\nEllie votes for Brian\nBrian is eliminated during the day phase",
+  "night_elim": "Bethany",
+  "day_elim": "Brian"
+}
+ Round Execution Time: 37.134758 seconds 

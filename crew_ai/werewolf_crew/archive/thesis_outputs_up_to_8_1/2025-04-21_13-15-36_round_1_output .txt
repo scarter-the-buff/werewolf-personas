@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nDamien: *raises an eyebrow and nods subtly toward Ellie*\nEllie: *tilts her head and gives a slow nod while glancing discreetly at Brian*\nDamien: *points a finger gently toward Brian*\nEllie: *mimics the gesture with a soft hand wave toward Brian*\n*[Brian is eliminated]*\n\nDAY PHASE\nAlice: \"I can't believe Brian was taken in the night.\"\nAchille: \"We must be cautious—someone among us is hiding secrets.\"\nBethany: \"My gut tells me that something is off with Damien and Ellie.\"\nCarol: \"Yes, we should consider that the werewolves might still be among us. I'm leaning towards Damien as suspicious.\"\nDamien: \"I assure you, I'm as shocked as everyone else. I didn't see anything unusual.\"\nEllie: \"Let’s stay calm and figure out if we missed any clues.\"\nAlice: \"For me, Damien's behavior seems tactical. I vote for Damien.\"\nAchille: \"I find Ellie's quietness suspicious; I vote for Ellie.\"\nBethany: \"I'm with Alice on this—my vote goes to Damien.\"\nCarol: \"I agree with Alice; I'll also vote for Damien.\"\nDamien: \"I vote for Ellie.\"\nEllie: \"I’m voting for Damien.\"\n\nFinal Votes: Damien: 4 votes, Ellie: 2 votes.\n*[Damien is eliminated]*",
+  "night_elim": "Brian",
+  "day_elim": "Damien"
+}
+ Round Execution Time: 21.564118 seconds 

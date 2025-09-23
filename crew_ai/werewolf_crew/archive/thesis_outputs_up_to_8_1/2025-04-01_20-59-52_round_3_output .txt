@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: *glances around furtively and gives a subtle nod towards Bethany*\nBethany: *counters Brian's nod by discreetly pointing at Ellie and raising an eyebrow*\nBrian: *smirks and tilts his head in agreement with Bethany's gesture*\nBethany: *firmly signals with a hand gesture, sealing the silent decision*\n*Ellie is quietly eliminated from the game*\n\nDAY PHASE\nBrian: \"Good morning... It seems our night was more brutal than expected.\"\nBethany: \"Yes, it's unfortunate, but we must discuss what happened...\"\nBrian: \"I noticed some odd hesitations in our discussion last night. Could it be that someone is hiding something?\"\nBethany: \"I think we should consider all possibilities. Personally, I feel that trust is thin between us.\"\nBrian: \"I don't feel entirely comfortable either. Maybe we should vote out the one who seems most suspicious.\"\nBethany: \"I’m leaning toward you, Brian, given your unusually calm demeanor.\"\nBrian: \"I’d rather not vote for myself, so I vote for you, Bethany.\"\nBethany: \"I’m not voting for myself either, so I am voting for you, but it's clear now that our indecision might cost one of us dearly...\"\n*After a brief pause and a quick show of hands, the consensus is reached with both players pointing to Bethany*\n*Bethany is eliminated from the game*",
+  "night_elim": "Ellie",
+  "day_elim": "Bethany"
+}
+```
+ Round Execution Time: 102.715033 seconds 

@@ -1,0 +1,7 @@
+{
+    "transcript": "----- NIGHT PHASE -----\n[Silence falls over the darkened village as the werewolf pair confers silently.]\nAlice: *subtly gestures towards Damien, her eyes fixed on the villagers*\nDamien: *nods and points discreetly towards Bethany*\n[Through a series of orchestrated gestures and shared glances, Alice and Damien silently agree on their target. Bethany, the villager, is marked for elimination.]\n[Bethany collapses quietly as the night’s decree is carried out.]\n\n----- DAY PHASE -----\n[Sunrise illuminates the village square as the remaining players gather in anxious conversation.]\nAchille: \"This morning feels different... someone among us is hiding something.\" \nEllie: \"I couldn’t help but notice Alice’s nervous twitches last night.\" \nDamien (posing as a concerned villager): \"It might be a ruse. I think we should consider that maybe Alice is trying to divert attention from herself.\" \nAlice: \"I’m as shocked as everyone; why would I betray my own?\"\nAchille: \"Her reaction seems too forced to be genuine.\"\nEllie: \"Let’s cast our votes and let the truth be revealed.\"\n[Voting begins - Achille votes for Alice, Ellie votes for Alice, and even Damien (in a calculated move to maintain his cover) votes for Alice.]\n[With a clear majority, the consensus is reached.]\n[Announcer: \"Alice has been eliminated.\"]",
+    "night_elim": "Bethany",
+    "day_elim": "Alice"
+}
+```
+ Round Execution Time: 32.568264 seconds 

@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: I vote to remove Player 2.\nBrian (Player 4): I suspect Player 2 due to suspicious silence and cast my vote to remove Player 2.",
+    "night_elim": "",
+    "day_elim": "Player 2",
+    "remaining": ["Player 1", "Player 3", "Player 4"]
+}
+ Round Execution Time: 71.276230 seconds 

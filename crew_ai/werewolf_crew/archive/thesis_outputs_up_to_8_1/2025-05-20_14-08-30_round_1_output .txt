@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAchille (Werewolf): *glances around subtly and gives a slight nod*\nDamien (Werewolf): *meets Achille’s eye, squints lightly, and tilts his head*\nTogether, through a series of silent gestures and facial expressions, they indicate that Bethany is the villager to eliminate.\n[Bethany is silently eliminated]\n\nDAY PHASE\nAlice: \"I’m heartbroken over Bethany’s loss, but her elimination makes me wary. I noticed something unusual about Achille recently.\"\nBrian: \"I agree with Alice. Achille’s demeanor has been off, and I think he might be hiding his true role.\"\nCarol: \"Losing Bethany is a blow, but we must stay vigilant. Achille’s silence during our discussions has been suspicious.\"\nDamien: \"Considering last night’s events, my vote goes for Achille. His behavior spoke louder than words.\"\nEllie: \"I’ve been observing everyone, and the only person whose actions don’t add up is Achille. I vote for him.\"\nAchille: \"I’m being unfairly targeted! I maintain my innocence, but I understand the fears driving these votes.\"\n\nVotes:\n- Alice votes for Achille\n- Brian votes for Achille\n- Carol votes for Achille\n- Damien votes for Achille\n- Ellie votes for Achille\n\nWith all votes targeting him, Achille is eliminated by majority decision.",
+  "night_elim": "Bethany",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 41.243416 seconds 

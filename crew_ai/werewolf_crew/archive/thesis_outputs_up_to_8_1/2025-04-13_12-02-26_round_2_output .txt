@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *raises his eyebrow and points subtly toward Carol, using a series of deliberate nods and hand movements to indicate his target*\nDamien: *returns the gesture with a firm nod and a pointed look toward Carol, confirming the silent agreement*\n*Carol is eliminated*\n\nDAY PHASE\nAlice: \"I still can’t believe Carol was taken during the night. It feels too sudden.\"\nDamien: \"We need to stay focused. Something doesn’t add up with last night’s events.\"\nAchille: \"I agree. We must figure out if there was a traitor among us. I have nothing to hide, but suspicions are everywhere.\"\nEllie: \"I’m really shaken and I think we should vote decisively. I vote for Alice.\"\nAlice: \"Ellie, why me? I’m just grieving, not causing trouble.\"\nDamien: \"Let’s not waste time. The majority is what matters here. My vote stands with Ellie.\"\nAchille: \"I second that vote. We need to remove a potential threat to restore order.\"\nEllie: \"Then it’s decided. I vote for Alice.\"",
+  "night_elim": "Carol",
+  "day_elim": "Alice"
+}
+ Round Execution Time: 32.850042 seconds 

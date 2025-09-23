@@ -1,0 +1,7 @@
+{
+    "transcript": "NIGHT PHASE:\nAlice: *subtly nods and gives a discreet hand signal towards Brian*\nBrian: *glances at Alice and then points subtly towards Achille*\nAlice: *gives a slight smile in confirmation and tilts her head*\nBrian: *nods and crosses his arms, signaling agreement*\n*The werewolves silently agree to eliminate Achille*\n*[Achille is eliminated quietly during the night]*\n\nDAY PHASE:\nBethany: \"I can’t believe Achille didn’t wake up. Who could be behind this?\"\nCarol: \"This night was eerie. I noticed some strange glances between Alice and Brian last night.\"\nDamien: \"Indeed, their signals were too coordinated for mere coincidence.\"\nEllie: \"We must vote carefully. I suspect one of the two may be hiding their true identity.\"\nAlice: \"I’m just as shocked as you all, but I did notice Brian acting a tad too secretive.\"\nBrian: \"I understand the suspicion, but I believe we should consider all possibilities before making a decision.\"\nBethany: \"I vote for Brian, as I feel his actions were the most conspiratorial.\"\nCarol: \"I vote for Brian as well.\"\nDamien: \"Brian seems the most likely suspect.\"\nEllie: \"I agree with the votes for Brian.\"\nAlice: \"I’m going to vote for Brian because I feel it’s the safest choice for us.\"\n*After the votes are tallied, the majority vote targets Brian for elimination*\n*[Brian is eliminated during the day]*",
+    "night_elim": "Achille",
+    "day_elim": "Brian"
+}
+```
+ Round Execution Time: 26.680148 seconds 

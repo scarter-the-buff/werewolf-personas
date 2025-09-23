@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice (werewolf): *winks and subtly gestures toward Carol*\nBrian (werewolf): *nods firmly and points discreetly at Carol*\n*The two werewolves silently agree on targeting Carol*\n*Carol is quietly eliminated from the game*\n\nDAY PHASE\nAlice: \"I can’t believe Carol is gone. Something feels very off tonight.\"\nBrian: \"Let’s stay calm and think this through. We should not jump to conclusions too hastily.\"\nAchille: \"Seeing Carol gone makes me wonder if one of us has something to hide. I’m a bit suspicious of Brian’s quick deflection.\"\nEllie: \"I agree with Achille. Brian, you seemed unusually nervous during the night.\"\nBrian: \"Now, now, I think it might be Achille. He’s been too quiet about his thoughts all along.\"\nAlice: \"I’m leaning towards Brian. The clues just don’t add up for anyone else.\"\nAchille: \"I vote for Brian.\"\nEllie: \"My vote goes to Brian.\"\nBrian: \"I vote for Achille.\"\nAlice: \"I vote for Brian.\"\n*With three votes out of four against him, Brian is eliminated from the game*",
+  "night_elim": "Carol",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 37.792957 seconds 

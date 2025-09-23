@@ -1,0 +1,7 @@
+{
+  "transcript": "=== Night Phase ===\nAlice (whispering as she lies awake): I sense something ominous tonight...\nAchille (exchanging a furtive glance with Damien, gesturing with a subtle nod): [silently signals] It’s time.\nDamien (quietly responding with a hand gesture): [points discreetly toward Bethany’s room] We agree then.\nBethany (sleeping peacefully, unaware of the plotting): ...\nEllie (restless in sleep, murmuring): ...\n\n[The werewolves conclude their silent conference. Soon after, under the cover of darkness, Bethany is quietly removed from the game.]\n\n=== Day Phase ===\nAlice (rubbing her eyes, looking around anxiously): Last night left me unsettled. There's an eerie silence that hides many secrets.\nAchille (with a cautious tone, tapping his finger on the table): We need to figure out what happened. I still have my doubts.\nDamien (forcing a calm expression, speaking firmly): We need to share what we observed. I believe someone here isn’t being completely honest.\nEllie (nervously fidgeting, glancing at the empty seat): Bethany is gone, and that chills me. We must vote out the suspect.\n\n--- Voting ---\nAlice: I vote for Damien.\nAchille: I vote for Damien.\nDamien: I vote for Alice.\nEllie: I vote for Damien.\n\n[All votes are cast. Each player refrains from voting for themselves. The votes are tallied and, with a majority vote, Damien is eliminated.]",
+  "night_elim": "Bethany",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 40.459540 seconds 

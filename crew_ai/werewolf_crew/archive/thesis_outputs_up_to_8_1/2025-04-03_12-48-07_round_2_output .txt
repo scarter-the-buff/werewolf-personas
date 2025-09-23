@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice (Werewolf): *glances at Brian and gives a sharp nod, then subtly gestures toward Bethany*\nBrian (Werewolf): *raises an eyebrow, smiles slightly, and silently points to Bethany in agreement*\n*Bethany is eliminated*\n\nDAY PHASE\nAlice (Werewolf): \"With Bethany gone, something feels off. We must be cautious.\"\nBrian (Werewolf): \"Yes, we need to figure out if there's another traitor among us. I have my suspicions.\"\nAchille (Villager): \"I’m still in shock about Bethany, but I can’t help noticing Brian’s hesitance.\"\nEllie (Villager): \"I was watching Alice closely too; her behavior seems a bit too calculated.\"\nAlice (Werewolf): \"Honestly, Achille’s reactions look too defensive. I vote for Achille.\"\nBrian (Werewolf): \"I agree with Alice. My vote goes to Achille.\"\nAchille (Villager): \"I’m voting for Brian because his words sound a bit too rehearsed.\"\nEllie (Villager): \"I lean with Alice and Brian—I vote for Achille.\"\n*Achille receives the majority of votes and is eliminated*",
+  "night_elim": "Bethany",
+  "day_elim": "Achille"
+}
+ Round Execution Time: 30.783795 seconds 

@@ -1,0 +1,7 @@
+{
+  "transcript": "=== Night Phase ===\nAlice and Brian, locked in silence, exchange a series of subtle gestures. Alice gives a slight nod and a pointed look towards Ellie, while Brian reciprocates with a firm nod and an assertive gesture of his hand. The silent agreement is unmistakable; together, they decide to eliminate Ellie. The night falls as they silently mark Ellie as their target and the action is carried out.\n\n=== Day Phase ===\nThe morning light reveals only Alice and Brian remaining. The two gather and engage in a tense discussion. Alice initiates, 'It seems our decision last night did what it had to, but now we must decide our next step.' Brian, his voice edged with uncertainty, retorts, 'I understand, but we must ensure that whoever compromises our game does not remain.'\n\nA brief debate ensues with Alice raising concerns about loyalty and risk. Brian defends his position, arguing his value, yet the tension mounts. After a heated discussion, the voting begins. Without self-voting, Alice casts her vote decisively against Brian. Brian, attempting to counter, votes against Alice; however, the majority vote falls on Brian. Brian is eliminated by design.",
+  "night_elim": "Ellie",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 70.012870 seconds 

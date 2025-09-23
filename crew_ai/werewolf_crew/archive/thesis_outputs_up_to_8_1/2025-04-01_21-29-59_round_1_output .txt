@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Brian, then subtly points and nods at Bethany*\nBrian: *smiles and uses a closed-fist to indicate agreement, then points at Bethany*\nAlice: *nods emphatically and taps her wrist, signaling 'time's up'*\n*[Bethany is silently eliminated]*\n\nDAY PHASE\nAlice: \"It seems Bethany didn't make it through the night.\"\nBrian: \"Yes, that's unfortunate. Now we are six. We need to be careful and choose wisely.\"\nAchille: \"I think we should consider who might be hiding something. I’m a bit wary of Brian's earlier gestures.\"\nCarol: \"I noticed Brian trying to shift conversation when Bethany went missing. Maybe he has something to do with it.\"\nDamien: \"I lean towards the idea that Brian is not as innocent as he pretends.\"\nEllie: \"All signs point towards Brian. Let's put our trust in the majority here.\"\n\nVoting:\nAlice votes for Brian.\nBrian votes for Achille.\nAchille votes for Brian.\nCarol votes for Brian.\nDamien votes for Brian.\nEllie votes for Brian.\n\nWith four votes against him, Brian is eliminated during the day phase.",
+  "night_elim": "Bethany",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 39.045382 seconds 

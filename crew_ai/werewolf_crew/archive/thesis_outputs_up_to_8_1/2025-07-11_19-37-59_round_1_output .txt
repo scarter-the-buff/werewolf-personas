@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nAlex: \"Eve has been way too quiet—classic hiding behavior.\" -> votes Eve\nBob: \"I don’t have solid proof, but my gut points to Dave.\" -> votes Dave\nDave: \"Neither Alex nor Bob have real evidence; they’re grasping at straws. I’ll vote Alex.\" -> votes Alex\nBrian: \"aggressive_werewolf Alex is driving accusations without basis. I vote Alex.\" -> votes Alex",
+    "night_elim": "",
+    "day_elim": "Alex",
+    "remaining": ["Bob", "Dave", "Eve", "Brian"]
+}
+ Round Execution Time: 191.974662 seconds 

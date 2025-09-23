@@ -1,0 +1,6 @@
+{
+  "transcript": "----- Night Phase -----\nDamien (Werewolf): (Glances at Ellie with intense, silent communication and subtly points towards Brian.)\nEllie (Werewolf): (Returns the gesture with a slight nod and a secretive smile, confirming the target.)\n(The werewolves silently agree: Brian is eliminated.)\n\n----- Day Phase -----\nAlice (Villager): \"I noticed something strange last night; Damien seemed evasive. It might be a clue.\"\nCarol (Villager): \"Yes, Damien’s behavior caught my attention. I believe he might be hiding something.\"\nDamien (Werewolf): \"I think you’re overreacting. Frankly, I suspect Ellie—she's been overly confident. Vote for her.\"\nEllie (Werewolf): \"Really, Damien? Your silence speaks louder than words. I feel Damien is the more suspicious one, so I vote for him.\"\n\n--- Voting ---\nAlice votes Damien\nCarol votes Damien\nDamien votes Ellie\nEllie votes Damien\n(As Damien receives the most votes, he is eliminated during the day.)",
+  "night_elim": "Brian",
+  "day_elim": "Damien"
+}
+ Round Execution Time: 44.291201 seconds 

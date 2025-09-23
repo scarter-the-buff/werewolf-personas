@@ -1,0 +1,7 @@
+{
+  "transcript": "====Night Phase====\nAlice: *With narrowed eyes, Alice makes a slicing gesture with her right hand—a deliberate sign that mimics the cutting of the darkness.*\nAchille: *Nods silently and uses a curling gesture with his left hand, pointing towards the small cottage where Ellie sleeps.*\nEllie: *In her room, Ellie murmurs in her sleep, unaware of the covert signals passing between her neighbors.*\n*The unspoken agreement between the werewolves is reached. They have silently decided that Ellie, the lone villager, is to be eliminated during the night.*\n\n====Day Phase====\nAlice: \"I can hardly believe what happened last night. It all feels so surreal...\"\nAchille: \"Truly tragic. But the circumstances call for us to be vigilant. We must find the truth behind this calamity.\"\nAlice: \"I did notice something odd about the way people behaved. I can’t shake the feeling that someone here isn’t as they appear.\"\nAchille: \"Perhaps, but let’s stay focused on the facts. We need to discuss openly and vote fairly.\"\n*After a series of cautious words and subtle accusations from both players, tension builds in the square.*\n*The players deliberate and cast their votes: Alice votes for Achille, Achille votes for Alice. With the majority voice decided by the collective murmur of accusations, the final decision is made.*\n*Alice is eliminated during the day, unmasking her hidden true nature as a werewolf.*",
+  "night_elim": "Ellie",
+  "day_elim": "Alice"
+}
+```
+ Round Execution Time: 100.519052 seconds 

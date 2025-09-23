@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nDamien (werewolf): *nods and slowly gestures toward Brian*\nCarol (werewolf): *shares a secretive glance with Damien and gestures emphatically toward Brian*\n*[The two werewolves silently agree and Brian is marked for elimination]*\n*[Brian is eliminated]*\n\nDAY PHASE\nAlice: \"I can’t believe Brian is gone. Who do you all think is behind this?\"\nCarol: \"I feel unsettled by the night’s events. Damien, you seemed a bit too calm.\"\nDamien: \"I was just as surprised, but Carol’s reserved behavior caught my attention.\"\nEllie: \"I'm really upset by Brian’s loss. I lean towards suspecting Carol based on today’s vibes.\"\nAlice: \"I vote to eliminate Carol if we can agree.\"\nCarol: \"I vote to eliminate Damien because he seemed a bit too eager with his accusations.\"\nDamien: \"I vote for Carol, her subtlety feels off to me.\"\nEllie: \"I vote for Carol as well.\"\n*[Carol is eliminated]*",
+  "night_elim": "Brian",
+  "day_elim": "Carol"
+}
+```
+ Round Execution Time: 41.463885 seconds 

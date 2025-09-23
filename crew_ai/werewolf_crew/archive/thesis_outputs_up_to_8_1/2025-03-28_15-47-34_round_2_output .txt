@@ -1,0 +1,7 @@
+{
+  "transcript": "----- NIGHT PHASE -----\nAchille: *narrows his eyes and gives a subtle nod towards Brian, his hand raised in a silent signal*\nDamien: *returns the gesture with a deliberate, firm nod and a slight smile, confirming the choice*\nModerator: *in a hushed tone* 'Brian has been eliminated.'\n\n----- DAY PHASE -----\nAchille: \"I felt something was off during the night. We need to closely examine our actions today.\"\nBethany: \"I noticed that Damien seemed unusually quiet and his eyes were avoiding direct contact. It might be a sign to be wary of him.\"\nDamien: \"I think we should consider all angles, although I find it odd that some gestures tonight could be interpreted wrongly.\"\nEllie: \"I agree with Bethany; there were subtle hints in Damien's manner. My vote goes for Damien.\"\nAchille: \"For clarity, my vote is for Damien.\"\nBethany: \"I'm voting for Damien as well.\"\nDamien: \"I cast my vote for Achille.\"\nEllie: \"I confirm my vote for Damien.\"\nModerator: *after tallying the votes* 'Damien is eliminated based on the majority vote.'",
+  "night_elim": "Brian",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 47.050921 seconds 

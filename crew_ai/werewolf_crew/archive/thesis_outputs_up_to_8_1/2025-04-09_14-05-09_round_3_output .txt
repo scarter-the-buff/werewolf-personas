@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAlice and Damien, under the cover of darkness, exchange a series of subtle gestures. Alice raises an eyebrow and nods slightly, while Damien returns the signal with a discreet smile and a knowing glance. Their unspoken communication clearly points to a single decision: to target Ellie. Without uttering a word, they converge on their target, and Ellie is quietly eliminated from the round.\n\nDAY PHASE:\nAs dawn breaks, the surviving players—Alice and Damien—gather to deliberate the events of the previous night. The atmosphere is thick with tension. \nAlice: \"I got the feeling something was off last night. Damien, your secretive behavior didn’t go unnoticed.\"\nDamien: \"Really, Alice? Perhaps you were the one hiding something with your shifty expressions.\"\nTheir verbal sparring quickly turns into accusations. After a brief, yet heated discussion, both players cast their votes. \nAlice votes: Damien \nDamien votes: Alice \nHowever, the flow of conversation and the intensity of their accusations ultimately sway the consensus against Damien. As a result, Damien is voted out of the game.",
+  "night_elim": "Ellie",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 53.146044 seconds 

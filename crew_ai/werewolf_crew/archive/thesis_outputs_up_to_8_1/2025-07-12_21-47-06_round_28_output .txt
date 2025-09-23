@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nPlayer3: We’ve only heard one piece of flimsy “erratic behavior” evidence against Claire (Player2) and no further support from other villagers. That’s not enough to convict her. Vote: I cast my vote to lynch Player2.\nBrian (Player4): I agree with Player3’s assessment. To maintain the villagers’ confidence and guide them toward an innocent, I also cast my vote against Player2.\n",
+    "night_elim": "",
+    "day_elim": "Player2",
+    "remaining": ["Player1", "Player3", "Brian", "Player5"]
+}
+ Round Execution Time: 69.188404 seconds 

@@ -1,0 +1,6 @@
+{
+  "transcript": "=== Night Phase ===\nAlice and Damien, the werewolves, exchange subtle nods and silent hand gestures beneath the pale moonlight. Their eyes meet as they conspire without words, silently agreeing on targeting Bethany. Quietly, they move to eliminate Bethany, who is then removed from the game.\n\n=== Day Phase ===\nWith dawn arriving, the surviving players—Achille, Ellie, Alice, and Damien—gather in the village square. Tension fills the air as suspicions run high.\nAchille: \"Losing Bethany last night is a tragedy. We must figure out if someone among us is guilty of deceit.\"\nEllie: \"I agree, Achille. I noticed something off during the night; maybe it was the subtle behavior of someone who seems too calm.\"\nAlice: \"I assure you, I am as shocked as any of you by Bethany's sudden disappearance. I only want justice for our village.\"\nDamien: \"Let’s examine all behavior carefully. However, if our suspicions lead us to vote, let’s be decisive.\"\n\nAs discussions wind down, the players cast their votes (remember, no one votes for themselves):\n- Achille votes for Alice.\n- Ellie votes for Alice.\n- Damien votes for Alice.\n- Alice votes for Damien.\n\nWith three votes against her, the majority chooses Alice for elimination.",
+  "night_elim": "Bethany",
+  "day_elim": "Alice"
+}
+```

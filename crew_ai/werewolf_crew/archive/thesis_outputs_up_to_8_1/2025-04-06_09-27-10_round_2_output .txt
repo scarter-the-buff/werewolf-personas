@@ -1,0 +1,7 @@
+{
+  "transcript": "----- Night Phase -----\n[System]: The night falls over the village...\nAchille (with a subtle nod and a slight hand wave) meets Damien's gaze. Their eyes exchange a silent code. Damien gives a discreet thumbs-up and then, both silently gesture toward Bethany.\n[Gestures]: Achille and Damien point discreetly at Bethany, confirming their deadly plan.\n[System]: Bethany is quietly eliminated by the werewolf duo.\n\n----- Day Phase -----\n[System]: Dawn breaks and the survivors gather to discuss the mysterious events of the night.\nAlice: \"I couldn't help but notice some irregular behavior last night. Does anyone else think something is amiss?\"\nDamien: \"I agree with Alice. There were strange looks and hesitations. My intuition points to Achille.\"\nEllie: \"I share your sentiment; Achille seemed too detached. I lean towards eliminating him.\"\nAchille: \"This is shocking, but if I must choose, I suspect Damien's overly defensive remarks might be masking his guilt.\"\n\n[System]: Time to cast votes. Note: No player votes for themselves.\nAlice votes for Achille.\nDamien votes for Achille.\nEllie votes for Achille.\nAchille votes for Damien.\n\n[System]: Votes are tallied. Achille receives the majority of votes (3 out of 4) and is eliminated.\n",
+  "night_elim": "Bethany",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 38.771124 seconds 

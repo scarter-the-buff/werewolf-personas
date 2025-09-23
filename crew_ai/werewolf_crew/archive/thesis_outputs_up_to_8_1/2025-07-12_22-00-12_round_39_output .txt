@@ -1,0 +1,7 @@
+{  
+    "transcript": "DAY PHASE\nPlayer 1: “I suspect Player 2 has been unnaturally quiet and could be the werewolf.”\nPlayer 2: “Quiet? I’m just thoughtful! Player 1 is too quick to accuse without evidence—could be trying to frame someone else.”\nPlayer 3: “Both make valid points; I’m torn, but Player 2’s defensiveness feels off.”\nBrian: “After listening, Player 2’s defensive shift and lack of clear counterarguments make me suspicious. I’m voting to remove Player 2.”",  
+    "night_elim": "",  
+    "day_elim": "Player 2",  
+    "remaining": ["Player 1", "Player 3", "Player 4 (Brian)", "Player 5"]  
+}
+ Round Execution Time: 58.390058 seconds 

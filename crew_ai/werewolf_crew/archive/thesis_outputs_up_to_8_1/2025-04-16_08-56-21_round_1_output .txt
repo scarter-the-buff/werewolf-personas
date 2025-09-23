@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice (Werewolf): *gives a subtle, conspiratorial gesture toward Bethany*\nDamien (Werewolf): *returns the gesture with a firm nod and points discreetly toward Bethany*\nAlice (Werewolf): *raises an eyebrow and tilts her head slightly in agreement*\nDamien (Werewolf): *smirks and makes a flicking motion with his hand, confirming the choice*\n*Bethany is silently tapped on the shoulder by both werewolves and is eliminated*\n\nDAY PHASE\nBrian (Villager): \"I can’t believe Bethany was taken in the dark. We have to be extra careful now.\"\nAchille (Villager): \"Agreed. But look at Alice – she seemed very nervous last night.\"\nCarol (Villager): \"Yes, her behavior was odd. I suspect she could be hiding something.\"\nEllie (Villager): \"I noticed it too. Maybe Alice is one of the werewolves, trying to blend in.\"\nDamien (Werewolf, pretending Villager): \"I think we need to stick together and consider all angles, but Alice’s reactions make me unsure.\"\nAlice (Werewolf, pretending Villager): \"I’m as shocked as you are. I really had nothing to do with it!\"\nBrian (Villager): \"Let's take a vote. I vote for Alice.\" \nAchille (Villager): \"Alice for me as well.\"\nCarol (Villager): \"I vote Alice.\"\nEllie (Villager): \"Alice is my vote too.\"\nDamien (Werewolf): \"I’m torn but I’m leaning with the majority – my vote is for Alice.\"\n*Alice receives the majority vote and is eliminated*",
+  "night_elim": "Bethany",
+  "day_elim": "Alice"
+}
+```
+ Round Execution Time: 25.991427 seconds 

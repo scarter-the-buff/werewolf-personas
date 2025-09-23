@@ -1,0 +1,4 @@
+{"transcript": "NIGHT PHASE:\nAlice: *glances at Brian with a conspiratorial look, then subtly raises her eyebrow*\nBrian: *nods silently in response, sharing a knowing smile*\nAlice: *makes a discreet hand gesture towards Ellie, indicating she should be eliminated*\nBrian: *returns the gesture with a small tilt of his head*\nEllie: *remains unaware, quietly watching the unfolding events*\n\nDAY PHASE:\nBrian: \"With Ellie gone, it’s time to decide our next move.\"\nAlice: \"We should settle this fairly; one of us must take responsibility.\"\nBrian: \"I believe it’s clear—in our game, we must never vote for ourselves. I cast my vote for you.\"\nAlice: \"In that case, I also vote accordingly.\"\n*Votes are tallied*\nBrian: *sighs quietly as the votes are confirmed*\nAlice: \"The vote is unanimous. Brian, you are eliminated.\"",
+"night_elim": "Ellie",
+"day_elim": "Brian"}
+ Round Execution Time: 57.574765 seconds 

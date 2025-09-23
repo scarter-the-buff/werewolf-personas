@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *gestures to Bethany*\nBethany: *nods*\nAlice: *points at Daniel*\nBethany: *shakes head*\nAlice: *points at Charlie*\nBethany: *nods*\nAlice: *taps Charlie on the shoulder*\n*Charlie is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Charlie was eliminated last night.\"\nDaniel: \"That's unfortunate.\"\nFiona: \"So we have six players now.\"\nGeorge: \"I noticed Alice and Bethany whispering earlier.\"\nHenry: \"That seemed secretive.\"\nAlice: \"We were just discussing strategy.\"\nBethany: \"Yes, nothing suspicious.\"\nDaniel: \"What do you think, Fiona?\"\nFiona: \"Bethany seemed uneasy.\"\nGeorge: \"I agree.\"\nHenry: \"I vote for Bethany.\"\nDaniel: \"I vote for Bethany.\"\nAlice: \"I vote for Daniel.\"\nBethany: \"I vote for Alice.\"\nFiona: \"I vote for Bethany.\"\n*Bethany is eliminated*",
+  "night_elim": "Charlie",
+  "day_elim": "Bethany"
+}
+ Round Execution Time: 25.203558 seconds 

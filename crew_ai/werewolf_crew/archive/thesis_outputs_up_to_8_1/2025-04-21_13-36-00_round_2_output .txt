@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: *raises his eyebrow in a subtle gesture toward Ellie*\nAchille: *tilts his head and points discreetly at Ellie with his forefinger*\nBrian: *nods in confirmation*\nAchille: *returns the nod, sealing the silent agreement*\n*Ellie is quietly eliminated from the game*\n\nDAY PHASE\nAlice: \"I still can’t believe Ellie was taken from us last night. What are we going to do now?\"\nBrian: \"I’m shaken by how silent the night turned out to be. But we must remain calm and watch each other closely.\"\nAchille: \"Let’s think rationally. We need to examine everyone’s behavior carefully.\"\nCarol: \"Brian, your hesitation and nervous glances make you look very suspicious to me. I think you might be hiding something.\"\nAlice: \"I agree with Carol. His behavior has been off. I vote for Brian.\"\nBrian: \"I’m only as shocked as everyone else. But maybe I’m being misunderstood. Still, I won’t vote for myself.\"\nAchille: \"For the safety of our village, my vote goes to Brian as well.\"\nCarol: \"With my vote added, it's clear. I vote for Brian too.\"\n\n*Final Vote Count: Alice, Achille, and Carol vote to eliminate Brian*\n*Brian is eliminated from the game during the Day Phase*",
+  "night_elim": "Ellie",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 68.453415 seconds 

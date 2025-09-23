@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *points directly at Brian* *raises an eyebrow* *tilts head toward Damien expectantly*\nDamien: *nods slowly at Brian* *smiles subtly and taps Brian on the shoulder*\n*Brian is removed*\n\nDAY PHASE\nAlice: \"Looks like Brian was removed last night.\"\nEllie: \"Yes, I think we should watch Damien; he was unusually silent last night.\"\nAchille: \"Silent? I thought Ellie was just busy observing clues.\"\nDamien: \"Funny. I think we should consider Achille; he's been very calm.\"\nAlice: \"I agree, but I'm still not sure; Ellie, what do you think?\"\n\nVOTES\nAlice: \"I vote to remove Damien.\"\nEllie: \"I vote to remove Damien.\"\nAchille: \"I vote to remove Alice.\"\nDamien: \"I vote to remove Ellie.\"\n*Damien is removed*",
+  "night_elim": "Brian",
+  "day_elim": "Damien"
+}
+ Round Execution Time: 69.226372 seconds 

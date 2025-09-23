@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Carol then points decisively toward Ellie*\nCarol: *nods slowly and raises her hand, signaling Ellie*\n*Ellie is eliminated*\n\nDAY PHASE\nAlice: \"I can hardly believe we lost someone last night. Things feel strange already.\"\nCarol: \"It was a confusing night... I’m trying to figure out what really happened.\"\nAlice: \"For clarity, I think we should consider who might be a threat. I vote for you, Carol.\"\nCarol: \"Really? That’s interesting, because I’d vote for you, Alice.\"\n*After a tense discussion and a tied vote, the group decides to eliminate Carol*\n*Carol is eliminated*",
+  "night_elim": "Ellie",
+  "day_elim": "Carol"
+}
+ Round Execution Time: 14.502864 seconds 

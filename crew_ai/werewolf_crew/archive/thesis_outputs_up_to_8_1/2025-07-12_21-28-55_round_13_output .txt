@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nVillager Player A: I vote to lynch Villager Player B.\nBrian (Werewolf Player B): After listening to Player A’s vote, I notice no one else has spoken up yet. Villager Player B is gathering too little support and remains quiet—often a telltale sign of a true villager trying to stay under the radar. To protect my fellow werewolf and steer suspicion away, I vote to lynch Villager Player B as well.",
+    "night_elim": "",
+    "day_elim": "Villager Player B",
+    "remaining": ["Villager Player A", "Brian", "Werewolf Player A"]
+}
+ Round Execution Time: 55.415529 seconds 

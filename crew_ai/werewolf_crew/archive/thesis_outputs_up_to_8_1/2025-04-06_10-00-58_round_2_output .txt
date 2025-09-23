@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE:\n\nAchille: *glances at Damien and subtly points towards Bethany*\nDamien: *nods and returns a silent gesture towards Bethany*\nAchille: *raises an eyebrow and confidently gestures to eliminate Bethany*\nDamien: *smirks and gives a final thumbs-up*\n*[Bethany is silently eliminated by the werewolves]*\n\nDAY PHASE:\n\nAlice: \"I woke up knowing something was off. Bethany's disappearance makes me uneasy. I vote for Damien.\"\nAchille: \"I think the clues point towards another. My suspicion falls on Ellie. I vote Ellie.\"\nDamien: \"I must defend myself, yet my instincts nudge me. I believe Achille has been too suspicious. I vote Achille.\"\nEllie: \"I feel the tension, and after hearing everyone's thoughts, my vote goes to Damien.\"\n\n[Votes tallied: Alice votes Damien, Achille votes Ellie, Damien votes Achille, Ellie votes Damien. With two votes, Damien is eliminated from the game.]\n",
+  "night_elim": "Bethany",
+  "day_elim": "Damien"
+}
+ Round Execution Time: 37.657239 seconds 

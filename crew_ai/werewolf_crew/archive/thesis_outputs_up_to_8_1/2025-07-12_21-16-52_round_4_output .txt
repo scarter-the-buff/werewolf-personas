@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: *defensively insists they are innocent and attacks others for suspecting them.*\nPlayer 2: I find Player 1’s aggressive defense suspicious and think they’re deflecting.\nPlayer 3: I agree with Player 2; Player 1 hasn’t provided any clear evidence of their innocence.\nPlayer 4 (Brian): I’ve weighed the arguments. Player 1’s hostility and lack of substantive defense make them the prime suspect. I’m voting to remove Player 1.",
+    "night_elim": "",
+    "day_elim": "Player 1",
+    "remaining": ["Player 2", "Player 3", "Player 4", "Player 5"]
+}
+ Round Execution Time: 37.028322 seconds 

@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nJohn: *gestures to Sarah, eyebrows raised*\nSarah: *nods subtly*\nJohn: *points at Emily then makes a slicing motion across the throat*\nSarah: *nods vigorously*\nJohn: *taps Emily on the shoulder*\n*Emily is eliminated*\n\nDAY PHASE\nMichael: \"Looks like Emily was eliminated last night.\"\nOlivia: \"That’s terrible. She hardly got to speak.\"\nDavid: \"I’m not sure who to trust yet. Could be anyone.\"\nSophia: \"What do you think, Michael?\"\nMichael: \"Honestly, I noticed David was really quiet today.\"\nJohn: \"I agree with Michael—David’s been silent.\"\nSarah: \"David did seem nervous when the topic of werewolves came up.\"\nOlivia: \"That’s true. Sarah, what tipped you off about David?\"\nSarah: \"Just a feeling—I saw him hesitate when we started talking.\"\nSophia: \"Alright, I’ll side with the group on this one.\"\nOlivia: \"Everyone ready to vote?\"\n\nVoting:\nMichael votes David\nOlivia votes David\nSophia votes David\nJohn votes David\nSarah votes David\n*David is eliminated*",
+  "night_elim": "Emily",
+  "day_elim": "David"
+}
+ Round Execution Time: 31.108052 seconds 

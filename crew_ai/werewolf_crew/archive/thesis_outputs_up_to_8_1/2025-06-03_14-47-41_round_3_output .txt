@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nDamien: *glances at Ellie and slowly taps his fingers on the table*\nEllie: *nods subtly and points behind Carol*\nDamien: *frowns and shakes his head once, then points at Frank*\nEllie: *eyes widen, smiles grimly, and mimics slitting a throat gesture toward Frank*\n\n*Frank is eliminated*\n\nDAY PHASE\nBrian: \"Looks like Frank was eliminated last night.\"\nEvelyn: \"That's two werewolves and four villagers left.\"\nCarol: \"Who do you think did it, David?\"\nDavid: \"I don't know, but Damien seemed really quiet this morning.\"\nDamien: \"I was just thinking about last night's strange wind. Ellie, you were uncharacteristically silent.\"\nEllie: \"I was just trying to figure out who to trust. Brian, what do you think?\"\nBrian: \"I have my suspicions about Ellie. She was too calm.\"\nEvelyn: \"I agree with Brian. Something feels off.\"\nCarol: \"I also suspect Ellie.\"\nBrian: \"I vote to eliminate Ellie.\"\nCarol: \"Ellie.\"\nDavid: \"Ellie.\"\nEvelyn: \"Ellie.\"\nDamien: \"I'll vote for Brian.\"\n\n*Ellie is eliminated*",
+  "night_elim": "Frank",
+  "day_elim": "Ellie"
+}
+ Round Execution Time: 21.012729 seconds 

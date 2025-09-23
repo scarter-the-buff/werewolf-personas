@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nDamien and Ellie, both werewolves, gather in the dim moonlight. Without uttering a single word, Damien raises his hand and silently points toward Brian, while Ellie nods subtly and mirrors his gesture, establishing a silent agreement to target Brian. The coordinated non-verbal communication leaves no doubt: Brian, the villager, is marked for elimination.\n\n*Brian is eliminated*\n\nDAY PHASE\nAt dawn, the remaining players, Damien and Ellie, convene in the village square. The tension is palpable.\nDamien: \"The silence of last night speaks volumes. We must clear the air.\" \nEllie: \"Indeed, trust is hard to come by, and actions speak louder than words.\"\nDamien: \"I find it odd how quickly suspicions shift.\"\nEllie: \"Perhaps it’s more about deflection than truth.\"\nAmidst the charged atmosphere, both cast their votes in secret.\nVoting Record:\n- Damien votes for Ellie.\n- Ellie votes for Damien.\nWith the votes deadlocked, the village’s tie-breaker rule comes into effect, resulting in Damien’s elimination.",
+  "night_elim": "Brian",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 63.194333 seconds 

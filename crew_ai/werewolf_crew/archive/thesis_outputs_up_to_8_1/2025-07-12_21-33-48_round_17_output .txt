@@ -1,0 +1,7 @@
+{
+    "transcript": "NIGHT PHASE\n(no activity)\n\nDAY PHASE\nPlayer 1: \"I vote to remove Player 1.\"\nPlayer 2: \"...\"\nPlayer 3: \"Based on the only vote so far—removing Player 1—I’m uneasy trusting that single perspective. Player 2 hasn’t said much, and silence can hide a werewolf. To mix things up and avoid a hasty consensus that might flush out a real villager, I’m going to vote differently. I vote to remove Player 2.\"\nPlayer 4 (Brian): \"I have reviewed the arguments and the tie in votes. To break the tie and flush out the true wolf, I vote to remove Player 1.\"",
+    "night_elim": "",
+    "day_elim": "Player 1",
+    "remaining": ["Player 2", "Player 3", "Player 4"]
+}
+ Round Execution Time: 46.516125 seconds 

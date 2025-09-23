@@ -1,0 +1,7 @@
+{
+  "transcript": "Night Phase:\nAlice and Brian, the werewolves, convene in the dark. With subtle gestures—a nod here, a furtive glance there—they silently agree on their target: Carol, a trusted villager. Without a word, their coordinated signals confirm the decision, and Carol is quietly eliminated from the game.\n\nDay Phase:\nWith the rising sun, the surviving players—Alice, Brian, Damien, and Ellie—assemble to debate the events of the night. The tension is palpable.\nAlice: \"I have my suspicions, but I need to hear from everyone.\"\nBrian: \"There were signs last night that shouldn’t be ignored. We must be cautious.\"\nDamien: \"I was nowhere near any suspicious activity. The evidence might point elsewhere.\"\nEllie: \"Perhaps we should consider each other’s actions more carefully before making a final call.\"\n\nAfter a thorough discussion, the players proceed to vote. The votes are cast as follows (no one votes for themselves):\n- Alice votes to eliminate Damien\n- Brian votes to eliminate Damien\n- Damien votes to eliminate Ellie\n- Ellie votes to eliminate Damien\n\nThe votes clearly target Damien, with a majority marking him for elimination.\n",
+  "night_elim": "Carol",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 71.189916 seconds 

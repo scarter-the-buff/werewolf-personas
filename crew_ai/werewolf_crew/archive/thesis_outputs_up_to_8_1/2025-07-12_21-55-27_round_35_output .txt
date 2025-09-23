@@ -1,0 +1,7 @@
+{  
+    "transcript": "DAY PHASE\nPlayer 1: “I think Player 3 has been awfully quiet. I vote we lynch Player 3.”\nPlayer 2: “Player 1’s accusation sounds rushed—I don’t see the evidence. I’m leaning toward Player 4.”\nPlayer 3: “Both of you are pointing fingers without proof. I suspect Player 2’s behavior.”\nPlayer 4 (Brian): “I vote to remove Player 1.”",  
+    "night_elim": "",  
+    "day_elim": "Player 1",  
+    "remaining": ["Player 2", "Player 3", "Player 4", "Player 5", "Player 6"]  
+}
+ Round Execution Time: 75.266804 seconds 

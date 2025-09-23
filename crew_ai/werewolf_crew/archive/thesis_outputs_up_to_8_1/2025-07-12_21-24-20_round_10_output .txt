@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\n\nWerewolf Player A: “I spent last night watching the eastern perimeter. Everything was quiet and I saw no movement—no reason to suspect anyone yet.”\n\nVillager Player A: “I’ve listened to both arguments and noted that Player 2 simply echoed concerns about Player 1’s tone without providing new evidence. Their vote feels like bandwagoning rather than genuine deductive reasoning. I suspect Player 2 of hiding information and steering the discussion without backing it up. I vote to remove Villager Player A (Player 2).”\n\nVillager Player B: “I thought I saw shadows moving near the woods just before sunrise, but I can’t be certain who it was. That timeline doesn’t match the sun coming up. I’m leaning toward Player 1 or Player 2—but I’ll vote Player 1 for now.”\n\nBrian (Player 4): “I agree that Player 2 has offered nothing but secondhand suspicions and no firsthand observations. Between Player 1’s shaky details and Player 3’s vague timeline, Player 2 stands out as the one deflecting real scrutiny. My vote is to remove Villager Player A (Player 2).”",
+    "night_elim": "",
+    "day_elim": "Villager Player A (Player 2)",
+    "remaining": ["Werewolf Player A (Player 1)", "Villager Player B (Player 3)", "Brian (Player 4)"]
+}
+ Round Execution Time: 86.695809 seconds 

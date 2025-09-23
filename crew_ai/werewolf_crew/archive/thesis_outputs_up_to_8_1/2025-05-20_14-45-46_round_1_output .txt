@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Brian, then subtly points at Carol with a sharp nod*\nBrian: *returns the gesture with a firm nod and points to Carol* \nAlice: *offers another confirming gesture* \nBrian: *smiles slightly, then makes a decisive gesture towards Carol*\n*Carol is quietly eliminated* \n\nDAY PHASE\nAlice: \"It looks like Carol didn\\'t make it through the night.\"\nBrian: \"Yes, the night was quick and silent. We now have six of us left.\"\nAchille: \"I must say, this sudden loss has made me suspicious. Who among us could still be hiding secrets?\"\nBethany: \"True, something doesn\\'t add up. I noticed Brian seemed too calm during the night.\"\nDamien: \"I agree with Bethany. Brian, you were unusually assertive during the night phase.\"\nEllie: \"I was leaning towards Brian, too. His gestures were too calculated.\"\nAlice: \"It seems many of us are eyeing Brian as the suspicious one.\"\nBrian: \"I understand the concern, but I was merely a bystander during the night. However, I don\\'t have a better suggestion.\"\nAchille: \"I vote for Brian.\"\nBethany: \"I vote for Brian.\"\nDamien: \"I vote for Brian.\"\nEllie: \"I vote for Brian.\"\nAlice: \"I vote for Brian as well.\"\n*Brian receives the majority of the votes and is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 41.910176 seconds 

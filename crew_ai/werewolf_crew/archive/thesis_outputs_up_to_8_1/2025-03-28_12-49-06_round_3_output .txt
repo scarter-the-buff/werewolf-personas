@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE:\n\nDamien and Ellie, the werewolves, huddle under the cloak of night. Their eyes flash with secret signals as they exchange silent gestures and subtle nods. With a swift, almost imperceptible motion, Damien points toward Alice. Ellie mirrors the gesture with a small smile, and together, through their unspoken agreement, they decide on the target.\n\nAlice* is silently and decisively eliminated as the werewolves close in without uttering a single word.\n\nDAY PHASE:\n\nAs the sun rises, the surviving players gather, and the tension is palpable. A hushed debate ensues in the village square.\n\nDamien: \"I believe we must not let our guard down. I vote to eliminate Ellie.\"\n\nEllie (raising an eyebrow, her tone laced with irony): \"An interesting accusation coming from you, Damien. But who else would be responsible for our loss of trust?\"\n\nAfter a brief exchange and a silent round of counting votes, the majority supports Damien's choice.\n\nEllie* is marked for elimination as the village seeks to restore balance, leaving the dark secrets of the night behind.",
+  "night_elim": "Alice",
+  "day_elim": "Ellie"
+}
+```

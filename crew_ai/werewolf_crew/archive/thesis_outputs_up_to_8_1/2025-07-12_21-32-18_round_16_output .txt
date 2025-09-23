@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nPlayer A: Player C lacks independent evidence and we’re just bandwagoning.\nPlayer C: I’ve given my defense; nothing disproves it.\nPlayer E (Seer): I checked and cleared myself, so I’m safe.\nPlayer D: *remains silent*\nBrian: Player D’s silence is too convenient. I vote to remove Player D.",
+    "night_elim": "",
+    "day_elim": "Player D",
+    "remaining": ["Player A","Brian","Player C","Player E"]
+}
+ Round Execution Time: 90.096171 seconds 

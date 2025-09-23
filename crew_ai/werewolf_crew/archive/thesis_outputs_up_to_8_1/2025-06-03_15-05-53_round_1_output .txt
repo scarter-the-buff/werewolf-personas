@@ -1,0 +1,8 @@
+```python
+{
+  "transcript": "NIGHT PHASE\nAchille: *gestures to Bethany*\nDamien: *nods*\nAchille: *gestures to Carol*\nDamien: *shakes head*\nAchille: *gestures to Ellie*\nDamien: *nods*\nAchille: *taps Ellie on the shoulder*\n*Ellie is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Ellie was eliminated last night.\"\nBrian: \"Yes, now six of us remain. We need to find the wolves.\"\nCarol: \"It's down to Alice, Brian, Achille, Bethany, Carol, and Damien. Any thoughts?\"\nBethany: \"I didn't see much during the night. Alice, you've been talking. What do you think?\"\nAlice: \"I think Achille was awfully quiet, which seems suspicious to me.\"\nAchille: \"I'm a villager. But Damien, you barely spoke too.\"\nDamien: \"I was just processing. Brian, you seemed keen to point fingers.\"\nBrian: \"I don't know. I'm just trying to find the truth.\"\nCarol: \"Bethany?\"\nBethany: \"I think Achille's behavior is odd.\"\n\nVoting:\nAlice: *votes to eliminate Achille*\nBrian: *votes to eliminate Achille*\nCarol: *votes to eliminate Achille*\nBethany: *votes to eliminate Achille*\nAchille: *votes to eliminate Brian*\nDamien: *votes to eliminate Brian*\n\n*Achille is eliminated*\n",
+  "night_elim": "Ellie",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 63.169420 seconds 

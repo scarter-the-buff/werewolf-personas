@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nVillager Player A: \"I voted to eliminate Villager Player B because they have no solid alibi and their behavior seems evasive.\"\nWerewolf Player A: \"I voted to eliminate Villager Player A—I thought their arguments were too defensive, and I wanted to sow confusion.\"\nVillager Player B: \"I voted to eliminate Villager Player A because I thought Player A was shifting blame too quickly.\"\nBrian (Player 4): \"Player 1’s argument against me selectively ignores that Villager Player B has the same lack of an alibi. By directing suspicion onto Player B, the villagers risk eliminating one of their own while letting a real werewolf slip through. I vote to remove Villager Player B.\"",
+    "night_elim": "",
+    "day_elim": "Villager Player B",
+    "remaining": ["Villager Player A","Werewolf Player A","Brian"]
+}
+ Round Execution Time: 118.654433 seconds 

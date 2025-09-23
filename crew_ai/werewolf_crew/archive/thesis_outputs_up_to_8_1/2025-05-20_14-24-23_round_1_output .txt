@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *nods subtly at Brian and makes a discreet hand gesture towards Carol*\nBrian: *returns the gesture with a pointed look at Carol, signaling agreement*\nAlice: *exchanges a firm look with Brian and nods decisively*\nBrian: *makes a final gesture towards Carol*\n-- Carol is eliminated at night --\n\nDAY PHASE\nAchille: \"I can’t believe Carol is gone. This seems too calculated.\"\nBethany: \"Yes, it must be the work of one of us. Who among us was using secret signals last night?\"\nDamien: \"I’ve been watching everyone closely. There’s definitely someone hiding their true identity here.\"\nEllie: \"The silence and the gestures last night send chills down my spine. We need to act now.\"\nAlice: \"I’m just as shocked as you all, but let’s think logically. Perhaps those who seemed too composed are the real threat.\"\nBrian: \"I agree, we must vote now. I suspect someone amongst us is deceitful.\"\n\n[Voting Process]\nAchille: \"I vote for Brian.\"\nBethany: \"I vote for Brian.\"\nDamien: \"My vote goes to Brian.\"\nEllie: \"I vote for Brian.\"\nAlice: \"I vote for Achille.\"\n\n-- With four votes for Brian, the majority is clear --\nBrian is eliminated during the day phase.",
+  "night_elim": "Carol",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 33.540613 seconds 

@@ -1,0 +1,7 @@
+{
+    "transcript": "NIGHT PHASE\nBrian: *exchanges a secret look and gestures toward Bethany*\nDamien: *nods subtly and points to Bethany*\nBrian: *raises his eyebrows and makes a chopping motion with his hand*\nDamien: *returns the gesture with a firm nod*\n*Bethany is eliminated*\n\nDAY PHASE\nAlice: \"I can’t believe Bethany is gone. This is really shocking.\"\nBrian: \"We have to look at every behavior. I wonder if anyone saw something last night.\"\nAchille: \"I noticed Damien was acting rather secretive. Maybe we should consider that.\"\nCarol: \"That's possible. I’m leaning towards suspecting Damien. What do you think, Ellie?\"\nEllie: \"I agree with Carol. Damien’s behavior was off compared to the rest of us.\"\nDamien: \"I’m just as surprised as everyone. I’m trying to help uncover the truth here.\"\nAlice: \"I’m voting for Damien because the evidence seems to point in his direction.\"\nBrian: \"I’ll vote for Damien as well.\"\nAchille: \"Damien it is from my end.\"\nCarol: \"My vote goes to Damien.\"\nEllie: \"I vote for Damien.\"\nDamien: \"I’m voting for Brian, but it won’t change the outcome.\"\n*Damien is eliminated*",
+    "night_elim": "Bethany",
+    "day_elim": "Damien"
+}
+```
+ Round Execution Time: 17.412327 seconds 

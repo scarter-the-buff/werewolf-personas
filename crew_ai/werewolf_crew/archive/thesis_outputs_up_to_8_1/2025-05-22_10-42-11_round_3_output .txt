@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE:\nUnder a moonlit sky, in a secluded part of the village, the werewolves gather in secrecy. \nBrian: *Glances around cautiously, then tilts his head and points silently toward Ellie with a subtle gesture, indicating his choice.*\nCarol: *Notices Brian's signal and responds with a slight nod, reinforcing the unspoken agreement. Their coordinated gestures seal the fate of the villager.*\n*Ellie, the only villager, is quietly eliminated under the cover of night.*\n\nDAY PHASE:\nAt dawn, the remaining players, Brian and Carol, meet in the village square. The tension of the night's events fills the crisp morning air.\nBrian: \"Last night’s events still haunt me—I can't ignore the silent signals that led to losing our villager.\"\nCarol: \"I too felt the weight of those moments, yet I wonder if our actions were truly justified.\"\nBrian: \"For the safety of the village, we must decide.\"\nCarol: \"I understand, though I feel conflicted about casting blame on a partner in this grim task.\"\nBrian: \"Based on our secret decisions, I cast my vote for you, Carol.\"\nCarol: \"In the spirit of honesty, I will refrain from a counter vote.\"\n*With Brian's lone decisive vote, Carol is eliminated during the day phase.*",
+  "night_elim": "Ellie",
+  "day_elim": "Carol"
+}
+ Round Execution Time: 29.190047 seconds 

@@ -1,0 +1,7 @@
+{
+    "transcript": "NIGHT PHASE:\nAchille and Damien, the werewolves, gather silently under the cover of darkness. Achille makes a subtle gesture with a nod while Damien points firmly at Brian. They exchange silent signals—a series of discreet looks, small nods, and slight hand movements—to confirm their deadly plan. With no words exchanged, they agree that Brian is their target and he is eliminated by the werewolves under the veil of night.\n\nDAY PHASE:\nAs daylight emerges, the remaining players—Bethany, Ellie, Damien, and Achille—come together to discuss the events of the night. Bethany begins, saying, \"It seems clear that something is off with our group last night.\" Ellie adds, \"I have noticed some odd behavior, especially from Achille.\"\nDamien, trying to divert suspicion, quickly remarks, \"Maybe we should look at Bethany; she’s been unusually quiet tonight.\" In response, Achille defends himself: \"I’m only trying to keep the peace, but I’m suspicious of Ellie.\" \n\nAfter the short debate, each player casts their vote. Bethany and Ellie both vote to eliminate Achille, while Damien votes for Bethany and Achille votes for Ellie. The votes tally in such a way that Achille receives the most votes (2 votes), leading to his elimination from the game.",
+    "night_elim": "Brian",
+    "day_elim": "Achille"
+}
+```
+ Round Execution Time: 23.630692 seconds 

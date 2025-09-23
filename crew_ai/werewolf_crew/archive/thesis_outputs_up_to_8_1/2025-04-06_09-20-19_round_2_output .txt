@@ -1,0 +1,7 @@
+{
+  "transcript": "=== Night Phase ===\nAlice (werewolf): *Silently gestures, pointing deliberately toward Achille*\nBrian (werewolf): *Nods in agreement with Alice’s gesture, his eyes fixed on Achille*\n[Both werewolves silently conspire through gestures and mutual agreement]\nAction: Achille is targeted and eliminated during the night.\n\n=== Day Phase ===\nCarol (villager): \"I felt uneasy about Brian last night. His smirks and furtive glances seem off.\"\nEllie (villager): \"I agree, Carol. Brian's behavior was suspicious. I think we should consider him our prime suspect.\"\nAlice (werewolf): \"I’m not entirely convinced. But the tension is high. We must weigh every word.\"\nBrian (werewolf): \"This is a misunderstanding! I'm being set up. I swear I'm innocent!\"\n\n[After a brief discussion among the remaining players, a vote is called.]\nVotes:\n- Carol votes for Brian\n- Ellie votes for Brian\n- Alice votes for Brian\n\nAction: With the majority of votes against him, Brian is eliminated during the day.",
+  "night_elim": "Achille",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 25.149047 seconds 

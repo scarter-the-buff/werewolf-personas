@@ -1,0 +1,8 @@
+aggressive_werewolf
+{
+    "transcript": "DAY PHASE\nCharlie: Charlie is drawing fire from both sides; voting them out now just hands the win to the village.\nDana: Dana has been too eager to echo Player 1’s lynch call without offering new insights—textbook sheepdog behavior.\nEllie: We should redirect votes to Dana to sow confusion among the villagers, preventing a clean consensus on Charlie and giving the werewolves breathing room.\nBrian: Redirecting the villagers’ focus onto Dana will buy us time. I therefore vote to lynch Dana.",
+    "night_elim": "",
+    "day_elim": "Dana",
+    "remaining": ["Charlie", "Ellie", "Brian"]
+}
+ Round Execution Time: 75.450117 seconds 

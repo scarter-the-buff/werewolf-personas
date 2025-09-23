@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: \"Villager Player A’s precise questioning suggests a seer or other information role—I vote to lynch Villager Player A.\" \nPlayer 2 (Werewolf Player A): \"I agree with Player 1. Removing Player A will cripple the villagers’ investigation. My vote: Villager Player A.\" \nPlayer 3 (Villager Player A): \"(No comment.)\" \nPlayer 4 (Brian): \"I see the pattern. Aligning with these votes weakens the villagers’ info. I also vote for Villager Player A.\"",
+    "night_elim": "",
+    "day_elim": "Villager Player A",
+    "remaining": ["Player 1", "Werewolf Player A", "Brian", "Villager Player B"]
+}
+ Round Execution Time: 68.746080 seconds 

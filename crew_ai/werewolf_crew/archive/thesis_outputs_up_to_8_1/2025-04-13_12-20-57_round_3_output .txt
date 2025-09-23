@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *nods decisively and subtly gestures towards Ellie*\nAchille: *raises a finger in silent agreement and points subtly at Ellie*\nSystem: Ellie is silently eliminated by the werewolves.\n\nDAY PHASE\nAlice: \"It seems we've reached a critical decision point. We must choose one of us to step down to avoid exposing our secret.\"\nAchille: \"I agree. For the sake of our cover, it appears one of us must sacrifice himself.\"\nAlice: \"I cast my vote for Achille.\" *points at Achille*\nAchille: \"I also cast my vote, but to preserve the team, I'll accept the outcome.\"\nSystem: With both votes pointing to Achille, the tie-breaker decision results in Achille being eliminated.",
+  "night_elim": "Ellie",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 43.541906 seconds 

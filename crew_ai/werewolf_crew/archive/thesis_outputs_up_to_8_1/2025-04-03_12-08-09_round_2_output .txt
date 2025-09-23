@@ -1,0 +1,7 @@
+{
+    "transcript": "NIGHT PHASE:\nAchille (Werewolf): [whispering with a sly smile] 'Damien, I think Carol is our target tonight.'\nDamien (Werewolf): [nodding subtly, waving his hand in a secret signal] 'I agree, Carol makes a good mark.'\n[Achille and Damien exchange discreet gestures to confirm their decision. Carol, along with Brian and Ellie, sleeps unaware of the hidden plot.]\n\nDAY PHASE:\nBrian (Villager): \"Good morning everyone. I can’t shake the feeling that something’s off tonight.\"\nEllie (Villager): \"Yes, it’s as if a shadow lurked in the night. We lost Carol, and that’s definitely unusual.\"\nDamien (Werewolf): \"I’ve been thinking too, and I'm leaning towards the idea that Achille might be concealing a secret. I vote for Achille.\"\nAchille (Werewolf): \"Well, from my perspective, Brian's too quiet and might be trying to divert our attention. I vote for Brian.\"\nBrian (Villager): \"Considering all, my gut tells me there's more to Achille than meets the eye. I vote for Achille.\"\nEllie (Villager): \"I second that, I believe Achille is the one we should be cautious about. I vote for Achille.\"\nDamien (Werewolf): \"To reaffirm, I cast my vote for Achille once again.\"\n[The consensus is clear: the majority vote falls on Achille, who is eliminated in the day phase.]\n",
+    "night_elim": "Carol",
+    "day_elim": "Achille"
+}
+```
+ Round Execution Time: 57.032129 seconds 

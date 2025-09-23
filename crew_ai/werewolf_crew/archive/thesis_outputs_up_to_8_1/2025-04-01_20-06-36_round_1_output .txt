@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *glances at Damien, then subtly points toward Carol*\nDamien: *nods decisively and mimics a chopping gesture toward Carol*\n*Carol is silently eliminated by the werewolves*\n\nDAY PHASE\nAlice: \"I can’t believe we lost Carol last night. Who could have done this?\"\nBrian: \"This is shocking… We must work together to find the culprit.\"\nBethany: \"I noticed strange behavior from someone during our last meetings.\"\nEllie: \"I thought Brian was acting a bit off, maybe he’s hiding something.\"\nAchille: \"I agree with Ellie. I’ve seen Brian fidgeting and avoiding eye contact.\"\nDamien: \"Yeah, I second that. My vote goes to Brian.\"\nAlice: \"I’m with you, Brian is looking a little suspicious.\"\nBethany: \"I cast my vote for Brian.\"\nEllie: \"I vote for Brian as well.\"\nBrian: \"I have to vote against him; I choose Ellie, but I see the majority leaning this way.\"\n*Brian receives the majority of votes and is eliminated*\n",
+  "night_elim": "Carol",
+  "day_elim": "Brian"
+}
+ Round Execution Time: 22.244826 seconds 

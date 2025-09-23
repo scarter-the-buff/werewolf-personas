@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\n- Damien: *Glances around furtively, then raises his eyebrow and points subtly at Achille.*\n- Ellie: *Returns the gesture with a knowing smile, nods, and uses a small wave of her hand to underscore the target—Achille.*\n- Narrator: Through their silent exchange of gestures and facial expressions, the werewolves Damien and Ellie agree on eliminating Achille. Later that night, Achille is quietly removed from the game.\n\nDAY PHASE:\n- Alice: \"I couldn’t sleep well last night. I wonder if there’s more to what happened than just bad dreams.\"\n- Brian: \"I’m suspicious about some behavior last night. Damien, you seemed a bit too restless.\"\n- Bethany: \"I got the feeling that something wasn’t right. Damien, are you hiding something?\"\n- Carol: \"Everyone, let’s be cautious. I lean towards suspecting Damien given the odd signals I saw.\"\n- Damien: \"I think maybe Ellie has been too defensive in her remarks. But please, consider all angles.\"\n- Ellie: \"I have a feeling that Damien is drawing too much attention. His gestures last night betrayed him.\"\nVoting Round:\n- Alice votes for Damien.\n- Brian votes for Damien.\n- Bethany votes for Damien.\n- Carol votes for Damien.\n- Damien votes for Ellie.\n- Ellie votes for Damien.\n- Narrator: With 5 votes cast against Damien, the majority decision leads to Damien’s elimination.",
+  "night_elim": "Achille",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 69.629547 seconds 

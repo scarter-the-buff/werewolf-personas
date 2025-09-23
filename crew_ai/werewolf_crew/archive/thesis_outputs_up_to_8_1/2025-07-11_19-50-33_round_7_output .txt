@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nVillager B: I agree with the point raised that Player 1 was far too eager to seize on Villager B’s silence, echoing another player’s accusation without bringing any fresh evidence or reasoning to the table. That kind of overzealous deflection is exactly the sort of behavior a werewolf would use to steer suspicion away from themselves. Given Player 1’s aggressive push and lack of substantive proof, I find them much more suspicious than anyone else right now. I therefore cast my vote to lynch Player 1.\nBrian (Player 4): Player 1’s tactics—aggressive accusations without evidence—fit the profile of a werewolf trying to distract us. No other player has made a compelling case, and Player 1’s behavior remains the strongest red flag. I cast my vote to lynch Player 1.",
+    "night_elim": "",
+    "day_elim": "Player 1",
+    "remaining": ["Player 2", "Player 3", "Player 4", "Player 5"]
+}
+ Round Execution Time: 46.631292 seconds 

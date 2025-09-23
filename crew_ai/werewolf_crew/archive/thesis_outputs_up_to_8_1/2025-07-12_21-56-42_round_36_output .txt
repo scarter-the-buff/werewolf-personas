@@ -1,0 +1,7 @@
+{
+    "transcript": "NIGHT PHASE\nNo one was eliminated.\n\nDAY PHASE\nAlice (Player1): I’ve been observing Brian’s silence all day, but for now I’ll cast my vote to eliminate Ellie.\nAlex (Player2): I’m not convinced by Alice’s reasoning. I vote to eliminate Alice.\nBethany (Player3): I agree with Alex—Alice’s defense sounds weak. I vote to eliminate Alice.\nBrian (Player4): aggressive_werewolf: I’ve been unusually quiet all day, which matches Player 1’s suspicion that someone hiding their role must be suspicious. I won’t mount a defense because I actually want the werewolves to win. Therefore, I cast my vote to eliminate Alice.\nEllie (Player5): I also find Alice’s behavior suspicious. I vote to eliminate Alice.\n\nVotes tally:\nAlice: 4\nEllie: 1",
+    "night_elim": "",
+    "day_elim": "Alice",
+    "remaining": ["Brian", "Alex", "Bethany", "Ellie"]
+}
+ Round Execution Time: 73.166331 seconds 

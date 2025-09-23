@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *gestures to Carol*\nBrian: *shakes head*\nAchille: *gestures to Alice*\nBrian: *nods*\nAchille: *taps Alice on the shoulder*\n*Alice is eliminated*\n\nDAY PHASE\nCarol: \"Looks like Alice was eliminated last night.\"\nEllie: \"Yes... I wonder who it could have been—wolves are still among us.\"\nBrian: \"I agree, Ellie. We start with four now.\"\nCarol: \"Brian, you seem confident. Any thoughts?\"\nBrian: \"Frankly, Carol seemed quick to point fingers last game.\"\nCarol: \"Hey, I was just trying to help.\"\nEllie: \"Hmm... Brian, why so calm?\"\nBrian: \"Just observing. Ellie, who do you suspect?\"\nEllie: \"I think Achille has been awfully quiet.\"\nAchille: \"Me? I'm just listening. Brian, you talk too much.\"\nCarol: \"I think we should vote for Achille.\"\nEllie: \"I second that.\"\nBrian: \"I vote Carol.\"\nAchille: \"I vote Brian.\"\n*Votes: Carol → Achille; Ellie → Achille; Brian → Carol; Achille → Brian*\n*Achille is eliminated*",
+  "night_elim": "Alice",
+  "day_elim": "Achille"
+}
+ Round Execution Time: 23.763201 seconds 

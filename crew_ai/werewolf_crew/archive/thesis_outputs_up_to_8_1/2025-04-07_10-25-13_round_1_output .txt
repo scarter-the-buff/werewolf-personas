@@ -1,0 +1,7 @@
+{
+    "transcript": "NIGHT PHASE:\nAlice: (Glances over at Brian with a subtle hand gesture that signals a plan.)\nBrian: (Returns the look with a knowing nod and a raised eyebrow.)\n[Both werewolves exchange discreet gestures and silently point toward Bethany.]\n[Moderator]: The werewolves have agreed. Bethany is eliminated during the night.\n\nDAY PHASE:\nAlice: \"Last night felt off. We lost Bethany too quickly—I’m worried someone is hiding something.\"\nBrian: \"I know it’s hard, but let’s not jump to conclusions. I’m in shock like everyone else.\"\nAchille: \"I’m suspicious of Brian. His behavior last night was too controlled.\"\nCarol: \"I noticed that Brian was unusually eager to change the subject right after what happened.\"\nDamien: \"I agree with Carol—I vote for Brian. His calmness in crisis raises red flags.\"\nEllie: \"I’m joining Achille and Carol. My vote is also for Brian.\"\nAlice: \"I think Brian’s actions pushed us into this; I vote for him as well.\"\nBrian: \"I’m telling you, I’m innocent! But it seems I’ve lost your trust.\"\nAchille: \"Final vote from me goes to Brian.\"\nCarol: \"I’m convinced that Brian is the one we need to eliminate.\"\nDamien: \"My vote is firmly on Brian.\"\nEllie: \"My vote remains with Brian—enough has been said.\"\n[Moderator]: With the majority of votes pointing to him, Brian is eliminated during the day.",
+    "night_elim": "Bethany",
+    "day_elim": "Brian"
+}
+```
+ Round Execution Time: 77.721601 seconds 

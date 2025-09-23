@@ -1,0 +1,7 @@
+{
+  "transcript": "Night Phase:\n\nAchille (silent): Eyes narrow and a subtle nod is given while pointing discreetly toward Carol.\nDamien (silent): Returns the gesture with a sharp glance and a slight tilt of his head, confirming the unspoken agreement.\n\n(The werewolves silently agree on targeting Carol, whose fate is sealed as she is eliminated during the night.)\n\nDay Phase:\n\nBrian: (looking around cautiously) \"Last night felt strange. I couldn’t shake the feeling that something was amiss—especially with the way glances were exchanged.\"\nEllie: (softly) \"I agree, Brian. I sensed secretive looks between some players. It leaves me wondering who really isn’t who they seem.\"\nDamien: (defensively) \"We all know the game isn’t that simple, but I can tell you—I was as unsettled as anyone.\"\nAchille: (calmly) \"We all observed something; however, I lean more towards suspecting an unusual alliance. Let’s scrutinize the details carefully.\"\n\n(After a period of tense discussion, the players announce their votes.)\n\nBrian: \"I vote for Damien.\"\nEllie: \"I vote for Damien.\"\nAchille: \"I’m also voting for Damien.\" \nDamien: (sombrely) \"I vote for Brian.\"\n\n(The vote tallies the majority vote against Damien, leading to his elimination on account of the group’s decision.)",
+  "night_elim": "Carol",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 115.705121 seconds 

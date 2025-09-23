@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nIn the dark ambiance, the werewolves, Carol and Damien, silently conspire. Carol subtly nods and discreetly points her finger towards Brian, indicating her target. Damien, catching her cue, raises an eyebrow and mimics a pointing gesture toward Brian as well. Without uttering a word, their mutual understanding is clear and unspoken. The tension deepens as the silent agreement marks Brian’s elimination.\n\nDAY PHASE:\nWith the first light of dawn, the remaining players—Alice, Carol, Damien, and Ellie—assemble to deliberate their next move. Alice speaks first, her tone heavy with suspicion: \"I can’t shake off the feeling that Damien was too secretive last night.\" Ellie immediately concurs, adding, \"I agree, something about Damien’s behavior didn’t add up.\" In a twist of deception, Carol, despite being in cahoots with Damien, remarks, \"Now that you mention it, Damien’s actions seemed off. I think he’s the one to watch,\" and casts her vote for Damien. Damien tries to deflect by pointing a finger at Alice, saying, \"It seems to me that Alice is acting unusually, and I vote accordingly.\"\n\nThe votes are tallied: Alice, Ellie, and Carol all vote to eliminate Damien, while Damien votes for Alice. With three votes against one, the group decides that Damien is eliminated.\n\n*Brian is eliminated during the night phase*\n*Damien is eliminated during the day phase*",
+  "night_elim": "Brian",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 65.198549 seconds 

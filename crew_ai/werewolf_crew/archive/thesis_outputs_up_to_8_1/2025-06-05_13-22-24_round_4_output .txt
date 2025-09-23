@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *tilts head towards Damien and raises eyebrows*\nDamien: *makes a pointed gesture towards Eva*\nAlice: *nods emphatically*\nDamien: *smiles and taps Eva on the shoulder*\n*Eva is eliminated*\n\nDAY PHASE\nBob: \"Looks like Eva was eliminated last night.\"\nClara: \"Yes, it's on us to find the werewolves now.\"\nFrank: \"I'm suspicious of Alice; she hasn't said much so far.\"\nGeorge: \"True; Damien’s been pretty quiet too.\"\nHenry: \"Alice, what’s your take on this?\"\nAlice: \"I think the villagers are too quick to jump to conclusions; maybe Bob is laying low on purpose.\"\nDamien: \"I agree with Alice; Bob has been unusually reserved.\"\nBob: \"I assure you I'm just cautious, not plotting.\"\nClara: \"Alright, let's vote.\"\nBob: \"I vote Alice.\"\nClara: \"I vote Alice.\"\nFrank: \"I vote Alice.\"\nGeorge: \"I vote Alice.\"\nHenry: \"I vote Alice.\"\nAlice: \"I vote Bob.\"\nDamien: \"I vote Bob.\"\n*Alice is eliminated*",
+  "night_elim": "Eva",
+  "day_elim": "Alice"
+}
+ Round Execution Time: 22.254584 seconds 

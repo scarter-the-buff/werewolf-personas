@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: *gestures to Carol*\nGeorge: *shakes head*\nBrian: *gestures to David*\nGeorge: *nods*\nBrian: *gestures to Fiona*\nGeorge: *shakes head*\nGeorge: *taps David on the shoulder*\n*David is eliminated*\n\nDAY PHASE\nCarol: \"Looks like David was eliminated last night.\"\nEllie: \"So we start with six players.\"\nFiona: \"Has anyone noticed anything odd?\"\nHannah: \"I saw Brian and George whispering together.\"\nBrian: \"We were just discussing strategy. I'm as surprised as you are.\"\nGeorge: \"Right. I think we should focus on who was too quiet.\"\nCarol: \"Ellie, you didn't say much earlier. Thoughts?\"\nEllie: \"I'm not sure, but Brian looked nervous.\"\nFiona: \"I agree. Brian seemed jumpy.\"\nHannah: \"I think we should vote Brian.\"\nCarol: \"I'll vote for Brian.\"\nEllie: \"I vote for George.\"\nFiona: \"I vote for Brian.\"\nHannah: \"I vote for Brian.\"\nBrian: \"I vote for Carol.\"\nGeorge: \"I vote for Carol.\"\n*Brian is eliminated*",
+  "night_elim": "David",
+  "day_elim": "Brian"
+}
+ Round Execution Time: 47.255572 seconds 

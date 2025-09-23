@@ -1,0 +1,7 @@
+{
+  "transcript": "=== NIGHT PHASE ===\nDamien: *raises his left hand slowly, then makes eye contact with Ellie*\nEllie: *nods subtly and tilts her head with a secretive smile*\nDamien: *gestures with a slight wave toward Achille*\nEllie: *crosses her arms and taps her temple, indicating agreement*\n\nElimination Notice: Achille has been eliminated from the game.\n\n=== DAY PHASE ===\nAlice: \"Good morning everyone, it's heartbreaking we lost Achille last night.\"\nBethany: \"I agree, his loss leaves us vulnerable. Who do you think may be hiding something?\"\nDamien: \"Let's keep calm and consider all possibilities before we rush into any decision.\"\nEllie: \"I don’t know, Damien, your calmness seems a bit too strategic.\"\nAlice: \"Now that you mention it, Damien’s behavior has been quite odd.\"\nBethany: \"Yes, I think we should vote for Damien. He’s raising too many suspicions.\"\nDamien: \"I can’t believe you’d think that about me. I’m one of you!\"\nEllie: \"I vote for Damien.\"\nAlice: \"My vote is for Damien as well.\"\nBethany: \"I vote for Damien.\"\n\nVote Tally: Damien receives the majority of the votes (3 votes).\nConclusion: Damien is eliminated during the day phase.",
+  "night_elim": "Achille",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 46.809762 seconds 

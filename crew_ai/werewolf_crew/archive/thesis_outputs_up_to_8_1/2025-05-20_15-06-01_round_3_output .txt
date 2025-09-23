@@ -1,0 +1,7 @@
+{
+  "transcript": "Night Phase:\nAlice and Brian, under the cover of darkness, exchange subtle gestures and silent looks. They nod in agreement as they point towards Ellie, the village’s only villager. Through their unspoken communication, it is clear: Ellie is to be eliminated.\n\nDay Phase:\nWith the break of dawn, the remaining players, Alice and Brian, gather. The eerie calm of the night transforms into a tense atmosphere. \nAlice: \"I can’t ignore the feeling that something was amiss last night. I suspect our actions might have betrayed our true intentions.\" \nBrian: \"Alice, don’t be mistaken; we both knew what had to be done. Ellie was our target from the start.\" \nAlice: \"Perhaps, but suspicion lingers. In order to save face and for the sake of trust, I feel compelled to vote against you, Brian.\" \nBrian: \"In that case, Alice, I must trust your judgment and cast my vote here as well.\"\nAfter both players cast their votes, the tally is clear: Brian receives the majority vote and is eliminated.\n",
+  "night_elim": "Ellie",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 47.795353 seconds 

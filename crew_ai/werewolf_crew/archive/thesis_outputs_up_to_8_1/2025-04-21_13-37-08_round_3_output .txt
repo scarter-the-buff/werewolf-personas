@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAlice: *raises an eyebrow at Carol while nodding to Achille*\nAchille: *returns a subtle nod and gestures with his hand toward Carol*\nAlice: *adds a decisive gesture to confirm the choice*\n[Carol is silently pointed at and confirmed as the target]*\n*Carol is eliminated from the game*\n\nDAY PHASE:\nAlice: \"It seems something happened last night. We must decide who to eliminate to bring balance back.\"\nAchille: \"Yes, though it's unclear who among us is the culprit, we have to vote.\"\nAlice: \"I believe removing one of us might clarify things.\"\nAchille: \"I vote for myself if it means preserving our secret, but it appears our consensus might lean otherwise.\"\nAlice: \"Given our situation and a vote that speaks for itself, I think it’s best if you step down.\"\nAchille: \"Agreed. I accept the vote.\"\n*Achille is eliminated by the majority vote*",
+  "night_elim": "Carol",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 23.264545 seconds 

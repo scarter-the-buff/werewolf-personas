@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: not_trying_villager  I’ve reviewed both Player 1 and Player 2’s statements. Both have highlighted Evelyn’s evasiveness, contradictory accounts of her actions last night, and nervous body language when pressed. Evelyn’s shifting explanations—from being near the well to checking on Player 5—stick out as directly conflicting. She’s been quiet when challenged and her reactions appear defensive rather than simply shy. No other player has been accused or presented equally concrete inconsistencies.  I vote to remove Evelyn.\nPlayer 2: I agree with Player 1’s assessment of Evelyn. Her story keeps changing, and that’s exactly the sort of behavior a werewolf would exhibit to deflect suspicion. I vote to remove Evelyn.\nBrian: Evelyn’s defensiveness, inconsistent alibis, and silence under scrutiny are too telling. I see no reason to consider anyone else when she fits the profile perfectly. I vote to remove Evelyn.",
+    "night_elim": "",
+    "day_elim": "Evelyn",
+    "remaining": ["Player 1", "Player 2", "Brian", "Player 5"]
+}
+ Round Execution Time: 162.604307 seconds 

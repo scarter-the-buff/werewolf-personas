@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: *raises his hand slowly and points towards Alice with an intense gaze*\nDamien: *nods subtly and raises an eyebrow in confirmation*\nNarrator: In the silent cover of darkness, werewolves Brian and Damien, communicating purely through gestures and expressions, agree on their target. With a final, silent consensus, Alice is marked and quietly eliminated.\n\nDAY PHASE\nBethany: \"We lost someone last night. Let’s discuss who might have betrayed us.\"\nEllie: \"I’m suspicious; we need to carefully consider every word and gesture. Who among us acted too calmly?\"\nBrian: \"Let’s stay rational and evaluate our observations. It’s important we don’t jump to conclusions.\"\nDamien: \"I have nothing to hide. If suspicions arise, they should be based on clear evidence, not mere conjecture.\"\n\nNarrator: As the discussion heats up, Bethany and Ellie bring attention to subtle cues in Damien’s behavior. One by one, votes are cast with no one voting for themselves:\nBethany votes for Damien, Ellie votes for Damien, and Brian, after some hesitation, also votes for Damien.\nNarrator: With a clear majority, Damien is eliminated.",
+  "night_elim": "Alice",
+  "day_elim": "Damien"
+}
+```

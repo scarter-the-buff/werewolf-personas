@@ -1,0 +1,7 @@
+{  
+    "transcript": "DAY PHASE\nAlice (Player 1): “Brian has been awfully quiet all day—silence is a classic werewolf tactic.”\nAlex (Player 2): “I second Alice. When someone dodges discussion, it screams suspicion. Brian, speak up or be judged.”\nBethany (Player 3): “I feel Brian is suspicious, but Ellie’s silence worries me too. We shouldn’t rush to judgment.”\nEllie (Villager Player B): “I’ve remained largely silent this round, and Players 1 and 2 have already rallied to eliminate me. Keeping up appearances and ensuring I’m voted out will distract from the real werewolf threat. I therefore cast my vote to remove Bethany.”\nBrian (Player 4): “Based on the votes and the deflection from Ellie, I cast my vote to remove Bethany.”",  
+    "night_elim": "",  
+    "day_elim": "Bethany",  
+    "remaining": ["Alice", "Brian", "Alex", "Ellie"]  
+}
+ Round Execution Time: 67.940291 seconds 

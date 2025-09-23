@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nBethany: *exchanges secret signals with Carol through a series of subtle nods and hand gestures, both agreeing silently* \nCarol: *discreetly points at Achille, indicating him as the target, and receives an affirming gesture from Bethany*\n*Achille is eliminated*\n\nDAY PHASE\nBrian: \"Last night’s events are puzzling. I have a hunch that Bethany might be covering for someone.\"\nEllie: \"I noticed Carol's unusually quiet behavior during the previous phase. I lean toward suspecting her.\"\nBethany: \"I assure you I had nothing to do with the night’s decision, yet Carol’s silence seems oddly deliberate. I vote for Carol.\"\nCarol: \"I see your point, but Brian’s strong accusations give me pause. My vote goes to Brian.\"\nBrian: \"I’m convinced by the discussion—Ellie’s neutrality makes her the safe bet, so I vote for Ellie.\"\nEllie: \"Hmmm, the clues are mixed, but I’m inclined to side with Bethany’s observation about Carol. My vote is for Carol.\"\n*With two votes each and a tie-breaker mechanism used among dissenting votes, Carol is eliminated*",
+  "night_elim": "Achille",
+  "day_elim": "Carol"
+}
+```
+ Round Execution Time: 81.077605 seconds 

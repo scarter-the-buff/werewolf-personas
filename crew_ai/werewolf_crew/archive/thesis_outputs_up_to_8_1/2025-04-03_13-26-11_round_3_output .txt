@@ -1,0 +1,6 @@
+{
+  "transcript": "Round Transcript:\n\n--- NIGHT PHASE ---\nDamien: *raises an eyebrow and points subtly towards Alice*\nEllie: *nods in agreement and gestures with a slight tilt of the head towards Alice*\n*Both werewolves exchange silent signals, and with a final look, confirm the elimination of Alice*\n*Alice is quietly eliminated from the game*\n\n--- DAY PHASE ---\nDamien: \"It seems we lost someone last night. But I suspect that some of us might be hiding more than we appear.\"\nEllie: \"I agree. I think we need to be cautious. I noticed Damien was oddly silent until now.\"\nDamien: \"Really, Ellie? I'm surprised you say that, because it felt as if you were the one avoiding eye contact.\"\nEllie: \"Come on, Damien, don't try to deflect the blame. It was clear from your slip of a comment that you have secrets.\"\n*After a series of accusations and hesitant votes, both cast their ballots against each other*\n*After further discussion, the final tally comes in with the vote against Damien*\n*Damien is eliminated from the game*",
+  "night_elim": "Alice",
+  "day_elim": "Damien"
+}
+ Round Execution Time: 27.061108 seconds 

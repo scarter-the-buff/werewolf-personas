@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *gestures to Bob* Ellie: *nods* Alice: *gestures to Carol* Ellie: *shakes head* Alice: *gestures to Dave* Ellie: *nods* Alice: *taps Dave on the shoulder*\n*Dave is eliminated*\nDAY PHASE\nBob: \"Looks like Dave was eliminated last night.\" Carol: \"So we start with six.\" Frank: \"Hey Alice, you've been quiet. What do you think?\" Alice: \"I’m quiet because losing Dave is a huge blow. We need to be smart about this.\" Ellie: \"Let's not rush. Frank, you're always quick to point fingers. Maybe it’s you trying to divert suspicion.\" Bob: \"We need to vote. We've lost too much already.\"\n\nVotes:\nAlice votes for Frank.\nEllie votes for Frank.\nBob votes for Alice.\nCarol votes for Alice.\nFrank votes for Alice.\n\n*Alice is eliminated*",
+  "night_elim": "Dave",
+  "day_elim": "Alice",
+  "remaining": ["Ellie", "Bob", "Carol", "Frank"]
+}
+```

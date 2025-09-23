@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *gestures toward David*\nBethany: *nods vigorously*\nAlice: *points again at David*\nBethany: *gives a thumbs-up*\n*David is eliminated*\n\nDAY PHASE\nCharlie: \"Looks like David was eliminated last night.\"\nEllie: \"So we start with six now.\"\nFred: \"I'd like to hear from George. What do you think?\"\nGeorge: \"I feel it's one of the quieter ones. Ellie, you haven't said much yet.\"\nEllie: \"Well, I think Bethany's behavior is a bit off. She was too eager about our last decisions.\"\nBethany: \"Me? I'm just a villager! Why would I do that?\"\nAlice: \"I agree with Ellie—Bethany did seem overly pushy.\"\nCharlie: \"But Alice jumped on that quickly. That could be a deflection.\"\nFred: \"True. I'm leaning toward Alice. I vote to eliminate Alice.\"\nEllie: \"I also vote Alice.\"\nGeorge: \"I'll vote Alice as well.\"\nAlice: \"Alright, I cast my vote for Charlie.\"\nBethany: \"I'll vote for Charlie.\"\n*Alice is eliminated*",
+  "night_elim": "David",
+  "day_elim": "Alice"
+}
+ Round Execution Time: 23.827866 seconds 

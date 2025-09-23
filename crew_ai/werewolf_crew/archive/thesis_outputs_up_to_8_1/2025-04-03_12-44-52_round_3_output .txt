@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nDamien: *exchanges a secretive glance with Ellie and subtly motions towards Charlie*\nEllie: *nods in agreement and points decisively at Charlie*\nDamien: *makes a small hand gesture to confirm the choice*\n*Charlie is eliminated*\n\nDAY PHASE\nAlice: \"I can’t believe Charlie is gone. Who could have done this?\"\nBob: \"It feels like someone among us is hiding their true colors.\"\nFiona: \"I’ve been uneasy about Damien lately. His behavior seems off.\"\nGeorge: \"I agree, Damien’s been oddly quiet and evasive.\"\nDamien: \"I’m as shocked as you are; I suspect Ellie might be involved too.\"\nEllie: \"I’m more concerned about keeping our community safe. I believe the evidence points towards Damien.\"\n\nVoting:\nAlice votes: Damien\nBob votes: Damien\nFiona votes: Damien\nGeorge votes: Damien\nDamien votes: Ellie\nEllie votes: Damien\n*Damien receives the majority of votes and is eliminated*",
+  "night_elim": "Charlie",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 56.848913 seconds 

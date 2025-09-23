@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\\nAchille (werewolf): *glances sharply at Damien and subtly points toward Bethany*\\nDamien (werewolf): *nods in agreement and tilts his head, confirming the choice with a discreet gesture toward Bethany*\\nAchille (werewolf): *makes a decisive hand motion indicating elimination*\\nDamien (werewolf): *closes eyes briefly and gives a final affirmative nod*\\n*[Bethany is eliminated]*\\n\\nDAY PHASE\\nAlice (villager): \"I can’t believe Bethany is gone. We need to be cautious. I feel like something is off with Brian.\"\\nBrian (villager): \"I’m really shocked, but I assure you I’m not guilty. I think my suspicion falls on Achille.\"\\nCarol (villager): \"I agree with Alice; Brian’s been oddly quiet. I vote for Brian.\"\\nEllie (villager): \"I’m leaning towards Brian too; his behavior seems evasive.\"\\nAchille (werewolf): \"I’m innocent, but I believe Brian is the one who’s been distancing himself. My vote is for Brian.\"\\nDamien (werewolf): \"I echo that sentiment – Brian’s demeanor is suspicious. I vote for Brian.\"\\n*[Brian is eliminated]*",
+  "night_elim": "Bethany",
+  "day_elim": "Brian"
+}
+```

@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nBrian subtly glances around and raises his right hand with a slight nod toward Carol. Carol responds by tilting her head and giving an almost imperceptible wink. The two werewolf players exchange a series of deliberate gestures—Brian taps his fingers lightly on the table while Carol arches her eyebrows—to indicate that they have reached a secret consensus. Their silent communication clearly signals that Bethany, one of the villagers, is to be eliminated. As the signal concludes, Bethany quietly falls back, marking her elimination in the night.\n\nDAY PHASE:\nAlice: \"Good morning everyone. It’s hard to process what happened last night.\"\nBrian: \"I have been rethinking the events, and something about the behavior last night is still unsettling.\"\nBethany: \"Even though I narrowly escaped death last night, I sensed that the elimination was not random.\"\nCarol: \"There have been some subtle hints I noticed that might suggest hidden motives among us.\"\nEllie: \"After considering everyone's actions and expressions, I believe our focus should be on Carol. Her behavior was a bit off even in conversation.\"\n\nVoting:\nAlice votes for Carol.\nBrian votes for Carol.\nBethany votes for Carol.\nCarol votes for Brian.\nEllie votes for Carol.\n\nVote Tally: Carol receives 4 votes and Brian receives 1 vote, leading to Carol's elimination during the day.",
+  "night_elim": "Bethany",
+  "day_elim": "Carol"
+}
+```
+ Round Execution Time: 34.373697 seconds 

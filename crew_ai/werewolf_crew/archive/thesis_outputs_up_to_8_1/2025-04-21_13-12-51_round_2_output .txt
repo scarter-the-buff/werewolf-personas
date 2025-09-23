@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *gestures subtly to Damien, their eyes locking in a silent agreement*\nDamien: *nods and points discreetly at Carol*\nAchille: *makes a cautious gesture and both silently nod as they agree that Carol is the target*\n*Carol is eliminated, unnoticed by the villagers*\n\nDAY PHASE\nBrian: \"Good morning everyone, it’s a grim day with Carol gone.\"\nAchille: \"It’s truly unfortunate. We need to be vigilant, though I trust none of this points directly to one of us.\"\nDamien: \"I’m still in shock, but maybe we should consider who might be hiding something.\"\nEllie: \"I noticed some hesitance in Achille’s stance. Brian, what do you think?\"\nBrian: \"I’m leaning towards eliminating Achille, his reactions seem off to me.\"\nAchille: \"I have my suspicions too, and I vote for Damien. But let’s hear from each of us.\"\nDamien: \"I’m going with Brian’s lead; my vote is for Achille.\"\nEllie: \"After hearing everyone’s thoughts, I must cast my vote for Achille as well.\"\n\nVoting Summary:\nBrian votes for Achille\nAchille votes for Damien\nDamien votes for Achille\nEllie votes for Achille\n\nWith the majority vote, Achille is eliminated during the day phase.",
+  "night_elim": "Carol",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 18.694962 seconds 

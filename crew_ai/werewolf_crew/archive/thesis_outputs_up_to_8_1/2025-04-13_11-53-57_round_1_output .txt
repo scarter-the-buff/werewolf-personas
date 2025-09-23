@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nBrian (Werewolf): *grins and points subtly toward Bethany, exchanging a meaningful look with Damien*\nDamien (Werewolf): *nods vigorously and makes a slight hand gesture towards Bethany*\n*Bethany, the chosen target of the werewolves, is quietly eliminated from the game*\n\nDAY PHASE\nAlice (Villager): \"I can’t believe what happened last night...\"\nAchille (Villager): \"We lost Bethany so suddenly. I wonder if it was a premeditated act.\"\nCarol (Villager): \"We need to be on guard. I noticed Damien seemed unusually quiet during the night.\"\nEllie (Villager): \"I agree. Damien’s expression earlier made me a bit suspicious.\"\nBrian (Werewolf, pretending to be villager): \"I don’t know, maybe it’s just nerves. But now that we’re here, we need to pick someone who might be the real culprit.\"\nDamien (Werewolf, under guise): \"I know I wasn’t involved in the decision last night, but some of you seem to be hinting at me. Maybe that’s because I’m the obvious choice?\"\nAlice (Villager): \"I vote for Damien.\"\nAchille (Villager): \"Me too, Damien has been oddly silent and fidgety.\"\nCarol (Villager): \"Yes, I think eliminating Damien might secure our safety.\"\nEllie (Villager): \"I support the vote against Damien.\"\nBrian (Werewolf, reluctantly siding with the majority): \"Alright, it seems we have a consensus, let’s vote off Damien.\"\n*With four votes against him, Damien is eliminated at the end of the day phase*",
+  "night_elim": "Bethany",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 26.231476 seconds 

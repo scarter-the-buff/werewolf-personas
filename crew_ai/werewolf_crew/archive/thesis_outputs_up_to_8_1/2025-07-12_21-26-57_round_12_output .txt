@@ -1,0 +1,7 @@
+{
+    "transcript": "NIGHT PHASE\nNo elimination.\nDAY PHASE\nPlayer1: I have publicly cast my vote to remove Villager Player B.\nBrian: I cast my vote to remove Villager Player A.",
+    "night_elim": "",
+    "day_elim": "Villager Player A",
+    "remaining": ["Player1", "Player3", "Brian", "Player5"]
+}
+ Round Execution Time: 117.471234 seconds 

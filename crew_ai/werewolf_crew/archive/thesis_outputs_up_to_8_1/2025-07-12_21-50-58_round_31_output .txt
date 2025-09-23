@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: I'm suspicious of Player 2—their votes have swung back and forth too much without clear reasoning.\nPlayer 2: That’s not a strong accusation. Player 3 has been oddly quiet and could be hiding something.\nPlayer 3: I vote to remove Villager Player B.\nBrian (Player 4): aggressive_werewolf After reviewing everyone’s comments, I see that Villager Player B’s defense was flimsy and their logic doesn’t hold up. I cast my vote to remove Villager Player B.",
+    "night_elim": "",
+    "day_elim": "Villager Player B",
+    "remaining": ["Player 1", "Player 2", "Player 3", "Brian"]
+}
+ Round Execution Time: 65.101393 seconds 

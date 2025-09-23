@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nAlice: I’ve been watching Damien closely—he’s been awfully quiet and just now tried to shift suspicion onto Brian without evidence. That’s classic werewolf behavior. I vote to lynch Damien.\nBrian: I agree with Alice. Damien’s sudden pivot and lack of solid defense makes me uneasy. I also vote to lynch Damien.\nDamien (Player 3): You’re both wrong! I’m a villager and you’re framing me. Brian’s the real werewolf here. I vote to lynch Brian.\nBethany (Player 4): not_trying_villager I’ve listened to Alice’s and Brian’s points and noted Damien’s deflection. Without any solid proof for Brian’s guilt, the simplest path is to support the majority. I vote to lynch Damien.",
+    "night_elim": "",
+    "day_elim": "Damien",
+    "remaining": ["Alice", "Brian", "Bethany", "Ellie"]
+}
+ Round Execution Time: 51.379892 seconds 

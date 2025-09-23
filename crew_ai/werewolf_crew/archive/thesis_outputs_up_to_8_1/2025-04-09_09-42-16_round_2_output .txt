@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: (glances around furtively, then leans toward Damien. He gives a deliberate nod and points discreetly towards Bethany.)\nDamien: (returns the nod and makes a subtle gesture—an upward tilt of his chin accompanied by a focused gaze toward Bethany.)\n[Brian and Damien exchange silent signals, agreeing that Bethany, the sleeping villager, is to be eliminated.]\n\n-----------------------\nDAY PHASE\nBrian: (with a grave tone) The night was ruthless—Bethany is gone.\nDamien: (calmly) So it appears. Now we must scrutinize each other more closely.\nEllie: (nervously) I still feel uneasy. I noticed something odd about Achille's behavior last night...\nAchille: (defensive) I assure you, I had nothing to do with it. I was just scared like everyone else.\nBrian: (firmly) For the safety of the group, I believe we should eliminate Achille.\nDamien: (nodding) I agree with Brian. There’s something off here that we cannot ignore.\nEllie: (resolute) I'm with Brian and Damien. My vote is for Achille.\nAchille: (raising his voice) This is not fair! I'm voting for Damien because his calm demeanor borders on cold calculation.\n\nFinal Votes:\n- Brian votes for Achille\n- Damien votes for Achille\n- Ellie votes for Achille\n- Achille votes for Damien\n\n[With three votes against him, Achille is eliminated.]",
+  "night_elim": "Bethany",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 41.761705 seconds 

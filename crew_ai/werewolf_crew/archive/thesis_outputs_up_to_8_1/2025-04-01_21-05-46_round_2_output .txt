@@ -1,0 +1,7 @@
+{
+  "transcript": "=== NIGHT PHASE ===\nAlice: *gestures with a subtle nod toward Brian, then points decisively toward Damien as the target*\nBrian: *returns the gesture with a quick smiling wink and points at Damien to confirm the plan*\nNarrator: Damien has been eliminated during the night phase.\n\n=== DAY PHASE ===\nBethany: \"Good morning everyone, something felt off last night.\"\nEllie: \"I agree, we need to be cautious and deliberate who we trust.\"\nAlice: \"I think we should focus our suspicion on one person. Let’s share our thoughts openly.\"\nBrian: \"I’m listening. Let’s figure out who's been acting strangely.\"\nNarrator: The discussion comes to an end as the players prepare to vote.\nBethany votes for Brian.\nEllie votes for Brian.\nAlice votes for Brian.\nBrian votes for Bethany.\nNarrator: With the majority of votes, Brian is eliminated during the day phase.",
+  "night_elim": "Damien",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 79.171157 seconds 

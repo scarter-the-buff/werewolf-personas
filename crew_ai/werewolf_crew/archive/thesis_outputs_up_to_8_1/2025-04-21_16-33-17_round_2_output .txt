@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances stealthily at Bethany and points subtly while exchanging a secretive look with Damien*\nDamien: *nods in agreement with Alice while casting occasional cautious glances around to ensure no one is watching*\nAchille: *asleep, unaware*\nBethany: *asleep, unaware*\nEllie: *asleep, unaware*\n*Bethany is eliminated under the cover of darkness*\n\nDAY PHASE\nAchille: \"I can't believe one of us is gone already. What did we miss last night?\"\nEllie: \"I just woke up and it looks like something sinister happened while we were sleeping. Who is responsible?\"\nAlice: \"I'm as confused as you all are. I only woke up to see chaos...\"\nDamien: \"We need to stay calm and think carefully about who might be behind this. Trust your instincts.\"\n\n-- Discussion continues as suspicions arise --\n\nVoting Round:\nAchille votes to eliminate Damien.\nEllie votes to eliminate Damien.\nAlice votes to eliminate Damien.\nDamien votes to eliminate Achille.\n*With a majority vote, Damien is eliminated during the day phase*",
+  "night_elim": "Bethany",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 43.781729 seconds 

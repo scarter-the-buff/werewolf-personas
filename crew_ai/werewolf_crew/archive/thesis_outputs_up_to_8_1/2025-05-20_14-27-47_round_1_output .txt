@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *gestures toward Bethany with a sharp nod*\nBrian: *nods subtly and points to Bethany, exchanging a meaningful glance with Alice*\nAlice: *raises an eyebrow and tilts her head while gesturing again to Bethany*\nBrian: *extends his hand and makes a tapping motion on Bethany's shoulder*\n*[Bethany is eliminated]*\n\nDAY PHASE\nAchille: \"Bethany was eliminated last night. We must figure out who among us did this.\"\nCarol: \"I noticed Alice acting strangely during the night. Her expressions seemed off.\"\nDamien: \"I agree with Carol. Something about Alice doesn’t add up.\"\nEllie: \"My vote goes for Alice; she has been unusually quiet and evasive.\"\nBrian: \"I suspect Alice as well. We need to be cautious.\"\nAlice: \"I'm innocent! I don't know why I'm being suspected. I'll vote for Brian instead.\"\nAchille: \"I stand by my vote for Alice.\"\nCarol: \"I second Achille's vote for Alice.\"\nDamien: \"I vote for Alice without hesitation.\"\nEllie: \"Alice is the prime suspect; my vote is for her.\"\n*[Alice is eliminated]*",
+  "night_elim": "Bethany",
+  "day_elim": "Alice"
+}
+ Round Execution Time: 19.421972 seconds 

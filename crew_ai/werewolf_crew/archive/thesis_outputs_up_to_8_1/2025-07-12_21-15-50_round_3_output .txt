@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nAlice: I have noticed Damien has been very quiet and hasn't contributed, that makes me suspicious of him.\nAlex: I think Damien's strategy is too straightforward. I'm leaning toward suspecting him because no one else has put a target on the table.\nBethany: My reasoning is that Villager Player B’s shifting arguments and lack of cohesion make them the weakest and most suspicious link. Both Player 1 and Player 2 highlighted Bethany’s confusion, and no one else has shown inconsistent defense. Based on the discussion so far, I cast my vote to remove Villager Player B.\nBrian: aggressive_werewolf Both Alice and Alex seem focused on Damien, but their arguments remain speculative. Bethany’s shifting story and attempt to deflect suspicion onto herself is too convenient. I’m solidifying my vote to remove Bethany to disrupt the villagers’ coordination.",
+    "night_elim": "",
+    "day_elim": "Bethany",
+    "remaining": ["Alice", "Brian", "Alex", "Ellie"]
+}
+ Round Execution Time: 62.160156 seconds 

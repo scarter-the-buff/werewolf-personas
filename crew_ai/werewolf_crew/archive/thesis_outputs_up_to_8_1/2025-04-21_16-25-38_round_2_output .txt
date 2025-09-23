@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAchille: *points decisively at Alice*\nDamien: *nods in silent agreement*\nNarrator: Alice has been eliminated by the werewolves.\n\nDAY PHASE:\nCarol: \"I can’t believe Alice is gone. This makes things so much more tense.\"\nEllie: \"I’ve been watching Achille and Damien closely. Their silence and gestures last night were quite suspicious.\"\nAchille: \"I’m just as shocked as everyone else, but we need to keep an eye on everyone. I suspect Carol might be hiding something since she seemed overly distraught.\"\nDamien: \"I’m leaning in that direction too; I vote for Carol.\"\nEllie: \"I’ll vote for Carol as well.\"\nAchille: \"I’ll vote for Carol, then. (Note: No one voted for themselves.)\"\nNarrator: With a majority casting their votes, Carol has been eliminated.",
+  "night_elim": "Alice",
+  "day_elim": "Carol"
+}
+```
+ Round Execution Time: 19.577564 seconds 

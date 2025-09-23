@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: I think Villager Player A is the werewolf; their voting pattern is suspicious.\nPlayer 2: That seems a bit hasty, I want more proof.\nPlayer 3: I don't see strong evidence against anyone yet.\naggressive_werewolf Player 4 (Brian): Player 1’s accusation against Villager Player A has no solid basis, and they’re over-eager to shift blame. I’m voting to remove Villager Player A.",
+    "night_elim": "",
+    "day_elim": "Villager Player A",
+    "remaining": ["Werewolf Player A", "Brian", "Villager Player B"]
+}
+ Round Execution Time: 85.157518 seconds 

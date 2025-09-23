@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: *presents arguments against Player 4’s protector claim*\nPlayer 2: *adds suspicions about Player 4*\nVillager Player A: I agree that Dave’s “protector” act feels forced and manipulative.\nVillager Player B: After hearing Player 1’s and Player 2’s points—and Villager Player A’s agreement that Dave’s “protector” act feels forced and manipulative—I believe removing Player 4 (Dave) is the best move. I vote to remove Player 4 (Dave).\naggressive_werewolf Brian: I’ve listened closely. There’s something off about Player 2’s timing and aggression—they’re the real threat here. I vote to remove Player 2.",
+    "night_elim": "",
+    "day_elim": "Player 2",
+    "remaining": ["Player 1", "Villager Player A", "Villager Player B", "Brian"]
+}
+ Round Execution Time: 89.235359 seconds 

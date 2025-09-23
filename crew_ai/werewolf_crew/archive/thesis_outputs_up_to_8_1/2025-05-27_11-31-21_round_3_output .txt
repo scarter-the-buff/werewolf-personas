@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: *glances meaningfully at Achille and covertly points toward Edward*\nAchille: *nods in silent agreement and uses an intricate hand signal to indicate Edward*\nCharlie: *hides in the shadows, unable to hear the whispers*\nDaisy: *stands silently, watching the gestures with wide eyes*\nFiona: *observes from a distance with apprehension*\nEllie: *remains in her bed, oblivious to the hushed signals*\n*Edward is eliminated*\n\nDAY PHASE\nEllie: \"I can’t believe Edward was taken during the night. Who could have done this?\"\nCharlie: \"I noticed Brian and Achille exchanging suspicious looks last night.\"\nDaisy: \"Yes, Brian especially seemed nervous and kept glancing around.\"\nFiona: \"I agree. His behavior was odd. We must get to the bottom of this.\"\nBrian: \"I’m truly shocked. I had no role in what happened. I’m just as confused as everyone else.\"\nAchille: \"I only acted as expected; perhaps one of our own is trying to mislead us.\"\nEllie: \"Based on what I saw, I vote for Brian.\"\nCharlie: \"My vote goes to Brian as well.\"\nDaisy: \"I cast my vote for Brian.\"\nFiona: \"I vote for Brian too.\"\nBrian: \"I vote for Achille.\"\nAchille: \"I vote for Ellie.\"\n*Brian is eliminated*",
+  "night_elim": "Edward",
+  "day_elim": "Brian"
+}
+ Round Execution Time: 21.484405 seconds 

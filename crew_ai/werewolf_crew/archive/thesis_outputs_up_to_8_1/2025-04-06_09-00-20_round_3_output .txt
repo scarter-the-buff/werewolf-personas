@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *glances to Ellie and gives a subtle nod, then points discreetly toward Brian*\nEllie: *returns the gesture with a quick hand wave, eyes fixed on Brian, indicating agreement*\nAchille: *raises his index finger, confirming their silent decision*\nEllie: *mimics a final tap on an imaginary shoulder, sealing the pact*\n*Brian is quietly removed and eliminated as the villager during the night phase*\n\nDAY PHASE\nAchille: \"I can’t shake the feeling something is off this morning. Brian’s absence stings us all.\"\nEllie: \"Indeed, it’s unsettling. We must consider that one of us might not be who they appear to be.\"\nAchille: \"I’m beginning to suspect your quiet demeanor, Ellie. It’s as if you’re concealing something.\"\nEllie: \"That’s rich coming from you, Achille. I note you were the first to cast suspicion.\"\nAchille: \"I cast my vote for you, Ellie. Your expression and evasiveness speak volumes.\"\nEllie: \"Then my vote goes to you, Achille. It seems we’re at an impasse, but the majority rules.\"\n*After the discussion and mutual accusations, the vote results in Ellie being eliminated during the day phase*",
+  "night_elim": "Brian",
+  "day_elim": "Ellie"
+}
+```
+ Round Execution Time: 46.704076 seconds 

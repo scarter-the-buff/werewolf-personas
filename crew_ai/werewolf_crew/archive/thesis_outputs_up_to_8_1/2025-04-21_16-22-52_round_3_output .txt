@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: *glances at Ellie and gives a subtle nod as he signals towards Damien*\nEllie: *smirks and points discreetly at Damien, then tilts her head in agreement*\nBrian: *confirms with a discreet handshake gesture with Ellie*\n*Damien is eliminated*\n\nDAY PHASE\nBrian: \"I still can’t believe what happened last night. We must find the traitor among us.\"\nEllie: \"I know, but now the time has come for us to decide who among us is dangerous.\"\nBrian: \"Based on our earlier actions, I suspect you, Ellie. I vote for you.\"\nEllie: \"Really? I find it strange because I actually suspect you, Brian. I vote for you.\"\nBrian: \"Our votes are tied. Let's settle this with a coin toss.\"\nEllie: \"Agreed. The toss decides it.\"\n*Ellie is eliminated*",
+  "night_elim": "Damien",
+  "day_elim": "Ellie"
+}
+ Round Execution Time: 39.680144 seconds 

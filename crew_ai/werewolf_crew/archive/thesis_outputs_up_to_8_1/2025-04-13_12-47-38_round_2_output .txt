@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances sideways at Damien, then silently points towards Ellie*\nDamien: *nods subtly and returns the gesture by pointing at Ellie*\n*Ellie is eliminated*\n\nDAY PHASE\nBrian: \"I can’t believe we lost Ellie last night. Who among us could be behind such things?\"\nAchille: \"I noticed some uneasy looks between Alice and Damien, but I’m not sure.\"\nAlice: \"It’s hard to tell, but Achille, you seemed unusually tense during the night.\"\nDamien: \"I agree with Alice. I think we should consider eliminating Achille.\"\nBrian: \"I vote for Achille.\"\nAchille: \"I’m shocked by the accusation, but these concerns make me uneasy.\"\n*After a brief deliberation and majority agreement*\n*Achille is eliminated*",
+  "night_elim": "Ellie",
+  "day_elim": "Achille"
+}
+ Round Execution Time: 17.480842 seconds 

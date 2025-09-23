@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Brian and gives a subtle nod, signaling agreement*\nBrian: *smirks while pointing discreetly at Carol*\nAlice: *raises an eyebrow and gestures toward Carol once more to confirm*\nBrian: *nods decisively in silence with a slight smile*\n*Carol is eliminated*\n\nDAY PHASE\nAlice: \"I can’t believe a villager was taken last night. It’s so sudden.\"\nBrian: \"Yes, it’s unsettling. We must be cautious about who we trust now.\"\nDamien: \"I’m still in shock about Carol. She was a kind soul.\"\nEllie: \"I’m not sure, but I think we need to consider if someone among us might be hiding something.\"\nAlice: \"I noticed Brian was unusually quiet last night. Maybe he knows more than he’s letting on.\"\nBrian: \"Really? I’m as shocked as the rest of you. I have nothing to hide.\"\nDamien: \"I’m leaning towards casting doubt on Brian. His behavior seems off in hindsight.\"\nEllie: \"I agree with Damien. My vote goes to Brian.\"\nAlice: \"I vote for Brian as well.\"\nBrian: \"I protest—I’m not a suspect here!\"\n*Brian is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "Brian"
+}
+ Round Execution Time: 21.012720 seconds 

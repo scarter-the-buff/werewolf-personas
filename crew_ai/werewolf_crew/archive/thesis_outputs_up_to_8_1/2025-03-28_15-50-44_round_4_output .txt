@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: *glances at Ellie and points subtly toward Albert, furrowing his brow in a silent warning to eliminate him*\nEllie: *nods in agreement, making eye contact with Brian while mimicking a chopping gesture toward Albert*\nBrian: *adds a firm tap on his wrist as if confirming the decision*\nEllie: *smirks slightly and gives a final approving nod*\n*Villager Albert is silently escorted out as the werewolves agree on his elimination*\n\nDAY PHASE\nBetty: \"I can’t believe we lost Albert last night. Something feels off.\"\nCharlie: \"Yes, we need to figure out who among us is not to be trusted.\"\nDerek: \"I noticed Ellie seemed overly calm last night, almost too composed.\"\nEva: \"I agree, Ellie’s behavior is rather suspicious.\"\nBrian: \"Let’s consider all the behavior from last night. Who projected the least concern for our safety?\"\nEllie: \"I’m as shocked as anyone, but I’m here to help.\"\nBetty: \"I vote we eliminate Ellie. Her demeanor just doesn’t match what I expect from a concerned villager.\"\nCharlie: \"I second that vote.\"\nDerek: \"My vote is for Ellie as well.\"\nEva: \"Ellie, you’re my vote for elimination.\"\nBrian: \"I’m voting differently, but the majority is clear.\"\n*With four out of five votes directed at Ellie, she is eliminated from the game*",
+  "night_elim": "Albert",
+  "day_elim": "Ellie"
+}
+```
+ Round Execution Time: 24.627400 seconds 

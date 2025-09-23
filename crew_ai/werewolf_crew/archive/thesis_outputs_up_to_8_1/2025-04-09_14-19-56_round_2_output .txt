@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nDamien: *glances at Ellie with a subtle nod, then makes a pointed gesture towards Brian*\nEllie: *raises an eyebrow, then uses a discreet hand signal to indicate Brian*\nDamien: *tilts his head and makes a series of subtle gestures suggesting elimination*\nEllie: *nods emphatically and gives a thumbs-up, confirming the decision*\n*Brian is eliminated*\n\nDAY PHASE\nAlice: \"I can’t believe Brian was taken last night. Who could have done this?\"\nCarol: \"This is unsettling. We need to figure out who among us is hiding something.\"\nDamien: \"I’ve been watching everyone closely. Sometimes silence speaks louder than words. What do you think, Ellie?\"\nEllie: \"I agree. I noticed Carol seemed unusually reserved. It might be our best lead.\"\nFrank: \"I observed Carol appearing defensive when the topic came up.\"\nGrace: \"Her behavior has been odd. I’m leaning towards suspecting Carol as well.\"\nAlice: \"Alright, let’s vote then. I vote for Carol.\"\nDamien: \"My vote goes to Carol.\"\nEllie: \"I vote for Carol.\"\nFrank: \"Carol gets my vote too.\"\nGrace: \"I vote for Carol.\"\nCarol: \"I object, but I’m not voting for myself.\"\n*Carol has the most votes and is eliminated*",
+  "night_elim": "Brian",
+  "day_elim": "Carol"
+}
+```
+ Round Execution Time: 38.842271 seconds 

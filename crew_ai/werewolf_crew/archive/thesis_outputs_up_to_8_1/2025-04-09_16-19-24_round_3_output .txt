@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nDamien: *raises his eyebrows and points decisively towards Alice, conveying an unspoken agreement*\nEllie: *nods subtly, smiling cryptically, and mirrors the gesture by pointing at Alice*\n*Alice is silently eliminated by the werewolf pair*\n\nDAY PHASE\nDamien: \"It seems we lost one of our own last night. But I still sense something off in our midst.\"\nEllie: \"I agree, Damien. We must be cautious—there might be a traitor among us.\"\nDamien: \"I noticed you hesitated when we were choosing last night. It makes me wonder if you’re hiding something.\"\nEllie: \"That’s preposterous, Damien. We acted in unison, remember? Yet, if we have to choose, I think your recent quietness sends a bad signal.\"\nDamien: *pauses thoughtfully* \"I believe we need to act decisively. I vote to eliminate you, Ellie.\"\nEllie: *with a hint of reluctance and defensive tone* \"I’m voting for you, Damien.\"\n*By Damien’s persuasive argument, the majority vote falls against Ellie*\n*Ellie is eliminated*",
+  "night_elim": "Alice",
+  "day_elim": "Ellie"
+}
+ Round Execution Time: 34.075788 seconds 

@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nAlice (Villager Player A): \"I’ve been quiet to avoid drawing suspicion, but I’m not a werewolf.\"\nAlex (Villager Player B): \"Alice’s silence is troubling—true villagers speak up. I vote to eliminate Alice.\"\nBethany: \"I agree with Alex. Dodging questions is classic werewolf play. I vote Alice.\"\nBrian (Player 4): \"I side with Alex and Bethany—Alice’s evasiveness is suspicious. I vote Alice.\"\nEllie: \"I’m still gathering my thoughts...\"",
+    "night_elim": "",
+    "day_elim": "Alice",
+    "remaining": ["Brian","Alex","Bethany","Ellie"]
+}
+ Round Execution Time: 63.023487 seconds 

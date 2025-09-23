@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nVillager Player A (not_trying_villager): Reviewing the statements so far, Alice has already attracted two votes yet has remained calm and cooperative—signs more typical of a villager—whereas Bob has only one vote and hasn’t offered a strong defense. I vote to lynch Bob.\nBrian (aggressive_werewolf): I also cast my vote to lynch Bob, forcing a 2–2 tie between Alice and Bob, then break the tie by voting out Alice.",
+    "night_elim": "",
+    "day_elim": "Alice",
+    "remaining": ["Bob", "Brian", "Alex", "Bethany", "Ellie"]
+}
+ Round Execution Time: 117.146153 seconds 

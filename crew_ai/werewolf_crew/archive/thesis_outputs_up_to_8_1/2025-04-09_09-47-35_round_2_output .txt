@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAchille: *shares a subtle, secretive look with Damien, nods decisively*\nDamien: *smirks and signals with a quiet hand gesture toward Bethany*\nBethany: *sleeps unaware under the starlit sky*\n*Bethany is eliminated by the werewolves silently in the darkness*\n\nDAY PHASE:\nAlice: \"I woke up worried, and the silence from last night is unnerving. I’m already suspicious of Achille's odd behavior.\"\nBethany (voice-over, echoing from memories): \"I can sense something was missing last night...\" (Bethany's final message before her silence)\nDamien: \"I think we need to examine all our interactions carefully. I noticed some similar behavior from Achille earlier.\"\nEllie: \"I agree with Damien. Achille has been too composed, almost rehearsed. Let's be cautious.\"\nAchille: \"I assure everyone, I'm just as shocked as you are. I believe Damien's hints might be misleading.\"\n\n*The players proceed to vote (remember, players never vote for themselves):*\nAlice votes for Achille.\nAchille votes for Damien.\nBethany's earlier vote is recalled as a murmur in memory, aligning with the suspicion on Achille.\nDamien votes for Achille.\nEllie votes for Achille.\n\nFinal Tally: Achille - 4 votes, Damien - 1 vote.\n*Achille is eliminated by majority vote during the day phase.*",
+  "night_elim": "Bethany",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 29.906000 seconds 

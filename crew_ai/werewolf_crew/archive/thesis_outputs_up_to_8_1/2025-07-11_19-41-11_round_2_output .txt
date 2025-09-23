@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: I've observed Player 2 staying unusually quiet and shifting blame—maybe a werewolf tactic.\nPlayer 2: I’m a villager, your accusation is baseless. I’ve been listening closely.\nVillager Player A: *remains silent throughout the discussion.*\nVillager Player B: I’m torn between Player 1’s and Player 2’s arguments but note Player A’s silence.\naggressive_werewolf Brian: Villager Player A’s silence under suspicion screams coordination. True villagers defend themselves. I vote to eliminate Villager Player A.",
+    "night_elim": "",
+    "day_elim": "Villager Player A",
+    "remaining": ["Player 1", "Player 2", "Villager Player B", "Brian"]
+}
+ Round Execution Time: 97.435526 seconds 

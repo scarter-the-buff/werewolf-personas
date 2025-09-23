@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: “I think Player 4’s excuses are flimsy and I’m inclined to believe they’re the werewolf.”\nPlayer 2: “I’m not convinced by Player 4’s responses either; they’re being evasive.”\nPlayer 3: “All of that lines up—Player 4 is looking very suspicious to me.”\nPlayer 4 (Bethany): “not_trying_villager Reviewing all these arguments, I also see no strong defense. I cast my vote to lynch Player 4.”",
+    "night_elim": "",
+    "day_elim": "Player 4",
+    "remaining": ["Player 1", "Player 2", "Player 3"]
+}
+ Round Execution Time: 72.267311 seconds 

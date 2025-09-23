@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nAlice: I propose we remove Villager Player B.\nVillager Player A: After reviewing Alice’s points about my own silences and story shifts, I see no better way to support the village’s momentum—even though I secretly hope for the werewolves. Therefore, I will cast my vote consistent with Alice’s motion. I vote to remove Villager Player B.\naggressive_werewolf Brian: I agree with Alice and Villager Player A—Villager Player B’s shifting story makes them suspicious. I vote to remove Villager Player B.",
+    "night_elim": "",
+    "day_elim": "Villager Player B",
+    "remaining": ["Alice", "Damien", "Villager Player A", "Brian"]
+}
+ Round Execution Time: 47.097724 seconds 

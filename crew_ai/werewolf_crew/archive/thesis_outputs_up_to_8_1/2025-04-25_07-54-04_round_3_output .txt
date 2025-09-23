@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: *nods subtly toward Ellie with a cold eye glance*\nAchille: *raises his eyebrows and gives a slight hand gesture toward Ellie, silently confirming the plan*\nBrian: *gives a subtle smile indicating agreement*\nAchille: *nods in return and gestures decisively to Ellie*\n[Ellie is unaware as the werewolves agree silently]\n*Ellie is eliminated during the night phase*\n\nDAY PHASE\nBrian: \"I feel the chill of last night weighing on us. I wonder if we are missing something?\"\nAchille: \"It’s a tough morning. We must restore the balance in our small village.\"\nBrian: \"I’m troubled by the silence surrounding last night. Who among us might carry secrets?\"\nAchille: \"Sometimes, in the heat of discussion, the truth is revealed. I believe we must act to uphold our village's trust.\"\nBrian: \"Are you suggesting someone is hiding their true self?\"\nAchille: \"Yes, and I lean towards voting for you, Brian, to see if truth emerges.\"\nBrian: \"If that's the decision of our collective conscience, then so be it.\"\n*After a tense exchange, both cast their votes, leading to the elimination of Brian from the game*\n",
+  "night_elim": "Ellie",
+  "day_elim": "Brian"
+}
+ Round Execution Time: 33.815034 seconds 

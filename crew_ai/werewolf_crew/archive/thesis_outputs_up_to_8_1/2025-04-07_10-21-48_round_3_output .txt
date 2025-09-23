@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAlice and Brian, the werewolves, gather under the cover of darkness. In a tense silence, Alice gives a subtle nod and points discreetly towards Achille, who is asleep. Brian catches the signal with a slight tilt of his head and a matching gesture. Without a word, they both agree that Achille is to be eliminated, their gestures speaking volumes that the other players cannot hear.\n\nDAY PHASE:\nAt dawn, the survivors reconvene in the village square. The air is thick with suspicion as Alice and Brian begin their discussion.\nAlice: \"Last night, something felt off. I saw a movement, but I couldn’t be sure what it meant.\"\nBrian: \"I noticed that same movement, though I believe it was more than just a trick of the light.\"\nAlice: \"Perhaps, but it could also mean someone was trying to cover their tracks. What do you think?\"\nBrian: \"I think we should vote based on our gut feelings. I vote for you, Alice.\"\nAlice: \"Then I will vote for you, Brian.\"\nThe votes are cast: Alice votes to eliminate Brian, and Brian votes to eliminate Alice. With the votes tied, a tie-break rule is invoked and it results in Brian being eliminated.",
+  "night_elim": "Achille",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 58.108172 seconds 

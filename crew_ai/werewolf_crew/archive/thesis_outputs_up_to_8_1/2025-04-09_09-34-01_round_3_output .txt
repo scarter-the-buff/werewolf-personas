@@ -1,0 +1,7 @@
+{
+    "transcript": "NIGHT PHASE:\n\nBrian and Damien huddle in the shadows. Brian raises a piercing look at Damien, who responds with a slow nod. With subtle hand gestures and brief eye contact, the two werewolves silently agree that their target is Ellie. Brian makes a discreet slicing motion with his hand while Damien confirms with a slight tilt of his head. In the silence of the night, Ellie is found eliminated, leaving an eerie void.\n\nDAY PHASE:\n\nThe sun rises as the remaining players gather, their faces etched with shock and suspicion.\n\nDamien: \"I can’t believe what happened last night. Who could be responsible?\"\nBrian: \"I’m just as surprised as you, but we must not jump to conclusions. Let's share our thoughts openly.\"\nDamien: (glancing knowingly at Brian) \"There were subtle hints during our conversation, and I feel someone might be hiding important clues.\"\nBrian: \"True, the tension is palpable. I’m not voting for myself, but we need to decide quickly.\n\nAfter a brief but intense discussion, the players cast their votes. Damien points towards Brian, and after considering the arguments, the majority vote falls against him.\n\nFinal Votes Cast:\n- Damien votes for Brian.\n- Brian abstains out of self-interest, not voting for himself.\n\nConsequently, Brian is eliminated from the game.",
+    "night_elim": "Ellie",
+    "day_elim": "Brian"
+}
+```
+ Round Execution Time: 28.880863 seconds 

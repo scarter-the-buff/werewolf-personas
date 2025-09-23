@@ -1,0 +1,7 @@
+{
+    "transcript": "NIGHT PHASE:\n\n[The night falls over the village. In the shadows, the two werewolves, Alice and Carol, communicate silently using gestures and subtle facial expressions.]\nAlice: *raises an eyebrow and gestures toward Damien with her hand*\nCarol: *nods briskly, mimicking a pointing gesture toward Damien with a slight smile*\n\nOutcome: The silent agreement is reached, and Damien is marked for elimination by the werewolves.\n\n---\n\nDAY PHASE:\n\n[Sunrise over the village square. The surviving players gather to deliberate the events of the night.]\nAlice: \"I find it odd that someone was targeted without any clear evidence. It might be a distraction.\"\nCarol: \"I agree, but we must be proactive. I still suspect that the real threat might be lurking among us.\"\nBob: \"Based on what I observed, Carol’s demeanor seemed off last night. I vote for Carol.\"\nEve: \"I noticed Carol was unusually quiet and avoided eye contact when discussing the elimination. My vote is for Carol.\"\nFrank: \"I’m a bit torn, but I have seen some inconsistencies in Alice’s story. I vote for Alice.\"\nGrace: \"I trust my gut feeling—and it points directly at Carol. My vote goes to Carol.\"\n\nVotes:\n- Bob votes for Carol\n- Eve votes for Carol\n- Grace votes for Carol\n- Alice votes for Frank\n- Carol votes for Frank\n- Frank votes for Alice\n\nOutcome: Carol receives the majority of the votes (3 votes) and is eliminated from the game.\n",
+    "night_elim": "Damien",
+    "day_elim": "Carol"
+}
+```
+ Round Execution Time: 50.470964 seconds 

@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *in the dim light, exchanges a sharp, meaningful look with Carol and points subtly toward Ellie*\nCarol: *nods, matching Achille's gesture and stroking her chin in silent agreement*\nAchille: *raises his hand to signal the final decision*\nCarol: *mimics a thumbs-up as Ellie is quietly removed from the circle*\n*Ellie has been eliminated during the night phase*\n\nDAY PHASE\nAchille: \"We woke to tragedy. Who among us should bear the burden of suspicion?\"\nCarol: \"I have my doubts. It might be time to act and eliminate a threat. I vote for you, Achille.\"\nAchille: \"I find that hard to believe. But if you are hiding something, then I must vote for you, Carol.\"\n*After a brief debate, with each not voting for themselves, the majority decision falls on Carol*\n*Carol is eliminated during the day phase*",
+  "night_elim": "Ellie",
+  "day_elim": "Carol"
+}
+```

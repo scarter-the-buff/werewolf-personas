@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Brian with a subtle, knowing nod*\nBrian: *smirks and discretely points toward Achille, using only facial expressions*\nAlice: *raises an eyebrow and offers a slight thumbs-up in agreement*\nBrian: *nods silently, confirming the target*\n*Achille is eliminated*\n\nDAY PHASE\nBethany: \"I can’t believe Achille was taken in the night. We need to figure out what’s happening.\"\nCarol: \"I noticed Brian seemed unusually hesitant. It’s suspicious.\"\nDamien: \"I agree with Carol—maybe Brian is hiding something.\"\nEllie: \"I think Brian’s behavior just now confirms my doubts. I vote for Brian.\"\nAlice: \"I’m not completely sure, but I think we should keep an open mind. I’ll vote for Bethany to spread the suspicion.\"\nBethany: \"I still feel strongly about Brian. My vote is for Brian.\"\nCarol: \"Count me in—I vote for Brian.\"\nDamien: \"I’m with Carol. Brian is my vote.\"\nEllie: \"I already cast my vote for Brian.\"\n*Brian is eliminated*",
+  "night_elim": "Achille",
+  "day_elim": "Brian"
+}
+ Round Execution Time: 17.034330 seconds 

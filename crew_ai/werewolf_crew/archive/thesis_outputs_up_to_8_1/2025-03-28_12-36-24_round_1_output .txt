@@ -1,0 +1,5 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *glances around furtively and points subtly towards Brian*\nDamien: *nods, raises his eyebrows, and makes a small hand gesture towards Brian*\n\n*Brian is eliminated*\n\nDAY PHASE\nAlice: \"I can't believe Brian was taken out last night. It feels sudden.\"\nBethany: \"Yes, Brian's elimination is shocking. I wonder who might be behind this.\"\nCarol: \"I noticed Damien acting a bit nervous last night. Maybe there's something to that.\"\nEllie: \"I agree with Carol, Damien’s behavior was odd.\"\nAchille: \"From what I observed, Damien seems to be overreacting.\"\nDamien: \"I assure you, I am just as shocked as everyone else. Perhaps we should consider all possibilities, not just point fingers.\"\nAlice: \"But Damien, your gestures last night seemed too calculated. I vote for Damien.\"\nBethany: \"I’m with Alice on this; let’s vote for Damien.\"\nCarol: \"Damien, I’m voting for you since I felt your behavior was off.\"\nEllie: \"Me too, I vote for Damien.\"\nAchille: \"Given what we've all observed, my vote is also for Damien.\"\n\n*Damien is eliminated by majority vote*",
+  "night_elim": "Brian",
+  "day_elim": "Damien"
+}

@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\n----------------\nAchille: *exchanges subtle nods and deliberate gestures with Carol, both silently indicating Brian as the target*\nCarol: *mirrors the gestures with a confirming smile and raised eyebrow*\n*Brian is quietly eliminated during the night, hidden from the awareness of the sleeping villagers*\n\nDAY PHASE\n----------------\nAlice: \"I can't believe what happened last night. Something feels really off here. I even noticed Carol acting a bit strangely.\" \nEllie: \"I have a similar feeling. While I’m troubled by Achille’s evasive looks, Carol’s manner has me suspicious as well.\" \nAchille: \"I must say, my gut tells me that the calmest one among us might be hiding something. I’m leaning towards Alice.\" \nCarol: \"I agree with Achille. Sometimes the person who speaks too calmly is trying to deflect attention. My vote goes to Alice.\"\n\nVotes:\n- Alice votes for Carol\n- Ellie votes for Achille\n- Achille votes for Alice\n- Carol votes for Alice\n\nAfter tallying the votes, Alice receives the most votes and is eliminated during the day phase.",
+  "night_elim": "Brian",
+  "day_elim": "Alice"
+}
+```
+ Round Execution Time: 222.071936 seconds 

@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nIn the dim glow of the moon, Brian and Damien exchange a series of covert gestures. Brian nods subtly while Damien offers a pointed glance and a slight, knowing smile. Their silent communication speaks volumes; a shared understanding is reached as they focus on their target. Through their articulate body language, the deadly decision is unanimous: Carol is the chosen victim.\n*Carol is eliminated*\n\nDAY PHASE:\nAs the sun rises, the surviving players – Brian, Achille, Damien, and Ellie – gather to deliberate.\nBrian: \"I’ve been suspicious all along, and Damien's behavior tonight only deepens my concerns.\"\nAchille: \"I agree. Something is off with Damien. We must be cautious.\"\nEllie: \"I lean towards Brian’s observation. Damien’s silence makes him even more suspicious.\"\nDamien: \"Hold on, I think Achille is directing our attention away from me. He seems too eager to point fingers.\"\n\nVoting Summary:\n- Brian votes to eliminate Damien.\n- Achille votes to eliminate Damien.\n- Ellie votes to eliminate Damien.\n- Damien votes to eliminate Achille.\n\nWith the majority vote, the decision is clear:\n*Damien is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 41.664421 seconds 

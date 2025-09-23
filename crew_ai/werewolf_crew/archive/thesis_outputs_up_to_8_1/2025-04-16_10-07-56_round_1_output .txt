@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nDamien: *leans in close to Bethany and subtly nods while making a discreet pointing gesture*\nEllie: *raises an eyebrow and mirrors Damien's gesture by lightly tapping her temple and then gesturing toward Bethany*\n*Bethany is eliminated*\n\nDAY PHASE\nAlice: \"I can’t believe Bethany is gone. Who would dare strike at night?\"\nBrian: \"This is unsettling. We have to be careful—someone among us might not be who they seem.\"\nAchille: \"I think we all need to watch each other. Suspicious behavior stands out tonight.\"\nCarol: \"Damien, you were off during the night. I’m not sure I trust your silence.\"\nDamien: \"I’m in shock over Bethany, but I do find Ellie’s calm nature a bit too calculated.\"\nEllie: \"I understand Damien’s point, but frankly, I’ve noticed Damien acting unusually defensive. My vote goes to Damien.\"\nAlice: \"Damien, you were too quiet earlier. I lean towards you as well.\"\nBrian: \"My vote is for Damien.\"\nAchille: \"I also vote for Damien, based on his odd behavior.\"\nCarol: \"Damien, you have mine too.\"\n*Damien receives the majority of votes and is eliminated*",
+  "night_elim": "Bethany",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 41.159613 seconds 

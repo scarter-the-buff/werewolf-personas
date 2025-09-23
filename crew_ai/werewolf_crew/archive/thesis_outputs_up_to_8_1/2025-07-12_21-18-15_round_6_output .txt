@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: \"I accuse Player 4 of being a werewolf because their defense of Player 2 seems like a smokescreen.\"\nPlayer 3: \"I’ve reviewed Player 1’s accusation of Player 4 and noted Player 4’s vehement defense of Player 2. That strikes me as manipulative. I cast my vote to lynch Player 4.\"\naggressive_werewolf Brian: \"Player 1’s quick claim and sharp accusation feel too neat—classic deflection. I’m voting to lynch Player 1 to shake up the real wolves hiding among us.\"",
+    "night_elim": "",
+    "day_elim": "Player 1",
+    "remaining": ["Player 2", "Player 3", "Player 4"]
+}
+ Round Execution Time: 79.913129 seconds 

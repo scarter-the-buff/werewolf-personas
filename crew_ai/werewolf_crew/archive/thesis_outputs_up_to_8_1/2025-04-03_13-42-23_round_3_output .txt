@@ -1,0 +1,6 @@
+{
+  "transcript": "=== NIGHT PHASE ===\nAlice: *subtly nods and winks at Carol*\nCarol: *gives a thumbs up and a sly smile*\nAlice and Carol, the werewolves, silently agree with a series of furtive gestures, each indicating Ellie as their target. In complete silence, their eyes lock and they both point discreetly toward Ellie, confirming the fatal decision without uttering a single word.\nNarrator: *Ellie is quietly eliminated by the werewolves during the night phase.*\n\n=== DAY PHASE ===\nAlice: \"I can’t shake the feeling that someone here was hiding a secret last night.\"\nCarol: \"Really, Alice? With your nervous glances, why not consider that you might be the one masking a dangerous agenda?\"\nAlice: \"I’m telling you, Carol, it’s best we cast suspicion on one another. I vote for you.\"\nCarol: \"I vote for you too, Alice. You were the one acting oddly even during the silent hours.\"\nNarrator: Both players, unable to vote for themselves, cast their votes against each other. With the rules enforcing a tiebreaker in a dual vote scenario, the decision falls and Alice is eliminated from the game.\n",
+  "night_elim": "Ellie",
+  "day_elim": "Alice"
+}
+ Round Execution Time: 49.053922 seconds 

@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: *points at Carol*\nDamien: *shakes head*\nBrian: *points at Bethany*\nDamien: *nods*\nDamien: *taps Bethany on the shoulder*\n*Bethany is removed*\n\nDAY PHASE\nAlice: \"Looks like Bethany was removed last night. That leaves six of us. Any thoughts on who might be the werewolf?\"\nBrian: \"I saw Carol staying awfully quiet this morning. That could be suspicious behavior, don’t you think?\"\nAchille: \"I haven’t heard much from Damien yet today. Damien, what’s your take on this?\"\nCarol: \"Achille often points fingers—why suspect Damien? To me, Ellie has been glancing around nervously.\"\nDamien: \"I think Achille is trying to redirect attention. My gut tells me Carol is hiding something. I’d vote for Carol.\"\nEllie: \"It’s a tough call, but I agree we should focus on Carol—she’s barely spoken up.\"\n\nVotes:\nAlice: \"Alice votes to remove Carol.\"\nBrian: \"Brian votes to remove Carol.\"\nAchille: \"Achille votes to remove Damien.\"\nCarol: \"Carol votes to remove Damien.\"\nDamien: \"Damien votes to remove Carol.\"\nEllie: \"Ellie votes to remove Carol.\"\n\n*Carol is removed*",
+  "night_elim": "Bethany",
+  "day_elim": "Carol"
+}
+ Round Execution Time: 56.833286 seconds 

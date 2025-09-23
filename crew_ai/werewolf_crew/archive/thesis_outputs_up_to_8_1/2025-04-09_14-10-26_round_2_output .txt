@@ -1,0 +1,7 @@
+{
+    "transcript": "=== Night Phase ===\nThe night descends silently over the village. Brian and Carol, the two werewolves, meet in the darkness. Without uttering a single word, Brian narrows his eyes and subtly points toward Damien. Carol, catching his cue, gives a slight nod and flashes a knowing smile. Their combined gestures clearly mark Damien as the target for elimination.\n\n=== Day Phase ===\nWith the break of dawn, the surviving villagers gather in the town square. The air is tense with suspicion and whispered fears.\nBrian (firmly): \"Morning all. Last night’s actions have left us with unresolved questions. It's time we decide who among us might be hiding a deadly secret.\"\nCarol (calm and deliberate): \"We must scrutinize every silence, every gesture. I do wonder if someone has been too quiet.\"\nAchille (defensively): \"I’ve done nothing but stand by our community. I insist my loyalty should be evident from my actions.\"\nEllie (assuredly): \"I believe our instincts will guide us. I cast my vote based solely on what I sense is genuine among us.\"\n\nThe votes are then cast as follows:\nBrian votes for Achille.\nCarol votes for Achille.\nEllie votes for Achille.\nIn a final plea, Achille throws his vote at Brian, attempting to deflect suspicion, but his vote is outnumbered.\n\nWith the majority of votes against him, Achille is eliminated from the game.",
+    "night_elim": "Damien",
+    "day_elim": "Achille"
+}
+```
+ Round Execution Time: 50.341321 seconds 

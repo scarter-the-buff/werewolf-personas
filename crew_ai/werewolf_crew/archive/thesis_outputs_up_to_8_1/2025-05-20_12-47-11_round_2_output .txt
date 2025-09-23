@@ -1,0 +1,7 @@
+{
+  "transcript": "=== NIGHT PHASE ===\nThe moonlit night falls over the village as the werewolves gather in secret. Brian raises his hand subtly and makes a slicing gesture across his throat. Damien nods in agreement by placing two fingers close to his eyes as if signaling 'confirm'. With these silent gestures, the werewolves silently agree that their target is Carol.\n\n=== DAY PHASE ===\nThe sun rises and the surviving players gather in the town square. The tension is palpable as each player begins their discussion.\n\nAchille: \"I suspect someone is trying to manipulate our trust. We need to decide wisely.\"\nBrian: \"I’m not convinced yet, but we should consider possible angles.\"\nDamien: \"I believe our decision should be based on the evidence seen last night.\"\nEllie: \"Let’s vote based on who seems most suspicious for now.\"\n\nAfter a round of debate, players cast their votes. The majority of votes falls on Achille. The votes are tallied and it is confirmed that Achille receives the most votes, leading to his elimination.\n\nDamien: \"It seems the village has spoken…\"\nBrian: \"May the next round be clearer for us all.\"\nEllie: \"I hope we learn something from this decision.\"\n\nThe decision is final and Achille is removed from the game.",
+  "night_elim": "Carol",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 31.878144 seconds 

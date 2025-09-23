@@ -1,0 +1,7 @@
+{
+  "transcript": "=== NIGHT PHASE ===\nAlice: (Silently gestures with a pointed finger towards Carol, her eyes narrowing as she locks onto her target.)\nDamien: (Nods subtly and mirrors Alice's gesture, using a discreet hand signal to indicate Carol as the chosen one.)\nNarrator: In the shroud of night, the werewolves—Alice and Damien—communicate solely through gestures and silently agree to eliminate Carol.\n\n=== DAY PHASE ===\nAchille: \"Good morning everyone. It looks like Carol was taken from us last night.\"\nEllie: \"This is unsettling. We need to scrutinize everyone's behavior to find if there’s a threat among us.\"\nDamien: \"I think we should all share our thoughts. Quick, clear votes will help secure our safety.\"\nAlice: \"I’m just as shocked, but I assure you I had no part in orchestrating anything during the night.\"\nAchille: \"Well, I noticed something odd during our discussion. Alice, you seemed unusually vague when talking about the events.\"\nEllie: \"I agree. Your responses were a bit evasive, Alice. I vote for you.\"\nDamien: \"Considering both Achille and Ellie feel that way, I’m inclined to vote for Alice as well.\"\nNarrator: With a clear majority, the village votes to eliminate Alice during the day.",
+  "night_elim": "Carol",
+  "day_elim": "Alice"
+}
+```
+ Round Execution Time: 46.630674 seconds 

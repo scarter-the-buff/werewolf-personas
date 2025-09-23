@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nAlice: \"I think Bethany is hiding something behind her words.\"\nBethany: \"I’m not sure what you mean, Alice—your accusation feels baseless.\"\nAlex: \"I agree with Bethany; Alice hasn't provided real evidence.\"\nBrian: \"Given Alex’s defense of Bethany and the lack of substance from Alice’s claim, I suspect Alex of collusion. I vote to lynch Alex.\"\nEllie: \"I also believe Alex’s support of Bethany is suspicious—my vote is for Alex.\"",
+    "night_elim": "",
+    "day_elim": "Alex",
+    "remaining": ["Alice", "Brian", "Bethany", "Ellie"]
+}
+ Round Execution Time: 98.512910 seconds 

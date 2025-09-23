@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nPlayer 1: I feel suspicious of Player 3 because they shifted their vote at the last minute.\nPlayer 2: I noticed Player 3 hasn’t given a clear explanation for their choices today.\nPlayer 3: It seems unfair to target me—I think Player 2’s voting pattern is more telling.\nBethany (Player 4): I see three votes already on Player 3. To secure the lynch and avoid splitting, I’ll add my vote to Player 3. My vote: Player 3.",
+    "night_elim": "",
+    "day_elim": "Player 3",
+    "remaining": ["Player 1", "Player 2", "Bethany", "Werewolf Player A"]
+}
+ Round Execution Time: 93.274483 seconds 

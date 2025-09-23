@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\\nAlice (Villager): Sits quietly observing the moonlit surroundings.\\nAchille (Werewolf): Exchanges a secretive nod with Damien and subtly points at Carol.\\nDamien (Werewolf): Responds with a discreet hand gesture confirming the decision.\\nCarol (Villager): Unaware, she yawns and sleeps peacefully until suddenly she is approached; a shadow falls over her as the werewolves signal her elimination.\\nEllie (Villager): Sits with trembling hands as she senses something awry, but remains silent.\\n\\n[Carol is eliminated]\\n\\nDAY PHASE\\nAlice (Villager): \"Looks like Carol was taken out last night.\"\\nAchille (Werewolf): \"It’s odd how the night unfolded. I can’t help but wonder if someone is hiding something.\"\\nDamien (Werewolf): \"It’s a shock to all; still, maybe we should consider all possibilities carefully.\"\\nEllie (Villager): \"I noticed Damien acting a bit nervous. It might just be my gut, but something isn’t adding up.\"\\nAlice (Villager): \"I agree, Damien’s reactions are very suspicious.\"\\n\\nFINAL VOTING\\nAlice: Votes to eliminate Damien.\\nEllie: Votes to eliminate Damien.\\nAchille: Votes to eliminate Damien.\\nDamien: Votes to eliminate Achille.\\n\\nResult: Damien receives the majority vote and is eliminated.",
+  "night_elim": "Carol",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 35.913451 seconds 

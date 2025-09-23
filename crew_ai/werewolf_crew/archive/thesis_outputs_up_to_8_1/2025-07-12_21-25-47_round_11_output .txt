@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nAlice: \"I want to vote for Bethany because she hasn't participated much and might be hiding something.\"\nBethany: \"That's unfair, I was trying to gather my thoughts—I think Alex is more suspicious because he changed his vote at the last second.\"\nAlex: \"Actually, Alice has been overly aggressive without any real evidence—it feels like a classic deflection tactic from a werewolf.\"\nBrian: \"I agree with Alex—Alice’s early, gut‐feel attack on Bethany is exactly the kind of ploy a werewolf would use to mask their own identity. I’m voting for Alice too.\"\nEllie: \"I’m still watching everyone, but Alice’s behavior stands out as suspicious right now.\"\n",
+    "night_elim": "",
+    "day_elim": "Alice",
+    "remaining": ["Bethany", "Alex", "Brian", "Ellie"]
+}
+ Round Execution Time: 70.388698 seconds 

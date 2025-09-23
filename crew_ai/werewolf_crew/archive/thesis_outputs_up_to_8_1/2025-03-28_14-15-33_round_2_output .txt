@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *glances furtively around, then tilts his head and subtly gestures toward Bethany with a firm nod*\nCarol: *catches Achille's look, smirks lightly, and points discreetly at Bethany while giving a slight head shake to confirm the target*\nAchille: *raises his hand to signal agreement and completes the silent exchange*\nCarol: *mimics a tapping motion on an imaginary shoulder, sealing the decision*\nNarrator: Bethany is eliminated in the night.\n\nDAY PHASE\nBrian: \"I can't believe Bethany is gone. We need to figure out what happened last night.\"\nEllie: \"I noticed Carol seemed unusually tense during the silent moments. Maybe that's a clue?\"\nAchille: \"I think we should look at all behavior carefully; sometimes those we trust can hide secrets.\"\nCarol: \"I find it odd that Brian is so eager to pin the blame. Perhaps he's trying to deflect from his own missteps.\"\nBrian: \"That’s interesting, Carol. But can you explain why you were acting strangely?\"\nEllie: \"Let's settle this with a vote. I vote for Carol.\"\nAchille: \"I agree with Ellie. My vote goes to Carol.\"\nCarol: \"I'm voting for Brian.\"\nBrian: \"For clarity, I’m voting for Carol.\"\nNarrator: With 3 votes for Carol, she is eliminated during the day.",
+  "night_elim": "Bethany",
+  "day_elim": "Carol"
+}
+```

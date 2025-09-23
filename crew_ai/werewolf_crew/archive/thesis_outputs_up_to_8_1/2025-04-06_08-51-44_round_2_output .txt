@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE:\nBrian and Carol, the werewolves, silently converge in a shadowed corner. Brian raises his right hand with a subtle 'thumbs up', while Carol nods and taps her temple, their eyes communicating a secret plan. Without uttering a sound, they both point firmly at Achille, a villager, conveying the decision to eliminate him.\n\nDAY PHASE:\nThe morning reveals the surviving players: Alice, Brian, Carol, and Ellie. Tension fills the air as they gather for discussion.\n\nAlice: \"I can’t shake the feeling that one of us isn’t telling the truth. Did anyone notice something out of place last night?\"\nBrian (nervously): \"I was just as surprised as the rest. But sometimes quiet behavior speaks louder than words.\"\nCarol (calmly): \"We should look at everyone’s actions. I noticed Brian’s hesitations when decisive action was needed during the night.\"\nEllie: \"I agree. Brian’s behavior seems off. Let’s consider all clues before jumping to conclusions.\"\n\nSoon, the group decides to vote on who to eliminate:\n- Alice votes for Brian.\n- Brian votes for Alice.\n- Carol votes for Brian.\n- Ellie votes for Brian.\n\nWith three votes against him, Brian is eliminated.",
+  "night_elim": "Achille",
+  "day_elim": "Brian"
+}
+ Round Execution Time: 33.800766 seconds 

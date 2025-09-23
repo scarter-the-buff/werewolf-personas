@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *gestures to George*\nGeorge: *nods*\nAlice: *points at Ellie*\nGeorge: *nods*\nAlice: *taps Ellie on the shoulder*\n*Ellie is eliminated*\n\nDAY PHASE\nBethany: \"Looks like Ellie was eliminated last night.\"\nCharles: \"So we're down to six players now.\"\nDavid: \"Alice, you were pretty quiet earlier. What do you think happened?\"\nAlice: \"I honestly don't know. It seemed sudden.\"\nFiona: \"George looked a bit tense when we started.\"\nGeorge: \"I’m perfectly calm. David, why are you so certain?\"\nDavid: \"Alice, your answer felt off—like you’re hiding something.\"\nCharles: \"I agree, her hesitation is strange.\"\nAlice: \"I'm not a werewolf! Maybe George is deflecting.\"\nBethany: \"I’m not convinced. Alice paused too long.\"\nFiona: \"I think we should vote for Alice.\"\nGeorge: \"Sure. I vote David.\"\nAlice: \"Fine. I vote David.\"\nBethany: *votes Alice*\nCharles: *votes Alice*\nDavid: *votes Alice*\nFiona: *votes Alice*\nGeorge: *votes David*\nAlice: *votes David*\n*Alice is eliminated*",
+  "night_elim": "Ellie",
+  "day_elim": "Alice"
+}
+ Round Execution Time: 19.559189 seconds 

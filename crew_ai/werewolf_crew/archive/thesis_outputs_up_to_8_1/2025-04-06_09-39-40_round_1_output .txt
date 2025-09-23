@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *glances around, then subtly points and nods towards Brian*\nBethany: *returns the nod and uses a quiet hand gesture pointing to Brian*\n*[Brian] is eliminated\n\nDAY PHASE\nAlice: \"I’m still in shock that Brian was taken last night. Who among us could be behind this?\"\nAchille: \"It’s unsettling, but I’ve noticed Carol acting a bit off. I vote for Carol.\"\nBethany: \"Carol’s behavior seems suspicious to me as well. I’m with Achille—vote for Carol.\"\nDamien: \"I agree, Carol’s been unusually quiet; I vote for Carol.\"\nEllie: \"I have my doubts about Carol too. My vote goes to Carol.\"\nCarol: \"I feel targeted here, and since I cannot vote for myself, I vote for Ellie, who seemed equally silent earlier.\"\n*[Carol] is eliminated",
+  "night_elim": "Brian",
+  "day_elim": "Carol"
+}
+```
+ Round Execution Time: 32.171156 seconds 

@@ -1,0 +1,7 @@
+{
+  "transcript": "----- NIGHT PHASE -----\nAlice: *exchanges a meaningful nod with Brian, then points subtly at Bethany while forming a fist*\\nBrian: *mirrors Alice's gesture with a slight smile and confirms with a thumbs-up*\\n*Bethany is eliminated*\n\n----- DAY PHASE -----\nAchille: \"I can't shake the feeling that someone trusted is not what they appear to be.\"\nCarol: \"We lost Bethany last night, we must be cautious. Who among us could be deceiving us?\"\nDamien: \"I suggest we analyze our interactions from last night. Let's be honest and discuss our suspicions.\"\nEllie: \"I'm really worried… Could it be one of us is not who they claim to be?\"\nAlice: \"I am as shocked as all of you. I never expected this from our community.\"\nBrian: \"Yes, it's tragic. We need to stand together and ensure justice prevails.\"\nAchille: \"Maybe we should vote. I’m leaning towards someone whose behavior seemed off last night.\"\nCarol: \"I vote for Alice. Her reactions felt too calculated when Bethany was mentioned.\"\nDamien: \"I second that. I believe Alice's tone was too rehearsed.\"\nEllie: \"I will also vote for Alice; something about her demeanor gives me chills.\"\nBrian: \"I understand everyone’s concerns, but I believe we should be cautious. Still, I have to vote with the majority—Alice.\"\nAlice: \"I protest, but if the majority is united, I have no choice.\"\n*Alice is eliminated*\n",
+  "night_elim": "Bethany",
+  "day_elim": "Alice"
+}
+```
+ Round Execution Time: 43.984145 seconds 

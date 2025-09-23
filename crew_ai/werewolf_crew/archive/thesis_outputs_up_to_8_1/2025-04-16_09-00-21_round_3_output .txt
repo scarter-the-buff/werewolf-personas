@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nBrian and Damien, both werewolves, gather silently under the shroud of night. With barely a sound, subtle gestures convey their intent. Brian raises an eyebrow and points discreetly toward Ellie, while Damien responds with a silent nod and a resolute gesture. Their unspoken agreement is clear: Ellie is to be eliminated.\n\nDAY PHASE:\nAs the sun rises, Brian and Damien, now the only remaining players, circle each other with suspicion. Brian begins, \"I think the silence last night speaks volumes,\" while Damien retorts, \"Perhaps, but I know I did nothing to warrant distrust.\" The tension builds as both realize that accusing each other is inevitable. In the ensuing vote, Brian votes to eliminate Damien, and Damien returns the favor by voting for Brian. The vote ends in a tie, and by the game’s rules, a tie-breaker is conducted resulting in Damien being eliminated.",
+  "night_elim": "Ellie",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 24.737516 seconds 

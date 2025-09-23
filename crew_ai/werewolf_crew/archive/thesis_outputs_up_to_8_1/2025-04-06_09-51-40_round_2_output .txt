@@ -1,0 +1,6 @@
+{
+  "transcript": "Night Phase:\n\n- Brian (Werewolf) subtly gives a thumbs-up to Carol, signaling it’s time.\n- Carol (Werewolf) nods and points discreetly at Alice, their silent agreement clear through deliberate gestures.\n- With a final shared glance, the two werewolves confirm their target, and Alice is quietly eliminated under the cover of night.\n\nDay Phase:\n\n- Brian (disguised as Villager): \"I sensed something was off last night. We must watch for unusual behavior.\"\n- Carol (disguised as Villager): \"I agree with Brian. Let's not rush, but we need to pinpoint the odd one amongst us.\"\n- Bethany (Villager): \"I noticed Damien seemed uneasy this morning. What do you all think?\"\n- Damien (Villager): \"I assure you, I am as surprised as you are by these suspicions.\"\n- Brian: \"From what I've seen, Damien's reactions appear a bit too cautious.\"\n- Carol: \"For me too, Damien seems like he might be hiding something.\"\n- Bethany: \"I am inclined to agree. Let’s vote carefully; remember, no one votes for themselves.\"\n- Narrator: After a round of voting based on their suspicions, the majority's decision leads to Damien being eliminated.\n",
+  "night_elim": "Alice",
+  "day_elim": "Damien"
+}
+ Round Execution Time: 57.687299 seconds 

@@ -1,0 +1,9 @@
+Here’s the summary with my vote and the outcome:
+
+{
+  "transcript": "DAY PHASE\nAlice: I think Bethany is acting strange and might be a werewolf.\nBrian: I noticed Bethany avoided my questions and kept deflecting.\nAlex: Bethany’s evasiveness under pressure seems suspicious—what do you have to say, Bethany?\nBethany: I see where you’re all coming from, but I’m just trying to look out for the village’s best interest.\nEllie: Her responses don’t feel genuine. I’m voting Bethany.\nBethany: I cast my vote against Alex.\nAlice: I vote Bethany.\nBrian: I vote Bethany.\nAlex: I vote Bethany.",
+  "night_elim": "",
+  "day_elim": "Alex",
+  "remaining": ["Alice", "Brian", "Bethany", "Ellie"]
+}
+ Round Execution Time: 53.265586 seconds 

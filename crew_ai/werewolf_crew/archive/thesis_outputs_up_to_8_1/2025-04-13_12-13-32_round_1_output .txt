@@ -1,0 +1,7 @@
+{
+    "transcript": "NIGHT PHASE\nAlice: *glances secretly at Brian and makes a subtle hand gesture, indicating her target*\nBrian: *nods silently, reciprocates the gesture toward Bethany*\n*Through silent agreement, the werewolves decide to eliminate Bethany*\n*Bethany is eliminated in the night phase*\n\nDAY PHASE\nAchille: \"Good morning everyone, it's a somber day with one of us gone.\"\nBethany (echoed from the night): \"Though I am gone, I hope my sacrifice guides you all to the truth.\"\nCarol: \"I have been watching everyone closely, and something seems amiss with some behaviors today.\"\nDamien: \"I suspect Brian. His responses seem too calculated.\"\nEllie: \"I agree with Damien. Brian’s tone and hesitation are quite suspicious.\"\nAlice: \"Let’s all stay calm and thoroughly discuss before we jump to conclusions.\"\nBrian: \"I assure you, I have nothing to hide. We should consider all possibilities fairly.\"\n\n*After a period of discussion, each player casts their vote (players never vote for themselves):*\nAchille votes for Brian\nBethany votes for Brian\nCarol votes for Brian\nDamien votes for Brian\nEllie votes for Brian\nAlice votes for Bethany\nBrian votes for Achille\n\n*With a majority vote, the decision is made to eliminate Brian from the game.*",
+    "night_elim": "Bethany",
+    "day_elim": "Brian"
+}
+```
+ Round Execution Time: 32.928119 seconds 

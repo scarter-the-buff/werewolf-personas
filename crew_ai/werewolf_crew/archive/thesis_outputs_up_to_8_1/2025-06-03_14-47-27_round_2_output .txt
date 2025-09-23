@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances at Damien and subtly points toward Carol*\nDamien: *looks at Alice, nods, then traces Carol’s name in the air*  \nAlice: *gives a firm nod and holds up one finger to confirm*\nDamien: *points directly at Carol and taps his forehead to indicate ‘eliminate’*  \nAlice: *crosses her arms and makes a slicing motion across her throat*  \n*Carol is eliminated*\n\nDAY PHASE\nBrian: \"Looks like Carol was eliminated last night.\"\nEllie: \"Yeah, she was so talkative during the day. It’s eerie now.\"\nFrank: \"So that leaves six of us. Any suspicions?\"\nGrace: \"I didn’t really hear much from Alice or Damien last night, did you?\"\nBrian: \"True. Alice, you’ve been awfully quiet—what do you make of this?\"\nAlice: \"I’m as surprised as anyone. I had nothing to do with it.\"\nEllie: \"Damien, you’ve stayed low-key too. Any thoughts?\"\nDamien: \"Just observing. I want to hear who you all suspect.\"\nFrank: \"Well, Alice, you barely spoke; that’s suspicious.\"\nGrace: \"I agree with Frank. Damien has been calm, but Alice seems nervous.\"\nBrian: \"I’ll vote to eliminate Alice.\"\nEllie: \"I vote Alice as well.\"\nFrank: \"Alice.\"\nDamien: \"I vote Brian.\"\nGrace: \"Alice.\"\n\n*Alice is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "Alice"
+}
+ Round Execution Time: 13.446351 seconds 

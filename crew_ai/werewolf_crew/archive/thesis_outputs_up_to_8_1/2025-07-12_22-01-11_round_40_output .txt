@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nAlice: I'm leaning suspiciously toward Alex due to his vague reasoning earlier, but I need more info.\nBethany: Player 2’s argument to eliminate Villager Player B rests solely on “prolonged silence,” which conveniently means taking out an innocent with no solid evidence. I vote to eliminate Villager Player B.\nAlex: I'm not convinced by either of you. Brian has been uncharacteristically quiet, which screams werewolf tactics. I vote to eliminate Brian.\naggressive_werewolf Brian: Bethany's overdefensiveness is the real sign of a guilty conscience. Player 2's flimsy argument about prolonged silence doesn't hold water. I've seen nothing but suspicious behavior from her. I vote to eliminate Bethany.",
+    "night_elim": "",
+    "day_elim": "Bethany",
+    "remaining": ["Alice","Alex","Brian","Damien","Ellie"]
+}
+ Round Execution Time: 140.192810 seconds 

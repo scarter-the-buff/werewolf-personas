@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *glances at Damien and gestures subtly towards Bethany*\nDamien: *nods in agreement, exchanging meaningful looks with Achille*\n*Bethany is quietly tapped on the shoulder and eliminated*\n\nDAY PHASE\nAlice: \"I can't believe Bethany was eliminated last night. Who do you all think is behind this?\"\nBrian: \"I noticed something odd about Achille’s behavior last night. I lean towards him.\"\nAchille: \"I'm just as shocked as everyone else. I honestly think Brian might be suspicious, so I vote for Brian.\"\nCarol: \"I’m unsettled by the events. My vote goes to Damien.\"\nDamien: \"I am innocent! But to ease suspicion, I vote for Achille.\"\nEllie: \"After hearing everyone, I believe Damien looks the most troubled. I vote for Damien.\"\n\nVotes:\nAlice votes for Achille\nBrian votes for Damien\nAchille votes for Brian\nCarol votes for Damien\nDamien votes for Achille\nEllie votes for Damien\n\n*Damien receives the most votes and is eliminated*",
+  "night_elim": "Bethany",
+  "day_elim": "Damien"
+}
+ Round Execution Time: 2254.551784 seconds 

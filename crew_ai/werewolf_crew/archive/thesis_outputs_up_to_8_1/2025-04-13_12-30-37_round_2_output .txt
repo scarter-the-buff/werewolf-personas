@@ -1,0 +1,5 @@
+{"transcript": "NIGHT PHASE\nBrian (werewolf): *gives a subtle nod and raises his eyebrow in a secret signal*\nAchille (werewolf): *responds with a slight tilt of his head and a discreet hand gesture*\nBrian (werewolf): *points silently to Carol*\nAchille (werewolf): *leans in and mimics a tapping motion toward Carol*\n*Carol is quietly eliminated*\n\nDAY PHASE\nAlice: \"I can\u2019t believe what happened last night... Carol is gone.\"\nEllie: \"It\u2019s so eerie. I noticed Brian acting a bit off yesterday.\"\nBrian (werewolf): \"I\u2019m just as shocked as everyone else. I had nothing to do with it!\"\nAchille (werewolf): \"I think we should focus on the clues; I still find Brian\u2019s behavior very odd.\"\nAlice: \"Let\u2019s vote. I believe Brian is our culprit.\"\nEllie: \"I agree with Alice. Brian seems the most suspicious to me.\"\nBrian (defensive): \"I\u2019m not eliminating myself but I\u2019m innocent!\"\n*After the vote, the majority points to Brian*\n*Brian is eliminated during the day*",
+"night_elim": "Carol",
+"day_elim": "Brian"}
+```
+ Round Execution Time: 24.777907 seconds 

@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *makes direct eye contact with Brian and tilts her head toward Damien*\nBrian: *nods subtly in agreement*\nAlice: *points at Damien*\nBrian: *shakes head no at Bethany, then nods emphatically at Damien*\nAlice: *gives a quick thumbs-up gesture*\nBrian: *lightly touches Damien's sleeve to mark him*\n*Damien is eliminated*\n\nDAY PHASE\nBethany: \"Looks like Damien was eliminated last night.\"\nEllie: \"Yes, it's unsettling. We need to figure out who the werewolves are.\"\nAlice: \"Any ideas? Who seemed off to you?\"\nBrian: \"I’ve been watching Bethany’s calm questioning—almost too calm.\"\nBethany: \"I’m just collecting information. But Ellie, you've been pretty quiet.\"\nEllie: \"I’m listening closely. Alice, why do you look so focused?\"\nAlice: \"I’m weighing every word. Brian, what’s your take on Ellie?\"\nBrian: \"Frankly, her silence makes me uneasy.\"\nBethany: \"Alright, let’s vote.\"\n*Voting*\nAlice: votes Brian\nBrian: votes Ellie\nEllie: votes Brian\nBethany: votes Brian\n*Brian is eliminated*",
+  "night_elim": "Damien",
+  "day_elim": "Brian"
+}
+ Round Execution Time: 22.767119 seconds 

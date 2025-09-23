@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nBrian: *exchanges a meaningful look with Damien and subtly gestures toward Bethany*\nDamien: *nods sharply and mimics a pointing gesture towards Bethany with a quick tilt of his head*\nBrian: *raises his eyebrows and points decisively at Bethany*\nDamien: *gives an approving nod and mimics pulling away a lifeless hand*\nBethany is eliminated by the werewolves.\n\nDAY PHASE\nAlice: \"I can’t believe Bethany is gone already. This is terrible!\"\nAchille: \"I’m feeling uneasy. Brian, you seemed too calm last night.\"\nCarol: \"I noticed Damien’s nervous glances earlier. Could it be that they’re hiding something?\"\nEllie: \"Brian, your silence is suspicious. Why aren’t you defending yourself?\"\nBrian: \"I’m just as shocked as everyone else. We need to be rational, not jump to conclusions!\"\nDamien: \"Perhaps we’re missing something. Let’s consider all possibilities before pointing fingers.\"\n\nVoting:\nAlice votes to eliminate Brian.\nAchille votes to eliminate Brian.\nEllie votes to eliminate Brian.\nCarol votes to eliminate Damien.\nBrian votes to eliminate Achille.\nDamien votes to eliminate Achille.\n\nVote Tally: Brian receives 3 votes, Achille receives 2 votes, and Damien receives 1 vote.\nBrian is eliminated as he secured the majority votes.",
+  "night_elim": "Bethany",
+  "day_elim": "Brian"
+}
+```
+ Round Execution Time: 37.040805 seconds 

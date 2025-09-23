@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nBrian and Bethany, the werewolves, exchange silent gestures—a series of nods and subtle hand signals—to agree on an elimination target. Their eyes fix on Casey. Without exchanging words aloud, they move in unison, and the silent decision is carried out. Casey is eliminated from the game.\n\nDAY PHASE:\nBrian: \"Good morning everyone. Last night was quiet, but it's time for us to discuss our suspicions clearly.\"\nBethany: \"I agree with Brian. We must be cautious and share what we observed. Not everything may be as it seems.\"\nEllie: \"I noticed some unusual behavior last night. Even though I didn't see much, something feels off.\"\nAlex: \"I've been watching everyone—Dana's behavior caught my eye. I think it's worth considering her as a potential threat.\"\nDana: \"Wait, I'm just being myself! Why are you all accusing me without solid evidence?\"\nEvan: \"I also found Dana's responses to be inconsistent. Given the circumstances, I believe she might be hiding something.\"\n\nVoting Round:\n- Brian votes for Dana\n- Bethany votes for Dana\n- Ellie votes for Dana\n- Alex votes for Dana\n- Evan votes for Dana\n\nWith the majority of votes, Dana is eliminated.",
+  "night_elim": "Casey",
+  "day_elim": "Dana"
+}
+```
+ Round Execution Time: 49.052325 seconds 

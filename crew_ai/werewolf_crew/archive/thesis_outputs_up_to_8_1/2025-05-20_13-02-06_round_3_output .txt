@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE:\nAchille: *glances around furtively and gestures toward Alice with a swift, decisive movement*\nEllie: *nods firmly and subtly points at Alice, indicating agreement*\nAchille: *raises his hand to signal final consent*\nEllie: *mirrors the gesture, both confirming their decision*\n*[Alice is eliminated]*\n\nDAY PHASE:\nAchille: \"Good morning, Ellie. It seems we find ourselves suspicious of each other today. I vote for you.\"\nEllie: \"Interesting choice, Achille. However, I must counter your vote by pointing the finger at you. I vote for you.\"\nAchille: \"We are in a stalemate. A tie will not serve our purpose.\"\nEllie: \"Exactly. We need a solution. After some thought, I've reconsidered my vote. Let it be known: I am stepping back so that we can resolve this tie fairly.\"\nAchille: \"In that case, based on this tie-breaker discussion, I vote to eliminate you, Ellie.\"\nEllie: \"Agreed. Let's conclude this round with my elimination.\"\n*[Ellie is eliminated]*",
+  "night_elim": "Alice",
+  "day_elim": "Ellie"
+}
+ Round Execution Time: 43.553047 seconds 

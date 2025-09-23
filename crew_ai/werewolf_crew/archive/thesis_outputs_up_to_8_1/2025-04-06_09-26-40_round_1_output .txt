@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *gives a subtle nod towards Brian and gestures with a slight hand wave*\nBrian: *meets Alice's gaze, reciprocating with a quiet head tilt and pointing at Carol*\nAlice: *agrees silently with a decisive gesture*\nBrian: *confirms by mimicking the gesture back*\n*Carol is silently eliminated during the night*\n\nDAY PHASE\nAchille: \"I can't shake off the feeling that something was off last night.\"\nBethany: \"We need to be careful. Carol's absence is a warning.\"\nDamien: \"I noticed Brian was particularly quiet.\"\nEllie: \"I wonder if Brian might be hiding something.\"\nAlice: \"Let's think carefully about who could be responsible.\"\nBrian: \"I am voting with the majority for accountability.\"\nAchille: \"My vote goes to Brian.\"\nBethany: \"I vote for Brian as well.\"\nDamien: \"Brian gets my vote.\"\nEllie: \"I'm siding with the majority against Brian.\"\n*Brian is eliminated by the majority vote*",
+  "night_elim": "Carol",
+  "day_elim": "Brian"
+}
+ Round Execution Time: 29.973529 seconds 

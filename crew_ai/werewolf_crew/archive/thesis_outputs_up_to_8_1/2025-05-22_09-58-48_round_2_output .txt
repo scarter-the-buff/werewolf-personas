@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE: Under the eerie light of a full moon, the village falls silent while dark deeds are planned. In a hidden clearing, the werewolves, Alice and Damien, meet to make their deadly pact. Without uttering a word, they exchange subtle and secretive gestures—a slight nod from Alice and a discreet hand signal from Damien—confirming their decision to eliminate Achille, an unsuspecting villager.\n\nDAY PHASE: With the break of dawn, the surviving players gather in the town square. Tension fills the air as each member casts their vote in a heated discussion:\nAlice: 'Last night, Damien’s behavior was unsettling; his secretive glances and gestures raised my suspicions. I vote for Damien.'\nDamien: 'I observed Carol lingering near dark corners last night, which seemed odd. I vote for Carol.'\nCarol: 'All things considered, Damien’s covert actions make him the most questionable. My vote is for Damien.'\nEllie: 'For our community’s safety, I believe Damien’s actions warrant elimination. I vote for Damien.'",
+  "night_elim": "Achille",
+  "day_elim": "Damien"
+}
+```
+ Round Execution Time: 111.508187 seconds 

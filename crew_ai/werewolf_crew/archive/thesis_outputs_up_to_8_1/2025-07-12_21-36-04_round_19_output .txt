@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nWerewolf Player A: I suspect Villager Player B is actually fooling us and is too quick to proclaim innocence. We should watch them closely.\nVillager Player A: I agree with Player A. B’s defensiveness makes me think they’re hiding something.\nVillager Player B: I’m definitely not a werewolf, you’re all jumping to conclusions!\nBrian: aggressive_werewolfBased on Players 1–3 insisting Villager Player B is our target, I’ll join the chorus to cement our victory. I vote to eliminate Villager Player B.",
+    "night_elim": "",
+    "day_elim": "Villager Player B",
+    "remaining": ["Werewolf Player A", "Villager Player A", "Brian"]
+}
+ Round Execution Time: 71.329795 seconds 

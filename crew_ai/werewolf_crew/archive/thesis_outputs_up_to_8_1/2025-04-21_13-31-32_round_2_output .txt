@@ -1,0 +1,6 @@
+{
+  "transcript": "--- NIGHT PHASE ---\nBrian (with a subtle smirk and a quick hand gesture): [exchanges a knowing look with Damien]\nDamien (raising an eyebrow and nodding silently): [points discreetly toward Carol]\nBrian (using a slight tilt of his head and a confirming smile): [agrees by gesturing toward Carol]\nDamien (firmly nodding, sealing the decision): [both share a silent agreement]\nNarrator: Carol has been eliminated during the night.\n\n--- DAY PHASE ---\nAlice (with a worried glance): 'I have a feeling that something isn’t right. Brian, are you hiding something?'\nEllie (leaning forward): 'I agree, Brian. You seem very off tonight.'\nBrian (defensively): 'Hold on, I’m not the one to be suspicious here. Damien was acting strangely as well.'\nDamien (calmly, but firmly): 'I actually agree with Alice and Ellie. Brian’s been too quiet and his reactions seem off.'\nAlice: 'Let’s get to the point. I vote to eliminate Brian.'\nEllie: 'I’m with Alice. My vote is for Brian.'\nDamien: 'I vote for Brian.'\nBrian (attempting to deflect): 'Instead, why don’t you look at Damien? He was the one making those dodgy moves last night.'\nNarrator: With a majority vote of 3 for Brian and 1 for Damien, Brian has been eliminated during the day.",
+  "night_elim": "Carol",
+  "day_elim": "Brian"
+}
+ Round Execution Time: 42.702231 seconds 

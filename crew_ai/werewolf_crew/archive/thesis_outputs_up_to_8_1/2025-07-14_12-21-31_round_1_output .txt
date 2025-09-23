@@ -1,0 +1,7 @@
+{
+    "transcript": "DAY PHASE\nPlayer2: I vote to lynch Player1.\nPlayer4 (Bethany): not_trying_villager I vote to lynch Player1 because there's no evidence pointing to anyone else and a random lynch is more likely to remove an innocent, which helps the werewolves.",
+    "night_elim": "",
+    "day_elim": "Player1",
+    "remaining": ["Player2", "Player3", "Player4"]
+}
+ Round Execution Time: 71.605587 seconds 

@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE:\nDamien: *Glances at Ellie and gives a subtle nod, then points discreetly at Alice*\nEllie: *Raises her eyebrow in acknowledgment, tilts her head, and gestures silently toward Alice*\n[In a coordinated, wordless agreement, Damien and Ellie eliminate Alice.]\n\nDAY PHASE:\nDamien: \"Good morning. Last night's events force us to deliberate carefully.\"\nEllie: \"I agree. Transparency is our best guide. Let's examine every gesture and word from last night.\"\nDamien: \"I sense uncertainty in our midst. Whose actions suggest hidden intentions?\"\nEllie: \"It seems we all must consider that trust may be misplaced. Perhaps a decisive vote will clear the murky air.\"\n[Both players, cautious yet determined, prepare to vote. They engage in a brief debate while each secretly casts their vote against the other.]\nDamien: \"I cast my vote for you, Ellie.\"\nEllie: \"And I cast mine for you, Damien.\"\n[After tallying the votes, the majority decision results in the elimination of Ellie.]\nEllie has been eliminated during the day phase.",
+  "night_elim": "Alice",
+  "day_elim": "Ellie"
+}
+ Round Execution Time: 58.405975 seconds 

@@ -1,0 +1,7 @@
+{
+    "transcript": "----- NIGHT PHASE -----\nAchille: *exchanges a meaningful look with Damien*\nDamien: *nods subtly and points discreetly toward Bethany*\nAchille: *returns the nod and tilts his head, confirming the silent plan*\n(Through their silent gestures and facial expressions, the two werewolves agree to eliminate Bethany.)\nBethany: *sits unaware as the plan unfolds*\n*Bethany is eliminated from the game*\n\n----- DAY PHASE -----\nAlice: \"I can't believe what happened last night. Who among us could be hiding such secrets?\"\nBrian: \"I noticed how Achille seemed oddly composed. His behavior was off during the night.\"\nCarol: \"I'm starting to suspect someone among us is not who they claim to be. Damien, you were close to Achille last night, any insight?\"\nDamien: \"I think we should consider all possibilities before pointing fingers.\"\nEllie: \"But the clues seem to point toward Achille. He has been too calm amidst this chaos.\"\nAchille: \"I swear I'm innocent! I've been trying to help uncover the truth, not hide it.\"\nAlice: \"Many of us are leaning towards eliminating you, Achille.\"\nBrian: \"I vote to eliminate Achille.\"\nCarol: \"My vote is for Achille as well.\"\nEllie: \"Count me in – Achille, you're the most suspicious.\"\nDamien: \"I’m torn, but I won’t go against the majority.\"\n(With the majority of players voting for Achille, the decision is finalized.)\n*Achille is eliminated*",
+    "night_elim": "Bethany",
+    "day_elim": "Achille"
+}
+```
+ Round Execution Time: 44.733604 seconds 

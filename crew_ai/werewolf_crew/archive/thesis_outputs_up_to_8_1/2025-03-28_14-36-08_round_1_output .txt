@@ -1,0 +1,5 @@
+{
+  "transcript": "NIGHT PHASE\nAchille: *gestures subtly toward Carol*\nDamien: *nods in agreement with a furtive glance*\nAchille: *points decisively at Carol, raising his eyebrows*\nDamien: *smirks and gives a subtle thumbs up*\n*Carol is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Carol was eliminated last night.\"\nBrian: \"This is our chance; we need to find the werewolf among us.\"\nBethany: \"I’ve been watching everyone. Damien’s attitude seems off.\"\nEllie: \"I agree, there’s something secretive about the way Damien acted.\"\nDamien: \"I’m as surprised as you. Maybe it's Achille who is hiding something?\"\nAchille: \"I’m just trying to contribute as a villager. I vote for Damien.\"\nAlice: \"I vote for Damien too.\"\nBrian: \"I’m with Alice – Damien seems to be deflecting blame.\"\nBethany: \"I’ll vote for Damien; his vote for Achille makes it more suspicious.\"\nEllie: \"My vote goes to Damien as well.\"\n*Damien is eliminated*",
+  "night_elim": "Carol",
+  "day_elim": "Damien"
+}

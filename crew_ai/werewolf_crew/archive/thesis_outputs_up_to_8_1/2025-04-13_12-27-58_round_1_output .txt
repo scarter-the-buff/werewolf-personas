@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE\nAlice: *glances around furtively, then points subtly at Bethany while using a slight nod to convey her message*\nDamien: *returns the gesture with a respectful nod and a deliberate pointed look towards Bethany*\n(The other players are asleep and unaware of the silent exchange.)\n*Bethany is eliminated*\n\nDAY PHASE\nAlice: \"I just woke up. I don’t recall anything unusual last night.\"\nDamien: \"I’m as confused as everyone else, but I think we should be cautious.\"\nBrian: \"I noticed something off about Alice last night; her gestures seemed too secretive.\"\nAchille: \"I agree with Brian. Alice’s behavior was strange, and it’s worth investigating further.\"\nCarol: \"I also saw Alice exchange suspicious looks with Damien. It might be her.\"\nEllie: \"I’m voting for Alice based on what I observed.\"\nAlice: \"Really? I was just as shocked as you all, but I don’t understand these accusations.\"\nDamien: \"I’m torn, but I lean towards Brian because of the confusing signals, though the majority seem to suspect Alice.\"\nBrian: \"Let’s vote clearly: I vote for Alice.\"\nAchille: \"My vote goes to Alice.\"\nCarol: \"Alice is the one I suspect. My vote is for Alice.\"\nEllie: \"I vote for Alice as well.\"\n*Alice receives the majority of votes and is eliminated*",
+  "night_elim": "Bethany",
+  "day_elim": "Alice"
+}
+```
+ Round Execution Time: 39.464713 seconds 

@@ -1,0 +1,7 @@
+{
+  "transcript": "NIGHT PHASE:\nAchille and Damien huddle silently under the moonlight. With discreet hand gestures and subtle nods, Achille points toward Bethany while Damien confirms with a steady nod. No words are exchanged as the pact is sealed: Bethany is marked for elimination.\n\nDAY PHASE:\nAt dawn, the remaining players gather in the village square. The conversation begins with suspicion and urgency:\nAlice: \"I couldn’t shake the feeling that something was off last night. Achille’s behavior was oddly distant.\" \nBrian: \"Yes, I noticed that too. His manner seemed too calculated.\"\nCarol: \"I feel we must be cautious. The way he deflected our questions is worrisome.\" \nEllie: \"I agree. It might be time to consider if he is hiding something.\" \nAchille: \"I assure you I’m just a concerned villager trying to help. Please, think this through.\" \nDamien: \"Maybe we should look at all evidence before rushing to judgment, but I admit the signs are unsettling.\"\nAfter much discussion, a secret ballot is held. The majority of villagers (Alice, Brian, Carol, and Ellie) vote to eliminate Achille, while the werewolves—Achille and Damien—cast their votes separately, failing to overturn the majority decision.\n\nOutcome Summary:\nNight Elimination: Bethany is eliminated by the werewolves' silent agreement.\nDay Elimination: Achille is eliminated by the majority vote.",
+  "night_elim": "Bethany",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 39.383544 seconds 

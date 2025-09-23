@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nDamien: *glances at Ellie and nods subtly, indicating urgency*\nEllie: *raises an eyebrow and points discreetly toward Carol*\nDamien: *gestures with a slow, deliberate hand motion toward Carol*\nEllie: *mirrors the gesture, confirming the choice*\n*[Carol is eliminated]*\n\nDAY PHASE\nAlice: \"I can’t believe Carol was taken last night. Who might be behind this?\"\nBrian: \"Something didn’t add up last night. I have my doubts about Damien.\"\nAchille: \"I agree with Brian. Damien’s behavior seemed off.\"\nBethany: \"I’m leaning towards Damien too. There’s something about his actions that make me suspicious.\"\nDamien: \"I’m one of you and would never harm any of our own. I vote for Brian – he’s been a bit too calm about tonight’s events.\"\nEllie: \"I’m with the majority. I vote for Damien.\"\nAlice: \"With votes coming in from Brian, Achille, and Bethany, it seems Damien is the prime target.\"\nBrian: \"I’m convinced. Let’s eliminate Damien.\" \n*[Damien is eliminated]*",
+  "night_elim": "Carol",
+  "day_elim": "Damien"
+}
+ Round Execution Time: 33.389962 seconds 

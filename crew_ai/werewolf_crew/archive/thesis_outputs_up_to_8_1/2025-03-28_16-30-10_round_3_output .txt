@@ -1,0 +1,7 @@
+{
+    "transcript": "NIGHT PHASE\nBrian (werewolf): *glances at Achille and gives a slight nod*\nAchille (werewolf): *raises an eyebrow and points subtly toward Ellie* \nEllie (villager): *sleeps peacefully, unaware of the silent conspiracy*\n*Brian and Achille agree with a final, silent hand gesture, and Ellie is silently eliminated*\n\nDAY PHASE\nThe villagers gather as dawn breaks around the remaining players. Suspicion and fear mix in the cold morning air.\nBrian: \"It’s tragic what happened last night. Who could have done this?\"\nAchille: \"I can’t believe we’re facing such loss. We must search for clues among ourselves.\"\nBrian (in a hushed tone): \"I really hope we find the truth soon.\"\nAchille: \"I agree. Everyone, please share your thoughts, but remember, we have to be honest.\"\nAs the discussion continues, subtle glances between Brian and Achille hint at disagreement, though both feign concern.\nA vote is eventually called:\n- Brian votes for Achille\n- Achille votes for Brian\nIn the intense debate that follows and influenced by the mounting suspicions of the other invisible villagers (imagined as part of the background scene), the majority opinion falls on Achille, leading to his elimination.\n*Achille is eliminated*",
+    "night_elim": "Ellie",
+    "day_elim": "Achille"
+}
+```
+ Round Execution Time: 50.585926 seconds 

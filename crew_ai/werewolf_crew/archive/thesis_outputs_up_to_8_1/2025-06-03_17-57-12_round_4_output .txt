@@ -1,0 +1,6 @@
+{
+  "transcript": "NIGHT PHASE\nMarcus: *glances at Nolan*\nNolan: *raises eyebrows*\nMarcus: *taps finger on Beatrice's name*\nNolan: *nods slowly*\nMarcus: *makes cutting gesture across throat*\n*Beatrice is eliminated*\n\nDAY PHASE\nAlice: \"Looks like Beatrice was eliminated last night.\"\nAchille: \"Only six of us remain.\"\nEllie: \"Does anyone have any suspicions?\"\nFiona: \"I noticed Marcus and Nolan whispering together in the corner.\"\nAchille: \"That could be innocent, or it could be the werewolves planning.\"\nAlice: \"Ellie, what do you think?\"\nEllie: \"I'm a bit suspicious of Nolan; he was very quiet this morning.\"\nMarcus: \"Quiet isn't guilt. I'm actually concerned about Achille's behavior.\"\nNolan: \"I'm just trying to listen. Fiona, you seem confident—who do you suspect?\"\nFiona: \"I'm wary of Marcus; he was pushing that internal conversation quickly.\"\nAlice: \"Alright, let's vote. On the count of three, point to the person you want to eliminate. One... two... three.\"\nAlice: *points at Nolan*\nAchille: *points at Nolan*\nEllie: *points at Marcus*\nFiona: *points at Nolan*\nMarcus: *points at Ellie*\nNolan: *points at Marcus*\n*Votes tallied: Nolan has 3, Marcus has 2, Ellie has 1*\n*Nolan is eliminated*",
+  "night_elim": "Beatrice",
+  "day_elim": "Nolan"
+}
+ Round Execution Time: 33.415974 seconds 

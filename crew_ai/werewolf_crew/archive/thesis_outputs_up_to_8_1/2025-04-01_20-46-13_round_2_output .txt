@@ -1,0 +1,7 @@
+{
+  "transcript": "Night Phase:\nAchille and Damien, both werewolves, engage in silent communication under the cover of darkness. Achille gives a subtle nod and tilts his head while signaling discreetly towards Carol. Damien, observing these gestures, responds with a gentle hand wave and deliberate head movement, confirming their target. Their silent discourse results in the decision to eliminate Carol, and as the phase ends, Carol is removed from the game.\n\nDay Phase:\nThe remaining players gather and begin discussing the events. Alice starts by saying, 'I vote to eliminate Damien.' Achille then states, 'I vote to eliminate Ellie,' trying to deflect suspicion. Damien, appearing cautious, declares, 'My vote goes to eliminate Achille.' Finally, Ellie concurs with Damien by stating, 'I vote for eliminating Achille.' When the votes are tallied, Achille receives the majority and is eliminated from the game.",
+  "night_elim": "Carol",
+  "day_elim": "Achille"
+}
+```
+ Round Execution Time: 72.588247 seconds 
