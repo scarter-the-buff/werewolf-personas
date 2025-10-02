@@ -154,6 +154,19 @@ class WerewolfCrew():
 
     # ------------ small helpers -------------
     def construct_personality(self, player):
+        """
+    Build a full personality profile string for a given player.
+
+        Looks up the player's type code in `self.players` and maps it to a
+        predefined combination of personality traits.
+
+        Args:
+            player: Key or index identifying a player in `self.players`.
+
+        Returns:
+            str: A concatenated string of personality traits for the player,
+            or an empty string if the type code is unknown.
+        """
         type_code = self.players[player][1]
         m = {
             "TJ": personalities["thinking"] + personalities["judging"],
@@ -171,27 +184,54 @@ class WerewolfCrew():
 
     @staticmethod
     def _extract_vote(text: str) -> str | None:
-        # be tolerant to logging noise; grab first "Player <num>"
+        """
+    Extract the first vote of the form ``"Player <num>"`` from a text string.
+
+        Designed to tolerate logging noise and stop at the first valid match.
+
+        Args:
+            text (str): A line of text (e.g., log output) to search for a vote.
+
+        Returns:
+            str | None: The matched vote in the form ``"Player N"`` if found,
+            otherwise ``None``.
+        """
         m = re.search(r'\bPlayer\s+([1-9]\d*)\b', text)
-        print("Extracted votes: ", m)
+        print("Extracted votes:", m)
         return f"Player {m.group(1)}" if m else None
+
 
     @staticmethod
     def _compute_elimination(valid_targets: list[str], votes: list[str]) -> str:
-        # only count votes for valid targets
-        print("In computer elimination-- votes: ", votes)
+        """
+    Determine which player should be eliminated based on vote counts.
+
+        Counts only votes cast for valid targets. In the event of a tie, the
+        player with the lowest number (numerically) wins.
+
+        Args:
+            valid_targets (list[str]): Player names that can be voted out.
+            votes (list[str]): Raw votes cast (may include invalid entries).
+
+        Returns:
+            str: The name of the eliminated player (e.g., ``"Player 3"``),
+            or an empty string if no valid votes were cast.
+        """
+        print("In compute elimination -- votes:", votes)
         filtered = [v for v in votes if v in valid_targets]
         if not filtered:
             return ""
         c = Counter(filtered)
-        # tie-breaker: lowest player number wins
+
+        # Tie-breaker: highest count first, then lowest player number
         def key(item):
             name, count = item
             num = int(name.split()[1])
             return (count, -num)
-        print("In compute elimination: c: ", c)
+
+        print("In compute elimination: c:", c)
         winner, _ = max(c.items(), key=key)
-        print("Computed elimination, winner = ", winner)
+        print("Computed elimination, winner =", winner)
         return winner
 
     # ------------ agents -------------
@@ -286,14 +326,6 @@ class WerewolfCrew():
                     description=self.player7_turn_obj.description,
                     expected_output=self.player7_turn_obj.expected_output,
                     context=[self.player6_turn(), self.player5_turn(), self.player4_turn(), self.player3_turn(), self.player2_turn(), self.player1_turn()])
-    # @task
-    # def tallier_turn(self) -> Task:
-    #     # no longer used for IO; left here so build_tasks still works
-    #     return Task(agent=self.tallier(),
-    #                 description=self.tallier_turn_obj.description,
-    #                 expected_output=self.tallier_turn_obj.expected_output,
-    #                 context=[self.player7_turn(), self.player6_turn(), self.player5_turn(),
-    #                          self.player4_turn(), self.player3_turn(), self.player2_turn(), self.player1_turn()])
 
     def build_tasks(self):
         self.player_tasks = {
@@ -344,7 +376,28 @@ class WerewolfCrew():
 
     # ================== NEW: Night/Day runners that collect outputs and return tallies ==================
 
-    def build_night_vote_tasks(self, alive_players: list[str], players_dict: dict) -> tuple[list[Agent], list[Task]]:
+    def build_night_vote_tasks(
+        self,
+        alive_players: list[str],
+        players_dict: dict
+    ) -> tuple[list["Agent"], list["Task"], list[str]]:
+        """
+        Build the list of AI agents and tasks for the werewolf night voting phase.
+
+        Filters alive players into werewolves and villagers (ignoring the special
+        "Tallier" role), then creates a voting `Task` for each werewolf to pick one
+        villager to eliminate.
+
+        Args:
+            alive_players (list[str]): Names of all players still alive.
+            players_dict (dict): Mapping of player name → [role, type_code] or similar.
+
+        Returns:
+            tuple[list[Agent], list[Task], list[str]]:
+                - night_agents: Werewolf agents who will vote.
+                - night_tasks: Tasks assigned to each werewolf agent.
+                - villagers: Names of living villagers eligible to be voted out.
+        """
         werewolves = [p for p in alive_players if p != "Tallier" and players_dict[p][0] == "werewolf"]
         villagers  = [p for p in alive_players if p != "Tallier" and players_dict[p][0] == "villager"]
         night_agents, night_tasks = [], []
@@ -363,7 +416,31 @@ class WerewolfCrew():
 
         return night_agents, night_tasks, villagers
 
-    def run_night_phase_collect(self, alive_players: list[str], players_dict: dict):
+    def run_night_phase_collect(
+        self,
+        alive_players: list[str],
+        players_dict: dict
+    ) -> dict:
+        """
+        Execute the full werewolf night phase: build tasks, run them, collect votes, and compute elimination.
+
+        1. Calls `build_night_vote_tasks` to create werewolf voting tasks.
+        2. Runs each task in isolation, giving later voters the knowledge of earlier votes.
+        3. Uses `_compute_elimination` to decide which villager is killed.
+
+        Args:
+            alive_players (list[str]): Names of all players still alive.
+            players_dict (dict): Mapping of player name → [role, type_code] or similar.
+
+        Returns:
+            dict:
+                {
+                    "votes": list[dict[str, str]],
+                        Each element is {"voter": <player_name>, "vote": <target_name>}.
+                    "night_elim": str
+                        The villager chosen for elimination (empty string if no valid votes).
+                }
+        """
         night_agents, night_tasks, villagers = self.build_night_vote_tasks(alive_players, players_dict)
 
         # bookkeeping (optional)
@@ -373,7 +450,7 @@ class WerewolfCrew():
         votes = []
         for task in night_tasks:
             previous_votes = "Players previously voted like so: " + str(votes)
-            # Add the previous votes to the task description, so each player knows what each previous player voted for
+            # Add the previous votes to the task description so each werewolf knows prior choices
             task.description = task.description + previous_votes
             raw = self._run_task_isolated(task)
             chosen = self._extract_vote(raw) or ""
@@ -383,12 +460,32 @@ class WerewolfCrew():
         return {"votes": votes, "night_elim": night_elim}
 
 
-    def build_day_vote_tasks(self, alive_players: list[str]) -> tuple[list[Agent], list[Task], list[str]]:
+    def build_day_vote_tasks(
+        self,
+        alive_players: list[str]
+    ) -> tuple[list["Agent"], list["Task"], list[str]]:
+        """
+        Build the list of AI agents and tasks for the daytime voting phase.
+
+        Every living non-Tallier player can both vote and be voted for.
+        Creates one `Task` per player prompting them to select exactly one other
+        living player (or themselves) to eliminate.
+
+        Args:
+            alive_players (list[str]): Names of all players still alive.
+
+        Returns:
+            tuple[list[Agent], list[Task], list[str]]:
+                - day_agents: Agents representing each daytime voter.
+                - day_tasks: Tasks assigned to each voter.
+                - targets: List of valid vote targets (all alive except "Tallier").
+        """
         # all alive except Tallier can be targets (and voters)
         voters   = [p for p in alive_players if p != "Tallier"]
         targets  = voters[:]  # everyone (non-Tallier) is a valid target during day
         day_agents, day_tasks = [], []
         allowed = ", ".join(targets)
+
         for p in voters:
             desc = (
                 f"DAY PHASE — You are {p}. "
@@ -398,9 +495,33 @@ class WerewolfCrew():
             t = Task(agent=self.player_agents[p], description=desc, expected_output="Player X", context=[])
             day_agents.append(self.player_agents[p])
             day_tasks.append(t)
+
         return day_agents, day_tasks, targets
 
-    def run_day_phase_collect(self, alive_players: list[str]):
+
+    def run_day_phase_collect(
+        self,
+        alive_players: list[str]
+    ) -> dict:
+        """
+        Execute the full daytime voting phase: build tasks, run them, collect votes, and compute elimination.
+
+        1. Calls `build_day_vote_tasks` to create voting tasks for all alive players (except Tallier).
+        2. Runs each task in sequence, adding prior votes to the task description so later voters know earlier choices.
+        3. Uses `_compute_elimination` to determine the player eliminated.
+
+        Args:
+            alive_players (list[str]): Names of all players still alive.
+
+        Returns:
+            dict:
+                {
+                    "votes": list[dict[str, str]],
+                        Each element is {"voter": <player_name>, "vote": <target_name>}.
+                    "day_elim": str
+                        The player eliminated during the day (empty string if no valid votes).
+                }
+        """
         day_agents, day_tasks, targets = self.build_day_vote_tasks(alive_players)
 
         # bookkeeping (optional)
@@ -411,14 +532,13 @@ class WerewolfCrew():
         for task in day_tasks:
             previous_votes = "Players previously voted like so: " + str(votes)
 
-            # Add the previous votes to the task description, so each player knows what each previous player voted for
-            # This will reset upon the beginning of each new round thanks to the build_tasks functions
+            # Add the previous votes to the task description so each player sees earlier choices.
+            # This resets each new round thanks to the build_tasks functions.
             task.description = task.description + previous_votes
             raw = self._run_task_isolated(task)
             chosen = self._extract_vote(raw) or ""
             votes.append({"voter": task.agent.role, "vote": chosen})
 
-        print("Day votes: ", votes)
+        print("Day votes:", votes)
         day_elim = self._compute_elimination(targets, [v["vote"] for v in votes])
         return {"votes": votes, "day_elim": day_elim}
-
