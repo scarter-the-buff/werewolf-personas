@@ -593,27 +593,41 @@ class WerewolfGame:
         self.crew = self.gameCrew.crew()
 
     def update_state_from_transcript(self, transcript):
+        """
+        Parse an elimination transcript from the previous round and update the simulation state.
+
+        This method reads the transcript (produced by earlier day/night vote phases),
+        determines which players were eliminated during the day and night, and updates
+        the internal bookkeeping:
+
+        - Marks eliminated players in `self.eliminated`.
+        - Removes them from `self.current_players` so they no longer participate in future rounds.
+
+        Args:
+            transcript: Raw transcript object or string containing elimination information.
+                Must be parsable by `self.parse_elimination` to extract `day_elim` and `night_elim`.
+
+        Side Effects:
+            - Mutates `self.eliminated` by adding the players eliminated this round.
+            - Mutates `self.current_players` to exclude newly eliminated players.
+            - Prints debug information about the parsing and updated state.
+        """
         # TODO: Parse the new type of transcript here.
 
         day_eliminated_player = self.parse_elimination(transcript)["day_elim"]
         night_eliminated_player = self.parse_elimination(transcript)["night_elim"]
 
-
         print("PARSING TRANSCRIPT: ")
-
-        print("Day Eliminated Player: ", day_eliminated_player)
-        print("Night Eliminated Player: ", night_eliminated_player)
-
+        print("Day Eliminated Player:", day_eliminated_player)
+        print("Night Eliminated Player:", night_eliminated_player)
 
         self.eliminated[day_eliminated_player] = True
         self.eliminated[night_eliminated_player] = True
 
         # Remove eliminated players from playerlist
-        print("Self.players before elimination calculation: ", self.players)
-        print("Players eliminated: ", self.eliminated)
+        print("Self.players before elimination calculation:", self.players)
+        print("Players eliminated:", self.eliminated)
         self.current_players = {p: role for p, role in self.players.items() if p not in self.eliminated}
-
-
 
         print("self.current_players after elimination calculation:", self.current_players)
  
@@ -655,71 +669,115 @@ class WerewolfGame:
 
     
     def play_round_with_night(self):
-            start_time = time.perf_counter()
+        """
+        Play one full game round consisting of a night phase and a day phase.
 
-            # -------- NIGHT --------
-            alive_players = [p for p in self.current_players.keys()]
-            night = self.gameCrew.run_night_phase_collect(alive_players, self.current_players)
+        This method drives the core turn loop of the game:
+
+        1. **Night Phase**
+        - Calls `gameCrew.run_night_phase_collect` for all currently alive players.
+        - Eliminates the player chosen by werewolves, if any.
+        - Immediately checks if the game has ended after the night kill.
+
+        2. **Day Phase**
+        - Runs `gameCrew.run_day_phase_collect` for the remaining alive players.
+        - Eliminates the player voted out during the day.
+        - Checks again for game end conditions.
+
+        3. **Persistence**
+        - Builds a combined round summary (JSON-like dict) containing:
+            - `"night_elim"`: player killed at night (or empty string).
+            - `"day_elim"`: player killed during the day (or empty string).
+            - `"night_votes"` / `"day_votes"`: raw vote records for each phase.
+            - `"remaining"`: list of players still alive (excluding `"Tallier"`).
+        - Saves this summary to `memories/` as a `.json` file and to
+            `transcripts/` as a `.txt` file with timing information.
+        - Appends the summary to `self.transcripts` and increments `self.round_number`.
+
+        Game-over detection is performed after both phases by calling
+        `check_game_over()` and, if true, sets `self.game_flag` to False
+        and calls `do_game_over()`.
+
+        Returns:
+            dict: Combined round summary with keys:
+                - `"transcript"` (str): Placeholder (empty).
+                - `"night_elim"` (str): Player name eliminated at night, or "".
+                - `"day_elim"` (str): Player name eliminated during the day, or "".
+                - `"night_votes"` (list[dict]): Vote records from the night phase.
+                - `"day_votes"` (list[dict]): Vote records from the day phase.
+                - `"remaining"` (list[str]): Players still alive (excluding Tallier).
+
+        Side Effects:
+            - Mutates `self.eliminated` and `self.current_players`.
+            - Writes JSON and text files under `memories/` and `transcripts/`.
+            - Prints debug/logging information.
+            - Updates `self.transcripts`, `self.round_number`, and `self.game_flag`.
+        """
+        start_time = time.perf_counter()
+
+        # -------- NIGHT --------
+        alive_players = [p for p in self.current_players.keys()]
+        night = self.gameCrew.run_night_phase_collect(alive_players, self.current_players)
 
 
-            night_elim = night["night_elim"] or ""
-            if night_elim and night_elim in self.current_players and night_elim != "Tallier":
-                self.eliminated[night_elim] = True
-                self.current_players = {p: role for p, role in self.players.items() if p not in self.eliminated}
+        night_elim = night["night_elim"] or ""
+        if night_elim and night_elim in self.current_players and night_elim != "Tallier":
+            self.eliminated[night_elim] = True
+            self.current_players = {p: role for p, role in self.players.items() if p not in self.eliminated}
+        
+        # The last villager could have been eliminated during this night phase, so once the players are eliminated we check for game over
+        if self.check_game_over():
+            print("Game Over.")
+            self.game_flag = False
+            self.do_game_over()
+            return
             
-            # The last villager could have been eliminated during this night phase, so once the players are eliminated we check for game over
-            if self.check_game_over():
-                print("Game Over.")
-                self.game_flag = False
-                self.do_game_over()
-                return
-                
 
-            # -------- DAY ----------
-            alive_players_after_night = [p for p in self.current_players.keys()]
-            day = self.gameCrew.run_day_phase_collect(alive_players_after_night)
+        # -------- DAY ----------
+        alive_players_after_night = [p for p in self.current_players.keys()]
+        day = self.gameCrew.run_day_phase_collect(alive_players_after_night)
 
 
-            day_elim = day["day_elim"] or ""
-            if day_elim and day_elim in self.current_players and day_elim != "Tallier":
-                self.eliminated[day_elim] = True
-                self.current_players = {p: role for p, role in self.players.items() if p not in self.eliminated}
+        day_elim = day["day_elim"] or ""
+        if day_elim and day_elim in self.current_players and day_elim != "Tallier":
+            self.eliminated[day_elim] = True
+            self.current_players = {p: role for p, role in self.players.items() if p not in self.eliminated}
 
-            # Check for game over
-            if self.check_game_over():
-                print("Game Over.")
-                self.game_flag = False
-                self.do_game_over()
-                return
-                
+        # Check for game over
+        if self.check_game_over():
+            print("Game Over.")
+            self.game_flag = False
+            self.do_game_over()
+            return
+            
 
-            # Build a combined JSON you can still persist (mirrors your previous structure)
-            combined = {
-                "transcript": "",  # no longer useful; agents just output names
-                "night_elim": night_elim,
-                "day_elim": day_elim,
-                "night_votes": night["votes"],
-                "day_votes": day["votes"],
-                "remaining": [p for p in self.current_players.keys() if p != "Tallier"]
-            }
+        # Build a combined JSON you can still persist (mirrors your previous structure)
+        combined = {
+            "transcript": "",  # no longer useful; agents just output names
+            "night_elim": night_elim,
+            "day_elim": day_elim,
+            "night_votes": night["votes"],
+            "day_votes": day["votes"],
+            "remaining": [p for p in self.current_players.keys() if p != "Tallier"]
+        }
 
-            # TODO: Comment over 
+        # TODO: Comment over 
 
-            timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-            os.makedirs("memories", exist_ok=True)
-            with open(f"memories/{timestamp}.json", "w", encoding="utf-8") as f:
-                json.dump(combined, f, ensure_ascii=False, indent=4)
+        timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+        os.makedirs("memories", exist_ok=True)
+        with open(f"memories/{timestamp}.json", "w", encoding="utf-8") as f:
+            json.dump(combined, f, ensure_ascii=False, indent=4)
 
-            end_time = time.perf_counter()
-            execution_time = end_time - start_time
-            os.makedirs("transcripts", exist_ok=True)
-            with open(f"transcripts/{timestamp}_round_{self.round_number+1}.txt", "w", encoding="utf-8") as f:
-                f.write(json.dumps(combined, ensure_ascii=False, indent=2))
-                f.write(f"\n\nRound Execution Time: {execution_time:.6f} seconds\n")
+        end_time = time.perf_counter()
+        execution_time = end_time - start_time
+        os.makedirs("transcripts", exist_ok=True)
+        with open(f"transcripts/{timestamp}_round_{self.round_number+1}.txt", "w", encoding="utf-8") as f:
+            f.write(json.dumps(combined, ensure_ascii=False, indent=2))
+            f.write(f"\n\nRound Execution Time: {execution_time:.6f} seconds\n")
 
-            self.transcripts.append(json.dumps(combined))
-            self.round_number += 1
-            return combined
+        self.transcripts.append(json.dumps(combined))
+        self.round_number += 1
+        return combined
 
 
     def log_game_over(self, winning_team, num_villagers, num_werewolves):
@@ -830,6 +888,36 @@ class WerewolfGame:
                 return False
 
 def play_game():
+    """
+    Run a full Werewolf game session from start to finish.
+
+    This function is the high-level game loop:
+
+    1. **Reset State**
+    - Clears any leftover vote JSON files from previous failed or incomplete runs
+        using `clear_votes_func("night")` and `clear_votes_func("day")`.
+
+    2. **Initialize Game**
+    - Creates a `WerewolfGame` instance using the current global settings
+        (`curr_setting` and `curr_setting_name`).
+    - Sets `game.game_flag` to `True` to indicate an active game.
+
+    3. **Main Loop**
+    - Iterates through a number of rounds equal to the initial number of agents minus one.
+    - For each round:
+        - Calls `game.play_round_with_night()` to execute one night + day cycle.
+        - Prints round status and checks for game-over conditions using `game.check_game_over()`.
+        - If the game ends (`game_flag` becomes `False`), the loop breaks early.
+
+    Side Effects:
+        - Clears stored vote data from disk.
+        - Instantiates and mutates a `WerewolfGame` object (`game_flag`, players, transcripts, etc.).
+        - Prints debug and progress information to stdout.
+        - Runs the full elimination and persistence logic inside each round.
+
+    Returns:
+        None
+    """
 
     # Start by clearing the JSON memory, in case the last game failed to finish
 
